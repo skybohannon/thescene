@@ -4,23 +4,13 @@ Reconstructed from the episodes themselves: on-screen text (IRC, IM, FTP and app
 
 **Coverage:** complete — all 20 episodes include both the on-screen text and the spoken narration, phone calls and dialogue.
 
-**Naming note.** The group's channel is **#CPX** (rendered `#C-P-X` in episode 3) on the network *Linknet* for episodes 1–7. Episode 8 shows both `#cpx` and `#DUST` in the same session, and from episode 9 onward the channel is **#DUST**, on *DustNet* — so the rename happens at the midpoint of the season, not at episode 13.
-
-Drosan is **Brian Sandro** — the name is typed into a Gmail sign-in field in episode 2 and appears as `brian.sandro@gmail.com` in an email To field in episode 6. teflon is **Edward G. Koenig**; trooper is **Jodi**. His girlfriend is Melissa.
-
-**A note on handles.** Drosan runs at least three identities, and they are not as cleanly divided as they first appear:
-
-- **BrianSan** on ICQ (UIN visible in the window), which is how **LuckyChi2203** reaches him from episode 1.
-- **BrianSan333** on AIM, for Melissa, Todd — and, from episode 9, Dana, and in episodes 12 and 13 teflon's back channel.
-- **dro_5544** on AIM, for trooper in episode 7 and Dana in episode 8.
-
-The rule is not "personal versus scene." It is that the buyer gets a wholly separate network, and everyone else drifts between the two AIM names as the season goes on — which is itself the compartmentalization failing.
+Three of the handles have real names behind them, all of which turn up in on-screen text: Drosan is **Brian Sandro**, teflon is **Edward G. Koenig**, and trooper is **Jodi**. Character notes and a list of everyone's screen names are at the end.
 
 ---
 
 ## Episode 1 — "the package came" *(POV: Drosan)*
 
-**Narration:** the series opens by explaining the world it takes place in. Hundreds of millions of people download films, music and games without any idea where the files come from. Above all that traffic sits a hidden infrastructure built for one purpose — acquiring content and moving it outward — where identities are guarded, access is currency and deals are brokered between people who have never met. The ones who live there call it the scene.
+**Narration:** the series opens by explaining the world it takes place in. More than two hundred million people worldwide download music, movies, television shows and games, and almost none of them know where any of it comes from. Above that traffic sits a hidden infrastructure built for one purpose — acquiring content and moving it outward — where identities are guarded, access is currency and deals are brokered between people who have never met. The ones who live there call it the scene.
 
 Drosan comes home from a shift at a restaurant, thirty-seven dollars richer and smelling of clam sauce, to find that the package has arrived: a screener of *Alexander*. He tells teflon first, before the disc is even in the drive. The two of them founded CPX about four years earlier and built it into one of the top groups, specializing in releases that look like DVDs rather than the blurry junk most people expect online — and reaching millions of viewers inside a week. pyr0, their encoder for two years, is fast and almost never makes a mistake, which matters because the finish line is shared with every rival group working the same title.
 
@@ -30,7 +20,7 @@ The handoff to pyr0 is given in full: `here's the IP.. 63.247.91.186`, `user: en
 
 **teflon's real IP is on screen in this episode and never again.** His private query window is titled `teflon (~Lexicon@68-175-123-239.nyc.rr.com)` — a Road Runner cable connection in New York City. From episode 3 onward the members appear behind a shared bouncer (`cpx@…nfs38635.ma.chatchannel.org`), so this is the one frame in the series where the thing episode 7's narration calls "your soul" is simply legible. Episode 17 will spend a paragraph on how hard the Bureau found it to get that address.
 
-Four windows complicate the victory. Todd — **Tremor2212** — IMs **BrianSan333** and asks whether he and Melissa are coming out for drinks, tells him to blow off whatever he's doing, and jokes that he'll put on his leopard-skin thong because it's Melissa's favorite. Drosan plays along — *go for it stud* — pleads classwork, agrees to the weekend instead, and Todd signs off saying he'll tell him about it in Stats tomorrow; they are in the same statistics class. A phone call from Melissa gets the same treatment — he has to finish something.
+Three other windows complicate the victory. Todd — **Tremor2212** — IMs **BrianSan333** and asks whether he and Melissa are coming out for drinks, tells him to blow off whatever he's doing, and jokes that he'll put on his leopard-skin thong because it's Melissa's favorite. Drosan plays along — *go for it stud* — pleads classwork, agrees to the weekend instead, and Todd signs off saying he'll tell him about it in Stats tomorrow; they are in the same statistics class. A phone call from Melissa gets the same treatment — he has to finish something.
 
 He is also reading the news about himself. Slashdot carries **"MPAA Sues Movie-Swappers"**, and he follows the link out to an MSNBC story, "Hollywood sues alleged file swappers," timestamped **3:54 p.m. ET, Nov. 16, 2004** — the earliest date the series fixes, and the environment the whole season takes place in, delivered as an idle browser tab.
 
@@ -39,19 +29,23 @@ He is also reading the news about himself. Slashdot carries **"MPAA Sues Movie-S
 > **LuckyChi2203:** Brian, are you there?
 > **BrianSan:** yes, hold on a sec
 
-So the buyer exists, has his real first name, and is waiting on him in the very first episode — before the narration's line about never having thought of himself as the sort of person who would sell. The episode's closing confession is not a foreshadowing. It is a description of a relationship the audience has already watched him tend.
+So the buyer already exists, already knows him as Brian, and is waiting on him in the very first episode — before the narration's line about never having thought of himself as the sort of person who would sell. The episode's closing confession is not a foreshadowing. It is a description of a relationship the audience has already watched him tend.
 
-**And in a fourth window, the motive is typed out.** He opens Gmail and composes a message to `financedept@nyu.edu`, subject **"next semester payment"**, writing it in front of the viewer sentence by sentence, deleting and restarting:
+**And in a third, the motive is typed out.** He opens Gmail and composes a message to `financedept@nyu.edu`, subject **"next semester payment"**, writing it in front of the viewer sentence by sentence, deleting and restarting:
 
-> Dear Ms. Vistrom
+> Dear Ms. Wistrom
 >
 > As you know, this semester has been difficult for me. My father recently suffered a mild stroke. Although he has some health benefits, he and my mother no longer have the resources to pay a portion of my tuition.
 >
 > I was hoping the school would agree to extend my financial aid package for next semester. I know it's late to be asking this, but the situation has come on suddenly.
 >
 > Thank you in advance for your help.
+>
+> Brian Sandro
 
-It is the most ordinary document in the series and the one everything else hangs on. The narration's closing line about money being like food is not a metaphor the episode reaches for — it is a caption for a begging letter to a university bursar that the audience has just watched him write. His desktop, meanwhile, is a student's: World of Warcraft, iTunes, DVD Decrypter.
+He signs it with his full name, which means the first episode of the series already has it on screen — before the Gmail sign-in field in episode 2 and the email header in episode 6.
+
+It is the most ordinary document in the series and the one everything else hangs on. The narration's closing line about money being like food is not a metaphor the episode reaches for — it is a caption for a begging letter to a university finance office that the audience has just watched him write. His desktop, meanwhile, is a student's: World of Warcraft, iTunes, DVD Decrypter.
 
 And the narration lays the track the whole season runs on: there is one unwritten rule, which is that you never sell pirated material for money. He never thought of himself as the sort of person who would, or that he could even be tempted. But money, he says, is a lot like food — you see the world very differently when your supply is threatened.
 
@@ -61,13 +55,13 @@ And the narration lays the track the whole season runs on: there is one unwritte
 
 The release in hand is *The Incredibles*, an eight-gigabyte file that pyr0 and the others have spent seven hours preparing. The episode is a tour of the last mile of a release. slipknot writes the NFO, the text file packaged with every release, which Drosan explains is read not only by other sceners but by the RIAA, the MPAA, federal investigators and, increasingly, reporters. teflon proofreads it and signs off. cOda checks the sites for a dupe and finds none, meaning the way is clear.
 
-Underneath, Drosan is behaving strangely. He is normally the one pushing everyone to move faster; today he is stalling. He's short with cOda, and when teflon asks privately what's wrong he says only that it's "dad stuff." A phone call with his mother fills that in: his father is in hospital, there's an argument about getting him a private room, and someone needs to chase the doctors and work out what the health plan covers — a job being pushed onto an uncle who is a chiropractor and understands the paperwork.
+Underneath, Drosan is behaving strangely. He is normally the one pushing everyone to move faster; today he is stalling. He's short with cOda, and when teflon asks privately what's wrong he says only that it's "dad stuff." A phone call with his mother fills that in: his father is in the hospital, there's an argument about getting him a private room, and someone needs to chase the doctors and work out what the health plan covers — a job being pushed onto an uncle who is a chiropractor and understands the paperwork.
 
 **The screen supplies the real reason he is stalling.** A `LuckyChi2203` window is open through the whole sequence, messages alternating at 6:10 and 6:11 in the morning, directly alongside cOda's *helllooooo?* and *dude, c'mon, we gotta get this thing out* and *c'mon dro, what's up already?*. The group reads it as a man who won't answer. He is answering — just not them.
 
-The Melissa window is not small talk either. She asks whether he slept and what his first class is, and then: *Don't tell me you're chatting with people.* He tells her his uncle George was calling. It is a flat lie, delivered in the same minute as the buyer's window, and she takes it and moves on — *I'm just being selfish, I like talking to you* — and they settle on eight o'clock, and she says she loves him, and he says *me too*. The episode's thesis about two lives is demonstrated here rather than narrated: one window has the man he is, the next has the man she thinks she's talking to.
+The Melissa window is not small talk either. She asks whether he slept and what his first class is, and then: *Don't tell me you're chatting with people.* He tells her his uncle George was calling. It is a flat lie, delivered in the same minute as the buyer's window, and she takes it and moves on — *I'm just being selfish*, she says, and he answers *i like talking to you* — and they settle on eight o'clock, and she says she loves him, and he says *me too*. The episode's thesis about two lives is demonstrated here rather than narrated: one window has the man he is, the next has the man she thinks she's talking to.
 
-His full name is on screen in this episode, incidentally, a Gmail sign-in page with the username field filled in: **brian.sandro**. The NFO he proofreads is named too — `incredibles.xvid.dvdrip-cpx.nfo`, open in Notepad — and between tasks he sits on IMDb's page for the film and on Boing Boing.
+His full name is on screen again, incidentally, on a Gmail sign-in page with the username field filled in: **brian.sandro**. The NFO teflon proofreads is named too — `incredibles.xvid.dvdrip-cpx.nfo`, open in Notepad — and between tasks Drosan sits on IMDb's page for the film and on Boing Boing.
 
 Between the two lives, the episode leaves a timestamp on screen: the Boing Boing masthead reads **Thursday, December 9, 2004**.
 
@@ -102,7 +96,7 @@ teflon's method is log analysis and his conclusion is wrong, which is the shape 
 
 He apologizes twice to the man who is ruining him. Episode 13 reveals there is no operation at all — Lucky Chi is teflon, improvising a bootlegger's broken English — which makes *i no like your tone* and *your security not my responsibility* a performance teflon is giving to a friend who is begging him for help, in order to watch him beg.
 
-**And then he leaves.** Melissa messages him mid-crisis: *i have a problem.* He answers *i know how you feel* before she has said what it is — the line the season keeps handing him, a man who has stopped listening — and she tells him her roommates are gone, she's alone and naked and has nobody to keep her company. *um. YES!* He tells the channel *listen guys.. i gotta take off*, says he'll have his sidekick so they should mail him, and walks out on pyr0 and cOda in the middle of the worst thing that has happened to the group, to go across town. It is the first time the show shows him choosing anything over the machine, and it is the one night the machine needed him.
+**And then he leaves.** Melissa messages him mid-crisis: *i have a problem.* He answers *i know how you feel* before she has said what it is — the line the season keeps handing him, a man who has stopped listening — and she tells him her roommates are gone, she's alone and naked and has nobody to keep her company. *um. YES!* He tells the channel *listen guys.. i gotta take off*, says he'll have his sidekick so they should mail him, and walks out on pyr0 and cOda in the middle of the worst thing that has happened to the group, to go across town. It is the one time all season he chooses a person over the machine, and it is the one night the machine needed him.
 
 By the end, slipknot's contact reports that D-pix's copy came from someone inside the scene, and the group's suspicion turns inward for the first time.
 
@@ -110,7 +104,7 @@ By the end, slipknot's contact reports that D-pix's copy came from someone insid
 
 **Narration:** a recurring dream — walking through a crowd, safe because nobody knows who he is, any face potentially cOda or pyr0. He spots cOda, they move toward each other, and he realizes he has no idea what cOda looks like. Then the street turns: everyone is staring, everyone knows who he is, and everyone knows what he's done.
 
-The woman in the room with him is **Dana**, not Melissa — the episode's credit card bills Joe Testa "with Laura Minarich," the actress playing danaburke123, and she is blonde where Melissa is dark. That puts Dana in the story five episodes before she starts chasing him in text. She stands behind his chair with a hand on his shoulder while **LuckyChi2203** messages him — the bootlegger opening by addressing him as "brian," his real name, on screen, in front of a woman he is keeping at arm's length. She asks who he's talking to; he says nobody; she says he's keeping secrets; he agrees that he's a man of many secrets. Later she asks whether he's still coming home with her and he begs off with a physics test.
+The woman in the room with him is **Dana**, not Melissa — the episode's credits bill Joe Testa "with Laura Minarich," and she is blonde where Melissa is dark. (The credit is the only textual support; the episode never names her on screen, so the identification rests on the casting and on her behaving exactly as danaburke123 does later.) That puts Dana in the story four episodes before her first IM window. She stands behind his chair with a hand on his shoulder while **LuckyChi2203** messages him — the bootlegger opening by addressing him as "brian," his real name, on screen, in front of a woman he is keeping at arm's length. She asks who he's talking to; he says nobody; she says he's keeping secrets; he agrees that he's a man of many secrets. Later she asks whether he's still coming home with her and he begs off with a physics test.
 
 **What is actually in that window is the buyer running out of patience.** Lucky Chi has noticed that CPX put out a release he didn't get:
 
@@ -136,7 +130,7 @@ The trap is built out of trooper's own indignation about the early *Exorcist* re
 
 **Narration — the episode that rewrites the season:** teflon started on BBSs in the mid-80s on an Amiga with a 1200 baud modem, worked onto IRC and Usenet, and at 37 is considered an old man by the scene. None of that experience prepared him for what was coming; he never saw it coming at all.
 
-Two phone calls put him in a very different light from the man in the chat window. The first is with Cara, about a weekend he'd promised and an "agreement" he can't honor, and about Jimmy — he'll explain it to him himself tomorrow. The second is a message left for Larry: **"it's Ed"** — he's had another note from "our friends," has to go see them again in the morning, and is asking whether there's anything at all that can be done, because he could lose his job. On his screen, an IM from **burroughs485** confirms the appointment for 9 AM sharp; teflon's own screen name here is `monticello235`, one digit off the `monticello222@yahoo.com` that appears on the email in episode 6 — the same handle stem across two services, which is exactly the habit that hangs him. Then the man himself arrives at the door unannounced, a day early, making small talk about the dog. His face doesn't register as important yet: it is the same man who narrates episode 19 from cOda's keyboard, and the agent the briefing room calls Burroughs in episode 17 — the one who spent six months posing as a newbie to catch him.
+Two phone calls put him in a very different light from the man in the chat window. The first is with Cara, about a weekend he'd promised and an "agreement" he can't honor, and about Jimmy — he'll explain it to him himself tomorrow. The second is a message left for Larry: **"it's Ed"** — he's had another note from "our friends," has to go see them again in the morning, and is asking whether there's anything at all that can be done, because he could lose his job. On his screen, an IM from **burroughs485** confirms the appointment for 9 AM sharp; teflon's own screen name here is `monticello235`, one digit off the `monticello222@yahoo.com` that appears on the email in episode 6 — the same handle stem across two services, which is exactly the habit that hangs him. Then the man himself arrives at the door unannounced, a day early, making small talk about the dog. His face doesn't register as important yet: it belongs to the agent the briefing room calls Burroughs in episode 17 — the one who spent six months posing as a newbie kid to catch him — and it is the face that turns up again at cOda's keyboard in episode 19.
 
 **The job is on screen too, and it is pitiful.** While he waits on the drop he opens Gmail and writes to `jcarantha@mtrailindustries.com` — Joan — subject **"Re: tomorrow morning"**:
 
@@ -144,7 +138,7 @@ Two phone calls put him in a very different light from the man in the chat windo
 >
 > I hate to do this again — especially at the last minute — but I'm afraid I'll be late tomorrow. I've mailed Rudy, and Jim has everything he needs for the status meeting. I'll try to get there by 11am. Thanks for understanding, and sorry for the inconvenience.
 
-He sends it at 19:08, between two lines of cOda complaining in the channel that the package is taking too long. "I hate to do this *again*" is the whole characterization in one adverb: a man in his late thirties burning his standing at work to sit up waiting for a screener, in a room where every desktop icon is a document with somebody else's surname on it — `Hvichner_ltr.doc`, `JMartin_ltr.doc`, `Knapp3_ltr.doc`, `chat_log.txt`. Episode 17's federal profile of him — failing marriage, wrecked house, a job going nowhere, revered only online — is not a revelation the season saves for the end. It is visible here, twelve episodes early, in an apology to a woman named Joan.
+He sends it at 19:08, between two lines of cOda complaining in the channel that the package is taking too long. "I hate to do this *again*" is the whole characterization in one adverb: a man in his late thirties burning his standing at work to sit up waiting for a screener, in a room where every desktop icon is a document with somebody else's surname on it — `Hvichner_ltr.doc`, `JMartin_ltr.doc`, `Knapp3_ltr.doc`. Episode 17's federal profile of him — an ex-wife and alimony, a wrecked house, a job going nowhere, revered only online — is not a revelation the season saves for the end. It is visible here, twelve episodes early, in an apology to a woman named Joan.
 
 He is also, on screen, reading the directions to the meeting. His browser title is `Gmail - location details`, and the body is plain: *From where you are, take I-95 North and get off at the Downtown Expressway. Take the expressway to South Addison Street exit…* A man printing out driving directions to his own handling session.
 
@@ -165,11 +159,11 @@ He is also, on screen, reading the directions to the meeting. His browser title 
 
 Read that against the email in the next episode and it stops being a mystery at all. teflon's mail says "some guys in my group have become a little uncomfortable with the amount of stuff you've been downloading" — which is slipknot's sentence, nearly verbatim, plus slipknot's complaint. He is not planting anything; he is reporting a meeting. cOda's deduction in episode 6 that the mail must be deliberate is a brilliant piece of reasoning about a man who has simply been careless once.
 
-Note too that the group says "the Asians" out loud here, in episode 5, and it is **Drosan** who says it — which complicates slipknot's objection two episodes later that teflon would never believe Drosan would sell to Asian buyers. The theory has been in the room since February.
+Note too that the group says "the Asians" out loud here, in episode 5, and it is **Drosan** who says it. The theory that someone sold *The Exorcist* to Asian buyers has been in the room since February, volunteered by the man who did it, as a thing nobody can prove.
 
 **Privately, teflon runs him.** A new package is inbound, *Are We There Yet?*; in the channel he tells Drosan to make it flawless, and in the query he tells him to sell the rip. Drosan explains the stroke and the money; teflon is contemptuous — *you are a fucking liar, your word is worth shit* — and names both earlier sales: it was fine for *The Incredibles* and for *The Exorcist*, so why is it a bad idea now? The terms are cold: $300, which teflon calls chump change, with no direct contact between teflon and the buyer, so Drosan carries the money and teflon's hands stay clean.
 
-Drosan asks him the question the audience wants asked — *why are you doing this? it can't be the money?* — and gets *just shut up and get the fucking VOBs.* The episode's answer is the one the viewer has been watching all along: a man with a handler appointment at nine the next morning, who has just written to his boss for the second time this month.
+Drosan asks him the question the audience wants asked — *why are you doing this? it can't be the money?* — and gets *just shut up and get the fucking VOBs.* The episode's answer is the one the viewer has been watching all along: a man with a handler appointment at nine the next morning, who has just written to his boss to say — *again* — that he'll be late.
 
 And then, after all of it, the exchange closes on something almost unbearable given what the audience learns later:
 
@@ -196,7 +190,7 @@ The plot: trooper has *Hitch* burning for morning delivery, then mentions, almos
 
 Two things are sitting in that header. The first is the name: **ed koenig** — teflon's real name, displayed in the From field of an email he sent from his own Yahoo account to someone outside his group. In episode 17 the Bureau explains how they finally caught the number two man in CPX after six months of failing to get his IP address: *eventually he sent an email*, and a court order to Yahoo produced it. This is that email, shown to the audience eleven episodes before they are told what it means, in an episode that is nominally about somebody else.
 
-The second is what the group does with it. trooper forwards it — **"Fwd: access issue"** — to `brian.sandro@gmail.com`, which puts Drosan's full name on screen for anyone reading the To field, and ties the scene handle **Drosan**, the AIM name **BrianSan333** he uses with Melissa and Todd, and the **dro_5544** he uses with everyone else, to one person.
+The second is what the group does with it. trooper forwards it — **"Fwd: access issue"** — to `brian.sandro@gmail.com`, which ties the scene handle **Drosan** to the name on the tuition letter in episode 1 and the Gmail sign-in field in episode 2, for anyone reading the To field.
 
 In the channel the email dominates, and cOda's read lands: teflon is fastidious about security, email is insecure, and putting an accusation in writing to an outside source is so out of character that it looks deliberate. Suspicion rotates onto teflon. They are right about the significance and wrong about the reason — the mail is not a plant, it is a slip, and the only party it burns is teflon himself.
 
@@ -208,7 +202,13 @@ The episode opens on ordinary craft talk, which is part of its trick. A release 
 
 Then teflon logs on, and pyr0 panics in a way that gives the whole game away. The channel is no longer a group of friends talking. It's a performance, and teflon is the audience.
 
-In private, cOda is coming apart: he can't do this, teflon will never buy it, and they should all have vanished the moment they knew. Drosan holds him together with the logic of the operation — they had no way of knowing how much the Bureau had, and disappearing would have confirmed everything at once. Their working theory is stated plainly here: teflon has been caught, and is being run against them. slipknot's objection is a good one, that teflon would never believe Drosan would sell to Asian buyers. Drosan's answer is the cold heart of the plan: teflon isn't the audience either. The feds are, and the PayPal trail hands them a name, an address and a target pointing away from the group entirely.
+In private, cOda is coming apart: he can't do this, teflon will never buy it, and they should all have vanished the moment they knew. Drosan holds him together with the logic of the operation — they had no way of knowing how much the Bureau had, and disappearing would have confirmed everything at once. Their working theory is stated plainly here: teflon has been caught, and is being run against them.
+
+slipknot gets cold feet and raises the sharpest objection anyone makes:
+
+> **slipknot:** i'm getting cold feet … i agree it's a smart plan … but i still say tef will not go for it … he would _never_ sell movies to asian pirates
+
+Which is, in its way, the most touching line in the episode — slipknot's model of teflon is still a man with principles, and the plan depends on him having none. Drosan's answer is the cold heart of it: teflon isn't the audience anyway. The feds are, and the PayPal trail hands them a name, an address and a target pointing away from the group entirely.
 
 **trooper is in on it, and the episode says so in six lines.** In a small IM window behind the others, `troopercamy` and `dro_5544` are having a conversation nobody in the channel can see:
 
@@ -231,7 +231,7 @@ The group's situation is deteriorating in public view. There's no new source, th
 
 Drosan reads that warmth exactly as what it is. He tells cOda the operation is moving and will be finished tonight, and explains teflon's behavior as instructions from a handler: stay close, keep him talking, set up an arrest. The PayPal information has already gone across, so the Bureau has what it thinks it wants. slipknot asks for another day to prepare properly; Drosan refuses, because the entire plan runs on the feds' fear that the group knows it's burned and is about to evaporate.
 
-He also leaves voicemails — one for Todd, one for Melissa — identifying himself as **Brian**, the first time the series puts his real name in his own mouth.
+He also leaves two voicemails. The one for Melissa is *hey, it's me*; the one for Todd opens **"Hey Todd, it's Brian"** — the first time in eight episodes the series puts his real name in his own mouth, and he gives it to his friend rather than his girlfriend.
 
 **The episode opens, before any of that, on the first Dana conversation shown on screen** — and it is a small, exact piece of writing. `danaburke55` IMs `dro_5544` at 19:10, the night of the sting:
 
@@ -246,7 +246,7 @@ He also leaves voicemails — one for Todd, one for Melissa — identifying hims
 > **dro_5544:** that's not what I'm saying
 > **danaburke55:** whatever … alright … we can talk tonight … k. bye
 
-Three episodes before she becomes a problem, the shape of the problem is already complete. She has told Todd they know each other; Drosan is embarrassed that she did and retreats behind a principle about privacy; she hears the retreat accurately and names him — *brian* — to make him answer it; he denies that he is saying the thing he is obviously saying, and she lets it go with *whatever*, and *we can talk tonight*. He has agreed to meet her at eleven, at a bar, on the one night of the season he has told the group will end everything. Note too that he talks to her from `dro_5544`, the handle he uses for the scene, not the `BrianSan333` he uses for Melissa and Todd — she is filed on the wrong side of his life, and he keeps her there.
+One episode before she starts chasing him in earnest, the shape of the problem is already complete. She has told Todd they know each other; Drosan is embarrassed that she did and retreats behind a principle about privacy; she hears the retreat accurately and names him — *brian* — to make him answer it; he denies that he is saying the thing he is obviously saying, and she lets it go with *whatever*, and *we can talk tonight*. He has agreed to meet her at eleven, at a bar, on the one night of the season he has told the group will end everything. Note too which account he uses: `dro_5544`, the one he gives to the scene, rather than the `BrianSan333` that Melissa and Todd have. By episode 9 she has migrated to `BrianSan333` anyway — the compartment does not hold, and she is the one who crosses it.
 
 He then tells teflon he's leaving in the morning to see his father, with no fixed return, which removes him from the board at the critical moment. The episode closes on a staged confrontation in the main channel: cOda raises the rumor that the group is compromised, slipknot confirms it, and Drosan allows himself to be drawn into saying out loud, where teflon can see it, that he believes someone inside is working with the feds.
 
@@ -254,7 +254,7 @@ He then tells teflon he's leaving in the morning to see his father, with no fixe
 
 **Narration:** when he started out, everything was legible, and his success was proof enough that his instincts were sharp. Now he knows better — that everything visible is driven by something that isn't, and that whatever looks solid is made of disparate particles lurking just below the surface. A television plays through much of the episode, running a documentary about unexplained sightings and government secrecy, returning again and again to a line about a man who works for the FBI. It's the episode's joke and its thesis at once.
 
-This is also the first episode whose channel is **#DUST**, on a network called DustNet. The group has renamed itself, quietly, between episodes, and nobody comments on it.
+The group has been renamed. After seven episodes in **#CPX** on Linknet, and an episode 8 that shows both names in one session, the channel here is **#DUST** on DustNet — and nobody comments on it.
 
 slipknot brings the first sighting of what will destroy them. Someone using the nick **gryffin** has been in the TSR site channel asking questions about the group. slipknot goes back, talks to him, and pastes the transcript — *i want to speak to someone…* / *does anyone here know them?* — first to Drosan (*that's whack, who the hell is this guy?*) and then, on his own insistence that the group should be told, to the channel. Nobody has heard of him. trooper says nope, cOda asks what he said, pyr0 says *your mama's called "gryffin"*. It is the last time the group treats him as a joke.
 
@@ -266,7 +266,7 @@ Three personal windows run alongside. **Dana** has been trying to reach him for 
 
 > i've been trying to get a hold of you … if you didn't want to speak with me you should have just said that the other day … sleeping with me isn't serious? i don't buy it … you are being TOTALLY unfair to me … this is such bullshit … we still have a lot to talk about. this isn't the end, brian … fine. **i'll come see you after your shift tonight.** we can talk then
 
-She is not asking. **Melissa** is looking for him too; he tells her he went out to grab a cup of coffee, which is a lie, and she offers to come to him — her professor pushed a deadline, she has the day off, she and suzy could stop by and get a drink at the bar — and he refuses. He is now managing three women's access to the same evening. **Todd** congratulates him about the move — he's moving in with Melissa — asks when the big day is, then asks how Dana took it, adding that getting over him can't be too big a deal.
+She is not asking. **Melissa** is looking for him too; he tells her he went out to grab a cup of coffee, which is a lie, and she offers to come to him — her professor pushed a deadline, she has the day off, she and suzy could stop by and get a drink at the bar — and he refuses. He is managing two women's access to the same evening, and lying to both. **Todd** congratulates him about the move — he's moving in with Melissa — asks when the big day is, then asks how Dana took it, adding that getting over him can't be too big a deal.
 
 The release plot ends on farce: pyr0's ripbox can't RAR the files, the release is stuck, and Drosan calls for plan B.
 
@@ -295,7 +295,7 @@ Then **Melissa** comes in and sits down in his chair, in front of all of it, and
 
 That is the whole of her contact with the thing that is about to end his life: one glance, one shrug from a friend, and she scrolls past it. She is not kept in the dark by his cleverness. She is kept in the dark because the surface of it is boring.
 
-With **suzyxiao** the exchange is halting and intimate and far more explicit than the group's careful talk in the window behind: something happened, suzy didn't mean for it to, *it just kinda did*, neither has done anything like it before, and *for now, it can be our little secret*. Melissa's side is *conflicted, nervous, confused*, an apology for something she said the other day, and the hope that she and Brian have got to a good place. With **Tremor2212** — Todd — it stays light (*he totally dissed me at lunch today*; she tells him Brian is having a tough day, don't be too hard on him) until he asks whether she knows where Brian was that afternoon.
+With **suzyxiao** the exchange is halting and intimate and far more explicit than the group's careful talk in the window behind: something happened, suzy didn't mean for it to, *it just kinda did*, neither has done anything like it before, and *for now, it can be our little secret*. Melissa's side is *conflicted, nervous, confused*, an apology for something she said the other day, and the hope that she and Brian have gotten to a good place. With **Tremor2212** — Todd — it stays light (*he totally dissed me at lunch today*; she tells him Brian is having a tough day, don't be too hard on him) until he asks whether she knows where Brian was that afternoon.
 
 It is the series' cleverest piece of staging. Drosan spends the episode being lied about and lied to in absentia, while the person closest to him sits at his desk keeping secrets of her own, with his unanswered threats glowing on the screen in front of her — and she looks straight at them, asks what they are, and is told it's nothing much.
 
@@ -311,11 +311,11 @@ gryffin drops the pretense: someone in the group was selling, and from his behav
 
 **The other half of the episode** runs in an IM window and is the most frightening stretch in the series. Melissa is at her parents' house, alone; her parents have taken her sister Jackie to Burlington, her father is unwell, and there has already been a break-in during the day — the locks were changed, the police came and said whoever it was may have been frightened off. Now she is hearing noises downstairs. *there's definitely someone in here!!* Drosan talks her through it in real time — stay calm, call 911, get to the bedroom, lock the door, how long since you called, what can you hear, are there neighbors she can ring. She goes quiet for long stretches while he types her name into the silence, and at his most frantic he is typing in capitals; at one point the window simply prints that she has signed off.
 
-**And he opens a third window to get to her another way.** He messages Todd: *hey todd, you there?* … *not so good* … *i was chatting her just now and she's hearing noises downstairs* … *do you have liss' number up at her parents'? i have it written down at home but im not there* … *need to talk to her right away* … *she's up there alone* … *yeah, not working* … *thanks anyway*. Todd's entire contribution is *wow*. It is the only time in the season Drosan asks anyone for help with anything, and it is for a phone number he doesn't have because he isn't at his own apartment.
+**And he opens a third window to get to her another way.** He messages Todd: *hey todd, you there?* … *not so good* … *i was chatting her just now and she's hearing noises downstairs* … *do you have liss' number up at her parents'? i have it written down at home but im not there* … *need to talk to her right away* … *she's up there alone* … *yeah, not working* … *thanks anyway*. Todd's entire contribution is *wow*. He asks for help exactly twice in the season — here, for a phone number he doesn't have because he isn't at his own apartment, and in episode 13, for a way into a stranger's server.
 
-It resolves as a false alarm — the person downstairs was her neighbor letting himself in. She comes back, he asks what happened, tells her she's given him a heart attack, and they say they love each other. He also tells slipknot, mid-argument, exactly why he keeps vanishing: *girlfriend issue, can i get back to you in a few?* … *sorry, back now, i was really sweating it.* The two halves of the episode are not just adjacent; he is narrating one into the other.
+It resolves as a false alarm — the person downstairs was her neighbor letting himself in. She comes back, he asks what happened, tells her she's given him a heart attack, and they say they love each other. He also tells slipknot, mid-argument, exactly why he keeps vanishing: *girlfriend issue, can i get back to you in a few?* … *sorry, back now, i was really sweating it.*
 
-The placement is deliberate. In the same episode gryffin has just told him the people he burned know his name and where he lives, and the narration opens with Drosan saying the last thing he expected was for his actions to hurt someone other than himself. The series never confirms a connection between the break-in and the scene, and there may be none. It puts the two windows side by side and leaves the possibility sitting there — which is also what Drosan is doing while he types.
+The placement is deliberate. gryffin has just told him the people he burned know his name and where he lives, and the narration opens with Drosan saying the last thing he expected was for his actions to hurt someone other than himself. The series never confirms a connection between the break-in and the scene, and there may be none. It puts the two windows side by side and leaves the possibility sitting there — which is also what Drosan is doing while he types.
 
 ## Episode 12 — the inconsistency, and the voice in the other window *(POV: Drosan)*
 
@@ -327,13 +327,13 @@ Then slipknot reports that he has finally spoken to gryffin at length, and the p
 
 He also extracts an admission, procedurally, the way a lawyer would. *Did you know tef was selling?* — *in retrospect.. he made overtures … and it wasn't clear to me … but it was nothing blatant … then, later, this other friend of…* — *and this is when you began to* — *yes.* Then the part Drosan can't answer: *you did not volunteer this. you held it back until i insisted.* Drosan's reply is *bullshit.. i've told you*, which is not a denial of the charge.
 
-**And slipknot ends with a warning that the synopsis of this episode is incomplete without.** *there is one other thing…* — gryffin is adamant about the Asians story; he knows he is just a kid, but he honestly believes that **they have the name and address of someone in our group**; it is possible that he has more; *so you may want to tell 'your friend' to be very careful.* The quotation marks around *your friend* are slipknot's. He does not believe in the friend, and he passes on the threat anyway.
+**And slipknot ends on a warning.** *there is one other thing…* — gryffin is adamant about the Asians story; he knows he is just a kid, but he honestly believes that **they have the name and address of someone in our group**; it is possible that he has more; *so you may want to tell 'your friend' to be very careful.* The quotation marks around *your friend* are slipknot's. He does not believe in the friend, and he passes on the threat anyway.
 
 **And in a window of his own, a stranger under the handle copleyr785 tells Drosan they need to talk.** There's no time, he says. Drosan has a problem. Shut up and listen. You are in trouble, you arrogant fool — how many people in the world know what you just did? Do I have your attention now?
 
 Drosan asks the only question that matters: how do you know my name? The answer is that this man has known his name and his personal details for a long time — and then, quietly, *does that date ring a bell? Haven't you figured it out by now?*
 
-This is where Drosan learns that the buyer he sold to was never a bootlegger. Episode 13 says it in four words; episode 12 is where the floor drops. The man he betrayed his group for, the anonymous Asian mafia contact he congratulated himself on handling carefully, has been teflon the entire time — and teflon has just told him so in the middle of an episode where slipknot is calmly proving, in the next window over, that Drosan's account of events cannot be true.
+This is where Drosan learns that the buyer he sold to was never a bootlegger. Episode 13 puts it in three words; episode 12 is where the floor drops. The man he betrayed his group for, the anonymous Asian mafia contact he congratulated himself on handling carefully, has been teflon the entire time — and teflon has just told him so in the middle of an episode where slipknot is calmly proving, in the next window over, that Drosan's account of events cannot be true.
 
 Note which account teflon uses to do it. `copleyr785` messages **BrianSan333**, the personal AIM name, and when Drosan asks how he knows it the answer is *you gave it to me*. He has no compartment left that teflon isn't already inside.
 
@@ -359,7 +359,7 @@ teflon hands over credentials — `ip: 63.247.91.187`, `user: btr69*73`, `pass: 
 
 So Drosan does what the series has never shown him do before: he breaks into a computer. He downloads the **Metasploit Framework** (`http://metasploit.com/tools/framework-2.4.tar.gz`, 2.5 MB) on screen, and works through it — target lists, payloads, `iis50_webdav_ntdll`, then `msrpc_dcom_ms03_026`, then finally `warftpd_165_user`, the exploit for the FTP daemon itself.
 
-**And he is not alone — the synopsis of this episode is wrong if it says he is.** Under `dro_5544` he pages someone called **chris** (`chOppr998`), who is slow to answer because he's on the phone (*talking to the ole lady, off in a few mins*), and then walks him through the whole thing:
+**And he does not do it alone.** Under `dro_5544` he pages someone called **chris** (`chOppr998`), who is slow to answer because he's on the phone (*talking to the ole lady, off in a few mins*), and then walks him through the whole thing:
 
 > **chOppr998:** OK, you have to pick an exploit and a payload … ping me if you run into probs … **btw, you're not going direct, are you?** … dont be crazy, use one of those shells i gave u
 > **Drosan:** the box is xp running warftpd if it helps … no dice, chris
@@ -388,7 +388,7 @@ Then dopelegger asks about his paper — `JThomas_report2`, or something like th
 
 What he tells the channel is careful and almost true: he *blew a circuit breaker*; fortunately his modem is on a different circuit; he's getting back to the ripbox via laptop; *minor domestic crisis*. The film is named on his screen even if it is never named in the chat — VirtualDub is open on `madagascar_2005_DVDRIP_dust.avi`, and he reports *madagascar is ready, btw* — and the missing RAR turns out to be cOda's upload cutting out, not his. slipknot explains the repair, which he warns is delicate, and the group scrambles.
 
-**pyr0 also runs a third window, which is the exception to a rule the rest of the season keeps.** With a contact called `infrared55a` he is quietly asking around about teflon: *i never spoke to him directly* … *yeah, some guys were saying he was selling* … *but its hard to know what's reality* … *to me the guy was always a bit of a…* … *not surprised that he got caught actually* … *the scene's become a dangerous place.* He reports it back as what it is — *he thinks the guy was afill'd with tsr, but it's all 2nd hand information*. The group's least serious member is the one doing sourcing hygiene on a rumor.
+**pyr0 also runs a third window, and it is the one thing in the episode he does well.** With a contact called `infrared55a` he is quietly asking around about teflon: *i never spoke to him directly* … *yeah, some guys were saying he was selling* … *but its hard to know what's reality* … *to me the guy was always a bit of a…* … *not surprised that he got caught actually* … *the scene's become a dangerous place.* He reports it back as what it is — *he thinks the guy was afill'd with tsr, but it's all 2nd hand information*. The group's least serious member is the one doing sourcing hygiene on a rumor.
 
 **And the episode contains the season's second-best piece of detective work, buried under the comedy.** slipknot spends much of it working on pyr0, who doesn't want to hear it:
 
@@ -429,7 +429,7 @@ They convene deliberately while Drosan is at class. trooper objects on principle
 
 "Kiste" is literally a crate — scene slang for the machine, the same box the group argues about funding in episode 10. Their server is failing and they can't find a replacement, which is the entire leverage gryffin has over them.
 
-A denser pass recovers the rest of the exchange, and it is a negotiation rather than a decision. gryffin wants his access credentials up front; gx158 refuses flatly — *keine chance*, they get the box first, and only then does he get access — and says he'll hand it over a couple of hours later. cOda relays both sides, telling gryffin in English that the terms look acceptable, that he'll run it past his friends, that access is coming shortly, and pointedly that the two of them should stick to business. In German he is working through what happens in the worst case, and what protects them if they hold to their own terms.
+The rest of the exchange is a negotiation rather than a decision. gryffin wants his access credentials up front; gx158 refuses flatly — *keine chance*, they get the box first, and only then does he get access — and says he'll hand it over a couple of hours later. cOda relays both sides, telling gryffin in English that the terms look acceptable, that he'll run it past his friends, that access is coming shortly, and pointedly that the two of them should stick to business. In German he is working through what happens in the worst case, and what protects them if they hold to their own terms.
 
 So the deal that destroys cOda is haggled out in two languages at once, in a window the group never sees, while he chairs a meeting about Drosan's secrecy.
 
@@ -447,7 +447,7 @@ His conclusion: Brudiger is either working for them or, more likely, has been co
 
 The structure of the episode is now almost cruel. In one window slipknot is proving that gryffin is a federal tripwire and that contact with him is fatal. In another, at the same time, cOda is telling gryffin to ship the box. The clean record that seemed to refute the theory is the strongest evidence for it, and episode 17 says why — the Bureau is protecting Brudiger, not prosecuting him, because his contacts are worth more than he is.
 
-In the English channel, cOda is the careful one, convening a meeting about Drosan's secrecy. In a window nobody else can see, he has already committed to gryffin's deal and is telling him to ship. slipknot doesn't discover this until episode 18, three episodes later — and by then the Bureau is at cOda's keyboard.
+slipknot does not learn about the gryffin deal until episode 18 — and by then the Bureau is at cOda's keyboard.
 
 ## Episode 16 — cOda goes dark *(POV: slipknot)*
 
@@ -489,13 +489,13 @@ The audience has just watched the FTP logs. The excuse is a lie, and the episode
 
 ## Episode 17 — Operation TOP DOWN *(POV: FBI/DOJ — entirely spoken)*
 
-Recorded footage from the FBI's Intellectual Property Division, Monday, January 30, 2006, 3:35 PM. Agents brief a new team, joking for the camera while they wait on a late colleague, and what follows rewrites everything the group believed about itself.
+Recorded footage from the FBI's Intellectual Property Division. The briefer opens by stating the time — January 30, 3:35 PM — without a year; the surrounding episodes put it in 2006. Agents brief a new team, joking for the camera while they wait on a late colleague, and what follows rewrites everything the group believed about itself.
 
-**Who teflon really is.** On February 2, 2004 — before the series begins — they arrested **Ed Koenig, aka teflon**, the number two man in CPX, a group they credit with roughly $175 million worth of pirated material. They caught him by patience: six months of tracking while posing as a newbie kid, because Koenig was fiercely protective of his IP address. Eventually he sent an email, and a court order to Yahoo produced the address. The agent who ran him, Burroughs, is openly ambivalent — he spent a long time with the man and finds it hard not to pity him. The profile he gives is brutal and sad: Koenig makes no money from any of it, his marriage is failing, his house is a wreck, his job goes nowhere — but online he's revered, a mentor these kids come to like a god.
+**Who teflon really is.** On February 2, 2004 — before the series begins — they arrested **Ed Koenig, aka teflon**, the number two man in CPX, a group they credit with roughly $175 million worth of pirated material. They caught him by patience: six months of tracking while posing as a newbie kid, because Koenig was fiercely protective of his IP address. Eventually he sent an email, and a court order to Yahoo produced the address. The agent who ran him, Burroughs, is openly ambivalent — he spent a long time with the man and finds it hard not to pity him. The profile he gives is brutal and sad: Koenig makes no money from any of it, there is an ex-wife, a kid and alimony, his house is a dump, his job goes nowhere — but online he's revered, a mentor these kids come to like a god.
 
 **The org chart.** Leader: Drosan, who obtains sources and is sometimes the source himself. Affiliations: slipknot, believed European on Koenig's say-so but unverified, responsible for topsite access. Encoder: pyr0 — American, and they peg him at sixteen or seventeen, somewhere in the Midwest. Courier: cOda. Koenig himself was operations, the older man keeping it all running. On the source, trooper, they know only that the titles imply someone inside the industry — an editing house or a studio — and it's the member they feel most confident about identifying.
 
-**The real asset.** A named third party is introduced under strict secrecy: **Timothy Brudiger — gryffin**. He's been wired without knowing it, and they refuse to arrest him because his contacts are worth more than he is. Through Brudiger they've infiltrated ripping groups across three continents and made arrests across Europe — Madrid, Brussels — publicized selectively and deliberately. They want the scene nervous, but not too nervous. It's the exact pattern slipknot spent episodes 11–15 trying to convince his own group was real — and the briefing is, from the audience's side, a confirmation rather than a reveal, because slipknot named Brudiger as gryffin in episode 15 and explained the mechanism correctly. The clean criminal record that made cOda dismiss the theory is explained here: the Bureau has chosen not to charge him.
+**The real asset.** A named third party is introduced under strict secrecy: **Timothy Brudiger — gryffin**. He's been wired without knowing it, and they refuse to arrest him because his contacts are worth more than he is. Through Brudiger they've infiltrated ripping groups across three continents and made arrests across Europe — Madrid, Brussels — publicized selectively and deliberately. They want the scene nervous, but not too nervous. It's the exact pattern slipknot spent episodes 11–15 trying to convince his own group was real — and the briefing is, from the audience's side, a confirmation rather than a reveal, because slipknot named Brudiger as gryffin episode 15 and explained the mechanism correctly. The clean criminal record that made cOda dismiss the theory is explained here: the Bureau has chosen not to charge him.
 
 **The goal isn't shutting it down.** Taking the scene offline for six months would be nice, but the ambition is bigger: high-profile arrests *plus* a team of insiders already embedded, so that when the scene inevitably comes back, the Bureau is already inside it. One agent calls it a prophylactic. When a younger agent asks why wait eleven months, he's told, half-joking, that TOP DOWN is the kind of operation that advances careers — lots of careers.
 
@@ -507,7 +507,7 @@ Recorded footage from the FBI's Intellectual Property Division, Monday, January 
 
 In the group's channel, trooper reconnects after a silence. slipknot has been telling people Drosan works for the feds; she doesn't buy it but is rattled, and feels foolish for having handed over real identifying details. Drosan's counter: if he were a fed, she'd have been arrested long ago. Then the cOda news — banned by slipknot, the group dissolved, and per slipknot, cOda was building his own operation with gryffin.
 
-**He also calls her by her name.** *jodi, i could really use your help here.* Nineteen episodes of a group arguing about whether to trust a man who does not exist, and the one person who knows she is a woman says her first name out loud, in text, to the man who has lied to everyone.
+**He also calls her by her name.** *jodi, i could really use your help here.* Eighteen episodes of a group arguing about whether to trust a man who does not exist, and the one person who knows she is a woman says her first name out loud, in text, to the man who has lied to everyone.
 
 **And what he is actually doing in that window is recruiting her.** *would you consider getting into it again?* … *well, maybe we should form a new group* … *i may have a guy* … and, asked who would lead it: *me. i know lots of people, troop. he won't destroy my cred that easily — especially if you and i do a couple of big releases.* trooper thinks pyr0 would be up for it; they'd need someone on affiliates; she says she'll think about it. That is what teflon means in the next window when he says *trooper is key*, and it is why Drosan's refusal to bring her in is worth so little — he is bringing her in, on his own terms, for his own group.
 
@@ -536,9 +536,9 @@ He signs off telling Drosan to do what he's told, that he knows what a weasel he
 > **drosan:** thank you for getting back to me. i have a lot to tell you, but first tell me about coda
 > **slipkn0t:** i believe you know more about him than i do
 
-## Episode 19 — the sting *(POV: the DOJ prosecutor, at cOda's computer)*
+## Episode 19 — the sting *(POV: a federal agent, at cOda's computer)*
 
-**Narration — the other side of the desk, and not a stranger.** The speaker spent three years on antitrust work before moving to the intellectual property division of the DOJ. The work takes patience, he says, but every so often you get to do something that makes a difference. The operation he's heading will have a major impact — and the best part is that the people who run the piracy scene have no idea what's coming. A phone call places him: it's around two in the morning, he's abroad and adjusting badly to night hours, complaining about the food and the beer and wishing he'd brought scotch, cutting the call short when work demands it.
+**Narration — the other side of the desk.** The speaker spent three years on antitrust work before moving to the intellectual property division of the DOJ. The work takes patience, he says, but every so often you get to do something that makes a difference. The operation he's heading will have a major impact — and the best part is that the people who run the piracy scene have no idea what's coming. A phone call places him: it's around two in the morning and he's abroad, used to the time difference but finding the hours twice as hard, complaining about the food and the beer, wishing he'd brought scotch, and cutting the call short when work demands it.
 
 **Who he is, exactly, is worth being careful about.** On screen his AIM account is **brenner2604**, and the colleague he is messaging is **alanmeans06** — and alanmeans06 says, at one point, *okay. i will tell burroughs*, which puts Burroughs somewhere else again. So the text gives three men, not one: the man at cOda's keyboard, the colleague he reports to, and Burroughs above them both. Against that, the face is the same one that walks into teflon's house at the end of episode 5, where teflon's IM correspondent is `burroughs485`. The series does not reconcile this, and the handles and the casting point in different directions; what the screen text supports is that the man typing as cOda is `brenner2604`.
 
@@ -552,7 +552,7 @@ They are also frustrated, and openly contemptuous. gryffin keeps pressing about 
 
 The colleague also coaches him line by line, which is the detail that makes the sting legible as a piece of craft: *just don't answer the question* … *play to his desires* … *if he's really scheming against drosan, just [let him]* … *even better: remember in that chat [earlier]* … *you should offer to have coda do that.* The plan cOda proposes to gryffin — new identity, presented as admin, rebuild Drosan's trust — is being dictated to him in the next window, one suggestion at a time.
 
-Drosan clearly suspects something, but he's too careful to say so to gryffin — much as they'd like him to — and he is never going to let "cOda" back into his group, however good the pitch. The reason gryffin wants him is diagnosed coolly: it's a power thing. He's jealous of Drosan, and as long as Drosan has trooper as a source, Drosan holds the leverage; gryffin wants his own operation with his own people in it. Elsewhere in the conversation, a colleague named **Danny** has earned a free trip to Berlin — *he worked wonders* — and a name someone was chasing still hasn't been produced.
+Drosan clearly suspects something, but he's too careful to say so to gryffin — much as they'd like him to — and he is never going to let "cOda" back into his group, however good the pitch. The reason gryffin wants him is diagnosed coolly: it's a power thing. He's jealous of Drosan, and as long as Drosan has trooper as a source, Drosan holds the leverage; gryffin wants his own operation with his own people in it. Elsewhere in the conversation, a colleague named **Danny** has earned a free trip to Berlin — *he worked wonders* — and one of them asks whether the other ever got "the name" — the answer is that they're going to call it *method*.
 
 So the episode is a trap being machined to fit Drosan, built by people who have lost their bait, assisted by a man who is himself wired and doesn't know it.
 
@@ -560,13 +560,13 @@ So the episode is a trap being machined to fit Drosan, built by people who have 
 
 **Narration:** spend enough time in the scene and you get used to change; he's never shied from it and has thrived on it. Lately, though, he finds himself looking backwards rather than ahead.
 
-Months on, DUST is gone. pyr0 complains gryffin won't leave him alone — *he just keeps buying his way into groups, his parents must be loaded* — and repeats slipknot's claim that Drosan and gryffin are starting a group *and that you're trying to get troop involved*. Drosan denies it and says he's done — school, girlfriend, and it's less fun when everyone thinks you're a rat. pyr0, who has landed on his feet in a gaming group called **synch** (*i'm up all night anyway ;)*), says he'd be in if Drosan and trooper got back together — *but not with that fuckwit gryffin having anything to do with it*.
+Time has passed, and DUST is gone. pyr0 complains gryffin won't leave him alone — *he just keeps buying his way into groups, his parents must be loaded* — and repeats slipknot's claim that Drosan and gryffin are starting a group *and that you're trying to get troop involved*. Drosan denies it and says he's done — school, girlfriend, and it's less fun when everyone thinks you're a rat. pyr0, who has landed on his feet in a gaming group called **synch** (*i'm up all night anyway ;)*), says he'd be in if Drosan and trooper got back together — *but not with that fuckwit gryffin having anything to do with it*.
 
 **Drosan is lying, and the screen shows it.** Through the whole episode his status line carries outgoing messages to a man who never answers: `-> *gryffin* you there?` … `what the hell is the matter with you?` … **`what are you doing talking to pyr0?`** … `i was very clear about that` … `hit me back when you come online`. He denies the new group in one window while berating his partner in it in another. The reason gryffin has gone silent arrives later in the episode: they picked him up that morning.
 
 slipknot appears, reconciled, and the reconciliation is more generous than it first looks: *for the longest time i thought you were either [a fed or selling]* … *but what happened to coda put things in a different light* … *he did a number of very stupid things and nearly got arrested* … *but when you don't have a lot of money, it is [tempting]* … *so i thought to myself, perhaps something similar happened to you. am i far off the mark?* — *not far at all.* cOda is in Prague and doing well. slipknot warns a big bust is coming, possibly that day, that Drosan is a likely target, and that he'd wipe his drives; asked how he knows it's today, he says only *i would rather not say*.
 
-Drosan warns trooper, radio silent since quitting the plant, with an interview her sister got her for an assistant's job at one of the studios. *they better not let you near the product :0* — *thanks for checking up on me, you're too good to me ;)*. It is the last thing anyone in the group says to anyone else, and it's a joke.
+Drosan warns trooper, radio silent since quitting the plant, with an interview her sister got her for an assistant's job at one of the studios. *they better not let you near the product :0* — *thanks for checking up on me, you're too good to me ;)*. The last exchange between two members of the group is a joke about her not being trusted near the merchandise.
 
 **Todd, and the tell.** In a window alongside all this, Todd catches up with him about ordinary things — a band they're seeing tomorrow, the joke that he and Brian are like two married couples now, an apology for a message Brian missed because his cell battery is dead. Todd says it's great that he and Melissa seem happy, and Brian returns the compliment about Todd and suzy, who were all over each other recently; Todd says his judgment was impaired.
 
@@ -574,7 +574,7 @@ Then Todd mentions, as gossip rather than intelligence, that he saw Dana the pre
 
 That is the tell. Dana has told him she is pregnant, and Todd has just put her in a bar at one in the morning, drunk. Brian says nothing about it to anyone, and the series never underlines it; it simply lets two windows sit next to each other and trusts the viewer to do the arithmetic.
 
-**Dana's last move.** She surfaces saying it's been a while and that she doesn't like being left in limbo, and proposes meeting somewhere quiet with good tapas — because, she says, *with this baby coming*, whatever the decisions are, they can make them together. She is claiming to be pregnant by him, and the pregnancy is a fabrication. It's the most extreme version of what she's done since episode 4: manufacturing a reason he can't walk away from, aimed at a man whose whole life is built out of manufactured reasons.
+**Dana's last move.** She surfaces saying it's been a while and that she doesn't like being left in limbo, and proposes meeting somewhere quiet with good tapas — because, she says, *with this baby coming*, whatever the decisions are, they can make them together. She is claiming to be pregnant by him, and the pregnancy is a fabrication. It's the most extreme version of what she's done since episode 8: manufacturing a reason he can't walk away from, aimed at a man whose whole life is built out of manufactured reasons.
 
 Then Drosan talks to **spinnaker** on a supposedly unrecorded channel — teflon, under a new handle, and taking a risk to be there at all: *each time you and i talk i risk my neck.* gryffin was picked up that morning and is finished; somebody high up got nervous and decided to move; the operation counts as a success. And teflon's charges aren't merely being dropped — he is going to **work for the Department of Justice**. *you're gonna go work for the DOJ????* … *um, congrats... i guess* … *i hope the new career works out for you.* The man who spent the season being treated like the Bureau's property now has a career out of it, and the boy who protected him has nothing.
 
@@ -592,10 +592,10 @@ Her desktop carries folders named for a Vanessa and a Fred. A young girl calls o
 
 ### The personal thread
 
-Running underneath the release plot, in IM windows rather than IRC, is a second story about Drosan managing people who want more from him than he intends to give. It appears in thirteen of the twenty episodes.
+Running underneath the release plot, in IM windows rather than IRC, is a second story about Drosan managing people who want more from him than he intends to give. It runs through most of the season.
 
 - **Melissa** (melissbliss04) is his girlfriend, established in episode 1 by a phone call he brushes off to finish a rip. She is around all season — traveling with her friend suzy in episode 12, sending word through suzy in episode 18 — though the first time she is actually on camera is episode 10, at his desk. In episode 9 he moves in with her.
-- **Dana** (danaburke123) is someone he hooked up with once and didn't want a relationship with, and who won't let it go. She appears in person far earlier than her IMs suggest: she is the blonde woman in his room in **episode 4**, credited as Laura Minarich, standing behind his chair while his bootlegger messages him by his real name. After that she is text only — chasing him in episode 9 and telling him he's full of it, pinging his away message in episode 10 while he isn't there, pulling him out of the house in episode 11.
+- **Dana** (`danaburke55`, then `danaburke123`) is someone he hooked up with once and didn't want a relationship with, and who won't let it go. She appears in person far earlier than her IMs suggest: she is the blonde woman in his room in **episode 4**, credited as Laura Minarich, standing behind his chair while his bootlegger messages him by his real name. After that she is text only: a first, still-civil IM in episode 8 as `danaburke55`, then `danaburke123` from episode 9 onward — chasing him and telling him he's full of it in 9, typing *hey* and *you there?* into an empty chair in 10, and reappearing in 20 with the pregnancy.
 - **Todd** (Tremor2212) is his friend and the connective tissue. In episode 7 Melissa mentions Todd has met a woman named Dana — thirties, curly blonde hair — and Drosan admits he knows her, then deflects when Melissa asks how well. In episode 9 Todd congratulates him on the move, asks when moving day is, and asks how Dana took it. In episode 10 he asks Melissa where Brian was that afternoon.
 - **suzyxiao** is Melissa's friend and, by episode 10, a confidante in something Melissa hasn't told him. By episode 18 she is relaying messages between them and quietly contradicting his version of how a conversation went.
 
@@ -607,10 +607,11 @@ And the wall is not as solid as he thinks. Melissa sits at his machine in episod
 
 ### The season's timeline
 
-The series never announces a date, but the software does. Instant-message windows print a "Last message received on …" footer, Yahoo Mail prints full headers, and a browser masthead prints the day — and read together they put the season on a calendar roughly fourteen months long:
+The series never announces a date, but the software does. Instant-message windows print a "Last message received on …" footer, Yahoo Mail prints full headers, and a browser masthead prints the day — and read together they put the season on a calendar about fifteen months long:
 
 | Episode | On-screen date | Source |
 | --- | --- | --- |
+| 1 | November 16, 2004 | an MSNBC story open in his browser |
 | 2 | Thursday, December 9, 2004 | Boing Boing masthead in Firefox |
 | 5 | February 19, 2005 | IM window footer |
 | 6 | March 16, 2005 (email dated Sunday, March 13) | Yahoo Mail header; IM footer |
@@ -619,13 +620,12 @@ The series never announces a date, but the software does. Instant-message window
 | 13 | September 24, 2005 | IM window footer |
 | 14 | October 2, 2005 | IM window footer |
 | 16 | December 23–28, 2005 | IM window footers |
+| 17 | January 30, 3:35 PM | the briefing's own opening announcement |
 | 18 | February 13, 2006 | IM window footer |
 
-Episode 1 is earlier still: a news story open in his browser is timestamped **November 16, 2004**.
+A few things fall out of that. The collapse is slow — episodes 1 to 8, the whole arc from the *Alexander* screener to the night of the sting, take about six months, and the gap between episode 8 and episode 13 is another four in which the group is simply waiting and rotting. The Christmas dates under episode 16 are doing quiet work: cOda goes dark over the holidays, and the FTP logs slipknot obtains cover December 22nd to the 27th.
 
-Three things fall out of that. The collapse is slow — episodes 1 to 8, the whole arc from the *Alexander* screener to the night of the sting, take about six months, and the gap between episode 8 and episode 13 is another four in which the group is simply waiting and rotting. The Christmas dates under episode 16 are doing quiet work: cOda goes dark over the holidays, and the FTP logs slipknot obtains cover December 22nd to the 27th. 
-
-And teflon's arrest date is one of the two places the series contradicts itself. Episode 16's LexisNexis lookup says **November 2, 2004** — a fortnight before episode 1, which would make him an informant from the very first scene. Episode 17's briefing says **February 2, 2004**, which would put it ten months earlier still. Either way he is compromised before the audience meets him; the series simply doesn't agree with itself about by how long. (The other contradiction is in episode 19, where the agent at cOda's keyboard is `brenner2604` and refers to Burroughs as a third party, though the face is the one that comes to teflon's door in episode 5.)
+And teflon's arrest date is one of the two places the series contradicts itself. Episode 16's LexisNexis lookup says **November 2, 2004** — two weeks before episode 1, which would make him an informant from the very first scene. Episode 17's briefing says **February 2, 2004**, nine months earlier still. Either way he is compromised before the audience meets him; the series simply doesn't agree with itself about by how long. (The other contradiction is in episode 19, where the agent at cOda's keyboard signs on as `brenner2604` and his colleague says he will "tell burroughs" — treating Burroughs as a third man — though the face is the one that comes to teflon's door in episode 5.)
 
 ### POV by episode (webcam perspective)
 
@@ -639,16 +639,16 @@ The others are quieter but not monkish, and the episodes where they aren't are t
 
 The rule, such as it is, is simpler than "one window each": the number of windows a character has open is the number of secrets they are keeping, and in this season everybody's count goes up.
 
-### Character notes established in narration
+### Character notes
 
-- **Drosan** — **Brian Sandro** (the name is typed into a Gmail sign-in in episode 2; `brian.sandro@gmail.com` appears in an email To field in episode 6); an NYU student writing to the finance department about tuition in episode 1, in the same statistics class as Todd; co-founded CPX with teflon about four years ago; girlfriend Melissa; father hospitalized after a stroke, which is the pressure behind the selling. Handles: **BrianSan** (ICQ, for the buyer), **BrianSan333** and **dro_5544** (AIM).
+- **Drosan** — **Brian Sandro** (he signs the episode 1 email with it, types it into a Gmail sign-in field in episode 2, and it appears as `brian.sandro@gmail.com` in an email To field in episode 6); an NYU student writing to the finance department about tuition in episode 1, in the same statistics class as Todd; co-founded CPX with teflon about four years ago; girlfriend Melissa; father hospitalized after a stroke, which is the pressure behind the selling. Handles: **BrianSan** (ICQ, for the buyer), **BrianSan333** and **dro_5544** (AIM).
 - **teflon** — **Edward G. Koenig**, 37, of Richmond, Virginia, divorced with one child (Jimmy; ex-wife Cara), alimony and a house payment; `monticello222@yahoo.com` and `monticello235` on AIM; on BBSs since the mid-80s; a day job at Mtrail Industries he is visibly failing at, where the group's drop box also lives. Arrested in 2004 and run as an informant for the entire series — eight arrests by his own count — and he ends it with a job at the Department of Justice. Later handles: **copleyr785**, **collangello998**, **spinnaker**, and, invented wholesale, **LuckyChi2203**.
 - **trooper** — **Jodi**, a woman working at a DVD manufacturing plant in LA, sourcing from bins of misprinted discs; joined the scene via that job about a year before the series; `troopercamy0@yahoo.com`, `troopercamy` on AIM. For most of the season only she knows her own gender — the group refers to her as "he", and in episode 7 Drosan thanks her for her help with "thanks man". Drosan uses her first name once, in episode 18. She ends the season interviewing for an assistant's job at a studio, arranged by her sister.
 - **pyr0** — encoder, two years in; the Bureau pegs him at 16–17, American, Midwest; lives with his mother and her boyfriend, who cuts his power mid-release.
 - **slipknot** — co-founder by his own account; handles affiliate sites; the group's conscience and its actual detective. Lives with his father somewhere cold. Identifies gryffin as Brudiger in episode 15 and teflon as Koenig in episode 16, both correctly, and is believed by nobody.
 - **cOda** — courier; security-obsessed; Germany, later Prague. Sells the group out to gryffin for a replacement server in episode 15, fakes a week-long disappearance in episode 16 while the FTP logs show him online throughout, then wipes his machines and runs before the Bureau reaches him; they run his account anyway.
 - **Melissa** — Drosan's girlfriend; first on camera in episode 10, when she takes over his machine.
-- **Dana** (Laura Minarich) — a one-time hookup who won't let go; on camera in episode 4, then text only.
+- **Dana** (`danaburke55` in episode 8, `danaburke123` thereafter; played by Laura Minarich) — a one-time hookup who won't let go; on camera in episode 4, then text only.
 - **"Lucky Chi"** (`LuckyChi2203` on ICQ) — not a bootlegger at all. He is on screen from episode 1 and speaks in broken English throughout; episode 13 says *luckychi doesn't exist* and episode 18 gives the mechanics — teflon invented him and paid Drosan from a corporate credit card, to keep the Bureau's own trap from closing on him.
 - **gryffin** — **Timothy Brudiger**; a middleman burned by the bust, wired by the Bureau without his knowledge and used to infiltrate groups across three continents before being arrested himself. slipknot identifies him by name in episode 15, from the IP that sent Drosan the PayPal details (`154.158.47.5`) and three films uploaded to TSR from the same Windows box; the Bureau confirms it in episode 17.
 - **Burroughs** (`burroughs485`) — the case agent who ran teflon: the handle on teflon's screen in episode 5, the visitor at his door, and the agent the briefing room defers to in episode 17. In episode 19 he is referred to in the third person by the agents doing the sting, so the man at cOda's keyboard (`brenner2604`) is either him under a work account or a colleague who looks like him; the series doesn't say. His remote handler there is `alanmeans06`, and a third agent, Danny, has earned a trip to Berlin.
