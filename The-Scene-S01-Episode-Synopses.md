@@ -6,6 +6,31 @@ Reconstructed from the episodes themselves: on-screen text (IRC, IM, FTP and app
 
 This is written for someone who has watched the series, or doesn't mind knowing: the episode entries point forward to what things turn out to mean, and the sections after episode 20 take the whole season as read.
 
+## The season at a glance
+
+| # | Title | POV | What happens |
+| --- | --- | --- | --- |
+| 1 | the package came | Drosan | A screener of *Alexander* arrives; the group races to release it. A tuition letter and a waiting buyer establish the motive. |
+| 2 | the NFO, the missing RARs | Drosan | *The Incredibles* goes out two RAR files short, because he has already sold it. |
+| 3 | beaten to it | Drosan | A rival group releases *The Exorcist* first. Suspicion lands on trooper, who is innocent. |
+| 4 | teflon shows his hand | Drosan | teflon reconstructs the leak from a shipping delay and demands a cut. |
+| 5 | the price of silence | teflon | The elder statesman is an FBI informant with an appointment at nine in the morning. |
+| 6 | trooper comes to the channel | trooper | An email teflon should never have sent — and the name in its From field. |
+| 7 | the group starts performing | Drosan | The channel becomes theatre staged for teflon, who is staged for the Bureau. |
+| 8 | "it will be over tonight" | Drosan | The counter-operation runs. Drosan removes himself from the board. |
+| 9 | the loose thread | Drosan | A stranger called gryffin says the name of Drosan's secret buyer to his face. |
+| 10 | the empty chair | Melissa, at his machine | Melissa uses his computer, looks straight at the channel, and finds it boring. |
+| 11 | gryffin makes it a threat | Drosan | *They know your name and your address* — alongside a break-in at Melissa's. |
+| 12 | the inconsistency | Drosan | slipknot finds the hole in Drosan's story; a stranger IMs to say he knows everything. |
+| 13 | the package that wasn't there | Drosan | A break-in at teflon's employer to delete an FTP log — and four words that reframe the season. |
+| 14 | pyr0 goes missing | pyr0 | The encoder's power is cut by his mother's boyfriend. slipknot finds Madrid and Brussels. |
+| 15 | the meeting without Drosan | cOda | cOda sells the group out in German while slipknot, in the next window, solves it. |
+| 16 | cOda goes dark | slipknot | The courier vanishes. The FTP logs say he never left. |
+| 17 | Operation TOP DOWN | FBI/DOJ | The Bureau explains the whole thing to a room, three years in. |
+| 18 | teflon is still running him | Drosan | The back channel, and who invented Lucky Chi. |
+| 19 | the sting | a federal agent | Agents run cOda's account against gryffin — and discuss the coming trial. |
+| 20 | epilogue | Drosan | Everyone lands somewhere. The wrong door gets kicked in. |
+
 ---
 
 ## Episode 1 — "the package came" *(POV: Drosan)*
@@ -563,11 +588,11 @@ The audience has just watched the FTP logs. The excuse is a lie, and the episode
 
 ## Episode 17 — Operation TOP DOWN *(POV: FBI/DOJ — entirely spoken)*
 
-Recorded footage from the FBI's Intellectual Property Division. The briefer opens by stating the time — January 30, 3:35 p.m. — without a year; the surrounding episodes put it in 2006. Agents brief a new team, joking for the camera while they wait on a late colleague, and what follows rewrites everything the group believed about itself.
+Recorded footage from the FBI's Intellectual Property Division, captioned on screen throughout: **Monday, January 30, 2006**, with a running timecode in the corner. Agents brief a new team, joking for the camera while they wait on a late colleague, and what follows rewrites everything the group believed about itself.
 
 **Who teflon really is.** On February 2, 2004 — before the series begins — they arrested **Ed Koenig, aka teflon**, the number two man in CPX, a group they credit with roughly $175 million worth of pirated material. They caught him by patience: six months of tracking while posing as a newbie kid, because Koenig was fiercely protective of his IP address. Eventually he sent an email, and a court order to Yahoo produced the address. The agent who ran him, Burroughs, is openly ambivalent — he spent a long time with the man and finds it hard not to pity him. The profile he gives is brutal and sad: Koenig makes no money from any of it, there is an ex-wife, a kid and alimony, his house is a dump, his job goes nowhere — but online he's revered, a mentor these kids come to like a god.
 
-**The org chart.** Leader: Drosan, who obtains sources and is sometimes the source himself. Affiliations: slipknot, believed European on Koenig's say-so but unverified, responsible for topsite access. Encoder: pyr0 — American, and they peg him at sixteen or seventeen, somewhere in the Midwest. Courier: cOda. Koenig himself was operations, the older man keeping it all running. On the source, trooper, they know only that the titles imply someone inside the industry — an editing house, maybe even a studio — and, as one of them puts it, trooper is the one they feel most confident about.
+**The org chart**, which he writes on the whiteboard under the heading *Top Down* as he speaks. Leader: Drosan, who obtains sources and is sometimes the source himself. Affiliations: slipknot, believed European on Koenig's say-so but unverified, responsible for topsite access. Encoder: pyr0 — American, and they peg him at sixteen or seventeen, somewhere in the Midwest. Courier: cOda. Koenig himself was operations, the older man keeping it all running. On the source, trooper, they know only that the titles imply someone inside the industry — an editing house, maybe even a studio — and, as one of them puts it, trooper is the one they feel most confident about.
 
 **The real asset.** A named third party is introduced under strict secrecy: **Timothy Brudiger — gryffin**. He's been wired without knowing it, and they refuse to arrest him because his contacts are worth more than he is. Through Brudiger they've infiltrated ripping groups across three continents and made arrests across Europe — Madrid, Brussels — publicized selectively and deliberately. They want the scene nervous, but not too nervous. It's the exact pattern slipknot spent episodes 11–15 trying to convince his own group was real — and the briefing is, from the audience's side, a confirmation rather than a reveal, because slipknot named Brudiger as gryffin in episode 15 and explained the mechanism correctly. The clean criminal record that made cOda dismiss the theory is explained here: the Bureau has chosen not to charge him.
 
@@ -617,7 +642,9 @@ He signs off telling Drosan to do what he's told, that he knows what a weasel he
 
 **Narration — the other side of the desk.** The speaker spent three years on antitrust work before moving to the intellectual property division of the DOJ. The work takes patience, he says, but every so often you get to do something that makes a difference. The operation he's heading will have a major impact — and the best part is that the people who run the piracy scene have no idea what's coming. A phone call places him: it's around two in the morning and he's abroad, used to the time difference but finding the hours twice as hard, complaining about the food and the beer, wishing he'd brought scotch, and cutting the call short when work demands it.
 
-**Who he is, exactly, is worth being careful about.** On screen his AIM account is **brenner2604**, and the colleague he is messaging is **alanmeans06** — and alanmeans06 says, at one point, *okay. i will tell burroughs*, which puts Burroughs somewhere else again. So the text gives three men, not one: the man at cOda's keyboard, the colleague he reports to, and Burroughs above them both. Against that, the face is the same one that walks into teflon's house at the end of episode 5, where teflon's IM correspondent is `burroughs485`. The series does not reconcile this, and the handles and the casting point in different directions; what the screen text supports is that the man typing as cOda is `brenner2604`.
+**Who he is, exactly, is worth being careful about.** The credits settle half of it. Episode 19 guest-stars **Joel Felber**, and he is the only guest billed; Felber is also guest-billed in episode 5, where he is the man who arrives at teflon's door, and in episode 17, the briefing. The same actor plays the Bureau's man in all three episodes the Bureau appears in.
+
+The handles pull the other way. On screen this man's AIM account is **brenner2604**, and the colleague he is messaging is **alanmeans06**, who at one point writes *okay. i will tell burroughs* — which places Burroughs outside the conversation rather than inside it. Meanwhile the man at teflon's door in episode 5 corresponds with him as `burroughs485`. So the casting says one man and the script says two or three, and the series never reconciles them. What can be stated without guessing: the actor is the same throughout, and the account being typed from here is `brenner2604`.
 
 On screen, the sting itself. gryffin offers to plug cOda into the new topsite but wants the story on him and Drosan first. "cOda" gives a careful version — a lot went bad in DUST, and yes, he blames Drosan for some of it — then proposes the plan: he'll re-enter under a fresh identity as an established scene veteran rather than as himself, be presented as the site's admin when it launches, and rebuild Drosan's trust from there. gryffin likes it, noting that Drosan is desperate for a topsite because slipknot's rumors have poisoned most of the scene against him, and that trooper's loyalty to him won't last. His only objection is practical: cOda can't pass as American, so the German identity stays.
 
@@ -705,12 +732,45 @@ The series never announces a date, but the software does. Instant-message window
 | 13 | September 24, 2005 | IM window footer |
 | 14 | October 2, 2005 | IM window footer |
 | 16 | December 22–27, 2005 | FTP log entries |
-| 17 | January 30, 3:35 p.m. | The briefing's own opening announcement |
+| 17 | Monday, January 30, 2006 | Captioned on screen for the whole episode |
 | 18 | February 13, 2006 | IM window footer |
 
 A few things fall out of that. The collapse is slow — episodes 1 to 8, the whole arc from the *Alexander* screener to the night of the sting, take about six months, and there is a further gap of nearly five months between episode 8 and episode 13, spanned on screen by only four episodes. The Christmas dates under episode 16 are doing quiet work: cOda goes dark over the holidays, and the FTP logs slipknot obtains run from December 22nd to the 27th.
 
-And teflon's arrest date is one of the two places the series contradicts itself. Episode 16's LexisNexis lookup says **November 2, 2004** — two weeks before episode 1, which would make him an informant from the very first scene. Episode 17's briefing says **February 2, 2004**, nine months earlier still. Either way he is compromised before the audience meets him; the series simply doesn't agree with itself about by how long. (The other contradiction is in episode 19, where the agent at cOda's keyboard signs on as `brenner2604` and his colleague says he will "tell burroughs" — treating Burroughs as a third man — though the face is the one that comes to teflon's door in episode 5.)
+### The release schedule
+
+Every episode but the tenth ends on a card announcing the next one, so the series states its own publication schedule on screen:
+
+| Episode | Announced for | Announced at the end of |
+| --- | --- | --- |
+| 1 | November 2004 (not announced on screen) | — |
+| 2 | December 20, 2004 | episode 1 |
+| 3 | early January 2005 | episode 2 |
+| 4 | early February 2005 | episode 3 |
+| 5 | late February 2005 | episode 4 |
+| 6 | late March 2005 | episode 5 |
+| 7 | mid April 2005 | episode 6 |
+| 8 | early May 2005 | episode 7 |
+| 9 | early June 2005 | episode 8 |
+| 10 | early July 2005 | episode 9 |
+| 11 | not announced — episode 10 has no end card | — |
+| 12 | early September 2005 | episode 11 |
+| 13 | early October 2005 | episode 12 |
+| 14 | early November 2005 | episode 13 |
+| 15 | early December 2005 | episode 14 |
+| 16 | early January 2006 | episode 15 |
+| 17 | early February 2006 | episode 16 |
+| 18 | early March 2006 | episode 17 |
+| 19 | early April 2006 | episode 18 |
+| 20 | early May 2006 | episode 19 |
+
+**Set that against the in-fiction dates above and something unusual emerges: the series ran in near-real time.** Episode 5 is dated February 19, 2005 on screen and was published in late February 2005. Episode 13 is dated September 24, 2005 and went out in early October. Episode 16's logs run to December 27, 2005 and it was published in early January. Episode 17's briefing is captioned January 30, 2006 and it was announced for early February. Month after month, each episode is set a week or two before the day it reached its audience — so a viewer following along in 2005 was watching events that had, in the story's terms, just happened.
+
+Every episode also closes on the same disclaimer: *The Scene is a work of fiction, so none of the people or events you've just watched are real. No real internet users were harmed during the production of The Scene.*
+
+### The contradictions
+
+And teflon's arrest date is one of the two places the series contradicts itself. Episode 16's LexisNexis lookup says **November 2, 2004** — two weeks before episode 1, which would make him an informant from the very first scene. Episode 17's briefing says **February 2, 2004**, nine months earlier still. Either way he is compromised before the audience meets him; the series simply doesn't agree with itself about by how long. (The other is in episode 19, where the agent at cOda's keyboard signs on as `brenner2604` and his colleague says he will "tell burroughs", treating Burroughs as a third man — while the credits bill Joel Felber, the actor who plays the visitor at teflon's door in episode 5 and appears in the episode 17 briefing, as the episode's sole guest star.)
 
 ### POV by episode (webcam perspective)
 
@@ -736,12 +796,14 @@ The rule, such as it is, is simpler than "one window each": the number of window
 - **Dana Burke** (`danaburke55` in episode 8, `danaburke123` thereafter; played by Laura Minarich) — a one-time hookup who won't let go; on camera in episode 4, then text only.
 - **"Lucky Chi"** (`LuckyChi2203` on ICQ) — not a bootlegger at all. He is on screen from episode 1 and speaks in broken English throughout; episode 13 says *luckychi doesn't exist* and episode 18 gives the mechanics — teflon invented him and paid Drosan from a corporate credit card, to keep the Bureau's own trap from closing on him.
 - **gryffin** — **Timothy Brudiger**; a middleman burned by the bust, wired by the Bureau without his knowledge and used to infiltrate groups across three continents before being arrested himself. slipknot identifies him by name in episode 15, from the IP that sent Drosan the PayPal details (`154.158.47.5`) and three films uploaded to TSR from the same Windows box; the Bureau confirms it in episode 17.
-- **Burroughs** (`burroughs485`) — the case agent who ran teflon: the handle on teflon's screen in episode 5, the visitor at his door, and the agent the briefing room defers to in episode 17. In episode 19 the agent at cOda's keyboard signs on as `brenner2604` and is told by his colleague `alanmeans06` that *i will tell burroughs* — which reads as three separate men — while the face on camera is the one from teflon's doorstep. The text and the casting disagree, and the series never settles it. A fourth agent, Danny, has earned a trip to Berlin.
+- **Burroughs** (`burroughs485`) — the case agent who ran teflon: the handle on teflon's screen in episode 5, the visitor at his door, and the agent the briefing room defers to in episode 17. **Joel Felber** is guest-billed in all three of the Bureau's episodes — 5, 17 and 19 — so one actor carries this part throughout. The script is less tidy: in episode 19 the man at cOda's keyboard signs on as `brenner2604` and his colleague `alanmeans06` says *i will tell burroughs*, which reads as three separate men. The casting and the handles disagree and the series never settles it. A further agent, Danny, has earned a trip to Berlin.
 - **The case** — Operation TOP DOWN, FBI Intellectual Property Division with the DOJ; three years running; CPX valued at ~$175 million in pirated material.
 
 ### The series itself
 
-*The Scene* was produced by **Jun Group Entertainment** and directed by **Mitchell Reichgut**, released free on the web and seeded onto P2P networks under a Creative Commons license. Wikipedia describes it as attribution, no derivative works; the Internet Archive copy of the Jun Group release states **Attribution-NonCommercial-NoDerivatives 3.0**. Season 1 ran 20 episodes from November 2004; a second season, *The Scene 2.0*, followed in 2006 with a different story.
+*The Scene* was produced by **Jun Group Entertainment** and directed by **Mitchell Reichgut**, released free on the web and seeded onto P2P networks. Season 1 ran 20 episodes from November 2004 to May 2006; a second season, *The Scene 2.0*, followed in 2006 with a different story.
+
+The license is printed on screen at the end of episode 1, which settles it: *Copyright (c) 2004 Jun Group, Inc. This work may be redistributed under the Creative Commons Attribution-NoDerivs license*, with a link to `creativecommons.org/licenses/by-nd/2.0/`. So it is **CC BY-ND 2.0** — attribution required, derivative works not permitted, commercial use not restricted. Secondary sources get this wrong in both directions: the Internet Archive upload's metadata adds a NonCommercial term the series never claimed.
 
 | Where | What's there |
 | --- | --- |
@@ -751,9 +813,105 @@ The rule, such as it is, is simpler than "one window each": the number of window
 | [Internet Archive — Welcome to the Scene](https://archive.org/details/welcome-to-the-scene) | An alternate upload of the series under its original release name |
 | [The Movie Database](https://www.themoviedb.org/tv/91461-the-scene) | Episode metadata |
 
-A few of the cast names are worth having next to the handles, since the series itself only ever shows the handles: **Joe Testa** as Drosan, **Laura Minarich** as danaburke123, **Trice Able** as melissbliss04, **Noah Rothman** as slipknot, and **Dinarte de Freitas** as cOda.
+A few of the cast names are worth having next to the handles, since the series itself only ever shows the handles: **Joe Testa** as Drosan, **Laura Minarich** as danaburke123, **Trice Able** as melissbliss04, **Noah Rothman** as slipknot, and **Dinarte de Freitas** as cOda. The on-screen credits add **Curt Rosloff** and **Joel Felber** as the guest stars of episode 5 — teflon and the man at his door — and Felber again in episodes 17 and 19.
 
 Two things in this synopsis are confirmed from outside the episodes rather than derived from them. Drosan's surname, which this reconstruction took from the To field of an email in episode 6, matches the credited character name "Drosan (Brian Sandro)." And Laura Minarich's credit identifies the woman on camera in episode 4 as danaburke123 — the link the episode itself never makes.
+
+### Where to look
+
+Timings for the documents the season turns on, in case you want to check any of
+this against the episodes yourself. They are taken from the H.264 MP4 encodes on
+the Internet Archive and are accurate to about three seconds, the sampling
+interval. The range is first legible frame to last, not the length of the beat:
+a window often stays open long after the line that mattered, which is why
+episode 13's FTP credentials appear to run for twenty minutes.
+
+| Ep. | What | On screen |
+| --- | --- | --- |
+| 1 | teflon's real IP, before it means anything | 2:18–4:03 |
+| 1 | the tuition email to the NYU finance department | 5:33–17:24 |
+| 1 | the LuckyChi2203 session on ICQ | 12:03–17:54 |
+| 1 | the Slashdot / MSNBC story about the release | 15:12–15:45 |
+| 2 | the Boing Boing masthead | 5:51–6:06 |
+| 2 | the Gmail sign-in, `brian.sandro` in the field | 12:03 |
+| 3 | the vcdquality link | 1:33–2:03 |
+| 5 | teflon's apology to Joan, his boss | 1:24–1:51 |
+| 5 | driving directions | 9:09–9:30 |
+| 5 | the `burroughs485` window | 9:36–9:48 |
+| 6 | the "access issue" mail from ed koenig | 2:57–14:18 |
+| 6 | the forward to `brian.sandro@gmail.com` | 6:39–6:42 |
+| 7 | the trooper query — seconds long | 16:36–17:03 |
+| 8 | the first Dana window | 1:21–3:48 |
+| 13 | the FTP credentials and the `.187` address | 6:27–26:33 |
+| 13 | the Metasploit download | 13:00–15:39 |
+| 13 | the log directory listing | 27:27–29:27 |
+| 15 | the German back channel (`gx158`) | 10:00–12:33 |
+| 15 | the PayPal IP, `154.158.47.5` | 20:18–21:18 |
+| 16 | the LexisNexis result | 16:45–18:42 |
+| 16 | cOda's FTP logs | 19:00–20:57 |
+| 20 | the last email | 22:12–23:06 |
+
+Two of these are worth the trouble of finding on your own copy. The episode 6
+forward is on screen for three seconds. The episode 7 query with trooper is
+gone in under thirty.
+
+### Nine frames
+
+The series is read rather than watched, so a few of the frames carry more than
+any description of them can. These are reproduced here for reference; they
+remain Jun Group's.
+
+![Episode 1 — a Gmail compose window addressed to financedept@nyu.edu, subject "next semester payment", signed Brian Sandro](stills/e01-tuition-email.jpg)
+
+*Episode 1, 5:33. The first thing the series tells you about Drosan is not that he
+runs a warez group. It is that his father is ill and the tuition is not going to be
+paid — and the signature at the bottom is his real name, eleven minutes in, five
+episodes before anyone thinks to look for it.*
+
+![Episode 1 — an ICQ message session with LuckyChi2203, who writes "Yes, I am here"](stills/e01-luckychi-icq.jpg)
+
+*Episode 1, 12:03. The buyer, in the first of the windows that will eventually cost
+Drosan everything. LuckyChi2203 is a fabrication; the man typing is teflon, and the
+money is the Bureau's.*
+
+![Episode 6 — a Yahoo! Mail inbox with one message, from "ed koenig", subject "access issue", dated Sun 03/13](stills/e06-inbox-ed-koenig.jpg)
+
+*Episode 6, 14:18. One row in trooper's inbox, and the only place in the first
+sixteen episodes where teflon's real name is written down: sender **ed koenig**,
+subject **access issue**. Nobody in the story reads it as a name.*
+
+![Episode 6 — a Yahoo! Mail compose window, To: brian.sandro@gmail.com, Subject: Fwd: access issue](stills/e06-forward.jpg)
+
+*Episode 6, 6:39. Three seconds on screen, and the line that gives Drosan his
+surname: the mail goes to `brian.sandro@gmail.com`.*
+
+![Episode 13 — a PuTTY window showing a Metasploit session returning a Windows command prompt on 63.247.91.187](stills/e13-metasploit-shell.jpg)
+
+*Episode 13, 13:00. The group breaks into its own drop site to find out who has been
+reading the logs. The shell comes back on `63.247.91.187` — and in the window at the
+left, teflon is asking how it is going.*
+
+![Episode 15 — an AIM conversation between c0dac0da and gryffin524 while the #dust channel discusses gryffin](stills/e15-gryffin-deal.jpg)
+
+*Episode 15, 10:00. The whole season in one screen: in the channel behind, slipknot
+is working out that gryffin cannot be trusted; in the window in front, cOda is
+closing the deal with him.*
+
+![Episode 16 — an FTP server log showing repeated logins by user coda, beside the #dust channel where coda says he was locked out](stills/e16-ftp-logs.jpg)
+
+*Episode 16, 19:00. cOda tells the channel he could not get to his apartment for a
+week. The site's own log has him logging in throughout, moving gigabytes.*
+
+![Episode 17 — an FBI briefing room, a whiteboard with "Ed Koenig / Teflon" boxed, captioned Monday, January 30, 2006](stills/e17-whiteboard.jpg)
+
+*Episode 17, 3:39. The only episode with no computers in it, and the one that says
+the names out loud. Tesseract recovers nothing from this board; the eye reads it
+without effort.*
+
+![Episode 20 — a Yahoo! Mail compose window beginning "Dear Cindy, Thank you so much for sending over the fo..."](stills/e20-thank-you.jpg)
+
+*Episode 20, 22:12. After twenty episodes of federal investigation, the series ends
+on a thank-you note about foot warmers.*
 
 ### On the sources
 
@@ -761,6 +919,6 @@ Quoted exchanges follow the client they came from: IRC — the group's channel a
 
 On-screen text was recovered by sampling every episode at one frame every three seconds and reading the IRC, IM and application windows directly. Spoken material came from locally generated transcripts; the musical interludes between scenes are omitted.
 
-The two real names in episode 17 — **Ed Koenig** and **Timothy Brudiger** — are spoken in the briefing and written on the whiteboard, where the agent adds them as he talks. The handwriting is below what OCR can read at this source resolution, but both names are confirmed by text elsewhere in the series: Koenig in the From header of the episode 6 email and in the LexisNexis result read out in episode 16, Brudiger in slipknot's messages in episode 15.
+The two real names in episode 17 — **Ed Koenig** and **Timothy Brudiger** — are spoken in the briefing and written on the whiteboard as the agent talks. OCR recovers none of the handwriting, but it is legible on the frame itself: the board is headed **Top Down**, and carries **Leader — Drosan**, **Encoder — Pyro**, **Affil — slipknot**, and a boxed **Ed Koenig / Teflon**. Koenig is confirmed twice more in text, in the From header of the episode 6 email and in the LexisNexis result read out in episode 16; Brudiger in slipknot's messages in episode 15.
 
 **A note on what is easy to miss.** Not all of this series is chat. Emails, browser tabs, FTP clients, file listings and desktop icons carry plot, and a sweep that looks only for IRC and IM lines will miss them: the tuition letter in episode 1, teflon's apology to his boss in episode 5, the "access issue" mail in episode 6, the FTP logs in episode 16, the Metasploit download in episode 13. Several private windows are also only a few frames long — the trooper exchange in episode 7 lasts seconds — so the sampling interval has to suit those rather than the channel, which is far more forgiving.
