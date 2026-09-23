@@ -1,0 +1,7 @@
+# Recovered screen text and audio transcripts.
+# Kept locally, not published — see "A note on the material" in README.md.
+data/
+
+# Local helper scripts. A blanket rule so a new one can't slip in.
+*.bat
+commit-message.txt
