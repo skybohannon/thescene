@@ -5,3 +5,6 @@ data/
 # Local helper scripts. A blanket rule so a new one can't slip in.
 *.bat
 commit-message.txt
+
+# Python leaves these behind next to the scripts.
+__pycache__/

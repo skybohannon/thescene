@@ -1,0 +1,15 @@
+# Handles confirmed by reading the frames, not by OCR vote. One per line, in
+# the exact form the client prints them. normalize.py rewrites any cluster
+# containing a close match to the spelling given here.
+#
+# All of these are leetspeak, which is exactly what OCR gets wrong: the zeros
+# in t0mb0 come back as O or 6, and the ! in t!nman as i, l or U.
+houdini6@jabber.org/Gaim:
+t0mb0@jabber.org:
+t!nman@jabber.org:
+tann3r@jabber.org:
+jimbrandon09@jabber.org/Gaim:
+MikeyD5550:
+DanikaLi99:
+<talisman>
+<sng330>

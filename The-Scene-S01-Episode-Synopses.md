@@ -2,7 +2,7 @@
 
 Reconstructed from the episodes themselves: on-screen text (IRC, IM, FTP and application windows) read frame by frame, merged with the spoken narration and phone calls from locally generated transcripts. No published episode synopses exist for this series. Links to the series and its records are at the end.
 
-**Coverage:** complete — all 20 episodes include the on-screen text as well as the spoken narration, phone calls and dialogue.
+**Coverage:** complete — all 20 episodes, the on-screen text together with the spoken narration, phone calls and dialogue. Episode 17 is the exception with nothing to read: it is a briefing room, and entirely spoken.
 
 This is written for someone who has watched the series, or doesn't mind knowing: the episode entries point forward to what things turn out to mean, and the sections after episode 20 take the whole season as read.
 
@@ -22,7 +22,7 @@ This is written for someone who has watched the series, or doesn't mind knowing:
 | 10 | the empty chair | Melissa, at his machine | Melissa uses his computer, looks straight at the channel, and finds it boring. |
 | 11 | gryffin makes it a threat | Drosan | *They know your name and your address* — alongside a break-in at Melissa's. |
 | 12 | the inconsistency | Drosan | slipknot finds the hole in Drosan's story; a stranger IMs to say he knows everything. |
-| 13 | the package that wasn't there | Drosan | A break-in at teflon's employer to delete an FTP log — and four words that reframe the season. |
+| 13 | the package that wasn't there | Drosan | A break-in at teflon's employer to delete an FTP log — and three words that reframe the season. |
 | 14 | pyr0 goes missing | pyr0 | The encoder's power is cut by his mother's boyfriend. slipknot finds Madrid and Brussels. |
 | 15 | the meeting without Drosan | cOda | cOda sells the group out in German while slipknot, in the next window, solves it. |
 | 16 | cOda goes dark | slipknot | The courier vanishes. The FTP logs say he never left. |
@@ -81,7 +81,7 @@ And the narration lays the track the whole season runs on: there is one unwritte
 
 The release in hand is *The Incredibles*, an eight-gigabyte file that pyr0 and the others have spent seven hours preparing. The episode is a tour of the last mile of a release. slipknot writes the NFO, the text file packaged with every release, which Drosan explains is read not only by other sceners but by the RIAA, the MPAA, federal investigators and, increasingly, reporters. teflon proofreads it and signs off. cOda checks the sites for a dupe and finds none, meaning the way is clear.
 
-Underneath, Drosan is behaving strangely. He is normally the one pushing everyone to move faster; today he is stalling. He's short with cOda, and when teflon asks privately what's wrong he says only that it's "dad stuff." A phone call with his mother fills that in: his father is in the hospital, there's an argument about getting him a private room, and a question about who understands the health plan — his uncle George does, and knows the doctor there, though Drosan says he'll call the doctors himself after class.
+Underneath, Drosan is behaving strangely. He is normally the one pushing everyone to move faster; today he is stalling. He's short with cOda, and when teflon asks privately what's wrong he says only that it's "dad stuff." A phone call with his mother fills that in: his father is in the hospital, there's an argument about getting him a private room, and a question about who understands the health plan — his uncle George, a chiropractor, does, and knows the doctors there, though Drosan says he'll call them himself after class. He has the number already; she gave it to him days ago. The call ends on two lines that cost him nothing and are the whole character: *tell Dad I was thinking about him*, and, when she asks, *yes, Melissa's fine*.
 
 **The screen supplies the real reason he is stalling.** A `LuckyChi2203` window is open through the whole sequence, messages alternating at 6:10 and 6:11 in the morning, directly alongside cOda's *helllooooo?* and *dude, c'mon, we gotta get this thing out* and *c'mon dro, what's up already?*. The group reads it as a man who won't answer. He is answering — just not them.
 
@@ -185,7 +185,7 @@ The trap is built out of trooper's own indignation about the early *Exorcist* re
 
 **Narration — the episode that rewrites the season:** teflon started on BBSs in the mid-80s on an Amiga with a 1200 baud modem, worked onto IRC and Usenet, and at 37 is considered an old man by the scene. None of that experience prepared him for what was coming; he never saw it coming at all.
 
-Two phone calls put him in a very different light from the man in the chat window. The first is with Cara, about a weekend he'd promised and an "agreement" he can't honor, and about Jimmy — he'll explain it to him himself tomorrow. The second is a message left for Larry: **"it's Ed"** — he's had another note from "our friends," has to go see them again in the morning, and is asking whether there's anything at all that can be done, because he could lose his job. On his screen, an IM from **burroughs485** reads *I will see you at 9AM*; teflon's own screen name here is `monticello235`, against the `monticello222@yahoo.com` on the episode 6 email — the same handle stem across two services, which is exactly the habit that hangs him. Then the man himself arrives at the door unannounced, a day early, making small talk about the dog. His face doesn't register as important yet: it belongs to the agent the briefing room calls Burroughs in episode 17 — the one who spent six months posing as a newbie kid to catch him — and it is the face that turns up again at cOda's keyboard in episode 19.
+Two phone calls put him in a very different light from the man in the chat window. The first is with a woman the transcripts render as **Cara** or **Karen** depending on the pass — about a weekend he'd promised and an "agreement" he can't honor, and about Jimmy, whom he'll explain it to himself tomorrow. Which she is stays open: the better transcript has him say *I have not been ignoring her*, which puts a third person in the call and makes the woman on the line a relative or a lawyer rather than the ex-wife herself. The second is a message left for Larry: **"it's Ed"** — he's had another note from "our friends," has to go see them again in the morning, and is asking whether there's anything at all that can be done, because he could lose his job. On his screen, an IM from **burroughs485** reads *I will see you at 9AM*; teflon's own screen name here is `monticello235`, against the `monticello222@yahoo.com` on the episode 6 email — the same handle stem across two services, which is exactly the habit that hangs him. Then the man himself arrives at the door unannounced, a day early, making small talk about the dog. His face doesn't register as important yet: it belongs to the agent the briefing room calls Burroughs in episode 17 — the one who spent six months posing as a newbie kid to catch him — and it is the face that turns up again at cOda's keyboard in episode 19.
 
 **The job is on screen too, and it is pitiful.** While he waits on the drop he opens Gmail and writes to `jcarantha@mtrailindustries.com` — Joan — subject **"Re: tomorrow morning"**:
 
@@ -403,6 +403,8 @@ gryffin drops the pretense: someone in the group was selling, and from his behav
 
 **The other half of the episode** runs in an IM window and is the most frightening stretch in the series. Melissa is at her parents' house, alone; her parents have taken someone called Jackie to Burlington, her father is unwell, and there has already been a break-in during the day — the locks were changed, the police came and said whoever it was may have been frightened off. Now she is hearing noises downstairs. *there's definitely someone in here!!* Drosan talks her through it in real time — stay calm, call 911, get to the bedroom, lock the door, how long since you called, what can you hear, are there neighbors you can call. She goes quiet for long stretches while he types her name into the silence, and at his most frantic he is typing in capitals; at one point the window simply prints that she has signed off.
 
+**He also picks up the phone, twice, nineteen seconds apart.** At **6:47**, the moment the window prints that she has signed off, he calls her: *Melissa, we were just chatting and I lost you. What's going on? Call me back, please. Melissa?* Nothing comes back. At **7:06** he calls Dana: *Dana, I'm on my way. Alright, I just have to take care of something. I'll be there in a little while.* One woman may be alone in a house with someone in it; the other is being managed. Neither call is on screen — both are audible only in the room, and the first pass of transcripts missed both.
+
 **And he opens a third window to get to her another way.** He messages Todd: *hey todd, you there?* … *not so good* … *i was chatting her just now and she's hearing noises downstairs* … *do you have liss' number up at her parents'? i have it written down at home but im not there* … *need to talk to her right away* … *she's up there alone* … *yeah, not working* … *thanks anyway*. Todd checks (*hold on- checking*), comes back with *sorry, all i have is her cell*, and asks to be told what happens. He asks for help exactly twice in the season — here, for a phone number he doesn't have because he isn't at his own apartment, and in episode 13, for a way into a stranger's server.
 
 It resolves as a false alarm — the person downstairs was her neighbor letting himself in. She comes back, he asks what happened, tells her she's given him a heart attack, and they say they love each other. He also tells slipknot, mid-argument, exactly why he keeps vanishing: *girlfriend issue, can i get back to you in a few?* … *sorry, back now, i was really sweating it.*
@@ -479,7 +481,17 @@ In the channel, the group is coming apart over his absence. He has been idling f
 
 What the channel cannot see is that pyr0 is having the worst morning of his life in two other windows. His friend **dopelegger** is chatting away about the night before — who thought Bob was driving them home, how they ended up walking when he'd already left, how expensive the cigars were and where pyr0 got them. It's the easy nonsense of two hungover people, and it's running directly alongside a release the rest of a continent is waiting on.
 
-Then dopelegger asks about his paper — `JThomas_report2`, or something like that. He needs it printed, and pyr0 had said it was already done. It isn't — and here the episode's two disasters turn out to be one disaster. **His mother's boyfriend has cut the power at the circuit breaker**, shouting at him through the door, taunting him about whether he can use his computer now and daring him to come out and get it. pyr0's response, when he realizes, is a single line of profanity repeated seven times, followed by asking whether he can have fifteen minutes. A phone call afterward confirms it from the other side — the last pages didn't come out, because the power went.
+The cigars are not small talk, and this is the episode where the spoken track carries the plot. Twice before any of it starts, a woman is calling up the stairs — *David! David! Are you getting ready?* at **2:09**, and *David, have you seen my uniform?* at **4:04**. Then at **9:36** a man starts hammering on the bedroom door:
+
+> **Man:** Alright, David, open up! … Hey, I'm talking to you! Open up! … Look, I got a bone to pick with you. I want to know what you did with my Cubans. … He's not answering. … He fucking took my Cubans!
+> **Woman:** Oh, he wouldn't do that.
+> **Man:** Yeah, the hell he wouldn't. … Look, I just want it back. David!
+> **Woman:** Okay, okay, calm down. I'll be downstairs.
+> **Man:** This is not over, buddy!
+
+**David** is the encoder's name, and it is said thirteen times in this episode — by his mother, getting ready for a shift in a uniform, and by the boyfriend through a locked door. It is never typed, never on a screen, and it appears nowhere else in twenty episodes. The grievance is the cigars dopelegger has just been asking him about: where he got them, and what they cost. And the calling never stops — she is still shouting his name up the stairs at 13:39, 13:53, 14:54 and 18:29, through the worst hours of his working life, and he answers none of it.
+
+Then dopelegger asks about his paper — `JThomas_report2`, or something like that. He needs it printed, and pyr0 had said it was already done. It isn't — and here the episode's two disasters turn out to be one disaster, ten minutes after the threat. **The boyfriend has cut the power at the circuit breaker**, and at **19:30** he is back outside the door, laughing: *try using your computer now! you want the circuit breaker? just come on out and get it.* pyr0's response, when he realizes, is a single line of profanity repeated seven times, followed by asking whether he can have fifteen minutes. A phone call afterward confirms it from the other side — the last pages didn't come out, because the power went.
 
 What he tells the channel is careful and almost true: he *blew a circuit breaker*; fortunately his modem is on a different circuit; he's getting back to the ripbox via laptop; *minor domestic crisis*. The film is *Madagascar*: VirtualDub is open on `madagascar_2005_DVDRIP_dust.avi`, a rival group is said to have it too, and he eventually reports *madagascar is ready, btw* — and the missing RAR turns out to be cOda's upload cutting out, not his. slipknot explains the repair, which he warns is delicate, and the group scrambles.
 
@@ -503,7 +515,7 @@ That is the episode 6 Yahoo account coming back, eight episodes later, in someon
 
 Drosan drifts through the channel too, and lets something slip about the other half of his life. When he apologizes for being away — *eh, sorry, girlfriend issues* — pyr0 says he thought he dumped her, and Drosan answers *i dumped one of them.* *The psycho bitch?* *yeah her. she won't leave it be. keeps calling me. she has this other boyfriend, and he's convinced that i'm trying to steal her. yep, that's my life.* That is the man from Todd's restaurant story in episode 12, identified.
 
-It is the funniest episode of the series and the saddest thing in it. After thirteen episodes of federal surveillance and betrayal, the release that nearly dies is nearly killed by a man in a house flipping a switch on a teenager, and the teenager can't tell anyone why — not his friend, who just wants his paper, and not the group, who think he's sleeping it off. The Bureau will describe him in episode 17 as sixteen or seventeen, somewhere in the Midwest. This is what that means.
+It is the funniest episode of the series and the saddest thing in it. After thirteen episodes of federal surveillance and betrayal, the release that nearly dies is nearly killed by a man in a house flipping a switch on a teenager over a box of cigars, and the teenager can't tell anyone why — not his friend, who just wants his paper, and not the group, who think he's sleeping it off. The Bureau will describe him in episode 17 as sixteen or seventeen, somewhere in the Midwest. This is what that means.
 
 ## Episode 15 — the meeting without Drosan *(POV: cOda)*
 
@@ -787,9 +799,9 @@ The rule, such as it is, is simpler than "one window each": the number of window
 ### Character notes
 
 - **Drosan** — **Brian Sandro** (he signs the episode 1 email with it, types it into a Gmail sign-in field in episode 2, and it appears as `brian.sandro@gmail.com` in an email To field in episode 6; the character is billed as "Drosan (Brian Sandro)" in the series' own credits); an NYU student writing to the finance department about tuition in episode 1, in the same statistics class as Todd; co-founded CPX with teflon about four years ago; girlfriend Melissa; father hospitalized after a stroke, which is the pressure behind the selling. Handles: **BrianSan** on ICQ, which is where the buyer reaches him; **BrianSan333** on AIM, for Melissa, Todd and — from episode 9 — Dana; and **dro_5544**, on AIM in episode 8 and on Yahoo! Messenger for the back channel with teflon and for Chris in episode 13.
-- **teflon** — **Edward G. Koenig**, 37, of Richmond, Virginia, divorced with one child (Jimmy; ex-wife Cara), alimony and a house payment; `monticello222@yahoo.com` for mail and `monticello235` on AIM; on BBSs since the mid-80s; a day job at Mtrail Industries he is visibly failing at, where the group's drop box also lives. Arrested in 2004 and run as an informant for the entire series — eight arrests by his own count — and he ends it with a job at the Department of Justice. Later handles: **copleyr785**, **collangello998**, **spinnaker**, and, invented wholesale, **LuckyChi2203**.
+- **teflon** — **Edward G. Koenig**, 37, of Richmond, Virginia, divorced with one child (Jimmy; the woman on the episode 5 phone call is heard as Cara or Karen, and may not be the ex-wife), alimony and a house payment; `monticello222@yahoo.com` for mail and `monticello235` on AIM; on BBSs since the mid-80s; a day job at Mtrail Industries he is visibly failing at, where the group's drop box also lives. Arrested in 2004 and run as an informant for the entire series — eight arrests by his own count — and he ends it with a job at the Department of Justice. Later handles: **copleyr785**, **collangello998**, **spinnaker**, and, invented wholesale, **LuckyChi2203**.
 - **trooper** — **Jodi**, a woman working at a DVD manufacturing plant in LA, sourcing from bins of misprinted discs; joined the scene via that job about a year before the series; `troopercamy0@yahoo.com`, `troopercamy` on AIM. For most of the season only she knows her own gender — the group refers to her as "he," and in episode 7 Drosan thanks her for her help with "thanks man." Drosan uses her first name once, in episode 18. She ends the season interviewing for an assistant's job at a studio, arranged by her sister.
-- **pyr0** — encoder, two years in; the Bureau pegs him at 16–17, American, Midwest; lives with his mother and her boyfriend, who cuts his power mid-release.
+- **pyr0** — **David**. The name is spoken, never typed: his mother calls him by it from the stairs all through episode 14, from 2:09 to 18:29, and her boyfriend hammers on his door with it at 9:36 — *alright, David, open up* — over a missing box of Cuban cigars, ten minutes before cutting the power at the breaker. It is written nowhere on screen in twenty episodes, and the first pass of transcripts lost the scene outright, so a reconstruction from screen text and machine transcripts alone never sees it. The cast list agrees: *Nick White as pyr0 (David)*. It also explains an oddity in the sequel, where the machine episode 1 is shot on is logged in as `David` and episode 4's FTP client reads `C:\Documents and Settings\David\Desktop` — the season 1 encoder's account, still on the production's computer two years later. Encoder, two years in; the Bureau pegs him at 16–17, American, Midwest; lives with his mother and her boyfriend, who cuts his power mid-release.
 - **slipknot** — co-founder by his own account; handles affiliate sites; the group's conscience and its actual detective. Lives with his father somewhere cold. Identifies gryffin as Brudiger in episode 15 and teflon as Koenig in episode 16, both correctly, and is believed by nobody.
 - **cOda** — courier; security-obsessed; Germany, later Prague. Sells the group out to gryffin for a replacement server in episode 15, fakes a week-long disappearance in episode 16 while the FTP logs show him online throughout, then wipes his machines and runs before the Bureau reaches him. The Bureau runs his account anyway.
 - **Melissa** — Drosan's girlfriend; first on camera in episode 10, when she takes over his machine.
@@ -813,9 +825,11 @@ The license is printed on screen at the end of episode 1, which settles it: *Cop
 | [Internet Archive — Welcome to the Scene](https://archive.org/details/welcome-to-the-scene) | An alternate upload of the series under its original release name |
 | [The Movie Database](https://www.themoviedb.org/tv/91461-the-scene) | Episode metadata |
 
-A few of the cast names are worth having next to the handles, since the series itself only ever shows the handles: **Joe Testa** as Drosan, **Laura Minarich** as danaburke123, **Trice Able** as melissbliss04, **Noah Rothman** as slipknot, and **Dinarte de Freitas** as cOda. The on-screen credits add **Curt Rosloff** and **Joel Felber** as the guest stars of episode 5 — teflon and the man at his door — and Felber again in episodes 17 and 19.
+A few of the cast names are worth having next to the handles, since the series itself only ever shows the handles: **Joe Testa** as Drosan, **Laura Minarich** as danaburke123, **Trice Able** as melissbliss04, **Noah Rothman** as slipknot, **Dinarte de Freitas** as cOda, and **Nick White** as pyr0. The on-screen credits add **Curt Rosloff** and **Joel Felber** as the guest stars of episode 5 — teflon and the man at his door — and Felber again in episodes 17 and 19.
 
 Two things in this synopsis are confirmed from outside the episodes rather than derived from them. Drosan's surname, which this reconstruction took from the To field of an email in episode 6, matches the credited character name "Drosan (Brian Sandro)." And Laura Minarich's credit identifies the woman on camera in episode 4 as danaburke123 — the link the episode itself never makes.
+
+A third name came from the audio rather than from either. pyr0 is called **David** thirteen times in episode 14, and the cast list bills him that way, but the name is in no window and was in no transcript: the first pass — `medium.en` with the default voice-activity detection — rendered that whole confrontation as a single subtitle spanning four minutes and twenty-four seconds and holding two sentences. Re-running the episode with the score stripped out first (`--ff_vocal_extract mdx_kim2`), `large-v2`, and pyannote VAD returned sixty-one subtitles where there had been eleven, including every line of the scene. The lesson is about the setting rather than the tool: under a loud score, VAD decides there is no speech, and nothing in the output marks what it discarded.
 
 ### Where to look
 
@@ -861,63 +875,63 @@ The series is read rather than watched, so a few of the frames carry more than
 any description of them can. These are reproduced here for reference; they
 remain Jun Group's.
 
-![Episode 1 — a Gmail compose window addressed to financedept@nyu.edu, subject "next semester payment", signed Brian Sandro](stills/e01-tuition-email.jpg)
+![Episode 1 — a Gmail compose window addressed to financedept@nyu.edu, subject "next semester payment", signed Brian Sandro](stills/s01/e01-tuition-email.jpg)
 
 *Episode 1, 5:33. The first thing the series tells you about Drosan is not that he
 runs a warez group. It is that his father is ill and the tuition is not going to be
 paid — and the signature at the bottom is his real name, eleven minutes in, five
 episodes before anyone thinks to look for it.*
 
-![Episode 1 — an ICQ message session with LuckyChi2203, who writes "Yes, I am here"](stills/e01-luckychi-icq.jpg)
+![Episode 1 — an ICQ message session with LuckyChi2203, who writes "Yes, I am here"](stills/s01/e01-luckychi-icq.jpg)
 
 *Episode 1, 12:03. The buyer, in the first of the windows that will eventually cost
 Drosan everything. LuckyChi2203 is a fabrication; the man typing is teflon, and the
 money is the Bureau's.*
 
-![Episode 6 — a Yahoo! Mail inbox with one message, from "ed koenig", subject "access issue", dated Sun 03/13](stills/e06-inbox-ed-koenig.jpg)
+![Episode 6 — a Yahoo! Mail inbox with one message, from "ed koenig", subject "access issue", dated Sun 03/13](stills/s01/e06-inbox-ed-koenig.jpg)
 
 *Episode 6, 14:18. One row in trooper's inbox, and the only place in the first
-sixteen episodes where teflon's real name is written down: sender **ed koenig**,
+fifteen episodes where teflon's real name is written down: sender **ed koenig**,
 subject **access issue**. Nobody in the story reads it as a name.*
 
-![Episode 6 — a Yahoo! Mail compose window, To: brian.sandro@gmail.com, Subject: Fwd: access issue](stills/e06-forward.jpg)
+![Episode 6 — a Yahoo! Mail compose window, To: brian.sandro@gmail.com, Subject: Fwd: access issue](stills/s01/e06-forward.jpg)
 
 *Episode 6, 6:39. Three seconds on screen, and the line that gives Drosan his
 surname: the mail goes to `brian.sandro@gmail.com`.*
 
-![Episode 13 — a PuTTY window showing a Metasploit session returning a Windows command prompt on 63.247.91.187](stills/e13-metasploit-shell.jpg)
+![Episode 13 — a PuTTY window showing a Metasploit session returning a Windows command prompt on 63.247.91.187](stills/s01/e13-metasploit-shell.jpg)
 
 *Episode 13, 13:00. The group breaks into its own drop site to find out who has been
 reading the logs. The shell comes back on `63.247.91.187` — and in the window at the
 left, teflon is asking how it is going.*
 
-![Episode 15 — an AIM conversation between c0dac0da and gryffin524 while the #dust channel discusses gryffin](stills/e15-gryffin-deal.jpg)
+![Episode 15 — an AIM conversation between c0dac0da and gryffin524 while the #dust channel discusses gryffin](stills/s01/e15-gryffin-deal.jpg)
 
 *Episode 15, 10:00. The whole season in one screen: in the channel behind, slipknot
 is working out that gryffin cannot be trusted; in the window in front, cOda is
 closing the deal with him.*
 
-![Episode 16 — an FTP server log showing repeated logins by user coda, beside the #dust channel where coda says he was locked out](stills/e16-ftp-logs.jpg)
+![Episode 16 — an FTP server log showing repeated logins by user coda, the Christmas-week entries selected](stills/s01/e16-ftp-logs.jpg)
 
-*Episode 16, 19:00. cOda tells the channel he could not get to his apartment for a
+*Episode 16, 19:20. cOda tells the channel he could not get to his apartment for a
 week. The site's own log has him logging in throughout, moving gigabytes.*
 
-![Episode 17 — an FBI briefing room, a whiteboard with "Ed Koenig / Teflon" boxed, captioned Monday, January 30, 2006](stills/e17-whiteboard.jpg)
+![Episode 17 — an FBI briefing room, a whiteboard with "Ed Koenig / Teflon" boxed, captioned Monday, January 30, 2006](stills/s01/e17-whiteboard.jpg)
 
 *Episode 17, 3:39. The only episode with no computers in it, and the one that says
 the names out loud. Tesseract recovers nothing from this board; the eye reads it
 without effort.*
 
-![Episode 20 — a Yahoo! Mail compose window beginning "Dear Cindy, Thank you so much for sending over the fo..."](stills/e20-thank-you.jpg)
+![Episode 20 — a Yahoo! Mail compose window reading "Dear Cindy, Thank you so much for sending over the foot warmers. I am much more comfortable at night now that I have them."](stills/s01/e20-thank-you.jpg)
 
-*Episode 20, 22:12. After twenty episodes of federal investigation, the series ends
+*Episode 20, 23:06. After twenty episodes of federal investigation, the series ends
 on a thank-you note about foot warmers.*
 
 ### On the sources
 
 Quoted exchanges follow the client they came from: IRC — the group's channel and the private queries inside mIRC — uses `<nick>`, and the instant-messaging windows on ICQ, AIM and Yahoo! Messenger use `nick:`, which is how each of them actually renders a line.
 
-On-screen text was recovered by sampling every episode at one frame every three seconds and reading the IRC, IM and application windows directly. Spoken material came from locally generated transcripts; the musical interludes between scenes are omitted.
+On-screen text was recovered by sampling every episode at one frame every three seconds and reading the IRC, IM and application windows directly. Spoken material came from locally generated transcripts; the musical interludes between scenes are omitted. Those transcripts were the weak link, and the fault was the settings rather than the audio. Run with `medium.en` and stock voice-activity detection, Whisper does not merely mishear this material — it discards whole exchanges silently, because the score is mixed loud enough that the detector finds no speech under it. Episode 14's confrontation at the door came back as one subtitle spanning four minutes and twenty-four seconds and holding two sentences; everything else said in it, the encoder's name included, was simply absent, with nothing in the file to show that anything was missing. Separating the vocals from the music before transcription fixes it: that episode re-run with `--ff_vocal_extract mdx_kim2`, `large-v2` and pyannote VAD returns sixty-one subtitles where there were eleven. All twenty episodes have now been redone the same way. They roughly doubled or tripled in length and confirmed what was already written rather than overturning it — episode 14 is so far the only one where the first pass lost something that mattered — but the re-runs do sharpen details (uncle George's profession, the exact end of the call to his mother) and recover whole calls — the two Drosan makes in episode 11, neither of which is on screen. They also surface audio nobody in the story is listening to: a television is playing behind the webcam in episode 8, and a film is running in episode 15 — the lines about destruction being *"a form of creation"* are *Donnie Darko* (2001), not anything anyone in this series says. Both land in the transcript looking like dialogue. Episode 17, which is nothing but dialogue and has no score to hide under, came back unchanged — the confirmation that the problem was always the music. Where a sentence in an SRT has no speaker on screen, suspect the room rather than the story. Where the spoken track carries plot, assume the first-pass transcripts are incomplete.
 
 The two real names in episode 17 — **Ed Koenig** and **Timothy Brudiger** — are spoken in the briefing and written on the whiteboard as the agent talks. OCR recovers none of the handwriting, but it is legible on the frame itself: the board is headed **Top Down**, and carries **Leader — Drosan**, **Encoder — Pyro**, **Affil — slipknot**, and a boxed **Ed Koenig / Teflon**. Koenig is confirmed twice more in text, in the From header of the episode 6 email and in the LexisNexis result read out in episode 16; Brudiger in slipknot's messages in episode 15.
 
