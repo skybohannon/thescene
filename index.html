@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Scene — Reconstruction</title>
+<meta name="description" content="Episode-by-episode synopses of The Scene (2004–2006) and The Scene 2.0, reconstructed from the on-screen text and audio of all forty episodes.">
+<style>
+:root{
+  --bg:#fbfaf7; --fg:#22201d; --muted:#6b6560; --rule:#ddd8d0;
+  --accent:#8a4b2a; --card:#f2efe9;
+  --max:44rem;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#16181a; --fg:#dcd9d4; --muted:#938f89; --rule:#2e3134;
+    --accent:#d99a6c; --card:#1e2124;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#16181a; --fg:#dcd9d4; --muted:#938f89; --rule:#2e3134;
+  --accent:#d99a6c; --card:#1e2124;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; background:var(--bg); color:var(--fg);
+  font:17px/1.62 Charter,"Bitstream Charter","Iowan Old Style",Georgia,"Times New Roman",serif;
+  padding:0 16px;
+}
+.wrap{max-width:var(--max);margin:0 auto;padding:3.5rem 0 6rem}
+header.mast{border-bottom:2px solid var(--fg);padding-bottom:1.1rem;margin-bottom:2rem}
+header.mast h1{font-size:2.05rem;line-height:1.15;margin:0 0 .4rem;letter-spacing:-.01em}
+header.mast p.kicker{margin:0;color:var(--muted);font-size:.9rem;letter-spacing:.06em;text-transform:uppercase}
+p{margin:0 0 1.05rem}
+a{color:var(--accent);text-decoration:none;border-bottom:1px solid rgba(138,75,42,.35)}
+a:hover{border-bottom-color:currentColor}
+ul.editions{list-style:none;margin:2.2rem 0;padding:0;display:grid;gap:1rem}
+ul.editions li{margin:0}
+ul.editions a{display:block;border:1px solid var(--rule);border-radius:4px;background:var(--card);
+  padding:1.1rem 1.25rem;color:var(--fg)}
+ul.editions a:hover{border-color:var(--accent)}
+ul.editions .label{display:block;font-size:.74rem;text-transform:uppercase;letter-spacing:.09em;color:var(--muted)}
+ul.editions .name{display:block;font-size:1.25rem;font-weight:600;line-height:1.3;margin:.2rem 0 .35rem;color:var(--accent)}
+ul.editions .what{display:block;font-size:.92rem;line-height:1.5}
+h2{font-size:1.06rem;margin:2.6rem 0 .7rem;letter-spacing:.02em;text-transform:uppercase;color:var(--muted)}
+footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--rule);
+  font-size:.82rem;color:var(--muted)}
+@media (max-width:600px){
+  body{font-size:16px}
+  .wrap{padding:2.2rem 0 4rem}
+  header.mast h1{font-size:1.6rem}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="mast">
+<p class="kicker">Reconstruction</p>
+<h1>The Scene (2004–2006)</h1>
+</header>
+
+<p><em>The Scene</em> is a web series in two twenty-episode seasons about warez groups and the people in them, told almost entirely through on-screen text: IRC channels, instant messages, mail and FTP windows that the viewer reads rather than hears. The databases that list it leave the plot fields blank. These are the missing synopses, reconstructed from every episode's screen text and audio.</p>
+
+<p>They are written for someone who has watched the series, or doesn't mind knowing how it ends.</p>
+
+<ul class="editions">
+<li><a href="The-Scene-S01-Episode-Synopses.html">
+  <span class="label">Season 1 · 2004–2006 · 20 episodes</span>
+  <span class="name">The Scene</span>
+  <span class="what">A release group, a screener sold on the side, and an informant in the channel from before the first scene.</span>
+</a></li>
+<li><a href="The-Scene-S02-Episode-Synopses.html">
+  <span class="label">Season 2 · 2006 · 20 episodes</span>
+  <span class="name">The Scene 2.0</span>
+  <span class="what">An ex-encoder recruited back, a daughter held as leverage, and two handlers telling her incompatible things in the same minute.</span>
+</a></li>
+<li><a href="The-Scene-Characters.html">
+  <span class="label">Both seasons</span>
+  <span class="name">Characters and Handles</span>
+  <span class="what">Who every handle belongs to, who plays them, and where to find them.</span>
+</a></li>
+</ul>
+
+<h2>Watch it</h2>
+<p>Both seasons are free on the Internet Archive: <a href="https://archive.org/details/the_scene_season_1">season 1</a> and <a href="https://archive.org/details/the-scene-2.0">The Scene 2.0</a>. Background, cast and credits are on <a href="https://en.wikipedia.org/wiki/The_Scene_(miniseries)">Wikipedia</a> and <a href="https://www.imdb.com/title/tt2201890/">IMDb</a>.</p>
+
+<h2>How it was made</h2>
+<p>Every episode was sampled every three seconds and read with OCR, and the spoken parts were transcribed with Whisper. The pipeline, its known limits, and why the recovered text itself isn't published are in the <a href="https://github.com/skybohannon/thescene">repository</a>.</p>
+
+<footer class="colophon">
+<p>Original writing here is licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC&nbsp;BY&nbsp;4.0</a>.
+<em>The Scene</em> (2004&ndash;2006) is a work of Jun Group Entertainment, released under
+<a href="https://creativecommons.org/licenses/by-nd/2.0/">CC&nbsp;BY-ND&nbsp;2.0</a>; the quoted dialogue and the
+frames reproduced in the synopses remain theirs.</p>
+</footer>
+</div>
+</body>
+</html>

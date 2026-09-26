@@ -21,6 +21,9 @@ def embed(m):
 
 body = re.sub(r'src="([^"]+\.jpg)"', embed, body)
 
+# --- links to a sibling .md point at its HTML edition instead -------------
+body = re.sub(r'href="([^":/]+)\.md"', r'href="\1.html"', body)
+
 # --- image + following italic paragraph -> figure -------------------------
 body = re.sub(
     r'<p><img([^>]*?)/?></p>\s*<p><em>(.*?)</em></p>',

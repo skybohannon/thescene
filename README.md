@@ -10,12 +10,14 @@ No episode-by-episode synopsis of it appears to exist: the databases that list t
 | --- | --- |
 | `The-Scene-S01-Episode-Synopses.md` | Season 1: all 20 episodes, POV per episode, character notes, and the threads that pay off across the season |
 | `The-Scene-S02-Episode-Synopses.md` | *The Scene 2.0*: all 20 episodes, the cold-open narration, the infrastructure the season is built on, and the personal thread underneath it |
+| `The-Scene-Characters.md` | Both seasons: every handle, who it belongs to, who plays them, and which episodes they're in |
+| `index.html` | The landing page for the GitHub Pages edition |
 | `stills/s01/` | Nine frames from season 1, referenced by that synopsis |
 | `stills/s02/` | Ten frames from season 2, likewise |
 | `scripts/` | The pipeline that recovered the text it was written from |
 | `LICENSE` | CC BY 4.0, covering the writing here — not the series |
 
-Each synopsis also ships as a single self-contained `.html` file with the frames embedded, so it can be read anywhere — including next to the episodes themselves.
+Each synopsis, and the character index, also ships as a single self-contained `.html` file with the frames embedded, so it can be read anywhere — including next to the episodes themselves. The same files are published at **[skybohannon.github.io/thescene](https://skybohannon.github.io/thescene/)**.
 
 The recovered screen text and the audio transcripts themselves are **not** published here — see *A note on the material* below.
 
@@ -42,8 +44,9 @@ Two things follow from that, and both cost time before they were noticed. `chatl
 | `normalize.py`, `handles.txt` | Cluster the spellings OCR produces for one handle down to a single name |
 | `prose.py` | The non-chat screen text — emails, letters, confirmations, addresses |
 | `chrome.py` | The data-bearing window furniture: IPs, paths, ports, URLs, clocks |
-| `transcribe.py` | faster-whisper over the episodes, one SRT each |
-| `mkhtml.py` | Builds a self-contained HTML edition from either synopsis: `python3 scripts/mkhtml.py <file>.md` |
+| `transcribe-xxl.sh` | The recommended transcription: Faster-Whisper-XXL with the score stripped out first (see *Known limits*) |
+| `transcribe.py` | faster-whisper over the episodes, one SRT each — the minimal Python equivalent, which misses speech under music |
+| `mkhtml.py` | Builds a self-contained HTML edition from a synopsis or the character index: `python3 scripts/mkhtml.py <file>.md` (needs `markdown-it-py`) |
 
 ## Known limits
 
