@@ -46,6 +46,9 @@ Two things follow from that, and both cost time before they were noticed. `chatl
 | `chrome.py` | The data-bearing window furniture: IPs, paths, ports, URLs, clocks |
 | `transcribe.py` | faster-whisper over the episodes, one SRT each |
 | `mkhtml.py` | Builds the HTML edition of a synopsis or the character index: `python3 scripts/mkhtml.py <file>.md` for the self-contained file, `--web <dir>` for the Pages version (needs `markdown-it-py`) |
+| `characters.py` | Who every handle and name belongs to, shared by `mkhtml.py` (for the links into the character index) and `check.py` |
+| `check.py` | Checks the character index against the synopses: every Episodes column, and every chat speaker. Run before publishing; CI runs it on every push |
+| `build-site.sh`, `checklinks.py` | Build the Pages edition into `_site/`, and check every link in it (`--external` for outside sites too, headers only) |
 
 ## Known limits
 

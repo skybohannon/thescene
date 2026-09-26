@@ -68,45 +68,9 @@ if SEASON:
                   lambda m: m.group(1) + link_timings(m.group(2)), body, flags=re.S)
 
 # --- characters link to their row in the character index ------------------
-# Anchor, then every handle and name that belongs to it. Longer spellings are
-# tried first, so a full Jabber ID wins over the bare nick inside it. Season 2
-# mostly calls people by name, so names are here as well as handles.
-HANDLES = {
-    1: [('drosan', ['BrianSan333', 'BrianSan', 'dro_5544', 'Drosan']),
-        ('teflon', ['monticello235', 'copleyr785', 'collangello998', 'spinnaker', 'teflon']),
-        ('trooper', ['troopercamy', 'trooper', 'Jodi']),
-        ('pyr0', ['pyr0']),
-        ('slipknot', ['slipknot']),
-        ('coda', ['cOda']),
-        ('melissa', ['melissbliss04', 'Melissa']),
-        ('dana', ['danaburke123', 'danaburke55']),
-        ('todd', ['Tremor2212', 'Todd']),
-        ('suzy', ['suzyxiao', 'Suzy']),
-        ('luckychi', ['LuckyChi2203']),
-        ('gryffin', ['gryffin']),
-        ('burroughs', ['burroughs485', 'Burroughs']),
-        ('agents', ['brenner2604', 'alanmeans06'])],
-    2: [('danika', ['houdini6@jabber.org', 'houdini6', 'DanikaLi99', 'sng330', 'lukai', 'Danika']),
-        ('talisman', ['talisman']),
-        ('t0mb0', ['t0mb0@jabber.org', 't0mb0', 'Tomasz']),
-        ('stan', ['tann3r@jabber.org', 'tann3r', 'Stan']),
-        ('murph', ['t!nman@jabber.org', 't!nman', 'spartan', 'Murph']),
-        ('ralph', ['jimbrandon09@jabber.org', 'jimbrandon09', 'Ralph Lasky', 'Ralph']),
-        ('mike', ['MikeyD5550', 'Mike Davis']),
-        ('katerina', ['Katerina']),
-        ('vicky', ['Vicky']),
-        ('zhen', ['bellbird', 'Zhen']),
-        ('greenberg', ['Greenberg']),
-        ('cunningham', ['Michael Cunningham', 'Cunningham']),
-        ('laurent', ['J. Laurent']),
-        ('weichang', ['Wei Chang'])],
-}
-INDEX = 'The-Scene-Characters.html'
-BOUND = r'(?<![\w@.!])(%s)(?![\w@])'
-
-def handle_re(season):
-    alts = sorted(((h, a) for a, hs in HANDLES[season] for h in hs), key=lambda x: -len(x[0]))
-    return re.compile(BOUND % '|'.join(re.escape(h) for h, _ in alts)), dict(alts)
+# The map of who is who lives in characters.py, shared with check.py.
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from characters import HANDLES, INDEX, handle_re, anchor_for
 
 SKIP = {'a', 'blockquote', 'h1', 'h2', 'h3', 'table', 'nav', 'figcaption'}
 
@@ -147,16 +111,14 @@ def anchor_rows(body):
     def row(m):
         tr = m.group(0)
         first = re.search(r'<td>(.*?)</td>', tr, flags=re.S)
-        if not first:
+        found = first and anchor_for(html.unescape(re.sub(r'<[^>]+>', '', first.group(1))))
+        if not found:
             return tr
-        cell = html.unescape(re.sub(r'<[^>]+>', '', first.group(1)))
-        for season in (1, 2):
-            for anchor, hs in HANDLES[season]:
-                key = 's%d-%s' % (season, anchor)
-                if key not in done and re.search(BOUND % '|'.join(map(re.escape, hs)), cell):
-                    done.add(key)
-                    return tr.replace('<tr>', '<tr id="%s">' % key, 1)
-        return tr
+        key = 's%d-%s' % found
+        if key in done:
+            return tr
+        done.add(key)
+        return tr.replace('<tr>', '<tr id="%s">' % key, 1)
     return re.sub(r'<tr>.*?</tr>', row, body, flags=re.S)
 
 if SEASON:
@@ -182,7 +144,8 @@ def addid(m):
     lvl, attrs, text = m.group(1), m.group(2), m.group(3)
     s = slug(text)
     toc.append((int(lvl), s, text))
-    return '<h%s id="%s"%s>%s</h%s>' % (lvl, s, attrs, text, lvl)
+    return ('<h%s id="%s"%s>%s <a class="perma" href="#%s" aria-label="Link to this section">#</a></h%s>'
+            % (lvl, s, attrs, text, s, lvl))
 
 body = re.sub(r'<h([23])(.*?)>(.*?)</h\1>', addid, body, flags=re.S)
 
@@ -193,6 +156,21 @@ for lvl, s, text in toc:
         eps.append((s, plain))
     elif lvl == 2 or lvl == 3:
         back.append((s, plain))
+
+# --- previous / next under every episode heading -------------------------
+def short(plain):
+    return re.match(r'(Episode \d+)', plain).group(1)
+
+for i, (s_id, plain) in enumerate(eps):
+    links = []
+    if i:
+        links.append('<a href="#%s">&larr; %s</a>' % (eps[i - 1][0], short(eps[i - 1][1])))
+    links.append('<a href="#toc">Contents</a>')
+    if i + 1 < len(eps):
+        links.append('<a href="#%s">%s &rarr;</a>' % (eps[i + 1][0], short(eps[i + 1][1])))
+    nav_html = '\n<p class="epnav">%s</p>' % ' &middot; '.join(links)
+    body = re.sub(r'(<h2 id="%s".*?</h2>)' % re.escape(s_id),
+                  lambda m: m.group(1) + nav_html, body, count=1, flags=re.S)
 
 def li(items):
     return '\n'.join('<li><a href="#%s">%s</a></li>' % (s, t) for s, t in items)
@@ -223,6 +201,24 @@ meta = '\n'.join([
     '<meta property="og:image" content="%s">' % image,
     '<meta name="twitter:card" content="summary_large_image">',
 ])
+# structured data: a synopsis is an article about one season of the series
+if SEASON:
+    import json
+    series = {'@type': 'TVSeries', 'name': 'The Scene',
+              'productionCompany': {'@type': 'Organization', 'name': 'Jun Group Entertainment'},
+              'url': 'https://en.wikipedia.org/wiki/The_Scene_(miniseries)'}
+    season = {'@type': 'TVSeason', 'seasonNumber': SEASON, 'numberOfEpisodes': len(eps),
+              'name': 'The Scene' if SEASON == 1 else 'The Scene 2.0', 'partOfSeries': series,
+              'episode': [{'@type': 'TVEpisode', 'episodeNumber': int(re.match(r'Episode (\d+)', t).group(1)),
+                           'name': re.sub(r'^Episode \d+ — |\s*\(POV:.*$', '', t).strip(' "'),
+                           'url': SITE + NAME + '#' + i} for i, t in eps]}
+    ld = {'@context': 'https://schema.org', '@type': 'Article', 'headline': title,
+          'description': desc, 'url': SITE + NAME, 'image': image, 'about': season,
+          'author': {'@type': 'Person', 'name': 'Sky Bohannon'},
+          'license': 'https://creativecommons.org/licenses/by/4.0/'}
+    meta += '\n<script type="application/ld+json">%s</script>' % \
+        json.dumps(ld, ensure_ascii=False).replace('</', '<\\/')
+
 # the web build links home relatively; the standalone file links to the site
 home = 'index.html' if WEB else SITE
 
@@ -296,6 +292,12 @@ a.h:hover{color:var(--accent);border-bottom-color:currentColor}
 header.mast p.kicker a.home{color:inherit;border:0}
 header.mast p.kicker a.home:hover{color:var(--accent)}
 tr:target td{background:var(--quote-bg)}
+a.perma{border:0;color:var(--muted);opacity:0;font-weight:400;margin-left:.2em;text-decoration:none}
+h2:hover a.perma,h3:hover a.perma,a.perma:focus{opacity:1}
+@media (hover:none){a.perma{opacity:.45}}
+p.epnav{margin:-.5rem 0 1.2rem;font-size:.8rem;color:var(--muted)}
+p.epnav a{color:var(--muted);border:0}
+p.epnav a:hover{color:var(--accent)}
 footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--rule);
   font-size:.82rem;color:var(--muted)}
 @media (max-width:600px){
@@ -307,7 +309,7 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 }
 @media print{
   body{background:#fff;color:#000}
-  #toc{display:none}
+  #toc,p.epnav,a.perma{display:none}
   h2{break-after:avoid}
   figure{break-inside:avoid}
 }

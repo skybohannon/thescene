@@ -32,10 +32,17 @@ The **Episodes** column lists the episode entries in the synopsis that name the 
 
 | Handle | Who | Played by | Episodes | In one line |
 | --- | --- | --- | --- | --- |
-| **LuckyChi2203** | "Lucky Chi" — nobody | — | 1–4, 18 | The bootlegger Drosan sells to. Invented by teflon and paid from a corporate card. |
+| **LuckyChi2203** | "Lucky Chi" — nobody | — | 1–4, 9, 11–13, 18 | The bootlegger Drosan sells to. Invented by teflon and paid from a corporate card. |
 | **gryffin** | Timothy Brudiger | — | 9–12, 15–20 | A middleman wired by the Bureau without his knowledge, and arrested in the end. |
 | **burroughs485** | Burroughs, case agent | Joel Felber | 5, 17, 19 | Ran teflon. The man at his door in episode 5. |
 | **brenner2604**, **alanmeans06** | Federal agents | — | 19 | Running cOda's account against gryffin. Their lines treat Burroughs as a third man; the credits suggest otherwise. |
+
+### Friends who lend a hand
+
+| Handle | Who | Played by | Episodes | In one line |
+| --- | --- | --- | --- | --- |
+| **chOppr998** | Chris | — | 13 | Walks Drosan through the break-in at teflon's employer, and checks his tradecraft twice while he does it. |
+| **r3dbadg3r** | "badger", trooper's contact | — | 16 | Has LexisNexis access, and turns the group's description of teflon into a full name: Edward G. Koenig of Richmond, VA. |
 
 ### Everyone who is only a handle
 
@@ -75,8 +82,8 @@ Season 2's credits don't list the cast against its characters, so there is no "P
 
 | Name | What they are | Episodes |
 | --- | --- | --- |
-| **Greenberg** | Above Stan. Decided Mike Davis had to be ruined. | 9, 15, 17, 18, 20 |
-| **Michael Cunningham** | One invented American who holds the money, sells the cover goods and receives the confirmations. `michaelrcunningham5@gmail.com`. | 3, 4, 11 |
+| **Greenberg** | Above Stan. Decided Mike Davis had to be ruined. Named on screen in episodes 9, 15, 17, 18 and 20. | 15 |
+| **Michael Cunningham** | One invented American who holds the money, sells the cover goods and receives the confirmations — including as the eBay seller in episode 4. `michaelrcunningham5@gmail.com`. | 3, 11 |
 | **J. Laurent** | The Swiss banker, `jlaurent@bbvabankltd.ch`. | 3 |
 | **Wei Chang** | One of the four surviving bellbird recruits, now in the Chinese military. | 16, 20 |
 | **ned snyder** | Mike Davis's boss, offered in episode 6 as the man to ask for the document she wants. | 6 |
@@ -91,6 +98,7 @@ The sequel shares no characters with the original, except one who never appears 
 | --- | --- | --- |
 | alanmeans06 | 1 | Federal agent |
 | brenner2604 | 1 | Federal agent |
+| chOppr998 | 1 | Chris |
 | BrianSan, BrianSan333 | 1 | Drosan |
 | burroughs485 | 1 | Burroughs |
 | cOda | 1 | cOda |
@@ -109,6 +117,7 @@ The sequel shares no characters with the original, except one who never appears 
 | MikeyD5550 | 2 | Mike Davis |
 | monticello222, monticello235 | 1 | teflon |
 | pyr0 | 1 | pyr0 (David) |
+| r3dbadg3r | 1 | trooper's LexisNexis contact |
 | slipknot | 1 | slipknot |
 | sng330 | 2 | Danika |
 | spartan | 2 | Murph |

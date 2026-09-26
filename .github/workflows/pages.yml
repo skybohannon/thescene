@@ -2,11 +2,18 @@
 # their frames linked from stills/ rather than embedded, so they load quickly on
 # a phone. The self-contained editions committed at the top of the repo are
 # served unchanged under offline/, for reading without a connection.
+#
+# The build fails if the character index disagrees with the synopses or any
+# link inside the site is broken. Outside links are checked separately, on
+# every push and weekly, and never block a deploy: the Internet Archive being
+# slow for an afternoon is not a reason to hold back an edit.
 name: Pages
 
 on:
   push:
     branches: [main]
+  schedule:
+    - cron: '17 6 * * 1'
   workflow_dispatch:
 
 permissions:
@@ -15,7 +22,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  group: pages-${{ github.event_name }}
   cancel-in-progress: true
 
 jobs:
@@ -27,19 +34,35 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install markdown-it-py
+      - name: Check the character index against the synopses
+        run: python3 scripts/check.py
       - name: Build
-        run: |
-          mkdir -p _site/offline
-          for f in The-Scene-S01-Episode-Synopses.md The-Scene-S02-Episode-Synopses.md The-Scene-Characters.md; do
-            python3 scripts/mkhtml.py --web _site "$f"
-            cp "${f%.md}.html" _site/offline/
-          done
-          cp index.html _site/
-          cp -r stills _site/
+        run: bash scripts/build-site.sh
+      - name: Check links inside the site
+        run: python3 scripts/checklinks.py _site
+      - name: Check links to outside sites
+        if: github.event_name == 'schedule'
+        run: python3 scripts/checklinks.py _site --external
       - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'schedule'
+
+  outside-links:
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install markdown-it-py
+      - name: Build
+        run: bash scripts/build-site.sh
+      - name: Check links to outside sites
+        run: python3 scripts/checklinks.py _site --external
 
   deploy:
     needs: build
+    if: github.event_name != 'schedule'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
