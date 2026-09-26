@@ -43,8 +43,15 @@ h2{font-size:1.32rem;line-height:1.25;margin:3.2rem 0 .9rem;padding-top:.3rem;bo
 h2:first-of-type{border-top:0}
 h3{font-size:1.06rem;margin:2.4rem 0 .7rem;letter-spacing:.02em;text-transform:uppercase;color:var(--muted)}
 p{margin:0 0 1.05rem}
-a{color:var(--accent);text-decoration:none;border-bottom:1px solid rgba(138,75,42,.35)}
-a:hover{border-bottom-color:currentColor}
+a{color:var(--accent);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.18em;
+  text-decoration-color:currentColor;text-decoration-color:color-mix(in srgb,currentColor 45%,transparent)}
+a:hover{text-decoration-color:currentColor}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:2px}
+.skip{position:absolute;left:16px;top:-3rem;background:var(--fg);color:var(--bg);padding:.5rem .8rem;
+  border-radius:3px;text-decoration:none;z-index:10}
+.skip:focus{top:.6rem}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);
+  white-space:nowrap;border:0}
 strong{font-weight:600}
 em{font-style:italic}
 code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.86em;
@@ -58,7 +65,8 @@ blockquote{
 blockquote p{margin:0 0 .5rem}
 blockquote p:last-child{margin:0}
 blockquote code{background:transparent;padding:0;font-size:1em}
-table{width:100%;border-collapse:collapse;margin:1.4rem 0;font-size:.88rem;display:block;overflow-x:auto}
+.tablewrap{overflow-x:auto;margin:1.4rem 0}
+table{width:100%;border-collapse:collapse;font-size:.88rem}
 th,td{text-align:left;padding:.42rem .7rem .42rem 0;border-bottom:1px solid var(--rule);vertical-align:top}
 th{font-weight:600;color:var(--muted);text-transform:uppercase;font-size:.74rem;letter-spacing:.05em}
 ul,ol{padding-left:1.25rem;margin:0 0 1.05rem}
@@ -75,18 +83,18 @@ figcaption{margin-top:.6rem;font-size:.86rem;line-height:1.5;color:var(--muted)}
 #toc li{margin:0 0 .3rem;break-inside:avoid}
 #toc ul.back{margin-top:.9rem;padding-top:.8rem;border-top:1px solid var(--rule);
   columns:2;column-gap:1.6rem}
-#toc a{border:0;color:var(--fg)}
-#toc a:hover{color:var(--accent)}
-a.h{color:inherit;border-bottom:1px dotted var(--muted)}
-a.h:hover{color:var(--accent);border-bottom-color:currentColor}
-header.mast p.kicker a.home{color:inherit;border:0}
+#toc a{text-decoration:none;color:var(--fg)}
+#toc a:hover{color:var(--accent);text-decoration:underline}
+a.h{color:inherit;text-decoration-style:dotted;text-decoration-color:var(--muted)}
+a.h:hover{color:var(--accent);text-decoration-color:currentColor}
+header.mast p.kicker a.home{color:inherit;text-decoration-style:dotted}
 header.mast p.kicker a.home:hover{color:var(--accent)}
 tr:target td{background:var(--quote-bg)}
-a.perma{border:0;color:var(--muted);opacity:0;font-weight:400;margin-left:.2em;text-decoration:none}
-h2:hover a.perma,h3:hover a.perma,a.perma:focus{opacity:1}
+a.perma{color:var(--muted);opacity:0;font-weight:400;margin-left:.2em;text-decoration:none}
+h2:hover a.perma,h3:hover a.perma,a.perma:focus-visible{opacity:1}
 @media (hover:none){a.perma{opacity:.45}}
 p.epnav{margin:-.5rem 0 1.2rem;font-size:.8rem;color:var(--muted)}
-p.epnav a{color:var(--muted);border:0}
+p.epnav a{color:var(--muted);display:inline-block;padding:.3rem 0}
 p.epnav a:hover{color:var(--accent)}
 footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--rule);
   font-size:.82rem;color:var(--muted)}
@@ -106,6 +114,7 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 </style>
 </head>
 <body>
+<a class="skip" href="#main">Skip to the text</a>
 <div class="wrap">
 <header class="mast">
 <p class="kicker"><a class="home" href="https://skybohannon.github.io/thescene/">The Scene</a> &middot; Reconstruction</p>
@@ -149,12 +158,13 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <li><a href="#on-the-sources">On the sources</a></li>
 </ul>
 </nav>
+<main id="main">
 
 <p>Reconstructed from the episodes themselves: on-screen text (IRC, IM, FTP and application windows) read frame by frame, merged with the spoken narration and phone calls from locally generated transcripts. No published episode synopses exist for this series. Links to the series and its records are at the end.</p>
 <p><strong>Coverage:</strong> complete — all 20 episodes, the on-screen text together with the spoken narration, phone calls and dialogue. Episode 17 is the exception with nothing to read: it is a briefing room, and entirely spoken.</p>
 <p>This is written for someone who has watched the series, or doesn't mind knowing: the episode entries point forward to what things turn out to mean, and the sections after episode 20 take the whole season as read.</p>
 <h2 id="the-season-at-a-glance">The season at a glance <a class="perma" href="#the-season-at-a-glance" aria-label="Link to this section">#</a></h2>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>#</th>
@@ -285,7 +295,7 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <td>Everyone lands somewhere. The wrong door gets kicked in.</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <hr />
 <h2 id="episode-1-the-package-came-pov-drosan">Episode 1 — &quot;the package came&quot; <em>(POV: Drosan)</em> <a class="perma" href="#episode-1-the-package-came-pov-drosan" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#toc">Contents</a> &middot; <a href="#episode-2-the-nfo-the-missing-rars-and-what-drosan-did-pov-drosan">Episode 2 &rarr;</a></p>
@@ -596,7 +606,7 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <p><strong>Narration:</strong> brief and rueful — people say the scene is changing, and nobody wants to talk about it.</p>
 <p>They convene deliberately while <a class="h" href="The-Scene-Characters.html#s1-drosan">Drosan</a> is at class. <a class="h" href="The-Scene-Characters.html#s1-trooper">trooper</a> objects on principle; <a class="h" href="The-Scene-Characters.html#s1-pyr0">pyr0</a> is louder about it. <a class="h" href="The-Scene-Characters.html#s1-slipknot">slipknot</a> presents a case file: busts landing right after group activity, four connected people, <a class="h" href="The-Scene-Characters.html#s1-teflon">teflon</a> gone, then <a class="h" href="The-Scene-Characters.html#s1-gryffin">gryffin</a>'s ring — and Drosan refusing to explain the core of his own plan until forced. The pushback is real — twenty-plus topsites, a hundred other exposures — but slipknot's claim is narrower: he can no longer believe the coincidence. <a class="h" href="The-Scene-Characters.html#s1-coda">cOda</a> privately tells trooper he thinks slipknot may walk, and wouldn't blame him.</p>
 <p><strong>The German window.</strong> While that meeting runs, cOda has several other windows open — private queries with trooper and slipknot, and two instant-message conversations. One of those is with gryffin, in English, about a topsite and about the box — which gryffin will ship only once cOda gives him site access first, &quot;as a show of good faith before i ship the box.&quot; The other is in German, with <strong>gx158</strong> — an associate of cOda's outside DUST — and it is where the decision is actually made.</p>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>On screen</th>
@@ -637,7 +647,7 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <td>alright. I'll tell him to go ahead and [send] the box</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <p>The left column is as the screen reads, misspellings included. Some of those — <em>einhgehen</em>, <em>git's</em>, the missing umlaut in <em>moglichkeit</em> — are informal typing; others are artifacts of reading 640×480 video; there is no reliable way to separate the two.</p>
 <p>&quot;Kiste&quot; is literally a crate — scene slang for the machine, the same box the group argues about funding in episode 10. Their server is failing and they can't find a replacement, which is the entire leverage gryffin has over them.</p>
 <p>The rest of the exchange is a negotiation rather than a decision. gryffin wants his access credentials up front; gx158 refuses flatly — <em>keine chance</em>, they get the box first, and only then does he get access — and says he'll hand it over a couple of hours later. cOda relays both sides, telling gryffin in English that the terms look acceptable, that he'll run it past his friends, that access is coming shortly, and pointedly that the two of them should stick to business. In German he is working through what happens in the worst case, and what protects them if they hold to their own terms.</p>
@@ -748,6 +758,7 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 </blockquote>
 <p>A young girl calls out that some men are here to see her grandmother; the old woman tells her to let them in; and federal agents come through the door shouting. The implication is left to land on its own: the address teflon just asked about is hers, and the connection Drosan used to mask himself was never his. The series does not spell out how he came by it. Episode 7's precaution protects him to the end, and the cost falls on someone who never knew the scene existed. The last on-screen text of the season, after twenty episodes of release channels and NFO files, is a thank-you note about foot warmers.</p>
 <hr />
+<h2 class="sr-only" id="about-the-season">About the season</h2>
 <h3 id="the-personal-thread">The personal thread <a class="perma" href="#the-personal-thread" aria-label="Link to this section">#</a></h3>
 <p>Running underneath the release plot, in IM windows rather than IRC, is a second story about <a class="h" href="The-Scene-Characters.html#s1-drosan">Drosan</a> managing people who want more from him than he intends to give. It runs through most of the season.</p>
 <ul>
@@ -761,7 +772,7 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <p>And the wall is not as solid as he thinks. Melissa sits at his machine in episode 10 with the channel scrolling in front of her and <strong>asks Suzy what it is</strong>; Suzy says it's probably just an IRC channel, and that is the end of it. She isn't deceived by tradecraft. She looks straight at the thing that is destroying him and finds it boring. That, rather than any moment of concealment, is the season's clearest statement about how this life stays hidden.</p>
 <h3 id="the-season-s-timeline">The season's timeline <a class="perma" href="#the-season-s-timeline" aria-label="Link to this section">#</a></h3>
 <p>The series never announces a date, but the software does. Instant-message windows print a &quot;Last message received on …&quot; footer, Yahoo Mail prints full headers, and a browser masthead prints the day — and read together they put the season on a calendar about fifteen months long:</p>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>Episode</th>
@@ -826,11 +837,11 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <td>IM window footer</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <p>A few things fall out of that. The collapse is slow — episodes 1 to 8, the whole arc from the <em>Alexander</em> screener to the night of the sting, take about six months, and there is a further gap of nearly five months between episode 8 and episode 13, spanned on screen by only four episodes. The Christmas dates under episode 16 are doing quiet work: <a class="h" href="The-Scene-Characters.html#s1-coda">cOda</a> goes dark over the holidays, and the FTP logs <a class="h" href="The-Scene-Characters.html#s1-slipknot">slipknot</a> obtains run from December 22nd to the 27th.</p>
 <h3 id="the-release-schedule">The release schedule <a class="perma" href="#the-release-schedule" aria-label="Link to this section">#</a></h3>
 <p>Every episode but the tenth ends on a card announcing the next one, so the series states its own publication schedule on screen:</p>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>Episode</th>
@@ -940,7 +951,7 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <td>episode 19</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <p><strong>Set that against the in-fiction dates above and something unusual emerges: the series ran in near-real time.</strong> Episode 5 is dated February 19, 2005 on screen and was published in late February 2005. Episode 13 is dated September 24, 2005 and went out in early October. Episode 16's logs run to December 27, 2005 and it was published in early January. Episode 17's briefing is captioned January 30, 2006 and it was announced for early February. Month after month, each episode is set a week or two before the day it reached its audience — so a viewer following along in 2005 was watching events that had, in the story's terms, just happened.</p>
 <p>Every episode also closes on the same disclaimer: <em>The Scene is a work of fiction, so none of the people or events you've just watched are real. No real internet users were harmed during the production of The Scene.</em></p>
 <h3 id="the-contradictions">The contradictions <a class="perma" href="#the-contradictions" aria-label="Link to this section">#</a></h3>
@@ -969,7 +980,7 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <h3 id="the-series-itself">The series itself <a class="perma" href="#the-series-itself" aria-label="Link to this section">#</a></h3>
 <p><em>The Scene</em> was produced by <strong>Jun Group Entertainment</strong> and directed by <strong>Mitchell Reichgut</strong>, released free on the web and seeded onto P2P networks. Season 1 ran 20 episodes from November 2004 to May 2006; a second season, <em>The Scene 2.0</em>, followed in 2006 with a different story.</p>
 <p>The license is printed on screen at the end of episode 1, which settles it: <em>Copyright (c) 2004 Jun Group, Inc. This work may be redistributed under the Creative Commons Attribution-NoDerivs license</em>, with a link to <code>creativecommons.org/licenses/by-nd/2.0/</code>. So it is <strong>CC BY-ND 2.0</strong> — attribution required, derivative works not permitted, commercial use not restricted. Secondary sources get this wrong in both directions: the Internet Archive upload's metadata adds a NonCommercial term the series never claimed.</p>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>Where</th>
@@ -998,7 +1009,7 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <td>Episode metadata</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <p>A few of the cast names are worth having next to the handles, since the series itself only ever shows the handles: <strong>Joe Testa</strong> as <a class="h" href="The-Scene-Characters.html#s1-drosan">Drosan</a>, <strong>Laura Minarich</strong> as <a class="h" href="The-Scene-Characters.html#s1-dana">danaburke123</a>, <strong>Trice Able</strong> as <a class="h" href="The-Scene-Characters.html#s1-melissa">melissbliss04</a>, <strong>Noah Rothman</strong> as <a class="h" href="The-Scene-Characters.html#s1-slipknot">slipknot</a>, <strong>Dinarte de Freitas</strong> as <a class="h" href="The-Scene-Characters.html#s1-coda">cOda</a>, and <strong>Nick White</strong> as <a class="h" href="The-Scene-Characters.html#s1-pyr0">pyr0</a>. The on-screen credits add <strong>Curt Rosloff</strong> and <strong>Joel Felber</strong> as the guest stars of episode 5 — <a class="h" href="The-Scene-Characters.html#s1-teflon">teflon</a> and the man at his door — and Felber again in episodes 17 and 19.</p>
 <p>Two things in this synopsis are confirmed from outside the episodes rather than derived from them. Drosan's surname, which this reconstruction took from the To field of an email in episode 6, matches the credited character name &quot;Drosan (Brian Sandro).&quot; And Laura Minarich's credit identifies the woman on camera in episode 4 as danaburke123 — the link the episode itself never makes.</p>
 <p>A third name came from the audio rather than from either. pyr0 is called <strong>David</strong> thirteen times in episode 14, and the cast list bills him that way, but the name is in no window and was in no transcript: the first pass — <code>medium.en</code> with the default voice-activity detection — rendered that whole confrontation as a single subtitle spanning four minutes and twenty-four seconds and holding two sentences. Re-running the episode with the score stripped out first (<code>--ff_vocal_extract mdx_kim2</code>), <code>large-v2</code>, and pyannote VAD returned sixty-one subtitles where there had been eleven, including every line of the scene. The lesson is about the setting rather than the tool: under a loud score, VAD decides there is no speech, and nothing in the output marks what it discarded.</p>
@@ -1009,7 +1020,7 @@ the Internet Archive and are accurate to about three seconds, the sampling
 interval. The range is first legible frame to last, not the length of the beat:
 a window often stays open long after the line that mattered, which is why
 episode 13's FTP credentials appear to run for twenty minutes.</p>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>Ep.</th>
@@ -1021,115 +1032,115 @@ episode 13's FTP credentials appear to run for twenty minutes.</p>
 <tr>
 <td>1</td>
 <td>teflon's real IP, before it means anything</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_1.mp4#t=138">2:18</a>–4:03</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_1.mp4#t=138" aria-label="Watch episode 1 from 2:18">2:18</a>–4:03</td>
 </tr>
 <tr>
 <td>1</td>
 <td>the tuition email to the NYU finance department</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_1.mp4#t=333">5:33</a>–17:24</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_1.mp4#t=333" aria-label="Watch episode 1 from 5:33">5:33</a>–17:24</td>
 </tr>
 <tr>
 <td>1</td>
 <td>the LuckyChi2203 session on ICQ</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_1.mp4#t=723">12:03</a>–17:54</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_1.mp4#t=723" aria-label="Watch episode 1 from 12:03">12:03</a>–17:54</td>
 </tr>
 <tr>
 <td>1</td>
 <td>the Slashdot / MSNBC story about the release</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_1.mp4#t=912">15:12</a>–15:45</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_1.mp4#t=912" aria-label="Watch episode 1 from 15:12">15:12</a>–15:45</td>
 </tr>
 <tr>
 <td>2</td>
 <td>the Boing Boing masthead</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_2.mp4#t=351">5:51</a>–6:06</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_2.mp4#t=351" aria-label="Watch episode 2 from 5:51">5:51</a>–6:06</td>
 </tr>
 <tr>
 <td>2</td>
 <td>the Gmail sign-in, <code>brian.sandro</code> in the field</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_2.mp4#t=723">12:03</a></td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_2.mp4#t=723" aria-label="Watch episode 2 from 12:03">12:03</a></td>
 </tr>
 <tr>
 <td>3</td>
 <td>the vcdquality link</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_3.mp4#t=93">1:33</a>–2:03</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_3.mp4#t=93" aria-label="Watch episode 3 from 1:33">1:33</a>–2:03</td>
 </tr>
 <tr>
 <td>5</td>
 <td>teflon's apology to Joan, his boss</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_5.mp4#t=84">1:24</a>–1:51</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_5.mp4#t=84" aria-label="Watch episode 5 from 1:24">1:24</a>–1:51</td>
 </tr>
 <tr>
 <td>5</td>
 <td>driving directions</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_5.mp4#t=549">9:09</a>–9:30</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_5.mp4#t=549" aria-label="Watch episode 5 from 9:09">9:09</a>–9:30</td>
 </tr>
 <tr>
 <td>5</td>
 <td>the <code>burroughs485</code> window</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_5.mp4#t=576">9:36</a>–9:48</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_5.mp4#t=576" aria-label="Watch episode 5 from 9:36">9:36</a>–9:48</td>
 </tr>
 <tr>
 <td>6</td>
 <td>the &quot;access issue&quot; mail from ed koenig</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_6.mp4#t=177">2:57</a>–14:18</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_6.mp4#t=177" aria-label="Watch episode 6 from 2:57">2:57</a>–14:18</td>
 </tr>
 <tr>
 <td>6</td>
 <td>the forward to <code>brian.sandro@gmail.com</code></td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_6.mp4#t=399">6:39</a>–6:42</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_6.mp4#t=399" aria-label="Watch episode 6 from 6:39">6:39</a>–6:42</td>
 </tr>
 <tr>
 <td>7</td>
 <td>the trooper query — seconds long</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_7.mp4#t=996">16:36</a>–17:03</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_7.mp4#t=996" aria-label="Watch episode 7 from 16:36">16:36</a>–17:03</td>
 </tr>
 <tr>
 <td>8</td>
 <td>the first Dana window</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_8.mp4#t=81">1:21</a>–3:48</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_8.mp4#t=81" aria-label="Watch episode 8 from 1:21">1:21</a>–3:48</td>
 </tr>
 <tr>
 <td>13</td>
 <td>the FTP credentials and the <code>.187</code> address</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_13.mp4#t=387">6:27</a>–26:33</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_13.mp4#t=387" aria-label="Watch episode 13 from 6:27">6:27</a>–26:33</td>
 </tr>
 <tr>
 <td>13</td>
 <td>the Metasploit download</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_13.mp4#t=780">13:00</a>–15:39</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_13.mp4#t=780" aria-label="Watch episode 13 from 13:00">13:00</a>–15:39</td>
 </tr>
 <tr>
 <td>13</td>
 <td>the log directory listing</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_13.mp4#t=1647">27:27</a>–29:27</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_13.mp4#t=1647" aria-label="Watch episode 13 from 27:27">27:27</a>–29:27</td>
 </tr>
 <tr>
 <td>15</td>
 <td>the German back channel (<code>gx158</code>)</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_15.mp4#t=600">10:00</a>–12:33</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_15.mp4#t=600" aria-label="Watch episode 15 from 10:00">10:00</a>–12:33</td>
 </tr>
 <tr>
 <td>15</td>
 <td>the PayPal IP, <code>154.158.47.5</code></td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_15.mp4#t=1218">20:18</a>–21:18</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_15.mp4#t=1218" aria-label="Watch episode 15 from 20:18">20:18</a>–21:18</td>
 </tr>
 <tr>
 <td>16</td>
 <td>the LexisNexis result</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_16.mp4#t=1005">16:45</a>–18:42</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_16.mp4#t=1005" aria-label="Watch episode 16 from 16:45">16:45</a>–18:42</td>
 </tr>
 <tr>
 <td>16</td>
 <td>cOda's FTP logs</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_16.mp4#t=1140">19:00</a>–20:57</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_16.mp4#t=1140" aria-label="Watch episode 16 from 19:00">19:00</a>–20:57</td>
 </tr>
 <tr>
 <td>20</td>
 <td>the last email</td>
-<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_20.mp4#t=1332">22:12</a>–23:06</td>
+<td><a href="https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_20.mp4#t=1332" aria-label="Watch episode 20 from 22:12">22:12</a>–23:06</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <p>Two of these are worth the trouble of finding on your own copy. The episode 6
 forward is on screen for three seconds. The episode 7 query with <a class="h" href="The-Scene-Characters.html#s1-trooper">trooper</a> is
 gone in under thirty.</p>
@@ -1168,11 +1179,13 @@ on a thank-you note about foot warmers.</figcaption></figure>
 <p>The two real names in episode 17 — <strong>Ed <a class="h" href="The-Scene-Characters.html#s1-teflon">Koenig</a></strong> and <strong><a class="h" href="The-Scene-Characters.html#s1-gryffin">Timothy Brudiger</a></strong> — are spoken in the briefing and written on the whiteboard as the agent talks. OCR recovers none of the handwriting, but it is legible on the frame itself: the board is headed <strong>Top Down</strong>, and carries <strong>Leader — Drosan</strong>, <strong>Encoder — Pyro</strong>, <strong>Affil — <a class="h" href="The-Scene-Characters.html#s1-slipknot">slipknot</a></strong>, and a boxed <strong>Ed Koenig / Teflon</strong>. Koenig is confirmed twice more in text, in the From header of the episode 6 email and in the LexisNexis result read out in episode 16; Brudiger in slipknot's messages in episode 15.</p>
 <p><strong>A note on what is easy to miss.</strong> Not all of this series is chat. Emails, browser tabs, FTP clients, file listings and desktop icons carry plot, and a sweep that looks only for IRC and IM lines will miss them: the tuition letter in episode 1, teflon's apology to his boss in episode 5, the &quot;access issue&quot; mail in episode 6, the FTP logs in episode 16, the Metasploit download in episode 13. Several private windows are also only a few frames long — the <a class="h" href="The-Scene-Characters.html#s1-trooper">trooper</a> exchange in episode 7 lasts seconds — so the sampling interval has to suit those rather than the channel, which is far more forgiving.</p>
 
+</main>
 <footer class="colophon">
 <p>Original writing here is licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC&nbsp;BY&nbsp;4.0</a>.
 <em>The Scene</em> (2004&ndash;2006) is a work of Jun Group Entertainment, released under
 <a href="https://creativecommons.org/licenses/by-nd/2.0/">CC&nbsp;BY-ND&nbsp;2.0</a>; the quoted dialogue and the
 frames reproduced above remain theirs.</p>
+<p>Spotted something that doesn&rsquo;t match the episode? <a href="https://github.com/skybohannon/thescene/issues/new?template=correction.yml">Report a correction</a>.</p>
 </footer>
 </div>
 </body>

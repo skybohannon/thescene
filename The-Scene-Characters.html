@@ -42,8 +42,15 @@ h2{font-size:1.32rem;line-height:1.25;margin:3.2rem 0 .9rem;padding-top:.3rem;bo
 h2:first-of-type{border-top:0}
 h3{font-size:1.06rem;margin:2.4rem 0 .7rem;letter-spacing:.02em;text-transform:uppercase;color:var(--muted)}
 p{margin:0 0 1.05rem}
-a{color:var(--accent);text-decoration:none;border-bottom:1px solid rgba(138,75,42,.35)}
-a:hover{border-bottom-color:currentColor}
+a{color:var(--accent);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.18em;
+  text-decoration-color:currentColor;text-decoration-color:color-mix(in srgb,currentColor 45%,transparent)}
+a:hover{text-decoration-color:currentColor}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:2px}
+.skip{position:absolute;left:16px;top:-3rem;background:var(--fg);color:var(--bg);padding:.5rem .8rem;
+  border-radius:3px;text-decoration:none;z-index:10}
+.skip:focus{top:.6rem}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);
+  white-space:nowrap;border:0}
 strong{font-weight:600}
 em{font-style:italic}
 code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.86em;
@@ -57,7 +64,8 @@ blockquote{
 blockquote p{margin:0 0 .5rem}
 blockquote p:last-child{margin:0}
 blockquote code{background:transparent;padding:0;font-size:1em}
-table{width:100%;border-collapse:collapse;margin:1.4rem 0;font-size:.88rem;display:block;overflow-x:auto}
+.tablewrap{overflow-x:auto;margin:1.4rem 0}
+table{width:100%;border-collapse:collapse;font-size:.88rem}
 th,td{text-align:left;padding:.42rem .7rem .42rem 0;border-bottom:1px solid var(--rule);vertical-align:top}
 th{font-weight:600;color:var(--muted);text-transform:uppercase;font-size:.74rem;letter-spacing:.05em}
 ul,ol{padding-left:1.25rem;margin:0 0 1.05rem}
@@ -74,18 +82,18 @@ figcaption{margin-top:.6rem;font-size:.86rem;line-height:1.5;color:var(--muted)}
 #toc li{margin:0 0 .3rem;break-inside:avoid}
 #toc ul.back{margin-top:.9rem;padding-top:.8rem;border-top:1px solid var(--rule);
   columns:2;column-gap:1.6rem}
-#toc a{border:0;color:var(--fg)}
-#toc a:hover{color:var(--accent)}
-a.h{color:inherit;border-bottom:1px dotted var(--muted)}
-a.h:hover{color:var(--accent);border-bottom-color:currentColor}
-header.mast p.kicker a.home{color:inherit;border:0}
+#toc a{text-decoration:none;color:var(--fg)}
+#toc a:hover{color:var(--accent);text-decoration:underline}
+a.h{color:inherit;text-decoration-style:dotted;text-decoration-color:var(--muted)}
+a.h:hover{color:var(--accent);text-decoration-color:currentColor}
+header.mast p.kicker a.home{color:inherit;text-decoration-style:dotted}
 header.mast p.kicker a.home:hover{color:var(--accent)}
 tr:target td{background:var(--quote-bg)}
-a.perma{border:0;color:var(--muted);opacity:0;font-weight:400;margin-left:.2em;text-decoration:none}
-h2:hover a.perma,h3:hover a.perma,a.perma:focus{opacity:1}
+a.perma{color:var(--muted);opacity:0;font-weight:400;margin-left:.2em;text-decoration:none}
+h2:hover a.perma,h3:hover a.perma,a.perma:focus-visible{opacity:1}
 @media (hover:none){a.perma{opacity:.45}}
 p.epnav{margin:-.5rem 0 1.2rem;font-size:.8rem;color:var(--muted)}
-p.epnav a{color:var(--muted);border:0}
+p.epnav a{color:var(--muted);display:inline-block;padding:.3rem 0}
 p.epnav a:hover{color:var(--accent)}
 footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--rule);
   font-size:.82rem;color:var(--muted)}
@@ -105,6 +113,7 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 </style>
 </head>
 <body>
+<a class="skip" href="#main">Skip to the text</a>
 <div class="wrap">
 <header class="mast">
 <p class="kicker"><a class="home" href="https://skybohannon.github.io/thescene/">The Scene</a> &middot; Reconstruction</p>
@@ -130,13 +139,14 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <li><a href="#every-handle-a-z">Every handle, A–Z</a></li>
 </ul>
 </nav>
+<main id="main">
 
 <p>Almost nobody in <em>The Scene</em> is called by their name. They are called by their handles, most of them have several, and the handles change between networks, between episodes, and when someone wants to be someone else. This is the index to both seasons: who each handle belongs to, who plays them where the credits say, and where to find them in the synopses.</p>
 <p>It is a companion to <a href="The-Scene-S01-Episode-Synopses.html">the season 1 synopsis</a> and <a href="The-Scene-S02-Episode-Synopses.html">the season 2 synopsis</a>, and like them it gives the endings away. The fuller character notes are at the back of each synopsis; this page is for finding your way.</p>
 <p>The <strong>Episodes</strong> column lists the episode entries in the synopsis that name the character, on screen or in someone else's window. It is a map of the writing rather than a screen-time log: a character discussed in their absence counts, and one referred to only as &quot;her daughter&quot; does not.</p>
 <h2 id="season-1-the-scene-2004-2006">Season 1 — <em>The Scene</em> (2004–2006) <a class="perma" href="#season-1-the-scene-2004-2006" aria-label="Link to this section">#</a></h2>
 <h3 id="cpx">CPX <a class="perma" href="#cpx" aria-label="Link to this section">#</a></h3>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>Handle</th>
@@ -190,9 +200,9 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <td>The courier. Sells the group out in German in episode 15, then vanishes.</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <h3 id="drosan-s-life-outside-the-channel">Drosan's life outside the channel <a class="perma" href="#drosan-s-life-outside-the-channel" aria-label="Link to this section">#</a></h3>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>Handle</th>
@@ -232,9 +242,9 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <td>Melissa's confidante, and by episode 18 her messenger.</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <h3 id="buyers-middlemen-and-the-bureau">Buyers, middlemen and the Bureau <a class="perma" href="#buyers-middlemen-and-the-bureau" aria-label="Link to this section">#</a></h3>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>Handle</th>
@@ -274,9 +284,9 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <td>Running cOda's account against gryffin. Their lines treat Burroughs as a third man; the credits suggest otherwise.</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <h3 id="friends-who-lend-a-hand">Friends who lend a hand <a class="perma" href="#friends-who-lend-a-hand" aria-label="Link to this section">#</a></h3>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>Handle</th>
@@ -302,9 +312,9 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <td>Has LexisNexis access, and turns the group's description of teflon into a full name: Edward G. Koenig of Richmond, VA.</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <h3 id="everyone-who-is-only-a-handle">Everyone who is only a handle <a class="perma" href="#everyone-who-is-only-a-handle" aria-label="Link to this section">#</a></h3>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>Handle</th>
@@ -333,10 +343,10 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <td>trooper</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <h2 id="season-2-the-scene-2-0-2006">Season 2 — <em>The Scene 2.0</em> (2006) <a class="perma" href="#season-2-the-scene-2-0-2006" aria-label="Link to this section">#</a></h2>
 <h3 id="the-operation">The operation <a class="perma" href="#the-operation" aria-label="Link to this section">#</a></h3>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>Handle</th>
@@ -389,10 +399,10 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <td>Framed so that suspicion stays off her, then recruited by the woman who did it. Gets into Stan's computer in episode 20.</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <p>Season 2's credits don't list the cast against its characters, so there is no &quot;Played by&quot; column here.</p>
 <h3 id="family">Family <a class="perma" href="#family" aria-label="Link to this section">#</a></h3>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>Name</th>
@@ -421,9 +431,9 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <td>A Chinese diplomat recruited by American intelligence in 1970s Beijing.</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <h3 id="named-never-seen">Named, never seen <a class="perma" href="#named-never-seen" aria-label="Link to this section">#</a></h3>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>Name</th>
@@ -458,11 +468,11 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <td>6</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <h2 id="the-one-thread-between-the-seasons">The one thread between the seasons <a class="perma" href="#the-one-thread-between-the-seasons" aria-label="Link to this section">#</a></h2>
 <p>The sequel shares no characters with the original, except one who never appears in it. The machine season 2 is shot on is logged in to Windows as <strong>David</strong>: the Start menu says so in episode 1, and episode 4's FTP client shows <code>C:\Documents and Settings\David\Desktop</code>. Nobody in season 2 is called David. In season 1, pyr0 is, and the name is only ever spoken aloud, in episode 14. The production seems to have kept the encoder's computer, and nobody renamed its user profile.</p>
 <h2 id="every-handle-a-z">Every handle, A–Z <a class="perma" href="#every-handle-a-z" aria-label="Link to this section">#</a></h2>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>Handle</th>
@@ -642,13 +652,15 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <td>Jodi</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 
+</main>
 <footer class="colophon">
 <p>Original writing here is licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC&nbsp;BY&nbsp;4.0</a>.
 <em>The Scene</em> (2004&ndash;2006) is a work of Jun Group Entertainment, released under
 <a href="https://creativecommons.org/licenses/by-nd/2.0/">CC&nbsp;BY-ND&nbsp;2.0</a>; the quoted dialogue and the
 frames reproduced above remain theirs.</p>
+<p>Spotted something that doesn&rsquo;t match the episode? <a href="https://github.com/skybohannon/thescene/issues/new?template=correction.yml">Report a correction</a>.</p>
 </footer>
 </div>
 </body>

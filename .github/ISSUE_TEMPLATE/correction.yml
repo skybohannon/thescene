@@ -1,0 +1,58 @@
+name: Correction
+description: Something in a synopsis or the character index doesn't match the episode.
+title: "S0?E??: "
+labels: [correction]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for checking this against the episodes. The more exactly you can point to the moment, the faster it can be fixed: the synopses were written from frames sampled every three seconds, so a timestamp is the most useful thing you can give.
+
+        The episodes are on the Internet Archive — [season 1](https://archive.org/details/the_scene_season_1), [The Scene 2.0](https://archive.org/details/welcometothescene_version2.0_xvid).
+  - type: dropdown
+    id: season
+    attributes:
+      label: Season
+      options:
+        - Season 1 — The Scene
+        - Season 2 — The Scene 2.0
+        - Both, or the character index
+    validations:
+      required: true
+  - type: input
+    id: episode
+    attributes:
+      label: Episode
+      description: The episode number as the synopsis numbers it, 1–20.
+      placeholder: "14"
+    validations:
+      required: true
+  - type: input
+    id: timestamp
+    attributes:
+      label: Timestamp
+      description: Where in the episode it happens. A range is fine.
+      placeholder: "9:36–10:12"
+  - type: textarea
+    id: synopsis
+    attributes:
+      label: What the synopsis says
+      description: Quote the sentence, or name the section.
+    validations:
+      required: true
+  - type: textarea
+    id: screen
+    attributes:
+      label: What's actually on screen or in the audio
+      description: The exact text if it's in a window, or the words if it's spoken. A screenshot helps with anything hard to read.
+    validations:
+      required: true
+  - type: dropdown
+    id: copy
+    attributes:
+      label: Which copy you watched
+      description: The timings are from the Internet Archive's H.264 MP4 files; other encodes can be a few seconds off.
+      options:
+        - Internet Archive, MP4
+        - Internet Archive, another format
+        - Another copy

@@ -43,8 +43,15 @@ h2{font-size:1.32rem;line-height:1.25;margin:3.2rem 0 .9rem;padding-top:.3rem;bo
 h2:first-of-type{border-top:0}
 h3{font-size:1.06rem;margin:2.4rem 0 .7rem;letter-spacing:.02em;text-transform:uppercase;color:var(--muted)}
 p{margin:0 0 1.05rem}
-a{color:var(--accent);text-decoration:none;border-bottom:1px solid rgba(138,75,42,.35)}
-a:hover{border-bottom-color:currentColor}
+a{color:var(--accent);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.18em;
+  text-decoration-color:currentColor;text-decoration-color:color-mix(in srgb,currentColor 45%,transparent)}
+a:hover{text-decoration-color:currentColor}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:2px}
+.skip{position:absolute;left:16px;top:-3rem;background:var(--fg);color:var(--bg);padding:.5rem .8rem;
+  border-radius:3px;text-decoration:none;z-index:10}
+.skip:focus{top:.6rem}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);
+  white-space:nowrap;border:0}
 strong{font-weight:600}
 em{font-style:italic}
 code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.86em;
@@ -58,7 +65,8 @@ blockquote{
 blockquote p{margin:0 0 .5rem}
 blockquote p:last-child{margin:0}
 blockquote code{background:transparent;padding:0;font-size:1em}
-table{width:100%;border-collapse:collapse;margin:1.4rem 0;font-size:.88rem;display:block;overflow-x:auto}
+.tablewrap{overflow-x:auto;margin:1.4rem 0}
+table{width:100%;border-collapse:collapse;font-size:.88rem}
 th,td{text-align:left;padding:.42rem .7rem .42rem 0;border-bottom:1px solid var(--rule);vertical-align:top}
 th{font-weight:600;color:var(--muted);text-transform:uppercase;font-size:.74rem;letter-spacing:.05em}
 ul,ol{padding-left:1.25rem;margin:0 0 1.05rem}
@@ -75,18 +83,18 @@ figcaption{margin-top:.6rem;font-size:.86rem;line-height:1.5;color:var(--muted)}
 #toc li{margin:0 0 .3rem;break-inside:avoid}
 #toc ul.back{margin-top:.9rem;padding-top:.8rem;border-top:1px solid var(--rule);
   columns:2;column-gap:1.6rem}
-#toc a{border:0;color:var(--fg)}
-#toc a:hover{color:var(--accent)}
-a.h{color:inherit;border-bottom:1px dotted var(--muted)}
-a.h:hover{color:var(--accent);border-bottom-color:currentColor}
-header.mast p.kicker a.home{color:inherit;border:0}
+#toc a{text-decoration:none;color:var(--fg)}
+#toc a:hover{color:var(--accent);text-decoration:underline}
+a.h{color:inherit;text-decoration-style:dotted;text-decoration-color:var(--muted)}
+a.h:hover{color:var(--accent);text-decoration-color:currentColor}
+header.mast p.kicker a.home{color:inherit;text-decoration-style:dotted}
 header.mast p.kicker a.home:hover{color:var(--accent)}
 tr:target td{background:var(--quote-bg)}
-a.perma{border:0;color:var(--muted);opacity:0;font-weight:400;margin-left:.2em;text-decoration:none}
-h2:hover a.perma,h3:hover a.perma,a.perma:focus{opacity:1}
+a.perma{color:var(--muted);opacity:0;font-weight:400;margin-left:.2em;text-decoration:none}
+h2:hover a.perma,h3:hover a.perma,a.perma:focus-visible{opacity:1}
 @media (hover:none){a.perma{opacity:.45}}
 p.epnav{margin:-.5rem 0 1.2rem;font-size:.8rem;color:var(--muted)}
-p.epnav a{color:var(--muted);border:0}
+p.epnav a{color:var(--muted);display:inline-block;padding:.3rem 0}
 p.epnav a:hover{color:var(--accent)}
 footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--rule);
   font-size:.82rem;color:var(--muted)}
@@ -106,6 +114,7 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 </style>
 </head>
 <body>
+<a class="skip" href="#main">Skip to the text</a>
 <div class="wrap">
 <header class="mast">
 <p class="kicker"><a class="home" href="https://skybohannon.github.io/thescene/">The Scene</a> &middot; Reconstruction</p>
@@ -150,6 +159,7 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <li><a href="#where-to-look">Where to look</a></li>
 </ul>
 </nav>
+<main id="main">
 
 <p>Reconstructed from the episodes themselves: on-screen text — Jabber, AIM and mIRC
 windows, emails, browser tabs and terminal output — read frame by frame, merged with
@@ -162,7 +172,7 @@ each one.</p>
 episode entries point forward to what things turn out to mean, and the sections after
 episode 20 take the whole season as read.</p>
 <h2 id="the-season-at-a-glance">The season at a glance <a class="perma" href="#the-season-at-a-glance" aria-label="Link to this section">#</a></h2>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>#</th>
@@ -293,7 +303,7 @@ episode 20 take the whole season as read.</p>
 <td>The method she was ordered to use on an innocent man, used on the man who ordered it, with that man's help.</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <h2 id="episode-1-the-recruitment-pov-lukai">Episode 1 — the recruitment <em>(POV: lukai)</em> <a class="perma" href="#episode-1-the-recruitment-pov-lukai" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#toc">Contents</a> &middot; <a href="#episode-2-katerina-pov-lukai">Episode 2 &rarr;</a></p>
 <blockquote>
@@ -1515,6 +1525,7 @@ off and live in peace?</p>
 </blockquote>
 <p>The last card of the season carries no date and no next episode — only <em>END OF
 [SEASON]</em>, and an address to visit for information on upcoming projects.</p>
+<h2 class="sr-only" id="about-the-season">About the season</h2>
 <h3 id="the-personal-thread">The personal thread <a class="perma" href="#the-personal-thread" aria-label="Link to this section">#</a></h3>
 <p>Season 1 was about a group. This one is about one person, and everything that happens
 to her happens through a child she cannot reach.</p>
@@ -1547,7 +1558,7 @@ him, in episode 11, who could possibly have done this to him.</p>
 <h3 id="the-season-s-timeline">The season's timeline <a class="perma" href="#the-season-s-timeline" aria-label="Link to this section">#</a></h3>
 <p>The fiction is dated much more precisely than season 1's was, because season 2 leaves
 timestamps on screen rather than in window captions.</p>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>Where</th>
@@ -1572,7 +1583,7 @@ timestamps on screen rather than in window captions.</p>
 <td>received <strong>October 4, 2006</strong>, 3:25pm, in Jishou, Hunan</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <p>Set against the twenty-episode span, that puts the whole season inside a few months of
 autumn 2006 — and places the weapons on a dock roughly four episodes before anyone on
 screen works out where they went.</p>
@@ -1686,7 +1697,7 @@ consequential, never seen.</li>
 web in 2006, twenty episodes, in the same format as season 1 — almost entirely
 on-screen text, with a first-person narration opening each episode. It is a different
 story with a different cast; nothing from season 1 carries over but the method.</p>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>Where</th>
@@ -1707,7 +1718,7 @@ story with a different cast; nothing from season 1 carries over but the method.<
 <td>The first season</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <p><strong>A note on the licence.</strong> Season 1 settles its own licensing on screen: a card at the
 end of episode 1 reads <em>Copyright (c) 2004 Jun Group, Inc. This work may be
 redistributed under the Creative Commons Attribution-NoDerivs license</em>, linking to
@@ -1771,7 +1782,7 @@ spoken aloud; some of it answers questions the dialogue leaves open.</p>
 <p>A dagger (†) marks a string taken from OCR and not yet checked against the frame
 itself. Everything unmarked was read off the frame — one entry still carries the
 dagger.</p>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>What</th>
@@ -1832,7 +1843,7 @@ dagger.</p>
 <td>ep. 16</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <p>The distinction matters because these are exactly the strings OCR destroys, and it
 destroys them plausibly. It gave me <code>yatb-rov159</code> for <code>rev159</code>, <code>-sU</code> for <code>-sV</code>,
 <code>jlauront</code> for <code>jlaurent</code> and <code>user-Gcev611</code> for <code>user-0cev611</code> — four readings that
@@ -1881,7 +1892,7 @@ under pressure.</figcaption></figure>
 against the episodes. Taken from the Internet Archive H.264 encodes and accurate to
 about three seconds, the sampling interval. The range is first legible frame to last,
 not the length of the beat.</p>
-<table>
+<div class="tablewrap"><table>
 <thead>
 <tr>
 <th>Ep.</th>
@@ -1893,174 +1904,176 @@ not the length of the beat.</p>
 <tr>
 <td>1</td>
 <td>the talisman approach, in mIRC</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.0_xvid.mp4#t=87">1:27</a>–3:18</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.0_xvid.mp4#t=87" aria-label="Watch episode 1 from 1:27">1:27</a>–3:18</td>
 </tr>
 <tr>
 <td>1</td>
 <td>the photograph link</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.0_xvid.mp4#t=369">6:09</a>–6:15</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.0_xvid.mp4#t=369" aria-label="Watch episode 1 from 6:09">6:09</a>–6:15</td>
 </tr>
 <tr>
 <td>2</td>
 <td>&quot;where is she?&quot;</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.1_xvid.mp4#t=84">1:24</a>–4:12</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.1_xvid.mp4#t=84" aria-label="Watch episode 2 from 1:24">1:24</a>–4:12</td>
 </tr>
 <tr>
 <td>2</td>
 <td>&quot;you will never see katerina&quot;</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.1_xvid.mp4#t=339">5:39</a></td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.1_xvid.mp4#t=339" aria-label="Watch episode 2 from 5:39">5:39</a></td>
 </tr>
 <tr>
 <td>3</td>
 <td>Applied Engineering, and the $75k</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.2_xvid.mp4#t=129">2:09</a>–3:54</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.2_xvid.mp4#t=129" aria-label="Watch episode 3 from 2:09">2:09</a>–3:54</td>
 </tr>
 <tr>
 <td>4</td>
 <td>the eBay registration</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.3_xvid.mp4#t=75">1:15</a>–2:39</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.3_xvid.mp4#t=75" aria-label="Watch episode 4 from 1:15">1:15</a>–2:39</td>
 </tr>
 <tr>
 <td>4</td>
 <td>&quot;some to china&quot; / &quot;some to iran&quot;</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.3_xvid.mp4#t=192">3:12</a>–3:45</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.3_xvid.mp4#t=192" aria-label="Watch episode 4 from 3:12">3:12</a>–3:45</td>
 </tr>
 <tr>
 <td>5</td>
 <td>the first &quot;danika&quot;</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.4_xvid.mp4#t=63">1:03</a>–1:27</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.4_xvid.mp4#t=63" aria-label="Watch episode 5 from 1:03">1:03</a>–1:27</td>
 </tr>
 <tr>
 <td>5</td>
 <td>the file on Mike Davis</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.4_xvid.mp4#t=114">1:54</a>–2:33</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.4_xvid.mp4#t=114" aria-label="Watch episode 5 from 1:54">1:54</a>–2:33</td>
 </tr>
 <tr>
 <td>6</td>
 <td>the Mets invitation</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.5_xvid.mp4#t=213">3:33</a>–4:15</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.5_xvid.mp4#t=213" aria-label="Watch episode 6 from 3:33">3:33</a>–4:15</td>
 </tr>
 <tr>
 <td>8</td>
 <td>the <code>#ALTERED-PORN</code> channel</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.7_xvid.mp4#t=60">1:00</a>–6:39</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.7_xvid.mp4#t=60" aria-label="Watch episode 8 from 1:00">1:00</a>–6:39</td>
 </tr>
 <tr>
 <td>8</td>
 <td>&quot;i'm filling up Mike Davis' computer&quot;</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.7_xvid.mp4#t=225">3:45</a>–4:15</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.7_xvid.mp4#t=225" aria-label="Watch episode 8 from 3:45">3:45</a>–4:15</td>
 </tr>
 <tr>
 <td>9</td>
 <td>the anonymous complaint being written</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.8_xvid.mp4#t=141">2:21</a>–3:45</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.8_xvid.mp4#t=141" aria-label="Watch episode 9 from 2:21">2:21</a>–3:45</td>
 </tr>
 <tr>
 <td>9</td>
 <td>&quot;i've given you the carrot&quot;</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.8_xvid.mp4#t=459">7:39</a>–7:45</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.8_xvid.mp4#t=459" aria-label="Watch episode 9 from 7:39">7:39</a>–7:45</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Vicky, and Beijing</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.9_xvid.mp4#t=243">4:03</a>–4:42</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.9_xvid.mp4#t=243" aria-label="Watch episode 10 from 4:03">4:03</a>–4:42</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Mike's protest — &quot;NONE OF IT&quot;</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.9_xvid.mp4#t=177">2:57</a>–3:27</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.9_xvid.mp4#t=177" aria-label="Watch episode 10 from 2:57">2:57</a>–3:27</td>
 </tr>
 <tr>
 <td>11</td>
 <td>the wire transfer — $74,507.89</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.10_xvid.mp4#t=60">1:00</a>–1:09</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.10_xvid.mp4#t=60" aria-label="Watch episode 11 from 1:00">1:00</a>–1:09</td>
 </tr>
 <tr>
 <td>12</td>
 <td>&quot;he's working for ICE&quot;</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.11_xvid.mp4#t=414">6:54</a>–6:57</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.11_xvid.mp4#t=414" aria-label="Watch episode 12 from 6:54">6:54</a>–6:57</td>
 </tr>
 <tr>
 <td>13</td>
 <td>&quot;singing like a bird&quot; / &quot;9 arrests so far&quot;</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.12_xvid.mp4#t=153">2:33</a>–3:33</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.12_xvid.mp4#t=153" aria-label="Watch episode 13 from 2:33">2:33</a>–3:33</td>
 </tr>
 <tr>
 <td>13</td>
 <td>&quot;blackhawk parts dont just disappear&quot;</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.12_xvid.mp4#t=423">7:03</a>–7:12</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.12_xvid.mp4#t=423" aria-label="Watch episode 13 from 7:03">7:03</a>–7:12</td>
 </tr>
 <tr>
 <td>14</td>
 <td>jim brandon introduces himself</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.13_xvid.mp4#t=273">4:33</a>–7:15</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.13_xvid.mp4#t=273" aria-label="Watch episode 14 from 4:33">4:33</a>–7:15</td>
 </tr>
 <tr>
 <td>15</td>
 <td>the bluff</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.14_xvid.mp4#t=612">10:12</a>–10:54</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.14_xvid.mp4#t=612" aria-label="Watch episode 15 from 10:12">10:12</a>–10:54</td>
 </tr>
 <tr>
 <td>16</td>
 <td>&quot;i have wonderful news!&quot;</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.15_xvid.mp4#t=204">3:24</a>–4:48</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.15_xvid.mp4#t=204" aria-label="Watch episode 16 from 3:24">3:24</a>–4:48</td>
 </tr>
 <tr>
 <td>16</td>
 <td>the email to Murph</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.15_xvid.mp4#t=72">1:12</a>–7:21</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.15_xvid.mp4#t=72" aria-label="Watch episode 16 from 1:12">1:12</a>–7:21</td>
 </tr>
 <tr>
 <td>16</td>
 <td>the shipment confirmation, with the Hunan address</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.15_xvid.mp4#t=483">8:03</a>–8:09</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.15_xvid.mp4#t=483" aria-label="Watch episode 16 from 8:03">8:03</a>–8:09</td>
 </tr>
 <tr>
 <td>17</td>
 <td>&quot;his company handle was spartan&quot;</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.16_xvid.mp4#t=312">5:12</a>–5:57</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.16_xvid.mp4#t=312" aria-label="Watch episode 17 from 5:12">5:12</a>–5:57</td>
 </tr>
 <tr>
 <td>17</td>
 <td>the countdown</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.16_xvid.mp4#t=453">7:33</a>–8:33</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.16_xvid.mp4#t=453" aria-label="Watch episode 17 from 7:33">7:33</a>–8:33</td>
 </tr>
 <tr>
 <td>18</td>
 <td>&quot;bellbird&quot;</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.17_xvid.mp4#t=270">4:30</a>–5:21</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.17_xvid.mp4#t=270" aria-label="Watch episode 18 from 4:30">4:30</a>–5:21</td>
 </tr>
 <tr>
 <td>18</td>
 <td>&quot;they think in terms of generations&quot;</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.17_xvid.mp4#t=438">7:18</a>–8:27</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.17_xvid.mp4#t=438" aria-label="Watch episode 18 from 7:18">7:18</a>–8:27</td>
 </tr>
 <tr>
 <td>19</td>
 <td>&quot;they were basically double agents&quot;</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.18_xvid.mp4#t=363">6:03</a>–8:00</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.18_xvid.mp4#t=363" aria-label="Watch episode 19 from 6:03">6:03</a>–8:00</td>
 </tr>
 <tr>
 <td>20</td>
 <td>&quot;a man named wei chang&quot;</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.19_xvid.mp4#t=390">6:30</a>–8:51</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.19_xvid.mp4#t=390" aria-label="Watch episode 20 from 6:30">6:30</a>–8:51</td>
 </tr>
 <tr>
 <td>20</td>
 <td>&quot;she's with a foster care family&quot;</td>
-<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.19_xvid.mp4#t=762">12:42</a>–13:18</td>
+<td><a href="https://archive.org/download/welcometothescene_version2.0_xvid/episode2.19_xvid.mp4#t=762" aria-label="Watch episode 20 from 12:42">12:42</a>–13:18</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <p>Two are worth finding on your own copy. The photograph link in episode 1 is on screen
 for six seconds and is the reason the entire season happens. And episode 11's wire
 confirmation — the money that buys the weapons — sits there for nine.</p>
 
+</main>
 <footer class="colophon">
 <p>Original writing here is licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC&nbsp;BY&nbsp;4.0</a>.
 <em>The Scene</em> (2004&ndash;2006) is a work of Jun Group Entertainment, released under
 <a href="https://creativecommons.org/licenses/by-nd/2.0/">CC&nbsp;BY-ND&nbsp;2.0</a>; the quoted dialogue and the
 frames reproduced above remain theirs.</p>
+<p>Spotted something that doesn&rsquo;t match the episode? <a href="https://github.com/skybohannon/thescene/issues/new?template=correction.yml">Report a correction</a>.</p>
 </footer>
 </div>
 </body>

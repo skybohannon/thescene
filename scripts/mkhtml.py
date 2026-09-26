@@ -57,7 +57,8 @@ def link_timings(section):
         url = episode_url(int(cells[0]))
         def t(tm):
             mins, secs = tm.group(1), tm.group(2)
-            return '<a href="%s#t=%d">%s:%s</a>' % (url, int(mins) * 60 + int(secs), mins, secs)
+            return '<a href="%s#t=%d" aria-label="Watch episode %s from %s:%s">%s:%s</a>' % (
+                url, int(mins) * 60 + int(secs), cells[0].strip(), mins, secs, mins, secs)
         last = cells[-1]
         linked = re.sub(r'(?<![\d:])(\d{1,2}):(\d\d)(?![\d:])', t, last, count=1)
         return tr.replace('<td>%s</td>' % last, '<td>%s</td>' % linked)
@@ -172,6 +173,20 @@ for i, (s_id, plain) in enumerate(eps):
     body = re.sub(r'(<h2 id="%s".*?</h2>)' % re.escape(s_id),
                   lambda m: m.group(1) + nav_html, body, count=1, flags=re.S)
 
+# The sections after the last episode are h3s, which a screen reader's outline
+# would file under episode 20. Give them a heading of their own, hidden on
+# screen, where the visual rule already marks the break.
+last_ep = max((i for i, (lvl, s_id, text) in enumerate(toc)
+                if lvl == 2 and re.sub(r'<[^>]+>', '', text).startswith('Episode')), default=None)
+after = [s_id for lvl, s_id, _ in toc[last_ep + 1:] if lvl == 3] if last_ep is not None else []
+if SEASON and after:
+    hidden = '<h2 class="sr-only" id="about-the-season">About the season</h2>\n'
+    body = body.replace('<h3 id="%s"' % after[0], hidden + '<h3 id="%s"' % after[0], 1)
+
+# Tables scroll sideways in a wrapper: display:block on the table itself would
+# make Safari and VoiceOver stop announcing it as a table.
+body = body.replace('<table>', '<div class="tablewrap"><table>').replace('</table>', '</table></div>')
+
 def li(items):
     return '\n'.join('<li><a href="#%s">%s</a></li>' % (s, t) for s, t in items)
 
@@ -253,8 +268,15 @@ h2{font-size:1.32rem;line-height:1.25;margin:3.2rem 0 .9rem;padding-top:.3rem;bo
 h2:first-of-type{border-top:0}
 h3{font-size:1.06rem;margin:2.4rem 0 .7rem;letter-spacing:.02em;text-transform:uppercase;color:var(--muted)}
 p{margin:0 0 1.05rem}
-a{color:var(--accent);text-decoration:none;border-bottom:1px solid rgba(138,75,42,.35)}
-a:hover{border-bottom-color:currentColor}
+a{color:var(--accent);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.18em;
+  text-decoration-color:currentColor;text-decoration-color:color-mix(in srgb,currentColor 45%,transparent)}
+a:hover{text-decoration-color:currentColor}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:2px}
+.skip{position:absolute;left:16px;top:-3rem;background:var(--fg);color:var(--bg);padding:.5rem .8rem;
+  border-radius:3px;text-decoration:none;z-index:10}
+.skip:focus{top:.6rem}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);
+  white-space:nowrap;border:0}
 strong{font-weight:600}
 em{font-style:italic}
 code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.86em;
@@ -268,7 +290,8 @@ blockquote{
 blockquote p{margin:0 0 .5rem}
 blockquote p:last-child{margin:0}
 blockquote code{background:transparent;padding:0;font-size:1em}
-table{width:100%;border-collapse:collapse;margin:1.4rem 0;font-size:.88rem;display:block;overflow-x:auto}
+.tablewrap{overflow-x:auto;margin:1.4rem 0}
+table{width:100%;border-collapse:collapse;font-size:.88rem}
 th,td{text-align:left;padding:.42rem .7rem .42rem 0;border-bottom:1px solid var(--rule);vertical-align:top}
 th{font-weight:600;color:var(--muted);text-transform:uppercase;font-size:.74rem;letter-spacing:.05em}
 ul,ol{padding-left:1.25rem;margin:0 0 1.05rem}
@@ -285,18 +308,18 @@ figcaption{margin-top:.6rem;font-size:.86rem;line-height:1.5;color:var(--muted)}
 #toc li{margin:0 0 .3rem;break-inside:avoid}
 #toc ul.back{margin-top:.9rem;padding-top:.8rem;border-top:1px solid var(--rule);
   columns:2;column-gap:1.6rem}
-#toc a{border:0;color:var(--fg)}
-#toc a:hover{color:var(--accent)}
-a.h{color:inherit;border-bottom:1px dotted var(--muted)}
-a.h:hover{color:var(--accent);border-bottom-color:currentColor}
-header.mast p.kicker a.home{color:inherit;border:0}
+#toc a{text-decoration:none;color:var(--fg)}
+#toc a:hover{color:var(--accent);text-decoration:underline}
+a.h{color:inherit;text-decoration-style:dotted;text-decoration-color:var(--muted)}
+a.h:hover{color:var(--accent);text-decoration-color:currentColor}
+header.mast p.kicker a.home{color:inherit;text-decoration-style:dotted}
 header.mast p.kicker a.home:hover{color:var(--accent)}
 tr:target td{background:var(--quote-bg)}
-a.perma{border:0;color:var(--muted);opacity:0;font-weight:400;margin-left:.2em;text-decoration:none}
-h2:hover a.perma,h3:hover a.perma,a.perma:focus{opacity:1}
+a.perma{color:var(--muted);opacity:0;font-weight:400;margin-left:.2em;text-decoration:none}
+h2:hover a.perma,h3:hover a.perma,a.perma:focus-visible{opacity:1}
 @media (hover:none){a.perma{opacity:.45}}
 p.epnav{margin:-.5rem 0 1.2rem;font-size:.8rem;color:var(--muted)}
-p.epnav a{color:var(--muted);border:0}
+p.epnav a{color:var(--muted);display:inline-block;padding:.3rem 0}
 p.epnav a:hover{color:var(--accent)}
 footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--rule);
   font-size:.82rem;color:var(--muted)}
@@ -325,18 +348,22 @@ doc = u"""<!DOCTYPE html>
 <style>%s</style>
 </head>
 <body>
+<a class="skip" href="#main">Skip to the text</a>
 <div class="wrap">
 <header class="mast">
 <p class="kicker"><a class="home" href="%s">The Scene</a> &middot; Reconstruction</p>
 <h1>%s</h1>
 </header>
 %s
+<main id="main">
 %s
+</main>
 <footer class="colophon">
 <p>Original writing here is licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC&nbsp;BY&nbsp;4.0</a>.
 <em>The Scene</em> (2004&ndash;2006) is a work of Jun Group Entertainment, released under
 <a href="https://creativecommons.org/licenses/by-nd/2.0/">CC&nbsp;BY-ND&nbsp;2.0</a>; the quoted dialogue and the
 frames reproduced above remain theirs.</p>
+<p>Spotted something that doesn&rsquo;t match the episode? <a href="https://github.com/skybohannon/thescene/issues/new?template=correction.yml">Report a correction</a>.</p>
 </footer>
 </div>
 </body>
