@@ -8,3 +8,6 @@ commit-message.txt
 
 # Python leaves these behind next to the scripts.
 __pycache__/
+
+# The Pages build (see .github/workflows/pages.yml).
+_site/

@@ -1,0 +1,49 @@
+# Builds the GitHub Pages edition: the synopses and the character index with
+# their frames linked from stills/ rather than embedded, so they load quickly on
+# a phone. The self-contained editions committed at the top of the repo are
+# served unchanged under offline/, for reading without a connection.
+name: Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install markdown-it-py
+      - name: Build
+        run: |
+          mkdir -p _site/offline
+          for f in The-Scene-S01-Episode-Synopses.md The-Scene-S02-Episode-Synopses.md The-Scene-Characters.md; do
+            python3 scripts/mkhtml.py --web _site "$f"
+            cp "${f%.md}.html" _site/offline/
+          done
+          cp index.html _site/
+          cp -r stills _site/
+      - uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

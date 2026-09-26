@@ -17,7 +17,7 @@ No episode-by-episode synopsis of it appears to exist: the databases that list t
 | `scripts/` | The pipeline that recovered the text it was written from |
 | `LICENSE` | CC BY 4.0, covering the writing here — not the series |
 
-Each synopsis, and the character index, also ships as a single self-contained `.html` file with the frames embedded, so it can be read anywhere — including next to the episodes themselves. The same files are published at **[skybohannon.github.io/thescene](https://skybohannon.github.io/thescene/)**.
+Each synopsis, and the character index, also ships as a single self-contained `.html` file with the frames embedded, so it can be read anywhere — including next to the episodes themselves. They are also published at **[skybohannon.github.io/thescene](https://skybohannon.github.io/thescene/)**, built by `.github/workflows/pages.yml` on every push: there the frames are linked rather than embedded so the pages load quickly, every handle links to its row in the character index, and every timing in *Where to look* opens the Internet Archive copy of the episode at that second. The self-contained files are served there too, under `offline/`.
 
 The recovered screen text and the audio transcripts themselves are **not** published here — see *A note on the material* below.
 
@@ -45,7 +45,7 @@ Two things follow from that, and both cost time before they were noticed. `chatl
 | `prose.py` | The non-chat screen text — emails, letters, confirmations, addresses |
 | `chrome.py` | The data-bearing window furniture: IPs, paths, ports, URLs, clocks |
 | `transcribe.py` | faster-whisper over the episodes, one SRT each |
-| `mkhtml.py` | Builds a self-contained HTML edition from a synopsis or the character index: `python3 scripts/mkhtml.py <file>.md` (needs `markdown-it-py`) |
+| `mkhtml.py` | Builds the HTML edition of a synopsis or the character index: `python3 scripts/mkhtml.py <file>.md` for the self-contained file, `--web <dir>` for the Pages version (needs `markdown-it-py`) |
 
 ## Known limits
 
