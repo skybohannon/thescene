@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 """Transcribe episodes to SRT with faster-whisper.
 
-Prefer transcribe-xxl.sh. This script cannot strip the score before detecting
-speech, and under music it drops whole scenes without marking the loss; it is
-kept as the minimal pure-Python equivalent.
-
     pip install faster-whisper
     python3 transcribe.py <outdir> <video> [<video> ...]
 

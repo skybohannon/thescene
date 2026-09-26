@@ -44,8 +44,7 @@ Two things follow from that, and both cost time before they were noticed. `chatl
 | `normalize.py`, `handles.txt` | Cluster the spellings OCR produces for one handle down to a single name |
 | `prose.py` | The non-chat screen text — emails, letters, confirmations, addresses |
 | `chrome.py` | The data-bearing window furniture: IPs, paths, ports, URLs, clocks |
-| `transcribe-xxl.sh` | The recommended transcription: Faster-Whisper-XXL with the score stripped out first (see *Known limits*) |
-| `transcribe.py` | faster-whisper over the episodes, one SRT each — the minimal Python equivalent, which misses speech under music |
+| `transcribe.py` | faster-whisper over the episodes, one SRT each |
 | `mkhtml.py` | Builds a self-contained HTML edition from a synopsis or the character index: `python3 scripts/mkhtml.py <file>.md` (needs `markdown-it-py`) |
 
 ## Known limits
@@ -65,7 +64,7 @@ Produced by Jun Group Entertainment, directed by Mitchell Reichgut, and released
 - [Wikipedia](https://en.wikipedia.org/wiki/The_Scene_(miniseries)) — production background, cast, format, and the parody series *Teh Scene*
 - [IMDb](https://www.imdb.com/title/tt2201890/) — [full credits](https://www.imdb.com/title/tt2201890/fullcredits/), [episode list](https://www.imdb.com/title/tt2201890/episodes/?year=2004)
 - [Internet Archive — The Scene Season 1](https://archive.org/details/the_scene_season_1) — all 20 episodes in several formats, plus torrents
-- [Internet Archive — The Scene 2.0](https://archive.org/details/the-scene-2.0) — the 2006 sequel, all 20 episodes
+- [Internet Archive — The Scene 2.0](https://archive.org/details/welcometothescene_version2.0_xvid) — the 2006 sequel, all 20 episodes
 - [Internet Archive — Welcome to the Scene](https://archive.org/details/welcome-to-the-scene) — an alternate upload under the original release name
 - [The Movie Database](https://www.themoviedb.org/tv/91461-the-scene) — episode metadata
 
