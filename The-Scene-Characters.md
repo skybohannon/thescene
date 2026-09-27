@@ -60,11 +60,11 @@ The **Episodes** column lists the episode entries in the synopsis that name the 
 
 | Handle | Who | Episodes | In one line |
 | --- | --- | --- | --- |
-| **lukai**, **sng330**, `houdini6@jabber.org`, **DanikaLi99** | Danika, an ICE agent undercover in Newark | all 20 | Being blackmailed into an operation and running one, at the same time. The only person in the season who refuses an order. |
+| **lukai**, **sng330**, `houdini6@jabber.org`, **DanikaLi99** | Danika, an ICE agent undercover in Newark | all 20 | Being blackmailed into an operation and running one, at the same time. The only person in the season who refuses an order. Her surname is her father's — see Zhen Li, below. |
 | `t0mb0@jabber.org` | Tomasz | 1–6, 8–10, 12, 13, 16 | Courteous, unhurried, and holding her daughter over her for twelve episodes. Episode 12 says he works for ICE. |
 | `tann3r@jabber.org` | Stan, her supervisor | 5, 7–10, 13, 15–17, 20 | Calls her *partner*. The season's actual antagonist. |
 | `t!nman@jabber.org`, **spartan** | Murph | 10, 12–20 | English, retired, and a friend of her father's. The only person whose information is never wrong. |
-| `jimbrandon09@jabber.org` | Ralph Lasky, cover name Jim Brandon | 14, 15, 17–19 | Ex-Navy cryptographer placed in Mike Davis's job. Introduced as a threat; turns out to be the one insider willing to break procedure. |
+| `jimbrandon09@jabber.org`, **jimbrandon999** | Ralph Lasky, cover name Jim Brandon | 14, 15, 17–19 | Ex-Navy cryptographer placed in Mike Davis's job. Introduced as a threat; turns out to be the one insider willing to break procedure. First reaches Danika over AIM as `jimbrandon999` in episode 14; the Jabber handle is his from episode 17 on. |
 | **talisman** | An old contact from lukai's scene days | 1 | Private-messages her from `#elitewarez` offering encoding work, is refused eight times, turns the request into a threat and sends her to Jabber. The synopsis doesn't say whether he and t0mb0 are the same man. |
 | **MikeyD5550** | Mike Davis, operations manager | 6–11, 14, 17, 20 | Framed so that suspicion stays off her, then recruited by the woman who did it. Gets into Stan's computer in episode 20. |
 
@@ -76,7 +76,7 @@ Season 2's credits don't list the cast against its characters, so there is no "P
 | --- | --- | --- | --- |
 | **Katerina** ("Kat") | Danika's daughter | the whole season | The leverage, on both sides. In foster care in Pennsylvania by episode 20, and probably there all along. |
 | **Vicky** | Danika's mother | 10 | Raised Katerina in Estonia, and has just died there. Murph knew her in Beijing. |
-| **Zhen** (the screen also spells it *zheng*), op name **bellbird** | Danika's father | 18 | A Chinese diplomat recruited by American intelligence in 1970s Beijing. |
+| **Zhen Li** (the screen also spells it *zheng*), op name **bellbird** | Danika's father | 18 | A Chinese diplomat recruited by American intelligence in 1970s Beijing — one of six, four still alive, still in place: episode 19 has Murph call the whole thing "basically planning a coup." Danika's own surname, all season, is his. |
 
 ### Named, never seen
 
@@ -111,6 +111,7 @@ The sequel shares no characters with the original, except one who never appears 
 | gryffin | 1 | Timothy Brudiger |
 | houdini6@jabber.org | 2 | Danika |
 | jimbrandon09@jabber.org | 2 | Ralph Lasky |
+| jimbrandon999 | 2 | Ralph Lasky |
 | LuckyChi2203 | 1 | teflon, in disguise |
 | lukai | 2 | Danika |
 | melissbliss04 | 1 | Melissa |

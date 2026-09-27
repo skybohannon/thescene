@@ -35,7 +35,7 @@ episode 20 take the whole season as read.
 | 16 | wonderful news | Danika | She writes her own last letter to one window while the other tells her that her daughter has been found and a car is coming. |
 | 17 | the offer expires in 15 seconds | Ralph Lasky | Inside the agency for the first time: a field officer holds his own supervisor to ransom for a briefing, and names a retired man neither of them was supposed to know about. |
 | 18 | bellbird | Ralph Lasky | The history. A recruitment in 1970s Beijing, six agents, four still alive, and a program measured in generations. |
-| 19 | what your government bought | Danika | Out, in a motel, and told what her father was — and what the weapons she shipped were actually for. |
+| 19 | what your government bought | Danika | Out, in a motel, and told what her father was — and that the weapons she shipped were financing a coup. |
 | 20 | the frame, returned | Danika | The method she was ordered to use on an innocent man, used on the man who ordered it, with that man's help. |
 
 ## Episode 1 — the recruitment *(POV: lukai)*
@@ -882,7 +882,7 @@ him:
 >
 > **MikeyD5550:** i just wanted to get that off my chest
 >
-> **MikeyD5550:** i wont bother you [again]
+> **MikeyD5550:** i wont bother you anymore
 
 ## Episode 11 — three minutes *(POV: Danika)*
 
@@ -1120,6 +1120,11 @@ many fingerprints to identify the host. A second scan minutes later, against
 **199.46.198.88**, resolves where the first one didn't: **itis-ts02.raytheon.com**.
 Raytheon is never named in dialogue anywhere in the season — this scan is the only
 place the client's identity actually appears on screen.
+
+![Episode 14 — a terminal window running a second Nmap scan that resolves 199.46.198.88 to itis-ts02.raytheon.com](stills/s02/e14-raytheon.jpg)
+
+*Episode 14, ~4:15. The only place the client's name appears anywhere in the season,
+and it's in a command-line scan result nobody on screen is shown reading.*
 
 > **t!nman:** a bit o paranoia can be healthy
 >
@@ -1388,6 +1393,11 @@ Murph", the letter actually reads *God I'm scared. What do I do, Murph? I just d
 know what to do??* — typed in full, then deleted before she moves on. It's on screen
 long enough to read; it just isn't in the letter she sends.
 
+![Episode 16 — the same compose window, a moment before deletion, reading "God I'm scared. What do I do, Murph? I just don't know what to do??"](stills/s02/e16-scared.jpg)
+
+*Episode 16, ~6:06. On screen for a few seconds and then gone: the one line in the
+letter that doesn't make it into the version Murph actually reads.*
+
 Attached below it, the thing she went into the building for. It is a shipment
 confirmation, and it is the answer to the question the whole season is about, sitting
 on screen in plain type four episodes before anyone says it out loud:
@@ -1619,6 +1629,11 @@ handle she's used all season, is his — American operational name **bellbird**.
 >
 > **t!nman:** bellbird was his american op name
 
+![Episode 18 — a Gaim window in which t!nman confirms "yes, zhen li" as danika's daddy](stills/s02/e18-zhenli.jpg)
+
+*Episode 18, ~4:49. Her father's full name, spoken once, in a window she's not even
+in — Danika's own surname all season has been sitting in plain sight.*
+
 Approached in the 1970s, just promoted to the diplomatic corps; the company liked him
 because *he had family* and because they thought he had *the potential to rise up
 through the ranks in the chinese govt*. Hesitant at first, and then persuaded once he
@@ -1734,6 +1749,11 @@ a state paying its own moles to arm themselves.
 > **t!nman:** that yer government has spent a lot of years and a lot of money
 >
 > **t!nman:** basically planning a coup
+
+![Episode 19 — a Gaim window in which t!nman tells houdini6 the US government has spent years and money "basically planning a coup"](stills/s02/e19-coup.jpg)
+
+*Episode 19, ~8:27. The season's actual answer to what the weapons were for, typed by
+the one person in it who never lies to her.*
 
 ## Episode 20 — the frame, returned *(POV: Danika)*
 
@@ -2022,9 +2042,9 @@ cover goods and take the confirmations. He never appears because there is nobody
 appear.
 
 **Whether t0mb0 is a person at all.** Murph's argument in episode 13 is that the man
-Danika spent twelve episodes negotiating with was *probably not [tombo]*, *just some
-govt spook*. Episode 12 says he is working for ICE. Nothing later confirms which, and
-he never speaks again after episode 12.
+Danika spent twelve episodes negotiating with was *probably not even tombo*, *just
+some govt spook*. Episode 12 says he is working for ICE. Nothing later confirms
+which, and he never speaks again after episode 12.
 
 **Wei Chang.** The name that ends Stan's resistance in episode 20, said to be one of
 the four surviving members of her father's cohort, now in the Chinese military, and to
@@ -2090,8 +2110,8 @@ run the third.
 - **Ralph Lasky** (`jimbrandon09@jabber.org`, cover name **Jim Brandon**) — ex-Navy
   cryptographer, fifteen years in, put into Mike Davis's job. Introduced as a threat
   and revealed as the one person inside the agency willing to break procedure because
-  *every once in a while you see something you can [do something about]*. His wife is
-  the redhead Murph remembers him chasing in Beijing.
+  *every once in a while you see something you can fix*. His wife is the redhead
+  Murph remembers him chasing in Beijing.
 - **Mike Davis** (`MikeyD5550`) — operations manager, divorced, two sons, one of whom
   is called Charlie. Framed for possession of pornography and an invented harassment
   complaint, suspended, and then recruited by the woman who did it. Gets the last laugh
