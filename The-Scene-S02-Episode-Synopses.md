@@ -1474,7 +1474,7 @@ The first of two episodes shot from inside the agency rather than against it, an
 first in the season where Danika does not appear at all. The man who took Mike Davis's
 job has stopped pretending to be an operations manager.
 
-> **jimbrandon09:** am I going to get a straight answer or [not]
+> **jimbrandon09:** am I going to get a straight answer or what?
 >
 > **tann3r:** i've told you everything i can
 >
@@ -1504,7 +1504,7 @@ The leverage is simple and he applies it without embarrassment:
 >
 > **jimbrandon09:** you can tell me what i want to know
 >
-> **jimbrandon09:** or you can lose your man at applied [engineering]
+> **jimbrandon09:** or you can lose your man at applied engineering
 >
 > **tann3r:** you're not serious
 >
@@ -1512,11 +1512,11 @@ The leverage is simple and he applies it without embarrassment:
 >
 > **jimbrandon09:** i'll fold up my laptop and walk out of here right now!
 >
-> **jimbrandon09:** how do you think greenberg will like [that]
+> **jimbrandon09:** how do you think greenberg will like that?
 
 His assessment of the operation is the audience's, delivered to the man responsible:
-*you've screwed this job up nine ways*, *danika's gone*, *you were sloppy on the
-weapons [shipments]*, *and the records leaked out*. And then the piece Stan did not
+*you've screwed this job up nine ways till sunday*, *danika's gone*, *you were
+sloppy on the weapons shipments*, *and the records leaked out*. And then the piece Stan did not
 have:
 
 > **jimbrandon09:** and now you've got another old fart from my day asking all the
@@ -1572,7 +1572,9 @@ straightforward exchange in the season.
 >
 > **jimbrandon09:** it's ralph lasky
 >
-> **jimbrandon09:** we worked together for a while in [beijing]
+> **jimbrandon09:** we worked together for a while in the eighties
+>
+> **jimbrandon09:** in beijing
 >
 > **t!nman:** i remember you
 >
@@ -1602,41 +1604,41 @@ statement of principle:
 >
 > **jimbrandon09:** but every once in a while
 >
-> **jimbrandon09:** you see something you can
+> **jimbrandon09:** you see something you can fix
 >
 > **jimbrandon09:** and that's what i'm seeing now
 
-And then the history. Danika's father was **Zhen**, American operational name
-**bellbird**.
+And then the history. Danika's father was **Zhen Li** — her own surname, on every
+handle she's used all season, is his — American operational name **bellbird**.
 
 > **jimbrandon09:** i assume the word "bellbird" is familiar?
 >
-> **t!nman:** yes, zhen
+> **t!nman:** yes, zhen li
 >
 > **t!nman:** danika's daddy
 >
 > **t!nman:** bellbird was his american op name
 
 Approached in the 1970s, just promoted to the diplomatic corps; the company liked him
-because they thought he had *the potential to rise up through the ranks in the chinese
-govt*. Hesitant at first, and then persuaded once he understood the scope of it. About
-a dozen were approached, *all of them young and from good [families]*, *but each of
-them had a reason to work for the [Americans]* — in Zhen's case an uncle the Party
-killed. Six were successfully recruited. Four are still alive.
+because *he had family* and because they thought he had *the potential to rise up
+through the ranks in the chinese govt*. Hesitant at first, and then persuaded once he
+understood the scope of it. About a dozen were approached, *all of them young and from
+good families*, *but each of them had a reason to work for the americans* — in Zhen's
+case an uncle the Party killed. Six were successfully recruited. Four are still alive.
 
 > **jimbrandon09:** it was a longterm program
 >
-> **jimbrandon09:** which is itself a radical departure for [the agency]
+> **jimbrandon09:** which is itself a radical departure for the us govt.
 >
-> **jimbrandon09:** they finally learned to think like their enemy
+> **jimbrandon09:** they finally learned to think like their enemy i guess
 >
-> **jimbrandon09:** the chinese govt don't think in terms [of years]
+> **jimbrandon09:** the chinese govt don't think in terms of years
 >
 > **jimbrandon09:** they think in terms of generations
 
 And the conclusion, offered as suspicion rather than fact:
 
-> **jimbrandon09:** i'm telling you that zheng's operation [never ended]
+> **jimbrandon09:** i'm telling you that zheng's operation isn't over
 >
 > **jimbrandon09:** it's still going on
 >
@@ -1646,7 +1648,7 @@ And the conclusion, offered as suspicion rather than fact:
 > over the past fifteen years
 >
 > **jimbrandon09:** i think you'd find that the four surviving members of zheng's
-> [cohort] were getting more than their [share]
+> operation were getting more than their fair shares
 
 ## Episode 19 — what your government bought *(POV: Danika)*
 
@@ -1655,8 +1657,9 @@ And the conclusion, offered as suspicion rather than fact:
 > thought the silence would drive me mad.*
 
 She is out. A motel, after a getaway she ran to Murph's instructions — *i switched
-subways several times*, *and followed a fairly labyrinthine path*, *no one was with
-me* — and Murph, who has not been in touch with her since episode 15, finally answers.
+subways several times*, *and followed a fairly labyrinthine path through several
+stores and restaurants*, *no one was with me* — and Murph, who has not been in touch
+with her since episode 15, finally answers.
 
 > **t!nman:** good girl
 >
@@ -1667,7 +1670,7 @@ me* — and Murph, who has not been in touch with her since episode 15, finally 
 He went to ground because someone with *juice* was asking after him and he could not
 be sure the chats weren't being read. The someone turns out to be Ralph:
 
-> **t!nman:** it turns out the guy lookin for me was someone of [interest]
+> **t!nman:** it turns out the guy lookin for me was someone of yer acquaintance
 >
 > **t!nman:** jim brandon
 >
@@ -1681,12 +1684,12 @@ be sure the chats weren't being read. The someone turns out to be Ralph:
 >
 > **t!nman:** he doesn't much like yer boss
 >
-> **t!nman:** nor what stan's been doing to [you]
+> **t!nman:** nor what stan's been doing to ya
 
 Then Murph tells her about her father, and the season's actual subject finally comes
 into view.
 
-> **t!nman:** yer dad and a bunch of others spent years working for [the americans]
+> **t!nman:** yer dad and a bunch of others spent years working for the US
 >
 > **t!nman:** they were basically double agents
 >
@@ -1694,7 +1697,7 @@ into view.
 >
 > **t!nman:** they provided info
 >
-> **t!nman:** and in return they had fantastic careers in the chinese [government]
+> **t!nman:** and in return they had fantastic careers in the chinese govt
 >
 > **houdini6:** how did the US help their careers?
 >
@@ -1710,24 +1713,27 @@ into view.
 >
 > **t!nman:** but the four guys left are in the chinese military
 >
-> **t!nman:** and someoen got the gright idea that it would be good [to strengthen
-> their collective hands]
+> **t!nman:** and someoen got the gright idea that it would be good to strengthen
+> their collective hands
 >
-> **houdini6:** the weapons?
+> **houdini6:** the weapons? THAT's where they were sending the weapons?
+>
+> **t!nman:** yes luv
 >
 > **t!nman:** weapons, cash, connections
 >
 > **t!nman:** the whole works
 
-Which makes the shipment she was blackmailed into arranging not a theft at all.
+Which makes the shipment she was blackmailed into arranging not a theft at all — it's
+a state paying its own moles to arm themselves.
 
 > **t!nman:** i can't say for sure
 >
 > **t!nman:** but it seems to me
 >
-> **t!nman:** that yer government has spent a lot of years and a [lot of money]
+> **t!nman:** that yer government has spent a lot of years and a lot of money
 >
-> **t!nman:** basically planning [this]
+> **t!nman:** basically planning a coup
 
 ## Episode 20 — the frame, returned *(POV: Danika)*
 
@@ -1802,9 +1808,9 @@ The first is his own:
 
 The second name stops him dead:
 
-> **houdini6:** murph had a little chat with greenberg last [night]
+> **houdini6:** murph had a little chat with greenberg last night
 >
-> **houdini6:** apparently they were discussing a man you [know]
+> **houdini6:** apparently they were discussing a man you do know
 >
 > **houdini6:** a man named wei chang
 >
@@ -1858,11 +1864,12 @@ ordered to use on Mike in episode 9.
 >
 > **houdini6:** the wire transfers are all there
 >
-> **houdini6:** if your memory is that badm you can check your chat [logs]
+> **houdini6:** if your memory is that badm you can check your chat logs
 >
-> **houdini6:** you'll see all the records of the conversations
+> **houdini6:** you'll see all the records of the conversations we had
 >
-> **houdini6:** all the things you said you'd do to me after we'd diverted [the money]
+> **houdini6:** all the things you said you'd do to me after we'd diverted enough
+> cash
 >
 > **houdini6:** all those nasty little pictures you sent me
 >
@@ -1886,13 +1893,13 @@ ordered to use on Mike in episode 9.
 > **houdini6:** toss out your computer
 >
 > **houdini6:** when they find the copies of the logs on the server you can tell them
-> how your box mysteriously disappeared at just the right [moment]
+> how your box mysteriously disappeared at just the right time
 
 Then she asks for the only thing she has ever asked for.
 
-> **houdini6:** now that i have you in the proper frame of [mind]
+> **houdini6:** now that i have you in the proper frame of mind
 >
-> **houdini6:** i'd like you to tell me where i can find my [daughter]
+> **houdini6:** i'd like you to tell me where i can find my daughter
 >
 > **tann3r:** she's with a foster care family
 >
@@ -1917,7 +1924,7 @@ under pressure.*
 > **houdini6:** way to go, stan
 
 The last card of the season carries no date and no next episode — only *END OF
-[SEASON]*, and an address to visit for information on upcoming projects.
+PROGRAM*, and an address to visit for information on upcoming projects.
 
 ### The personal thread
 
@@ -1965,6 +1972,7 @@ timestamps on screen rather than in window captions.
 | --- | --- |
 | A bank's wire-transfer confirmation, episode 11 | **Sep 3, 2006** |
 | An Nmap run against the company network, episode 14 | **2006-09-28 10:49 Eastern** |
+| A second Nmap run, minutes later, resolving the client's hostname | **2006-09-28 10:52 Eastern** |
 | The shipment confirmation attached to the episode 16 email | dated **September 27, 2006** |
 | The same confirmation's delivery stamp | received **October 4, 2006**, 3:25pm, in Jishou, Hunan |
 
@@ -1977,15 +1985,19 @@ screen works out where they went.
 There isn't one, and that is itself a difference worth recording. Every season 1
 episode but the tenth ended on a card announcing when the next would appear, which is how that
 season's near-real-time release pattern can be reconstructed. Season 2's end card
-carries only a web address. Episode 20's reads *END OF [SEASON] — FOR INFO ON UPCOMING
-PROJECTS, VISIT: WELCOMETOTHESCENE.com*, and nothing in any of the twenty episodes
-gives a date. The Internet Archive item is dated 2006 and that is all there is.
+carries only a web address. Episode 20's reads *END OF PROGRAM* / *FOR INFO ON
+UPCOMING PROJECTS, VISIT: WELCOMETOTHESCENE.com*, and nothing in any of the twenty
+episodes gives a date. The Internet Archive item is dated 2006 and that is all there
+is.
 
 ### Open questions
 
-Not among them: where the weapons went. Episode 16 puts the delivery address on screen
-— Jishou, in Hunan province — and the series then spends four more episodes letting
-its characters work out what the audience has already been shown.
+Not among them: where the weapons went, or why. Episode 16 puts the delivery address
+on screen — Jishou, in Hunan province — and the series then spends four more episodes
+letting its characters work out what the audience has already been shown. Episode 19
+answers the second half directly, in Murph's own word for it: *basically planning a
+coup*, financed for years with US money paid to its own moles inside the Chinese
+military.
 
 
 **Whose computer is it.** The Start menu in episode 1 — on the machine the episode is
