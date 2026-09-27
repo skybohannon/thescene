@@ -2035,6 +2035,8 @@ NonCommercial term the series never claimed. Treat it as unverified.
 
 The frames in the episode entries are reproduced because the series is read rather than watched, and a few of its frames carry more than any description of them can. They remain Jun Group's.
 
+**A note on this season's state.** Season 1 has since been checked a second time, full episodes read again directly against the video rather than the original OCR sweep -- see that season's equivalent note for what it found. This season has not yet had that pass; treat it as less scrutinized until it does.
+
 Quoted exchanges follow the client they came from. This season runs on three:
 
 - **Gaim, talking Jabber**, is most of it, and it prints a full address —
