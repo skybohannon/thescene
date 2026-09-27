@@ -714,7 +714,7 @@ What he tells the channel is careful and almost true: he *blew a circuit breaker
 
 **And the episode contains the season's second-best piece of detective work, buried under the comedy.** slipknot spends much of it working on pyr0, who doesn't want to hear it:
 
-> **&lt;slipknot&gt;** it was in an article in a french paper … published 18 days after dro sent the paypal … two high-level busts were reported — one in **madrid**, the other in **brussels** … don't you see? it is part of the pattern … i have seen at least 6 busts since dro [sent it] … some were public, i learned of others through channels … before dro sent that mail there was almost no [activity] — then, suddenly, a rash of busts
+> **&lt;slipknot&gt;** it was in an article in a french paper called *La Liberte* … published 18 days after dro sent the paypal … two high-level busts were reported — one in **madrid**, the other in **brussels** … don't you see? it is part of the pattern … i have seen at least 6 busts since dro [sent it] … some were public, i learned of others through channels … before dro sent that mail there was almost no [activity] — then, suddenly, a rash of busts
 
 Madrid and Brussels are the exact two cities the Bureau names in its own briefing three episodes later. slipknot gets there from a French newspaper and a date.
 
@@ -770,9 +770,11 @@ So the deal that destroys cOda is haggled out in two languages at once, in a win
 is working out that gryffin cannot be trusted; in the window in front, cOda is
 closing the deal with him.*
 
-**And in another window, slipknot solves the season.** This is the sequence the episode is really built around, and it is one of the best-constructed things in the series: an actual chain of reasoning, shown step by step, arriving at the correct answer two episodes before the Bureau confirms it.
+**And in another window, slipknot solves the season.** This is the sequence the episode is really built around, and it is one of the best-constructed things in the series: an actual chain of reasoning, shown step by step, arriving at the correct answer two episodes before the Bureau confirms it — and it starts by getting the one thing Drosan has never given up before: a name.
 
-He starts from the paperwork. The PayPal details that reached Drosan came in a forwarded mail, so he says he's going to check the header, and disappears for a while. He comes back with a fact against himself: **trooper's friend has run the name Timothy Brudiger, and Brudiger has no criminal record.** cOda says the obvious thing — then your theory is no good. slipknot agrees that he thought the same, and then asks him to listen anyway:
+He opens by telling cOda how he got it, and it is more coercive than "conversation" suggests: *he didn't ask any questions* … *he just hesitatted and then said 'okay'* … *i had him a bit cornered* … *there was not much he could do* … *dro just mailed me* … *the paypal he sent tef was from someone named timothy brudiger in plano texas.* That name — the whole season's second half — comes from Drosan himself, cornered into handing it over.
+
+Still to cOda, he lays out two more angles at once: *trooper has a friend with access to lexis nexis* who'll do *a little checking on mr. timothy brudiger*, and — *there is something else also* — the PayPal information arrived in a mail forwarded from Brudiger's own account, so he's *also going to check into the header*, because *i have a suspicion about something* he won't yet say what. He comes back later with the LexisNexis result, and it's a fact against himself: **trooper's friend has run the name, and Brudiger has no criminal record.** cOda says the obvious thing — then your theory is no good. slipknot agrees that he thought the same, and then asks him to listen anyway:
 
 - The PayPal account was sent to Drosan from **154.158.47.5**.
 - He has the TSR siteop look that address up. Over the past five months, **three movies were uploaded to TSR from the same IP**.
