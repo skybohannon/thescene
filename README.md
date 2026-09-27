@@ -24,7 +24,7 @@ The rest of this page is about how it was made.
 | `The-Scene-Characters.md` | Both seasons: every handle, who it belongs to, who plays them, and which episodes they're in |
 | `index.html` | The landing page for the GitHub Pages edition |
 | `stills/s01/` | Twenty-three frames from season 1, at least one for every episode, shown where they happen |
-| `stills/s02/` | Ten frames from season 2, likewise |
+| `stills/s02/` | Twenty-three frames from season 2, likewise |
 | `scripts/` | The pipeline that recovered the text it was written from |
 | `LICENSE` | CC BY 4.0, covering the writing here — not the series |
 
