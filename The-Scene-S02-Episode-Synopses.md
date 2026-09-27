@@ -419,7 +419,7 @@ it hired; Danika is also, as episode 5 established, what her own side calls her.
 >
 > **DanikaLi99:** hi Mike
 >
-> **MikeyD5550:** sorry for the [noise]
+> **MikeyD5550:** sorry for the im
 >
 > **MikeyD5550:** i'm over at the warehouse today
 >
@@ -442,7 +442,7 @@ Then he changes the subject, and the episode becomes something else:
 >
 > **MikeyD5550:** i'm taking my boys out to the mets game
 >
-> **MikeyD5550:** next week and i have a few extra [tickets]
+> **MikeyD5550:** next week and i have a few extra tix
 >
 > **MikeyD5550:** thought you and your little girl might like to come along
 >
@@ -473,7 +473,7 @@ every Jabber window in the season reads Private.*
 
 The episode closes back in Jabber, with the same man discussed as an asset:
 
-> **t0mb0:** what is the status of the [inventory]
+> **t0mb0:** what is the status of the inventory db ?
 >
 > **houdini6:** moving forward
 >
@@ -489,7 +489,7 @@ The episode closes back in Jabber, with the same man discussed as an asset:
 >
 > **houdini6:** very
 >
-> **houdini6:** he has no idea what is about to [happen to him]
+> **houdini6:** he has no idea what is about to happen to him
 
 ## Episode 7 — partner *(POV: Danika)*
 
@@ -505,11 +505,11 @@ episode 5 only implied.
 >
 > **houdini6:** i don't have time for this
 >
-> **tann3r:** do i detect a note of impatience, agent [?]
+> **tann3r:** do i detect a note of impatience, agent li ?
 >
 > **houdini6:** i'm not used to having a babysitter
 >
-> **tann3r:** well this wasn't exactly my first choice of an [assignment]
+> **tann3r:** well this wasn't exactly my first choice of an assignment either
 >
 > **tann3r:** but they assigned BOTH of us to this operation
 >
@@ -517,7 +517,7 @@ episode 5 only implied.
 
 The update is a break-in, described flatly while it happens:
 
-> **houdini6:** i am currently breaking into mike davis' [machine]
+> **houdini6:** i am currently breaking into mike davis' computer
 >
 > **tann3r:** he's not there?
 >
@@ -533,11 +533,13 @@ The update is a break-in, described flatly while it happens:
 >
 > **houdini6:** once i find his i'll just use it to log in remotely
 
-No inventory database yet: *mike's boss is out of town*. Then, unprompted, an
+The packet sniffer on screen is a real tool, Ethereal, capturing off a Marvell
+Gigabit adapter while a PuTTY session sits in the taskbar behind it. No inventory
+database yet: *mike's boss is out of town*. Then, unprompted, an
 apology — *sorry i'm so touchy*, *it's the pressure* — and tann3r says *it's okay*
 three times. houdini6 asks the only question she cares about: *is there an update from
 estonia?* Twelve orphanages checked, about fifteen to go. *So sit tight.* — *why must
-it take so [long]* — *keep your chin up, partner.*
+it take so long* — *keep your chin up, partner.*
 
 And in the third window, at the same moment, the man whose passwords she is sniffing
 is thanking her for a nice evening:
@@ -552,8 +554,8 @@ is thanking her for a nice evening:
 >
 > **MikeyD5550:** yeah but he's been acting out since his mother left
 >
-> **MikeyD5550:** anyway, i was thinking next time we could leave the kids with
-> [someone]
+> **MikeyD5550:** anyway, i was thinking next time we could leave the kids with a
+> sitter
 >
 > **MikeyD5550:** dinner and a movie perhaps?
 >
@@ -581,7 +583,7 @@ The episode opens on a joke that turns out not to be one.
 
 > **tann3r:** how goes it?
 >
-> **houdini6:** i'm currently donwloading hardcore porno
+> **houdini6:** i'm currently donwloading hardcore porno movies
 >
 > **tann3r:** haha, i'll be sure and put that on the report
 >
@@ -592,6 +594,33 @@ The episode opens on a joke that turns out not to be one.
 > **tann3r:** you're serious?
 >
 > **houdini6:** yes, i am serious, stan
+
+There is also friction here, and it is the first time tann3r pushes back — before
+the joke lands, not after:
+
+> **tann3r:** i know i'm new to the unit and all
+>
+> **tann3r:** but i'm working my ass off
+>
+> **tann3r:** tyring to find your little girl
+>
+> **tann3r:** think you could cut me just a little slack?
+>
+> **houdini6:** you're right
+>
+> **houdini6:** sorry again
+>
+> **houdini6:** i must learn to behave
+>
+> **tann3r:** no big deal
+>
+> **tann3r:** i understand
+>
+> **tann3r:** so, porn?
+>
+> **houdini6:** yes, lots of it
+>
+> **houdini6:** the filthiest, most abhorrent i can find
 
 She is doing it on `irc.a0hell.net`, in a channel called `#ALTERED-PORN`, by DCC — a
 screen of warez-scene furniture put to a use the scene never intended. The status
@@ -610,23 +639,9 @@ filling up is not his:
 >
 > **houdini6:** i'm filling up Mike Davis' computer
 >
+> **tann3r:** ahhh
+>
 > **tann3r:** i see said the blind man
-
-There is also friction, and it is the first time tann3r pushes back:
-
-> **tann3r:** i know i'm new to the unit and all
->
-> **tann3r:** but i'm working my ass off
->
-> **tann3r:** trying to find your little girl
->
-> **tann3r:** think you could cut me just a little slack?
->
-> **houdini6:** you're right
->
-> **houdini6:** sorry again
->
-> **houdini6:** i must learn to behave
 
 In the other window, progress and impatience. houdini6 has acquired the inventory
 database; t0mb0 is unmoved.
@@ -645,12 +660,12 @@ database; t0mb0 is unmoved.
 >
 > **houdini6:** i'm doing everything i can
 
-Asked what is holding her up, she explains the whole shape of it: she will alter the
-inventory database and the shipping log to reflect the client's purchases, which
-means overwriting the current files on the server, which means covering her tracks —
-*if anyone ever questions our clients' shipments i must [be protected]* — and she has
-broken into a computer that will let her do it. The method is named in the last line
-of the episode: *by making sure that somebody else in the company gets the [blame]*.
+Asked what is holding her up, she explains the whole shape of it: she has broken into
+a computer that will enable her to do this, will alter the inventory database and the
+shipping log to reflect the client's purchases, and to do so must overwrite the
+current files on the server — *but if anyone ever questions our clients' shipments i
+must protect myself*. The method is named in the last line of the episode: *by making
+sure that somebody else in the company gets the blame*.
 
 ## Episode 9 — the carrot and the stick *(POV: Danika)*
 
@@ -671,9 +686,10 @@ The first line is a refusal.
 >
 > **tann3r:** it's coming from higher up
 
-The frame is already built — *i've partitioned his hard drive*, *and filled it with
-the evidence*, *we can make him the scapegoat whenever [we need to]* — and houdini6's
-objection is that it is now unnecessary:
+She objects first that Mike is a decent guy, there's no reason to crucify him — *we've
+been all through this*, tann3r says. The frame is already built — *i've partitioned
+his hard drive*, *and filled it with the evidence*, *we can make him the scapegoat
+whenever we need to* — and houdini6's objection is that it is now unnecessary:
 
 > **houdini6:** nothing will go wrong
 >
@@ -681,24 +697,28 @@ objection is that it is now unnecessary:
 >
 > **houdini6:** and no one suspects a thing
 >
-> **houdini6:** the weapons will be shipped to tombo's client
+> **houdini6:** the weapons will be shipped to tombo's client at the end of the month
 >
 > **houdini6:** right on schedule
 
 The name above tann3r is spoken here for the first time: **greenberg**, who *doesn't
-want to take any chances* and *won't risk having your cover blown if something [goes
-wrong]*. If it does, *we want people to automatically blame davis*, because *it's the
+want to take anyu chances* and *won't risk having your cover blown if something goes
+wrong*. If it does, *we want people to automatically blame davis*, because *it's the
 best way to keep suspicion off of you*.
 
 Behind the chat is the other half of the frame, and it is worse than the pornography:
 a letter, composed on screen in a Yahoo account opened for the purpose —
-`infinitematter@yahoo.com` — from an anonymous employee of Applied Engineering.
-*Last week a report of yours named Mike Davis called me into his office to discuss
-some company business. When I got there, he began coming onto me... he started
+`infinitematter@yahoo.com` — from an anonymous employee of Applied Engineering, sent
+to `Thomas.Einsdale@appliedengineeringllc.com` under the subject line *Mike Davis*.
+*I am an employee of Applied Engineering. I'm writing to you anonymously because I
+value my job and don't wish to lose it. Last week a report of yours named Mike Davis
+called me into his office to discuss some company business. When I got there, he
+began coming onto me. I tried to get out of it gracefully, but then he started
 showing me a movie on his computer, a very disturbing and inappropriate movie. He
-said he had a hard drive full of them... I'm sure Mr. Davis will deny all of this.
-But all you have to do is examine his hard drive and you'll see that I'm telling you
-the truth.*
+said he had a hard drive full of them. Naturally, I left but I see Mr. Davis all over
+the place and I don't like the looks he gives me. As I said, this job is very
+important to me... I'm sure Mr. Davis will deny all of this. But all you have to do
+is examine his hard drive and you'll see that I'm telling you the truth.*
 
 ![Episode 9 — a Yahoo Mail compose window containing an anonymous complaint accusing Mike Davis of harassment](stills/s02/e09-complaint.jpg)
 
@@ -713,7 +733,7 @@ you'll see that I'm telling you the truth" — which, by episode 8, is true.*
 >
 > **houdini6:** that's bullshit
 >
-> **houdini6:** you don't go to extremes like this over some [2nd rate operation]
+> **houdini6:** you don't go to extremes like this over some 2nd rate weapons dealers
 >
 > **tann3r:** you have your orders
 >
@@ -726,11 +746,11 @@ in this operation has an answer to:
 
 > **houdini6:** and what will you tell his children?
 >
-> **houdini6:** that their daddy didn't really download all [of that]
+> **houdini6:** that their daddy didn't really download all that porn?
 >
 > **houdini6:** something about this smells, stan
 >
-> **houdini6:** there's another reason you want mike out of [the way]
+> **houdini6:** there's another reason you want mike out of there
 >
 > **houdini6:** what is it?
 >
@@ -779,9 +799,13 @@ before Danika was born.
 *Episode 10, 1:30. Murph, arriving. He is the only person in twenty episodes who types
 like someone who would rather be talking.*
 
-The family history arrives sideways, in condolences. Danika's mother has died — her
-name was **Vicky**, she died in Estonia, and Murph knew her *since the old days back
-in beijing*.
+Murph has been watching from the trade side: *i've seen some of tomasz people getting
+pretty worked up*, *looks like they're expecting a big shipment* — small talk first,
+about *a tough biz* she's apparently a star at.
+
+The family history arrives next, sideways, in condolences. Danika's mother has died —
+her name was **Vicky**, she died in Estonia, and Murph knew her *since the old days
+back in beijing*.
 
 > **t!nman:** i'm so very sorry luv
 >
@@ -809,9 +833,7 @@ in beijing*.
 >
 > **t!nman:** her family was diplomats
 
-Murph has been watching from the trade side: *i've seen some of tomasz['s] people
-getting pretty worked [up]*, *looks like they're expecting a big shipment*. And then
-she asks him for the thing the agency has been promising for five episodes.
+Then she asks him for the thing the agency has been promising for five episodes.
 
 > **houdini6:** listen
 >
@@ -823,13 +845,16 @@ she asks him for the thing the agency has been promising for five episodes.
 >
 > **t!nman:** we'll get yer little girl back
 
-He says it has to be quick — *there's something going on*, *something with ICE that i
-can't figure out* — and lays out the clock: the money moves, the shipment happens in
-days, and *they're going to come down on tomasz right [away]*. Murph asks one
-question, *the customer is who i think it is?*, and draws the conclusion the rest of
-the season runs on:
+It is Danika, not Murph, who lays out the clock — *there's something going on*,
+*something with ICE that i can't figure out*, *i've stalled it as long as i could*,
+*but the money will be transferred out of suisse any day*, *the shipment will take
+place in a matter of weeks*. Murph is the one asking the questions: *how far along is
+the operation?*, *and i assume all hell will break loose after that?* — *yes*,
+*they're going to come down on tomasz right away*. Murph asks the one that matters,
+*the customer is who i think it is?*, and draws the conclusion the rest of the season
+runs on:
 
-> **t!nman:** then we have to find yer little girl before all this goes [down]
+> **t!nman:** then we have to find yer little girl before all this goes down
 >
 > **t!nman:** because once the arrest happens
 >
