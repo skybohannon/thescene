@@ -4,6 +4,16 @@
 
 No episode-by-episode synopsis of it appears to exist: the databases that list the series leave their plot fields blank. This repository is one — for season 1 and for *The Scene 2.0*, the 20-episode sequel released in 2006 — plus the pipeline that produced it.
 
+## Read it
+
+**[skybohannon.github.io/thescene](https://skybohannon.github.io/thescene/)** — the synopses, published.
+
+- **Haven't watched it?** Start with the [spoiler-free episode guide](https://skybohannon.github.io/thescene/The-Scene-Episode-Guide.html), then watch it free on the Internet Archive: [season 1](https://archive.org/details/the_scene_season_1), [The Scene 2.0](https://archive.org/details/welcometothescene_version2.0_xvid).
+- **Watched it?** The full synopses: [season 1](https://skybohannon.github.io/thescene/The-Scene-S01-Episode-Synopses.html), [The Scene 2.0](https://skybohannon.github.io/thescene/The-Scene-S02-Episode-Synopses.html). Also the [characters and handles](https://skybohannon.github.io/thescene/The-Scene-Characters.html) and the [frames](https://skybohannon.github.io/thescene/The-Scene-Frames.html).
+- **Spotted a mistake?** [Report a correction](https://github.com/skybohannon/thescene/issues/new?template=correction.yml). A timestamp helps most.
+
+The rest of this page is about how it was made.
+
 ## Contents
 
 | Path | What it is |
@@ -77,6 +87,6 @@ Produced by Jun Group Entertainment, directed by Mitchell Reichgut, and released
 
 The recovered screen text and the audio transcripts are deliberately left out of this repository. Together they amount to most of the series' script.
 
-The license is printed on screen at the end of episode 1: *Copyright (c) 2004 Jun Group, Inc. This work may be redistributed under the Creative Commons Attribution-NoDerivs license*, linking to `creativecommons.org/licenses/by-nd/2.0/`. That is **CC BY-ND 2.0** — share it freely, commercially or not, but don't distribute derivative works. (Secondary sources get this wrong: the Internet Archive upload's metadata adds a NonCommercial term the series never claimed.) Season 2 prints no licence card in any of its twenty episodes, so its terms rest on the Archive's metadata alone, which season 1 shows to be unreliable; it is treated here as season 1 is. A complete transcript would not obviously fall inside *NoDerivatives*, which is why it isn't here.
+The license is printed on screen at the end of episode 1: *Copyright (c) 2004 Jun Group, Inc. This work may be redistributed under the Creative Commons Attribution-NoDerivs license*, linking to `creativecommons.org/licenses/by-nd/2.0/`. That is **CC BY-ND 2.0** — share it freely, commercially or not, but don't distribute derivative works. (Secondary sources get this wrong: the Internet Archive upload's metadata adds a NonCommercial term the series never claimed.) Season 2 prints no license card in any of its twenty episodes, so its terms rest on the Archive's metadata alone, which season 1 shows to be unreliable; it is treated here as season 1 is. A complete transcript would not obviously fall inside *NoDerivatives*, which is why it isn't here.
 
 The synopsis is original writing and quotes only short passages, so that term doesn't reach it. The frames in `stills/` are reproduced alongside commentary on what each one shows; they remain Jun Group's. The `scripts/` directory will regenerate the screen logs and transcripts from your own copy of the episodes, which are freely available from the Internet Archive links above.

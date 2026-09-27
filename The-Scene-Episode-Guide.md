@@ -42,7 +42,7 @@ A different story, a different cast and different software, but the same idea: a
 | 3 | A new job in accounting, and a bank account in someone else's name. | [Episode 3 in full](The-Scene-S02-Episode-Synopses.md#episode-3) |
 | 4 | What the job is really for comes into focus, along with a way to move the money. | [Episode 4 in full](The-Scene-S02-Episode-Synopses.md#episode-4) |
 | 5 | A second chat window opens, and someone calls her by a name we haven't heard. | [Episode 5 in full](The-Scene-S02-Episode-Synopses.md#episode-5) |
-| 6 | The day job: a friendly colleague in shipping, and a favour. | [Episode 6 in full](The-Scene-S02-Episode-Synopses.md#episode-6) |
+| 6 | The day job: a friendly colleague in shipping, and a favor. | [Episode 6 in full](The-Scene-S02-Episode-Synopses.md#episode-6) |
 | 7 | Someone reports in, typing as it happens. | [Episode 7 in full](The-Scene-S02-Episode-Synopses.md#episode-7) |
 | 8 | A joke on IRC that turns out not to be one. | [Episode 8 in full](The-Scene-S02-Episode-Synopses.md#episode-8) |
 | 9 | An order she doesn't want to follow. | [Episode 9 in full](The-Scene-S02-Episode-Synopses.md#episode-9) |

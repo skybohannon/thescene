@@ -22,21 +22,22 @@ episode 20 take the whole season as read.
 | 3 | the job | lukai | A temporary accounting position at Applied Engineering Partnership in Newark; a Swiss account opened by email. |
 | 4 | some to china, some to iran | lukai | The goods are named, and they are weapons parts. An eBay account is prepared to launder the payments. |
 | 5 | the other window | Danika | A second handler appears and calls her by a different name. She is running an operation, not being blackmailed into one — and being blackmailed into one at the same time. |
-| 6 | Danika | Danika | The cover working: a colleague in shipping, a favour, and an invitation to a ball game. The photograph on her monitor is real. |
+| 6 | Danika | Danika | The cover working: a colleague in shipping, a favor, and an invitation to a ball game. The photograph on her monitor is real. |
 | 7 | partner | Danika | Her handler calls her *agent*. She sniffs the colleague's passwords while he thanks her for a lovely evening. |
 | 8 | filling up Mike Davis' computer | Danika | She has the inventory database. She is also filling a colleague's hard drive with pornography over IRC. |
 | 9 | the carrot and the stick | Danika | She refuses to destroy him and is overruled by a name above her handler. A fabricated harassment complaint is already written. |
 | 10 | Murph | Danika | An old friend of her father's, the only person in the season who talks like one. Her mother has died. Mike, suspended, writes to say none of it is true. |
-| 11 | three minutes | Danika | The money moves. The shortest episode in either season, and the cruellest line in this one. |
+| 11 | three minutes | Danika | The money moves. The shortest episode in either season, and the cruelest line in this one. |
 | 12 | tombo works for ICE | Danika | The deal collapses over a three-day customs delay, and Murph delivers the fact the season has been built to conceal. |
 | 13 | the bust that didn't happen | Danika | Two windows, two incompatible accounts of the same operation, relayed line by line. One of them is checkable. |
 | 14 | jim brandon | Danika | A new man in the dead man's job, pinging her at exactly the wrong moment. She stops being necessary and starts being a liability. |
 | 15 | the bluff | Danika | Sealed in, watched, and out of leverage, she invents some. |
 | 16 | wonderful news | Danika | She writes her own last letter to one window while the other tells her that her daughter has been found and a car is coming. |
 | 17 | the offer expires in 15 seconds | Ralph Lasky | Inside the agency for the first time: a field officer holds his own supervisor to ransom for a briefing, and names a retired man neither of them was supposed to know about. |
-| 18 | bellbird | Ralph Lasky | The history. A recruitment in 1970s Beijing, six agents, four still alive, and a programme measured in generations. |
+| 18 | bellbird | Ralph Lasky | The history. A recruitment in 1970s Beijing, six agents, four still alive, and a program measured in generations. |
 | 19 | what your government bought | Danika | Out, in a motel, and told what her father was — and what the weapons she shipped were actually for. |
 | 20 | the frame, returned | Danika | The method she was ordered to use on an innocent man, used on the man who ordered it, with that man's help. |
+
 ## Episode 1 — the recruitment *(POV: lukai)*
 
 > *I'd been out of the scene for over a year and I wasn't looking to return. I
@@ -110,7 +111,7 @@ encoder at all.
 >
 > **t0mb0:** your involvement is required
 
-houdini6 says he is logging out. t0mb0 asks him to wait, and posts a link —
+houdini6 says she is logging out. t0mb0 asks her to wait, and posts a link —
 `http://walkin.thruhere.net/lukai.jpg` — with *have a look*, *and then we can talk
 some more*. The episode ends on the link. What the picture shows is never stated;
 the next episode is about what it means.
@@ -155,7 +156,7 @@ phrasing:
 > **t0mb0:** this is not a good situation you have made for [yourself]
 
 houdini6 answers with the only thing she has: *i did it for katerina*, *and i did it
-for my mother*, *you know i had to leave the country*. t0mb0 agrees with him — that
+for my mother*, *you know i had to leave the country*. t0mb0 agrees with her — that
 is the cruelty of it. He recites the plan back as though admiring it: enter the
 scene, earn money, bring Katerina and her mother to the US, *with your family
 contacts, etc.*, *it is a good plan*, *things are no different now*.
@@ -177,7 +178,7 @@ contacts, etc.*, *it is a good plan*, *things are no different now*.
 > **t0mb0:** we can work together
 
 Terms: houdini6 will get the client anything he needs, and wants Katerina in the
-country in return. $75,000 US up front, to an account he will open; t0mb0 asks for
+country in return. $75,000 US up front, to an account she will open; t0mb0 asks for
 bank details when she has them. The last exchange of the episode is the contract in
 plain words:
 
@@ -342,7 +343,7 @@ is lying. *i have no way to verify one way or another.* Then: *just keep him clo
 *and we'll have this operation wrapped up in no time*, *do you think tombo suspects
 anything?*
 
-To t0mb0 he describes the accounting fraud in detail — his position gives him access
+To t0mb0 she describes the accounting fraud in detail — her position gives her access
 to most of the company's systems, so altering income statements, payables and
 receivables *will not be a problem*; she will make it appear that existing customers
 are increasing the size of their orders, and pay with the Swiss money. That is *the
@@ -365,7 +366,7 @@ easy part*. The hard part is inventory and shipping:
 > **houdini6:** once i am into the database, i can ship goods [wherever i want and
 > then alter the records]
 
-t0mb0 calls it a logical plan and asks how he will get that person. The reply is the
+t0mb0 calls it a logical plan and asks how she will get that person. The reply is the
 last line of the episode, and the first time houdini6 uses her handler's name:
 *don't worry, tomasz.*
 
@@ -528,6 +529,7 @@ it:
 
 She asks what time he is coming back. *Sure* — *that will give me plenty of time to
 finish up what i'm doing.* What she is doing is standing in his office.
+
 ## Episode 8 — filling up Mike Davis' computer *(POV: Danika)*
 
 > *Surfing the internet feels private, but that couldn't be further from the
@@ -757,7 +759,7 @@ in beijing*.
 
 Murph has been watching from the trade side: *i've seen some of tomasz['s] people
 getting pretty worked [up]*, *looks like they're expecting a big shipment*. And then
-She asks him for the thing the agency has been promising for five episodes.
+she asks him for the thing the agency has been promising for five episodes.
 
 > **houdini6:** listen
 >
@@ -828,7 +830,7 @@ Engineering Partnership*. The figure is on the screen too — **$74,507.89 (US) 
 router number 8890754**, which is the $75,000 agreed in episode 2 with something
 taken out of it on the way.
 
-Then Mike, back from his week, apologising for having had feelings about being
+Then Mike, back from his week, apologizing for having had feelings about being
 destroyed:
 
 > **MikeyD5550:** sorry about last week
@@ -1041,7 +1043,7 @@ to identify the host.
 
 She wants a record they have not thought to alter — *i may at least be able to see
 who's been [logging in and when]*, *at least it will give us some clues* — and
-answers Murph's scepticism with something that sounds like her father talking: *in my
+answers Murph's skepticism with something that sounds like her father talking: *in my
 experience, if you follow the right path, the answers will reveal themselves.*
 
 Then a new window opens, and it opens in exactly the wrong place.
@@ -1123,6 +1125,7 @@ She asks for a little more time to find where the weapons went. Murph tells her
 what finding out would mean: *it's good cause that will prove that the US gov't is
 [arming someone it shouldn't]*, *and you'll have ICE by the short and curlies.* And
 the bad news is that *they'll know it* too.
+
 ## Episode 15 — the bluff *(POV: Danika)*
 
 > *In the secret branches of law enforcement, there are those who represent a
@@ -1516,7 +1519,7 @@ And the conclusion, offered as suspicion rather than fact:
 
 She is out. A motel, after a getaway she ran to Murph's instructions — *i switched
 subways several times*, *and followed a fairly labyrinthine path*, *no one was with
-me* — and Murph, who has been missing for three episodes, finally answers.
+me* — and Murph, who has not been in touch with her since episode 15, finally answers.
 
 > **t!nman:** good girl
 >
@@ -1758,7 +1761,7 @@ Then she asks for the only thing she has ever asked for.
 >
 > **tann3r:** in pennsylvania
 
-Pennsylvania. Not an orphanage in Estonia, which is where twenty episodes of searching
+Pennsylvania. Not an orphanage in Estonia, which is where the whole season's searching
 had been directed — but in the custody of the people doing the searching. Whether she
 was ever in Estonia at all is a question the series leaves standing.
 
@@ -1773,6 +1776,7 @@ was ever in Estonia at all is a question the series leaves standing.
 
 The last card of the season carries no date and no next episode — only *END OF
 [SEASON]*, and an address to visit for information on upcoming projects.
+
 ### The personal thread
 
 Season 1 was about a group. This one is about one person, and everything that happens
@@ -1804,7 +1808,7 @@ puts it plainly: *you've been a great friend. A second father, really.*
 
 And there is Mike Davis, who is in the season for one reason: to be destroyed so that
 suspicion stays off her. He invites her and her daughter to a ball game; he mentions
-that his youngest has been acting out since his mother left; he apologises, after
+that his youngest has been acting out since his mother left; he apologizes, after
 being suspended for something he did not do, for having let it get to him. She asks
 him, in episode 11, who could possibly have done this to him.
 
@@ -1927,7 +1931,7 @@ run the third.
   knew Danika's mother in Beijing (*i hadnt seen vicky since the old days back in
   beijing*) and was, in Ralph's words, *pretty tight with danika's old man*. Feeds her
   lines through
-  the final confrontation. The nearest thing the season has to a moral centre, and the
+  the final confrontation. The nearest thing the season has to a moral center, and the
   only character whose information is never wrong.
 - **Ralph Lasky** (`jimbrandon09@jabber.org`, cover name **Jim Brandon**) — ex-Navy
   cryptographer, fifteen years in, put into Mike Davis's job. Introduced as a threat
@@ -1960,7 +1964,7 @@ story with a different cast; nothing from season 1 carries over but the method.
 | [Wikipedia](https://en.wikipedia.org/wiki/The_Scene_(miniseries)) | Production background for the series as a whole |
 | [Internet Archive — The Scene Season 1](https://archive.org/details/the_scene_season_1) | The first season |
 
-**A note on the licence.** Season 1 settles its own licensing on screen: a card at the
+**A note on the license.** Season 1 settles its own licensing on screen: a card at the
 end of episode 1 reads *Copyright (c) 2004 Jun Group, Inc. This work may be
 redistributed under the Creative Commons Attribution-NoDerivs license*, linking to
 `by-nd/2.0`. **Season 2 prints no such card in any of its twenty episodes** — the only
@@ -2125,7 +2129,7 @@ by his own supervisor.*
 
 ![Episode 20 — a Gaim window in which tann3r says Katerina is with a foster care family in pennsylvania](stills/s02/e20-pennsylvania.jpg)
 
-*Episode 20, 13:00. Twenty episodes of searching Estonian orphanages, and two lines
+*Episode 20, 13:00. A season of searching Estonian orphanages, and two lines
 under pressure.*
 
 ### Where to look

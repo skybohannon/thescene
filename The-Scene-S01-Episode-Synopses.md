@@ -16,7 +16,7 @@ This is written for someone who has watched the series, or doesn't mind knowing:
 | 4 | teflon shows his hand | Drosan | teflon reconstructs the leak from a shipping delay and demands a cut. |
 | 5 | the price of silence | teflon | The elder statesman is an FBI informant with an appointment at nine in the morning. |
 | 6 | trooper comes to the channel | trooper | An email teflon should never have sent — and the name in its From field. |
-| 7 | the group starts performing | Drosan | The channel becomes theatre staged for teflon, who is staged for the Bureau. |
+| 7 | the group starts performing | Drosan | The channel becomes theater staged for teflon, who is staged for the Bureau. |
 | 8 | "it will be over tonight" | Drosan | The counter-operation runs. Drosan removes himself from the board. |
 | 9 | the loose thread | Drosan | A stranger called gryffin says the name of Drosan's secret buyer to his face. |
 | 10 | the empty chair | Melissa, at his machine | Melissa uses his computer, looks straight at the channel, and finds it boring. |
@@ -174,7 +174,7 @@ The AIM window running in parallel is Melissa's, and it is entirely tender and e
 **Online, teflon lays out a case step by step, and it is the best-written interrogation in the series.** He opens light — a possible line on *Phantom of the Opera*, a remark that cOda has been strange — builds the case against cOda as courier, then dismantles his own argument and turns:
 
 > **&lt;teflon&gt;** i am 100% certain it was someone in our group … come on, dro. i'm not stupid. did you think i wasn't gonna find out? … think about it, there are only so many places on irc … he was the source for Exorcist, right? well, as it turns out, he was as shocked as anybody that that happened. in fact, he was pissed … see, he said he fed ex'd it to you for days, but you didn't tell us about it until later. did you? … oh, don't worry, it's easily explained. fed ex is great, but they're not perfect? right? … still there? … cat got your tongue? … only you and i both know that's not what really happened … don't we
-
+>
 > **&lt;Drosan&gt;** what do you want?
 >
 > **&lt;teflon&gt;** what do you think i want asshole. **i want a cut**
@@ -634,7 +634,7 @@ He is lecturing a federal tripwire about operational discipline.
 
 The episode 10 secret between Melissa and Suzy has surfaced, Melissa has told him, and the two people with the strongest claim on her have a short, level conversation about which of them wrecked her — while, one window over, he is negotiating nicknames with the FBI's asset.
 
-**But the important window is one nobody in the group can see.** In a Yahoo! Messenger window, under the handle **dro_5544**, Drosan is talking to **collangello998** — and halfway through he calls him *tef*. It is the same back channel that opened in episode 12 under a different handle, and teflon has been on the other end of it since. He and Drosan are still in contact, and teflon is directing him: scripting what he says to gryffin, asking how gryffin reacted and what he said about the hardware, pressing him to bring trooper in because "trooper is key." Drosan resists that hard — he doesn't want to lie to trooper and says it would put her in serious jeopardy — and teflon tells him, not without justice, that he's the biggest liar he's ever met.
+**But the important window is one nobody in the group can see.** In a Yahoo! Messenger window, under the handle **dro_5544**, Drosan is talking to **collangello998** — and halfway through he calls him *tef*. It is the back channel that opened in episode 12, moved from AIM to Yahoo! and onto new handles at both ends, and teflon has been on the other end of it since. He and Drosan are still in contact, and teflon is directing him: scripting what he says to gryffin, asking how gryffin reacted and what he said about the hardware, pressing him to bring trooper in because "trooper is key." Drosan resists that hard — he doesn't want to lie to trooper and says it would put her in serious jeopardy — and teflon tells him, not without justice, that he's the biggest liar he's ever met.
 
 Then teflon explains what actually happened, and it reframes the first half of the season. The Bureau profiled Drosan carefully and built a plan to hook him, because they knew he needed money. So teflon got there first: **he invented Lucky Chi.** The Asian bootlegger Drosan believed he was selling to was teflon, operating behind the backs of the agents reading every keystroke on his machine, using access he had at work and paying Drosan out of a corporate credit card — which eventually got him fired. He says he sold his soul to these people; that the honorable thing would have been to take the charge, in which case he'd be getting out around now; that he can't look at himself in the mirror. And he gives a number: *they've already arrested **8 kids** cause of me* … *now i have these fucking feds treating me like [dirt]* … *i'm their damned boy* … *they've read every keystroke on my computer.* His defense of the Lucky Chi invention is that without it — *if i didnt invent that* — *they would have nailed you for sure* — *and as much as you piss me off, i couldn't watch [that happen]*.
 
@@ -670,7 +670,7 @@ The colleague also coaches him line by line, which is the detail that makes the 
 
 Drosan clearly suspects something, but he's too careful to say so to gryffin — much as they'd like him to — and he is never going to let "cOda" back into his group, however good the pitch. The reason gryffin wants him is diagnosed coolly: it's a power thing. He's jealous of Drosan, and as long as Drosan has trooper as a source, Drosan holds the leverage; gryffin wants his own operation with his own people in it. Elsewhere in the conversation, a colleague named **Danny** has earned a free trip to Berlin — *he worked wonders* — and one asks whether the other ever got "the name" for the new site: they're going to call it *method*.
 
-They also let slip how little of this is guesswork and how much is already procedure. *is there any way drosan could know that we're monitoring [him]?* one asks. And when slipknot pings the cOda account, the agent's reaction is a manager's: *slipknot is pinging me … give me some insight on how to handle [him] … when was the last time you talked to [him]? … i don't have time to read every one of [these] … just answer the question.* The men the group has spent twenty episodes fearing find the group mostly tedious. *he is a raging moron*, one says of gryffin; *that's why we love him*, says the other; and a moment later, *whoops, moron #1 is pinging me.*
+They also let slip how little of this is guesswork and how much is already procedure. *is there any way drosan could know that we're monitoring [him]?* one asks. And when slipknot pings the cOda account, the agent's reaction is a manager's: *slipknot is pinging me … give me some insight on how to handle [him] … when was the last time you talked to [him]? … i don't have time to read every one of [these] … just answer the question.* The men the group has spent the season fearing find the group mostly tedious. *he is a raging moron*, one says of gryffin; *that's why we love him*, says the other; and a moment later, *whoops, moron #1 is pinging me.*
 
 **And then the conversation turns to the trial, which nobody in the group knows is coming.** One agent chases the other about counsel — *did hutchinson get a hold of you yet?* … *get a hold of rebecca down at my office and tell her to get a hold of him* … *i want you fully briefed before the trial* … *just make sure you get an hour with him* — and gives the reason:
 
@@ -886,7 +886,7 @@ episodes before anyone thinks to look for it.*
 
 *Episode 1, 12:03. The buyer, in the first of the windows that will eventually cost
 Drosan everything. LuckyChi2203 is a fabrication; the man typing is teflon, and the
-money is the Bureau's.*
+money comes from his employer's credit card, behind his handlers' backs.*
 
 ![Episode 6 — a Yahoo! Mail inbox with one message, from "ed koenig", subject "access issue", dated Sun 03/13](stills/s01/e06-inbox-ed-koenig.jpg)
 
@@ -901,8 +901,8 @@ surname: the mail goes to `brian.sandro@gmail.com`.*
 
 ![Episode 13 — a PuTTY window showing a Metasploit session returning a Windows command prompt on 63.247.91.187](stills/s01/e13-metasploit-shell.jpg)
 
-*Episode 13, 13:00. The group breaks into its own drop site to find out who has been
-reading the logs. The shell comes back on `63.247.91.187` — and in the window at the
+*Episode 13, 13:00. Drosan breaks into the server at teflon's employer to destroy the
+FTP log that would give him away. The shell comes back on `63.247.91.187` — and in the window at the
 left, teflon is asking how it is going.*
 
 ![Episode 15 — an AIM conversation between c0dac0da and gryffin524 while the #dust channel discusses gryffin](stills/s01/e15-gryffin-deal.jpg)
