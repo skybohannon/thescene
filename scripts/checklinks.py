@@ -12,7 +12,8 @@ requests to pages that are perfectly fine.
 
 Links that start with /thescene/ -- the site's path on GitHub Pages, which
 the 404 page uses because it can be served at any depth -- are resolved from
-<site-dir>.
+<site-dir>, and so are full URLs on the site itself (the pages' preview tags
+use them): a page added in this push isn't live yet while CI checks it.
 
 Exits 1 if anything is broken.
 """
@@ -23,6 +24,7 @@ from urllib.request import Request, urlopen
 from urllib.error import HTTPError, URLError
 
 BASE = '/thescene/'
+SITE = 'https://skybohannon.github.io' + BASE
 
 
 class Page(HTMLParser):
@@ -91,6 +93,8 @@ def main():
         for link in page.links:
             if link.startswith(('data:', 'mailto:', 'javascript:')):
                 continue
+            if link.startswith(SITE):
+                link = BASE + link[len(SITE):]
             if urlparse(link).scheme in ('http', 'https'):
                 outside.setdefault(urldefrag(link)[0], set()).add(rel)
                 continue
