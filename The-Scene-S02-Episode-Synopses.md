@@ -249,6 +249,11 @@ Laurent:*, and confirms the opening of an account in the name of
 (US) via wire transfer*, forms to be faxed and a routing number requested. The account
 will be in **Bern**.
 
+![Episode 3 — a Gmail compose window addressed to jlaurent@bbvabankltd.ch confirming a personal account for Michael Cunningham](stills/s02/e03-bank.jpg)
+
+*Episode 3, ~2:33. The laundering starts here, behind an ordinary status-report chat —
+an account opened in a name that will resurface, unexplained, in episode 4.*
+
 ## Episode 4 — some to china, some to iran *(POV: lukai)*
 
 > *People say the world is changing, but the reality is that a few simple
@@ -300,6 +305,11 @@ What lands is a genuine parts manual: a PDF, open on screen right after, headed
 and Retirement Times*, with a cockpit instrument-panel diagram on the facing page.
 "The goods" are not an abstraction the chat gestures at; the document itself is on
 screen.
+
+![Episode 4 — an Adobe Reader window open to an S-70A International Black Hawk Helicopter parts manual, headed "Overhaul Periods and Retirement Times"](stills/s02/e04-blackhawk.jpg)
+
+*Episode 4, ~4:49. Not a euphemism: the document t0mb0 uploads is a real Black Hawk
+parts manual, open on screen the moment the file lands.*
 
 The local pane of that same window reads `C:\Documents and Settings\David\Desktop`,
 and the desktop behind it collects the episode's evidence in one place: `657.jpg`,
@@ -369,6 +379,10 @@ history to plan it. The personal cost surfaces in the same window:
 
 This is the season's only mention of what country Katerina and her mother left —
 **Estonia**.
+
+![Episode 5 — a Gaim window in which tann3r tells houdini6 they're checking orphanages in Estonia](stills/s02/e05-estonia.jpg)
+
+*Episode 5, ~3:07. The only time the country is named anywhere in the season.*
 
 While that runs, t0mb0 is in the other window — *lukai?*, *why haven't i heard from
 you?*, *what is the status?* — and houdini6 answers both men at once, telling t0mb0
@@ -534,8 +548,14 @@ The update is a break-in, described flatly while it happens:
 > **houdini6:** once i find his i'll just use it to log in remotely
 
 The packet sniffer on screen is a real tool, Ethereal, capturing off a Marvell
-Gigabit adapter while a PuTTY session sits in the taskbar behind it. No inventory
-database yet: *mike's boss is out of town*. Then, unprompted, an
+Gigabit adapter while a PuTTY session sits in the taskbar behind it.
+
+![Episode 7 — an Ethereal capture window running against a Marvell Gigabit Ethernet Adapter, a PuTTY session in the taskbar](stills/s02/e07-ethereal.jpg)
+
+*Episode 7, ~1:15. "Packet sniffer" is not a stand-in — this is a real capture,
+against a real adapter, mid-run.*
+
+No inventory database yet: *mike's boss is out of town*. Then, unprompted, an
 apology — *sorry i'm so touchy*, *it's the pressure* — and tann3r says *it's okay*
 three times. houdini6 asks the only question she cares about: *is there an update from
 estonia?* Twelve orphanages checked, about fifteen to go. *So sit tight.* — *why must
@@ -626,8 +646,15 @@ She is doing it on `irc.a0hell.net`, in a channel called `#ALTERED-PORN`, by DCC
 screen of warez-scene furniture put to a use the scene never intended. The status
 window names her own end of it: *Local host: user-0cev611.cable.mindspring.com
 (24.239.152.53)*. An episode about framing a man for what is on his hard drive, run
-over a residential cable connection with her name on the bill. And the drive
-filling up is not his:
+over a residential cable connection with her name on the bill.
+
+![Episode 8 — an mIRC window on #ALTERED-PORN with a DCC file-transfer warning dialog for an incoming file](stills/s02/e08-dcc.jpg)
+
+*Episode 8, ~1:25. Warez-scene furniture — a channel, a DCC transfer, the standard
+"someone is attempting to send you a file" warning — put to a use it was never built
+for.*
+
+And the drive filling up is not his:
 
 > **tann3r:** and you're downloading this to your hard drive at work?
 >
@@ -907,6 +934,11 @@ name on the receiving account is Applied Engineering Partnership LLP* — the $7
 agreed in episode 2 with something taken out of it on the way. It's signed **Gerard
 Le Salle, Relationship Manager**.
 
+![Episode 11 — a Gmail message confirming a wire transfer of $74,507.89 to Applied Engineering Partnership LLP, signed Gerard Le Salle](stills/s02/e11-wire.jpg)
+
+*Episode 11, ~1:05. The $75,000 agreed in episode 2, minus a cut, landing on screen
+with a date and a banker's name attached.*
+
 Then Mike, back from his week, apologizing for having had feelings about being
 destroyed:
 
@@ -973,6 +1005,11 @@ Tomasz treats lateness as breach:
 >
 > **t0mb0:** we are keeping katerina out of harms way
 
+![Episode 12 — a Gaim window in which t0mb0 tells houdini6 they are keeping katerina "out of harms way"](stills/s02/e12-contract.jpg)
+
+*Episode 12, ~4:15. The deal finally breaks over three days at customs, and t0mb0
+calls it a breach of contract rather than an excuse.*
+
 She threatens the only way she can — *otherwise i'll call up some of my father's old
 contacts*, *and let them handle it* — and Tomasz answers with the sentence that
 tells you what kind of man Danika's father was:
@@ -1025,6 +1062,11 @@ Then Murph comes back, and the episode ends on it.
 Two windows, side by side, telling incompatible stories — and for once the viewer can
 check one against the other in real time, because she relays each line as it
 arrives.
+
+![Episode 13 — two Gaim windows open side by side, one with tann3r and one with t!nman, each getting a different account of the same operation](stills/s02/e13-windows.jpg)
+
+*Episode 13, ~3:18. Literally two windows, side by side — the structure the whole
+episode runs on, visible in one frame.*
 
 tann3r reports a triumph:
 
@@ -1327,6 +1369,11 @@ friends around you for support*, *don't you agree?*
 > **t!nman:** bloody brilliant
 >
 > **t!nman:** you'll be safe for a while then
+
+![Episode 15 — a Gaim window in which houdini6 tells t!nman she made tann3r think she'd already given the information to several friends, "just in case"](stills/s02/e15-bluff.jpg)
+
+*Episode 15, ~11:37. The whole episode's title, typed out: she has nothing, and this
+line is the entirety of what buys her the rest of the season.*
 
 She has nothing. It is a pure bluff, and it buys her the rest of the season.
 
