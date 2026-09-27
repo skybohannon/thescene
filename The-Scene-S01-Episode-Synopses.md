@@ -98,6 +98,12 @@ Underneath, Drosan is behaving strangely. He is normally the one pushing everyon
 
 **The screen supplies the real reason he is stalling.** A `LuckyChi2203` window is open through the whole sequence, messages alternating at 6:10 and 6:11 in the morning, directly alongside cOda's *helllooooo?* and *dude, c'mon, we gotta get this thing out* and *c'mon dro, what's up already?*. The group reads it as a man who won't answer. He is answering — just not them.
 
+![Episode 2 — an ICQ session with LuckyChi2203 offering "up to $2,000US"; BrianSan replies "i have that movie on my computer right now"](stills/s01/e02-the-price.jpg)
+
+*Episode 2, 5:09. What the stalling is for. LuckyChi2203 offers up to $2,000 for *The
+Incredibles*; Drosan answers that he has the film on his computer right now, and is
+typing that he needs $2,500.*
+
 The Melissa window is not small talk either. She asks whether he slept and what his first class is, and then: *Don't tell me you're chatting with people.* He tells her his uncle George was calling. It is a flat lie, delivered in the same minute as the buyer's window, and she takes it and moves on — *I'm just being selfish*, she says, and he answers *i like talking to you* — and they settle on eight o'clock, and she says she loves him, and he says *me too*. The episode's thesis about two lives is demonstrated here rather than narrated: one window has the man he is, the next has the man she thinks she's talking to.
 
 His full name is on screen again, incidentally, on a Gmail sign-in page with the username field filled in: **brian.sandro**. The NFO teflon proofreads is named too — `incredibles.xvid.dvdrip-cpx.nfo`, open in Notepad — and between tasks Drosan sits on IMDb's page for the film and on Boing Boing.
@@ -156,6 +162,11 @@ He apologizes twice to the man who is ruining him. Episode 13 reveals there is n
 
 **And then he leaves.** Melissa messages him mid-crisis: *i have a problem.* He answers *i know how you feel* before she has said what it is — the line the season keeps handing him, a man who has stopped listening — and she tells him her roommates are gone, she's alone and naked and has nobody to keep her company. *um. YES!* He tells the channel *listen guys.. i gotta take off*, says he'll have his sidekick so they should mail him, and walks out on pyr0 and cOda in the middle of the worst thing that has happened to the group, to go across town. It is the one time all season he chooses a person over the machine, and it is the one night the machine needed him.
 
+![Episode 3 — the LuckyChi2203 window reading "i no like your tone", with Melissa's AIM window in front: "my roommates are gone" / "and i'm here by myself"](stills/s01/e03-no-like-your-tone.jpg)
+
+*Episode 3, 8:25. Two windows on one screen: Lucky Chi's "i no like your tone" behind,
+and in front, Melissa — "my roommates are gone", "and i'm here by myself".*
+
 By the end, slipknot's contact reports that D-Pix didn't get *Exorcist* from one of their usual sources — it came from someone they met randomly on IRC — and the group's suspicion turns inward for the first time.
 
 ## Episode 4 — teflon shows his hand *(POV: Drosan)*
@@ -194,11 +205,22 @@ The AIM window running in parallel is Melissa's, and it is entirely tender and e
 
 The trap is built out of trooper's own indignation about the early *Exorcist* release, which is to say out of the one person in the group who is completely innocent. And teflon's demand lands without any reference to loyalty, the group, or the rule the series opened on — four words, and the elder statesman is a blackmailer.
 
+![Episode 4 — an mIRC query with teflon ending "what do you think i want asshole" / "i want a cut", Drosan on the webcam with his hand over his face](stills/s01/e04-want-a-cut.jpg)
+
+*Episode 4, 11:43. The last line of the episode, a second before the end card — and
+on the webcam, Drosan's hand over his face.*
+
 ## Episode 5 — the price of silence *(POV: teflon)*
 
 **Narration — the episode that rewrites the season:** teflon started on BBSs in the mid-80s on an Amiga with a 1200 baud modem, worked onto IRC and Usenet, and at 37 is considered an old man by the scene. None of that experience prepared him for what was coming; he never saw it coming at all.
 
 Two phone calls put him in a very different light from the man in the chat window. The first is with a woman the transcripts render as **Cara** or **Karen** depending on the pass — about a weekend he'd promised and an "agreement" he can't honor, and about Jimmy, whom he'll explain it to himself tomorrow. Which she is stays open: the better transcript has him say *I have not been ignoring her*, which puts a third person in the call and makes the woman on the line a relative or a lawyer rather than the ex-wife herself. The second is a message left for Larry: **"it's Ed"** — he's had another note from "our friends," has to go see them again in the morning, and is asking whether there's anything at all that can be done, because he could lose his job. On his screen, an IM from **burroughs485** reads *I will see you at 9AM*; teflon's own screen name here is `monticello235`, against the `monticello222@yahoo.com` on the episode 6 email — the same handle stem across two services, which is exactly the habit that hangs him. Then the man himself arrives at the door unannounced, a day early, making small talk about the dog. His face doesn't register as important yet: it belongs to the agent the briefing room calls Burroughs in episode 17 — the one who spent six months posing as a newbie kid to catch him — and it is the face that turns up again at cOda's keyboard in episode 19.
+
+![Episode 5 — an AIM window from monticello235 to burroughs485 reading "I will see you at 9AM." / "sharp", above teflon's mIRC query with Drosan](stills/s01/e05-see-you-at-9.jpg)
+
+*Episode 5, 9:45. The episode that rewrites the season, in one window: `burroughs485`
+— "I will see you at 9AM.", "sharp" — open above teflon's chat with Drosan. The
+footer dates it 2/19/2005.*
 
 **The job is on screen too, and it is pitiful.** While he waits on the drop he opens Gmail and writes to `jcarantha@mtrailindustries.com` — Joan — subject **"Re: tomorrow morning"**:
 
@@ -303,21 +325,29 @@ slipknot gets cold feet and raises the sharpest objection anyone makes:
 
 Which is, in its way, the most touching line in the episode — slipknot's model of teflon is still a man with principles, and the plan depends on him having none. Drosan's answer is the cold heart of it: teflon isn't the audience anyway. The feds are, and the PayPal trail hands them a name, an address and a target pointing away from the group entirely.
 
-**trooper is in on it, and the episode says so in six lines.** In a small IM window behind the others, `troopercamy` and `dro_5544` are having a conversation nobody in the channel can see:
+**trooper is in on it, and the episode says so in seven lines.** In a small IM window behind the others, `troopercamy` and `dro_5544` are having a conversation nobody in the channel can see:
 
-> **troopercamy:** howd it go?
+> **troopercamy:** how'd it go?
 >
 > **troopercamy:** did he take the bait?
 >
 > **dro_5544:** its going down right now
 >
-> **troopercamy:** yes!
+> **troopercamy:** yikes!
+>
+> **troopercamy:** ok
 >
 > **troopercamy:** good luck!
 >
 > **dro_5544:** thanks man
 
 It runs at 22:20, alongside the teflon window where teflon is asking whether he'll actually go through with the sale. So the woman who arrived in the channel one episode earlier under suspicion is already inside the group's counter-operation, cheering it on — and Drosan signs off to her with *thanks man*, because as far as he knows he is talking to a guy. The series lets that land without comment. Read against episode 18, where teflon presses him to bring trooper in because "trooper is key" and Drosan refuses on the grounds that it would put her in jeopardy, this window is the measure of how far he has already gone.
+
+![Episode 7 — three windows: Melissa's AIM ("I just feel like we're drifting apart"), troopercamy and dro_5544 ("did he take the bait?" … "thanks man"), and teflon's mIRC query](stills/s01/e07-thanks-man.jpg)
+
+*Episode 7, 17:03. Three windows, three stories: Melissa's "I just feel like we're
+drifting apart" at the top, trooper's "did he take the bait?" in the middle, and
+teflon asking about the sale underneath.*
 
 Underneath all of it, the personal thread keeps running. Melissa mentions that Todd has met someone — a woman in her thirties with curly blonde hair, name of **Dana Burke** — and Drosan admits he knows her, that she hosts sometimes. When Melissa asks how well he knows her, he deflects with "jealous?"
 
@@ -328,6 +358,11 @@ Underneath all of it, the personal thread keeps running. Melissa mentions that T
 The group's situation is deteriorating in public view. There's no new source, their status is slipping, affiliate sites are unhappy, and pyr0 is desperate for anything at all to encode. slipknot, whose job is those affiliate relationships, is in constant contact with sites he has nothing to give to. teflon plays the patient elder in the channel and then, privately, makes peace with Drosan over the selling — saying neither of them should have been selling, admitting he felt he deserved something for himself, and accepting the explanation about Drosan's father.
 
 Drosan reads that warmth exactly as what it is. He tells cOda the operation is moving and will be finished tonight, and explains teflon's behavior as instructions from a handler: stay close, keep him talking, set up an arrest. The PayPal information has already gone across, so the Bureau has what it thinks it wants. slipknot asks for another day to prepare properly; Drosan refuses, because the entire plan runs on the feds' fear that the group knows it's burned and is about to evaporate.
+
+![Episode 8 — an mIRC query with coda: "so things are in motion ?" / "it will be over tonight" / "god i hope so" / "i can't take much more of this"](stills/s01/e08-over-tonight.jpg)
+
+*Episode 8, 7:48. The episode's title, typed to cOda: "if we do this right", "it
+will be over tonight". cOda: "god i hope so", "i can't take much more of this".*
 
 He also leaves two voicemails. The one for Melissa is *hey, it's me*; the one for Todd opens **"Hey Todd, it's Brian"** — the first time in eight episodes the series puts his real name in his own mouth, and he gives it to his friend rather than his girlfriend.
 
@@ -395,6 +430,11 @@ The release plot ends on farce: pyr0's ripbox can't RAR the files, the release i
 
 That is the curtain line of episode 9. A stranger nobody in the group has heard of, who approached them out of nowhere, says the name of Drosan's secret buyer to his face in the second minute of their first conversation. Everything from here — the threat in episode 11, the PayPal trace in 15, cOda's box, the sting — proceeds from Drosan volunteering to handle this himself and then not telling anyone what was said.
 
+![Episode 9 — an mIRC query with Gryffin ending "we even have a mutual friend" / "his name is luckychi"](stills/s01/e09-mutual-friend.jpg)
+
+*Episode 9, 14:31. Three seconds before the episode ends, a stranger nobody in the
+group has heard of names Drosan's secret buyer.*
+
 ## Episode 10 — the empty chair *(POV: Melissa, at Drosan's machine)*
 
 **Narration:** the narration is Drosan's, and it is about lying. A lie is a living thing — once spoken it goes off on its own and the teller has to keep track of it. Lying is a black art he uses for protection, for advantage, for camouflage; he stays on guard because words meant to serve him can come back to do harm. The episode demonstrates it by removing him from the room.
@@ -410,6 +450,12 @@ Then **Melissa** comes in and sits down in his chair, in front of all of it, and
 > **suzyxiao:** it's probably just an IRC channel
 
 That is the whole of her contact with the thing that is about to end his life: one glance, one shrug from a friend, and she scrolls past it. She is not kept in the dark by his cleverness. She is kept in the dark because the surface of it is boring.
+
+![Episode 10 — Melissa on the webcam at Drosan's desk; gryffin's query ("you are messing with the wrong people"), #dust, and her AIM window with suzyxiao ("it's probably just an IRC channel")](stills/s01/e10-just-an-irc-channel.jpg)
+
+*Episode 10, 13:47. Melissa at his desk. Above her, gryffin: "you are messing with the
+wrong people". Beside her, the group finishing a release. In her own window, "theres
+this chat going on in another window -- some techno babble" — and Suzy's answer.*
 
 With **suzyxiao** the exchange is halting and intimate and far more explicit than the group's careful talk in the window behind: something happened, Suzy didn't mean for it to, *it just kinda did*, neither has done anything like it before, and *for now, it can be our little secret*. Melissa's side is *conflicted, nervous, confused*, an apology for something she said the other day, and the hope that she and Brian have gotten to a good place. With **Tremor2212** — Todd — the first thing he asks is whether she knows where Brian was that afternoon; he then softens it into a complaint that *he totally dissed me at lunch today*; she says Brian is having a tough day and not to be too hard on him.
 
@@ -428,6 +474,12 @@ gryffin drops the pretense: someone in the group was selling, and from his behav
 **The other half of the episode** runs in an IM window and is the most frightening stretch in the series. Melissa is at her parents' house, alone; her parents have taken someone called Jackie to Burlington, her father is unwell, and there has already been a break-in during the day — the locks were changed, the police came and said whoever it was may have been frightened off. Now she is hearing noises downstairs. *there's definitely someone in here!!* Drosan talks her through it in real time — stay calm, call 911, get to the bedroom, lock the door, how long since you called, what can you hear, are there neighbors you can call. She goes quiet for long stretches while he types her name into the silence, and at his most frantic he is typing in capitals; at one point the window simply prints that she has signed off.
 
 **He also picks up the phone, twice, nineteen seconds apart.** At **6:47**, the moment the window prints that she has signed off, he calls her: *Melissa, we were just chatting and I lost you. What's going on? Call me back, please. Melissa?* Nothing comes back. At **7:06** he calls Dana: *Dana, I'm on my way. Alright, I just have to take care of something. I'll be there in a little while.* One woman may be alone in a house with someone in it; the other is being managed. Neither call is on screen — both are audible only in the room, and the first pass of transcripts missed both.
+
+![Episode 11 — Melissa's AIM window: "there's definitely someonin here!!" / "godwhat do i do??" / "stay calm.. its okay" / "melissbliss04 signed off at 9:50:52 PM", Drosan on the webcam with a phone to his ear](stills/s01/e11-someone-in-here.jpg)
+
+*Episode 11, 6:38. "there's definitely someonin here!!", "godwhat do i do??" — then
+the window prints that she has signed off, and on the webcam Drosan has the phone to
+his ear.*
 
 **And he opens a third window to get to her another way.** He messages Todd: *hey todd, you there?* … *not so good* … *i was chatting her just now and she's hearing noises downstairs* … *do you have liss' number up at her parents'? i have it written down at home but im not there* … *need to talk to her right away* … *she's up there alone* … *yeah, not working* … *thanks anyway*. Todd checks (*hold on- checking*), comes back with *sorry, all i have is her cell*, and asks to be told what happens. He asks for help exactly twice in the season — here, for a phone number he doesn't have because he isn't at his own apartment, and in episode 13, for a way into a stranger's server.
 
@@ -454,6 +506,12 @@ Drosan asks the only question that matters: how do you know my name? The answer 
 This is where Drosan learns that the buyer he sold to was never a bootlegger. Episode 13 puts it in three words; episode 12 is where the floor drops. The man he betrayed his group for, the anonymous Asian mafia contact he congratulated himself on handling carefully, has been teflon the entire time — and teflon has just told him so in the middle of an episode where slipknot is calmly proving, in the next window over, that Drosan's account of events cannot be true.
 
 Note which account teflon uses to do it. `copleyr785` messages **BrianSan333**, the personal AIM name, and when Drosan asks how he knows it the answer is *you gave it to me*. He has no compartment left that teflon isn't already inside.
+
+![Episode 12 — an AIM window from copleyr785 to BrianSan333: "haven't you figured it out by now?" / "it's me, tef", beside slipknot's mIRC query](stills/s01/e12-its-me-tef.jpg)
+
+*Episode 12, 15:18. The last lines of the episode: "haven't you figured it out by
+now?", "it's me, tef". In the window beside it, slipknot's warning that they have the
+name and address of someone in the group.*
 
 In the personal windows, Melissa messages from Michigan: she and Suzy are driving to see Suzy's cousin, who lives on a big lake; they fly in Friday; will he meet her at the airport. And Todd, who thinks he is telling a funny story, delivers a small piece of the plot:
 
@@ -523,6 +581,11 @@ The cigars are not small talk, and this is the episode where the spoken track ca
 
 Then dopelegger asks about his paper — `JThomas_report2`, or something like that. He needs it printed, and pyr0 had said it was already done. It isn't — and here the episode's two disasters turn out to be one disaster, ten minutes after the threat. **The boyfriend has cut the power at the circuit breaker**, and at **19:30** he is back outside the door, laughing: *try using your computer now! you want the circuit breaker? just come on out and get it.* pyr0's response, when he realizes, is a single line of profanity repeated seven times, followed by asking whether he can have fifteen minutes. A phone call afterward confirms it from the other side — the last pages didn't come out, because the power went.
 
+![Episode 14 — the desktop gone black, only the webcam left: pyr0 looking up at the dead screen](stills/s01/e14-power-cut.jpg)
+
+*Episode 14, 19:32. The boyfriend has found the circuit breaker. Everything on the
+screen goes except the webcam.*
+
 What he tells the channel is careful and almost true: he *blew a circuit breaker*; fortunately his modem is on a different circuit; he's getting back to the ripbox via laptop; *minor domestic crisis*. The film is *Madagascar*: VirtualDub is open on `madagascar_2005_DVDRIP_dust.avi`, a rival group is said to have it too, and he eventually reports *madagascar is ready, btw* — and the missing RAR turns out to be cOda's upload cutting out, not his. slipknot explains the repair, which he warns is delicate, and the group scrambles.
 
 **pyr0 also runs a third window, and it is the one thing in the episode he does well.** With a contact called `infrared55a` he is quietly asking around about teflon: *i never spoke to him directly* … *yeah, some guys were saying he was selling* … *but its hard to know what's reality* … *to me the guy was always a bit of a…* … *not surprised that he got caught actually* … *the scene's become a dangerous place.* He reports it back as what it is — *he thinks the guy was afill'd with tsr, but it's all 2nd hand information*. The group's least serious member is the one doing sourcing hygiene on a rumor.
@@ -542,6 +605,11 @@ Then he produces the document:
 > **&lt;slipknot&gt;** no. the e-mail address didn't belong to dro. **it belonged to teflon**
 
 That is the episode 6 Yahoo account coming back, eight episodes later, in someone else's hands. pyr0's answer is *you've been smoking the same weed as coda*, *this conspiracy shit is total shit*, *i don't like doing shit behind dro's back*, *he saved our asses* — which is loyalty, and which is wrong, and which is why nobody acts on any of it.
+
+![Episode 14 — slipknot's mIRC query with pyr0 ending "the e-mail address didn't belong to dro" / "it belonged to teflon"](stills/s01/e14-belonged-to-teflon.jpg)
+
+*Episode 14, 24:00. The last line before the end card: "the e-mail address didn't
+belong to dro", "it belonged to teflon".*
 
 Drosan drifts through the channel too, and lets something slip about the other half of his life. When he apologizes for being away — *eh, sorry, girlfriend issues* — pyr0 says he thought he dumped her, and Drosan answers *i dumped one of them.* *The psycho bitch?* *yeah her. she won't leave it be. keeps calling me. she has this other boyfriend, and he's convinced that i'm trying to steal her. yep, that's my life.* That is the man from Todd's restaurant story in episode 12, identified.
 
@@ -683,7 +751,13 @@ The episode 10 secret between Melissa and Suzy has surfaced, Melissa has told hi
 
 **But the important window is one nobody in the group can see.** In a Yahoo! Messenger window, under the handle **dro_5544**, Drosan is talking to **collangello998** — and halfway through he calls him *tef*. It is the back channel that opened in episode 12, moved from AIM to Yahoo! and onto new handles at both ends, and teflon has been on the other end of it since. He and Drosan are still in contact, and teflon is directing him: scripting what he says to gryffin, asking how gryffin reacted and what he said about the hardware, pressing him to bring trooper in because "trooper is key." Drosan resists that hard — he doesn't want to lie to trooper and says it would put her in serious jeopardy — and teflon tells him, not without justice, that he's the biggest liar he's ever met.
 
-Then teflon explains what actually happened, and it reframes the first half of the season. The Bureau profiled Drosan carefully and built a plan to hook him, because they knew he needed money. So teflon got there first: **he invented Lucky Chi.** The Asian bootlegger Drosan believed he was selling to was teflon, operating behind the backs of the agents reading every keystroke on his machine, using access he had at work and paying Drosan out of a corporate credit card — which eventually got him fired. He says he sold his soul to these people; that the honorable thing would have been to take the charge, in which case he'd be getting out around now; that he can't look at himself in the mirror. And he gives a number: *they've already arrested **8 kids** cause of me* … *now i have these fucking feds treating me like [dirt]* … *i'm their damned boy* … *they've read every keystroke on my computer.* His defense of the Lucky Chi invention is that without it — *if i didnt invent that* — *they would have nailed you for sure* — *and as much as you piss me off, i couldn't watch [that happen]*.
+Then teflon explains what actually happened, and it reframes the first half of the season. The Bureau profiled Drosan carefully and built a plan to hook him, because they knew he needed money. So teflon got there first: **he invented Lucky Chi.** The Asian bootlegger Drosan believed he was selling to was teflon, operating behind the backs of the agents reading every keystroke on his machine, using access he had at work and paying Drosan out of a corporate credit card — which eventually got him fired. He says he sold his soul to these people; that the honorable thing would have been to take the charge, in which case he'd be getting out around now; that he can't look at himself in the mirror. And he gives a number: *they've already arrested **8 kids** cause of me* … *now i have these fucking feds treating me like [dirt]* … *i'm their damned boy* … *they've read every keystroke on my computer.* His defense of the Lucky Chi invention is that without it — *if i didnt invent that* — *they would have nailed you for sure* — *and as much as you piss me off, i couldn't watch them take down CPX*.
+
+![Episode 18 — a Yahoo! Messenger window with collangello998: "then how'd you do luckychi?" / "behind their backs" / "if i didnt invent that" / "they would have nailed you for sure"](stills/s01/e18-invented-luckychi.jpg)
+
+*Episode 18, 5:57. "then how'd you do luckychi?" — "behind their backs", "i had
+opportunities at work", "if i didnt invent that", "they would have nailed you for
+sure".*
 
 Drosan asks him one thing and never gets an answer: **you told them about my dad?**
 
@@ -726,6 +800,13 @@ They also let slip how little of this is guesswork and how much is already proce
 That is the whole distance between the two sides of this series in three lines. The group is arguing about topsites and nicknames and who leaked *The Exorcist*. The people on the other end are booking time with a prosecutor and worrying about defense lawyers, because the kids they are building a case against have parents who can afford them.
 
 So the episode is a trap being machined to fit Drosan, built by people who have lost their bait, assisted by a man who is himself wired and doesn't know it.
+
+![Episode 19 — an AIM window from monticello505 to brenner2604: "is there any way drosan could know that we're monitoring your conversations with him?" / "absolutely not", above slipknot's mIRC query ending "No such nick"](stills/s01/e19-absolutely-not.jpg)
+
+*Episode 19, 24:49. The agent at cOda's keyboard asks the account he is messaging,
+`monticello505`, whether Drosan could know "we're monitoring your conversations with
+him?" — "absolutely not". Below, slipknot finishes with "cOda": "it is clear to me that
+you are neither", and leaves.*
 
 ## Episode 20 — epilogue *(POV: Drosan)*
 
