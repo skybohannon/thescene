@@ -16,7 +16,7 @@ HANDLES = {
                     'collangello998', 'spinnaker', 'Edward G. Koenig', 'Koenig', 'teflon']),
         ('trooper', ['troopercamy0@yahoo.com', 'troopercamy', 'trooper', 'Jodi']),
         ('pyr0', ['pyr0']),
-        ('slipknot', ['slipknot']),
+        ('slipknot', ['slipknot', 'Slipknot']),
         ('coda', ['cOda', 'coda']),
         ('melissa', ['melissbliss04', 'Melissa']),
         ('dana', ['danaburke123', 'danaburke55', 'Dana Burke', 'Dana']),

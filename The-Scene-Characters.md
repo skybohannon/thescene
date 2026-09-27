@@ -15,8 +15,8 @@ The **Episodes** column lists the episode entries in the synopsis that name the 
 | **Drosan** | Brian Sandro, NYU student | Joe Testa | all 20 | Co-founder, ripper, and the man selling the group's releases to a buyer who does not exist. |
 | **teflon** | Edward G. Koenig, 37, Richmond VA | Curt Rosloff | every episode but 9 | Co-founder, elder statesman, and an FBI informant from before the first scene. Ends the series at the Department of Justice. |
 | **trooper** | Jodi, DVD plant, Los Angeles | — | 3–7, 9, 12–20 | The supplier, first suspected and innocent. The group calls her "he" for most of the season. |
-| **pyr0** | David, 16–17, Midwest | Nick White | 1–5, 7–9, 12–18, 20 | The encoder. His name is spoken in episode 14 and written nowhere. |
-| **slipknot** | — | Noah Rothman | every episode but 4 and 6 | Affiliates, conscience, and the group's actual detective. Right about gryffin and right about teflon, and believed by nobody. |
+| **pyr0** | David, 16–17, Midwest | Nick White | 1–9, 12–18, 20 | The encoder. His name is spoken in episode 14 and written nowhere. |
+| **slipknot** | — | Noah Rothman | every episode but 4 | Affiliates, conscience, and the group's actual detective. Right about gryffin and right about teflon, and believed by nobody. |
 | **cOda** | — (Germany, later Prague) | Dinarte de Freitas | every episode but 11 | The courier. Sells the group out in German in episode 15, then vanishes. |
 
 ### Drosan's life outside the channel

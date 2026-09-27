@@ -15,7 +15,7 @@ This is written for someone who has watched the series, or doesn't mind knowing:
 | 3 | beaten to it | Drosan | A rival group releases *The Exorcist* first. Suspicion lands on trooper; slipknot traces it to a bootleg on the street in Singapore. |
 | 4 | teflon shows his hand | Drosan | teflon reconstructs the leak from a shipping delay and demands a cut. |
 | 5 | the price of silence | teflon | The elder statesman is an FBI informant with an appointment at nine in the morning. |
-| 6 | trooper comes to the channel | trooper | An email teflon should never have sent — and the name in its From field. |
+| 6 | trooper comes to the channel | trooper | An email teflon should never have sent, with a federal document's metadata attached — and the group talks itself out of what it means. |
 | 7 | the group starts performing | Drosan | The channel becomes theater staged for teflon, who is staged for the Bureau. |
 | 8 | "it will be over tonight" | Drosan | The counter-operation runs. Drosan removes himself from the board. |
 | 9 | the loose thread | Drosan | A stranger called gryffin says the name of Drosan's secret buyer to his face. |
@@ -357,7 +357,37 @@ The second is what the group does with it. trooper forwards it — **"Fwd: acces
 *Episode 6, 6:39. Three seconds on screen, and the line that gives Drosan his
 surname: the mail goes to `brian.sandro@gmail.com`.*
 
-In the channel the email dominates, and cOda's read lands: teflon is fastidious about security, email is insecure, and putting an accusation in writing to an outside source is so out of character that it looks deliberate. Suspicion rotates onto teflon. They are right about the significance and wrong about the reason — the mail is not a plant, it is a slip, and the only party it burns is teflon himself.
+In the channel the email dominates, and cOda's read lands: **teflon is fastidious about security** — *i can't believe he would send an e-mail to a source* — *but e-mail is insecure. he shouldn't be sending it to any of us* — and pyr0 adds, *specially with that attach!!!* cOda: *it's like he's TRYING to get us arrested?* Drosan explains the attachment is the group's own doing — *he got the ginfo in the attach from me* — and admits *i have no idea why he'd e-mail it to trooper*. They can't reach teflon to ask: *acting strange lately*, *he's been in meetings*, but *we've ALWAYS been able to get him after an hour or two*.
+
+**Then they open the attachment, and the episode's real discovery is a document property, not a header.** They read the ginfo.doc "carefully" and find nothing in the mail or the file that jumps out — trooper asks if they're *looking for like a hidden message or something* — until someone checks its Properties:
+
+> **&lt;Slipknot&gt;** check the properties of the attach
+>
+> **&lt;pyr0&gt;** HOLY FUCK!!!!
+>
+> **&lt;pyr0&gt;** he's a damn FED!!!!!!!
+>
+> **&lt;cOda&gt;** Jesus !!
+>
+> **&lt;cOda&gt;** i knew it ! i KNEW this was bad !
+
+The Summary tab, on screen, gives the reason: the file's **Author** field reads **United States DOJ / Intellectual Property [Division]** — the exact office episode 17 names as the Bureau's — sitting inside a document teflon forwarded as his own. It is a harder piece of evidence than the email header, and it surfaces six episodes early, in a scene about somebody else's downloading habits.
+
+**Drosan shuts it down first, on loyalty alone:** *chill a sec* — *tef is a founding member of this group* — **he is NOT a fed!** slipknot, in his first real appearance as the group's detective, talks himself out of it next, on logic that sounds sound and isn't: *if teflon was a fed he would never send this* — *because it would serve no purpose* — *besides, if teflon was a fed, he would have moved against us long ago*.
+
+**But the channel keeps working the theory after that, and it gets more sophisticated, not less.** pyr0 floats a version that would fit what the group already believes: *shit, maybe he got busted!!!!!!!* Drosan says it doesn't fit; cOda insists it fits perfectly — *he probably got busted right before the Exorcist* — *and they had him screw up the rls* — *by selling it to the asians*, folding teflon into the theory of the leak that episode 3 actually traced to a bootleg sold on a Singapore street. trooper raises the objection that should have ended it: *if he had been busted* — *the feds would OWN his ass* — *they'd record all of his keystrokes* — meaning the document should carry a trail, not a clean DOJ author field.
+
+**That objection is what turns slipknot's read around.** *perhaps we are looking at this the wrong way* — *i don't think tef typed in those properties* — *i think he took someone else's word doc and re-saved it with a new title*. Asked why he'd do that, slipknot's answer is the one the series will spend the rest of the season proving right: *maybe he knew his keystrokes were being recorded* — *teflon sent us something that he knew would ring our alarm bells* — *but we've been discussing trooper's downloads for weeks* — *so your average fed would never question the e-mail* — *and if he re-saved their doc there would be no keystroke record*. cOda draws the conclusion in one line — *he's a mole* — *tef is a damn mole for the feds!* — and slipknot, having just built the case for exactly that, says no: *don't you get it?* — *the e-mail wasn't an attack* — *it was carefully considered* — *teflon wasn't trying to screw us* — and the episode ends there, the sentence unfinished. slipknot has just described, more or less exactly, what teflon confirms to Drosan in episode 18: a compromised man trying to warn the people around him without warning the people watching him.
+
+The Summary tab, on screen, gives the group's evidence its source: the file's **Author** field reads **United States DOJ / Intellectual Property [Division]** — the exact office episode 17 names as the Bureau's — sitting inside a document teflon forwarded as his own. It is a harder piece of evidence than the email header, and it surfaces, and is argued over in real time, six episodes before the Bureau confirms any of it. (The document's "Last Saved By" field reads **Mitchell Reichgut**, the series' actual director — a signature left in a prop that nobody in the fiction was ever meant to open.)
+
+They are right about the significance in every direction they turn it, and nobody outside this one conversation ever raises it again — the mail is not a plant, it is a slip, and the document inside it is the season's best piece of evidence, aired once and dropped.
+
+![Episode 6 — a Word document's Properties dialog, Summary tab, showing Author: "United States DOJ / Intellectual Pr..." and Last Saved By: "Mitchell Reichgut"](stills/s01/e06-doj-metadata.jpg)
+
+*Episode 6, 15:31. The attachment's own metadata, six episodes before the Bureau
+confirms it: Author, "United States DOJ / Intellectual Property..." — and Last Saved
+By, "Mitchell Reichgut," the series' real director.*
 
 ## Episode 7 — the group starts performing *(POV: Drosan)*
 
@@ -398,6 +428,32 @@ It runs at 22:20, alongside the teflon window where teflon is asking whether he'
 *Episode 7, 17:03. Three windows, three stories: Melissa's "I just feel like we're
 drifting apart" at the top, trooper's "did he take the bait?" in the middle, and
 teflon asking about the sale underneath.*
+
+**That teflon window is worth reading in full, because "asking about the sale" undersells what happens in it.** It opens with teflon still angling to get trooper back — *i want trooper BACK* — *i'll send him another mail* — and Drosan's flat *i don't think you'll do any better than i did*. Then teflon changes the subject to a new buyer:
+
+> **&lt;teflon&gt;** any news on Coach Carter?
+>
+> **&lt;Drosan&gt;** yes
+>
+> **&lt;Drosan&gt;** the asians want it
+>
+> **&lt;Drosan&gt;** so once i get the package, i will encode and we'll get paid
+>
+> **&lt;teflon&gt;** who's the source?
+>
+> **&lt;Drosan&gt;** his name is Zain.. i haven't told the others about him yet
+
+teflon presses for proof — *last time we had a movie you bagged out at the last minute* — *that wasn't my fault.. and you know it* — *i need some proof this time. a show of good faith* — and Drosan, out of money (*tef.. i am a waiter, i have no money to front this*), refuses to advance him anything. teflon's answer is the episode's second blackmail, delivered flatly:
+
+> **&lt;teflon&gt;** don't give me this sob story bullshit. paypal me an advance.
+>
+> **&lt;Drosan&gt;** i can't!
+>
+> **&lt;teflon&gt;** YOU NEED TO DO SOMETHING FOR ME NOW OR I SWEAR TO GOD I WILL GO RIGHT BACK INTO THAT MAIN WINDOW AND TELL EVERYONE THAT YOU WERE THE ONE WHO SOLD THE EXORCIST — AND GOD KNOWS WHAT ELSE!
+
+Drosan folds — *okay, okay* — *calm down* — and agrees to forward a PayPal account "as a show of good faith," since he can't pay until the Asian money arrives. teflon's threat treats the Exorcist sale as an established fact, not a guess — consistent with his line in episode 5 that Drosan had already sold him *the incredibles and the exorcist* — so whatever slipknot works out about D-Pix's street bootleg in episode 3, teflon believes, and says out loud, that Drosan sold both films.
+
+**And it is a lie before he even sends it.** slipknot, still on the line about the counter-operation, asks the practical question — *one can't just fake a paypal account* — *if you're not going to send him your real account* — *whose account are you going to use?* Drosan's answer is *don't worry about it, slip*, and the episode cuts out mid-sentence on his reply. Whatever teflon receives as his "show of good faith," it is not what Drosan just promised him.
 
 Underneath all of it, the personal thread keeps running. Melissa mentions that Todd has met someone — a woman in her thirties with curly blonde hair, name of **Dana Burke** — and Drosan admits he knows her, that she hosts sometimes. When Melissa asks how well he knows her, he deflects with "jealous?"
 
@@ -495,7 +551,9 @@ Then **Melissa** comes in and sits down in his chair, in front of all of it, and
 
 **And she asks what she is looking at.** This is the detail that makes the episode:
 
-> **melissbliss04:** i'm on one now and theres this chat going on
+> **melissbliss04:** at least some of them
+>
+> **melissbliss04:** i'm on one now and theres this chat going on in another window .. some techno babble
 >
 > **suzyxiao:** it's probably just an IRC channel
 
@@ -1083,6 +1141,7 @@ episode 13's FTP credentials appear to run for twenty minutes.
 | 5 | driving directions | 9:09–9:30 |
 | 5 | the `burroughs485` window | 9:36–9:48 |
 | 6 | the "access issue" mail from ed koenig | 2:57–14:18 |
+| 6 | the ginfo.doc Properties dialog: Author "United States DOJ / Intellectual Pr..." | 15:26–16:24 |
 | 6 | the forward to `brian.sandro@gmail.com` | 6:39–6:42 |
 | 7 | the trooper query — seconds long | 16:36–17:03 |
 | 8 | the first Dana window | 1:21–3:48 |
