@@ -58,10 +58,10 @@ do with any of it.
 > **&lt;sng330&gt;** oh, it's you
 
 talisman says his group needs an encoder, that they have releases coming, that they
-need someone fast. It is an ordinary scene recruitment, and `sng330` turns it down
-eight times — *i'm not available*, *not interested*, *i don't encode anymore*, *no
-thanks*, *i have no time for this*, *i can't do this right now*, *tell your group to
-find somebody else*, *i have to go to work*. Then the register changes:
+need someone fast. It is an ordinary scene recruitment, and `sng330` turns it down six
+times running — *i'm not available*, *not interested*, *i don't encode anymore*, *no
+thanks*, *i have no time for this*, *tell your group to find somebody else* — before
+the register changes:
 
 > **&lt;talisman&gt;** you really don't want to disappoint my group
 >
@@ -69,8 +69,10 @@ find somebody else*, *i have to go to work*. Then the register changes:
 >
 > **&lt;talisman&gt;** i will idle here while you set it up
 
-sng330 types *it's done* and gives a Jabber address. Everything after this in the
-season happens there.
+It doesn't land, not right away: sng330 deflects twice more — *i can't do this right
+now*, *i have to go to work* — eight refusals in all, and only gives in once talisman
+answers *ping me when the channel is ready*. She types *fine*, then *it's done*, and
+gives a Jabber address. Everything after this in the season happens there.
 
 ![Episode 1 — an mIRC window on AlNET, tabs for #elitewarez and a private query with talisman, who is recruiting sng330](stills/s02/e01-recruitment.jpg)
 
@@ -99,9 +101,11 @@ Gaim-otr for the encrypted chat, mIRC for the scene, and Vidalia, which is Tor's
 controller. The account name is **David** — nobody in this season, but the name season 1's encoder, pyr0, is called out loud in its episode 14.*
 
 In the encrypted window the other man is `t0mb0`, and he is not recruiting an
-encoder at all.
+encoder at all — his opening line drops the pretense outright:
 
-> **t0mb0:** our mutual friend wishes to engage your [services]
+> **t0mb0:** i assume we may now dispense of the schoolboy movie piracy chatter?
+>
+> **t0mb0:** our mutual friend wishes to engage your services
 >
 > **t0mb0:** he has buyers
 >
