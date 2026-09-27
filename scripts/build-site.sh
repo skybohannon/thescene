@@ -11,7 +11,7 @@ out=${1:-_site}
 rm -rf "$out"
 mkdir -p "$out/offline"
 for f in The-Scene-Episode-Guide.md The-Scene-S01-Episode-Synopses.md The-Scene-S02-Episode-Synopses.md \
-         The-Scene-Characters.md The-Scene-Frames.md; do
+         The-Scene-Characters.md; do
   python3 scripts/mkhtml.py --web "$out" "$f"
   cp "${f%.md}.html" "$out/offline/"
 done

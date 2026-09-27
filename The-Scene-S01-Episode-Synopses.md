@@ -57,6 +57,12 @@ He is also reading the news about himself. Slashdot carries **"MPAA Sues Movie-S
 
 So the buyer already exists, already knows him as Brian, and is waiting on him in the very first episode — before the narration's line about never having thought of himself as the sort of person who would sell. The episode's closing confession is not a foreshadowing. It is a description of a relationship the audience has already watched him tend.
 
+![Episode 1 — an ICQ message session with LuckyChi2203, who writes "Yes, I am here"](stills/s01/e01-luckychi-icq.jpg)
+
+*Episode 1, 12:03. The buyer, in the first of the windows that will eventually cost
+Drosan everything. LuckyChi2203 is a fabrication; the man typing is teflon, and the
+money comes from his employer's credit card, behind his handlers' backs.*
+
 **And in a third, the motive is typed out.** He opens Gmail and composes a message to `financedept@nyu.edu`, subject **"next semester payment"**, writing it in front of the viewer sentence by sentence, deleting and restarting:
 
 > Dear Ms. Wistrom
@@ -70,6 +76,13 @@ So the buyer already exists, already knows him as Brian, and is waiting on him i
 > Brian Sandro
 
 He signs it with his full name, which means the first episode of the series already has it on screen — before the Gmail sign-in field in episode 2 and the email header in episode 6.
+
+![Episode 1 — a Gmail compose window addressed to financedept@nyu.edu, subject "next semester payment", signed Brian Sandro](stills/s01/e01-tuition-email.jpg)
+
+*Episode 1, 5:33. The first thing the series tells you about Drosan is not that he
+runs a warez group. It is that his father is ill and the tuition is not going to be
+paid — and the signature at the bottom is his real name, eleven minutes in, five
+episodes before anyone thinks to look for it.*
 
 It is the most ordinary document in the series and the one everything else hangs on. The narration's closing line about money being like food is not a metaphor the episode reaches for — it is a caption for a begging letter to a university finance office that the audience has just watched him write. His desktop, meanwhile, is a student's: World of Warcraft, iTunes, DVD Decrypter.
 
@@ -259,7 +272,18 @@ The plot: trooper has *Hitch* burning for morning delivery, then mentions, almos
 
 Two things are sitting in that header. The first is the name: **ed koenig** — teflon's real name, displayed in the From field of an email he sent from his own Yahoo account to someone outside his group. In episode 17 the Bureau explains how they finally caught the number two man in CPX after six months of failing to get his IP address: *eventually he sent an email*, and a court order to Yahoo produced it. This is that email, on screen eleven episodes before the series explains what it means, in an episode that is nominally about somebody else.
 
+![Episode 6 — a Yahoo! Mail inbox with one message, from "ed koenig", subject "access issue", dated Sun 03/13](stills/s01/e06-inbox-ed-koenig.jpg)
+
+*Episode 6, 14:18. One row in trooper's inbox, and the only place in the first
+fifteen episodes where teflon's real name is written down: sender **ed koenig**,
+subject **access issue**. Nobody in the story reads it as a name.*
+
 The second is what the group does with it. trooper forwards it — **"Fwd: access issue"** — to `brian.sandro@gmail.com`, which ties the scene handle **Drosan** to the name on the tuition letter in episode 1 and the Gmail sign-in field in episode 2, for anyone reading the To field.
+
+![Episode 6 — a Yahoo! Mail compose window, To: brian.sandro@gmail.com, Subject: Fwd: access issue](stills/s01/e06-forward.jpg)
+
+*Episode 6, 6:39. Three seconds on screen, and the line that gives Drosan his
+surname: the mail goes to `brian.sandro@gmail.com`.*
 
 In the channel the email dominates, and cOda's read lands: teflon is fastidious about security, email is insecure, and putting an accusation in writing to an outside source is so out of character that it looks deliberate. Suspicion rotates onto teflon. They are right about the significance and wrong about the reason — the mail is not a plant, it is a slip, and the only party it burns is teflon himself.
 
@@ -453,6 +477,12 @@ teflon hands over credentials — `ip: 63.247.91.187`, `user: btr69*73`, `pass: 
 
 So Drosan does what the series has never shown him do before: he breaks into a computer. He downloads the **Metasploit Framework** (`http://metasploit.com/tools/framework-2.4.tar.gz`, 2.5MB) on screen, and works through it — target lists, payloads, `iis50_webdav_ntdll`, then `msrpc_dcom_ms03_026`, then finally `warftpd_165_user`, the exploit for the FTP daemon itself.
 
+![Episode 13 — a PuTTY window showing a Metasploit session returning a Windows command prompt on 63.247.91.187](stills/s01/e13-metasploit-shell.jpg)
+
+*Episode 13, 13:00. Drosan breaks into the server at teflon's employer to destroy the
+FTP log that would give him away. The shell comes back on `63.247.91.187` — and in the window at the
+left, teflon is asking how it is going.*
+
 **And he does not do it alone.** Under `dro_5544` he pages someone called **Chris** (`chOppr998`), who is slow to answer because he's on the phone (*talking to the ole lady, off in a few mins*), and then walks him through the whole thing:
 
 > **chOppr998:** OK, you have to pick an exploit and a payload … ping me if you run into probs … **btw, you're not going direct, are you?** … dont be crazy, use one of those shells i gave u
@@ -544,6 +574,12 @@ The rest of the exchange is a negotiation rather than a decision. gryffin wants 
 
 So the deal that destroys cOda is haggled out in two languages at once, in a window the group never sees, while he chairs a meeting about Drosan's secrecy.
 
+![Episode 15 — an AIM conversation between c0dac0da and gryffin524 while the #dust channel discusses gryffin](stills/s01/e15-gryffin-deal.jpg)
+
+*Episode 15, 10:00. The whole season in one screen: in the channel behind, slipknot
+is working out that gryffin cannot be trusted; in the window in front, cOda is
+closing the deal with him.*
+
 **And in another window, slipknot solves the season.** This is the sequence the episode is really built around, and it is one of the best-constructed things in the series: an actual chain of reasoning, shown step by step, arriving at the correct answer two episodes before the Bureau confirms it.
 
 He starts from the paperwork. The PayPal details that reached Drosan came in a forwarded mail, so he says he's going to check the header, and disappears for a while. He comes back with a fact against himself: **trooper's friend has run the name Timothy Brudiger, and Brudiger has no criminal record.** cOda says the obvious thing — then your theory is no good. slipknot agrees that he thought the same, and then asks him to listen anyway:
@@ -582,6 +618,11 @@ The first is a siteop called **Stoneface**, and slipknot lies to him to get what
 
 Stoneface obliges (*no prob, in the middle of sumpin, freaking crazy day … anyway, just upped the logs to groups folder*), and the logs appear on screen: repeated `LOGIN: user coda to localhost` / `LOGOFF: user coda to localhost … transferred` pairs, dated December 22nd through the 27th, with transfers running from 0MB and 121MB up to 1.7GB, 3.2GB, 4.7GB and 9.2GB. cOda is not missing. He has been logging in and moving files every day of the week he is supposedly unreachable.
 
+![Episode 16 — an FTP server log showing repeated logins by user coda, the Christmas-week entries selected](stills/s01/e16-ftp-logs.jpg)
+
+*Episode 16, 19:20. cOda tells the channel he could not get to his apartment for a
+week. The site's own log has him logging in throughout, moving gigabytes.*
+
 The second is **r3dbadg3r** — "badger" — trooper's contact with LexisNexis access. trooper sets it up in the channel: *my friend with the lexis nexis access … on the phone with him now … he's about to ping you, slip … we've used it to find out some [things] … like gryffin's name and his history … now we're going after teflon.* Which is to say the group already identified Brudiger this way, off screen, before slipknot's deduction in episode 15. Then badger delivers:
 
 > **r3dbadg3r:** so I got the info you wanted. there's only one guy who fits the parameters you sent me. his name is **Edward G. Koenig**. he's 37 and lives in **Richmond, VA**. he's divorced with one kid. he was arrested on **November 2, 2004** and charged with theft of intellectual property, among other things. i'll send the file momentarily
@@ -605,6 +646,12 @@ Recorded footage from the FBI's Intellectual Property Division, captioned on scr
 **Who teflon really is.** On February 2, 2004 — before the series begins — they arrested **Ed Koenig, aka teflon**, the number two man in CPX, a group they credit with roughly $175 million worth of pirated material. They caught him by patience: six months of tracking while posing as a newbie kid, because Koenig was fiercely protective of his IP address. Eventually he sent an email, and a court order to Yahoo produced the address. The agent who ran him, Burroughs, is openly ambivalent — he spent a long time with the man and finds it hard not to pity him. The profile he gives is brutal and sad: Koenig makes no money from any of it, there is an ex-wife, a kid and alimony, his house is a dump, his job goes nowhere — but online he's revered, a mentor these kids come to like a god.
 
 **The org chart**, which he writes on the whiteboard under the heading *Top Down* as he speaks. Leader: Drosan, who obtains sources and is sometimes the source himself. Affiliations: slipknot, believed European on Koenig's say-so but unverified, responsible for topsite access. Encoder: pyr0 — American, and they peg him at sixteen or seventeen, somewhere in the Midwest. Courier: cOda. Koenig himself was operations, the older man keeping it all running. On the source, trooper, they know only that the titles imply someone inside the industry — an editing house, maybe even a studio — and, as one of them puts it, trooper is the one they feel most confident about.
+
+![Episode 17 — an FBI briefing room, a whiteboard with "Ed Koenig / Teflon" boxed, captioned Monday, January 30, 2006](stills/s01/e17-whiteboard.jpg)
+
+*Episode 17, 3:39. The only episode with no computers in it, and the one that says
+the names out loud. Tesseract recovers nothing from this board; the eye reads it
+without effort.*
 
 **The real asset.** A named third party is introduced under strict secrecy: **Timothy Brudiger — gryffin**. He's been wired without knowing it, and they refuse to arrest him because his contacts are worth more than he is. Through Brudiger they've infiltrated ripping groups across three continents and made arrests across Europe — Madrid, Brussels — publicized selectively and deliberately. They want the scene nervous, but not too nervous. It's the exact pattern slipknot spent episodes 11–15 trying to convince his own group was real — and the briefing is, from the audience's side, a confirmation rather than a reveal, because slipknot named Brudiger as gryffin in episode 15 and explained the mechanism correctly. The clean criminal record that made cOda dismiss the theory is explained here: the Bureau has chosen not to charge him.
 
@@ -711,6 +758,11 @@ The goodbye is not warm. *but don't think i will be here in the future to bail y
 > Thank you so much for sending over the foot warmers. I am much more comfortable at night now that I have them.
 
 A young girl calls out that some men are here to see her grandmother; the old woman tells her to let them in; and federal agents come through the door shouting. The implication is left to land on its own: the address teflon just asked about is hers, and the connection Drosan used to mask himself was never his. The series does not spell out how he came by it. Episode 7's precaution protects him to the end, and the cost falls on someone who never knew the scene existed. The last on-screen text of the season, after twenty episodes of release channels and NFO files, is a thank-you note about foot warmers.
+
+![Episode 20 — a Yahoo! Mail compose window reading "Dear Cindy, Thank you so much for sending over the foot warmers. I am much more comfortable at night now that I have them."](stills/s01/e20-thank-you.jpg)
+
+*Episode 20, 23:06. After twenty episodes of federal investigation, the series ends
+on a thank-you note about foot warmers.*
 
 ---
 
@@ -869,65 +921,9 @@ Two of these are worth the trouble of finding on your own copy. The episode 6
 forward is on screen for three seconds. The episode 7 query with trooper is
 gone in under thirty.
 
-### Nine frames
-
-The series is read rather than watched, so a few of the frames carry more than
-any description of them can. These are reproduced here for reference; they
-remain Jun Group's.
-
-![Episode 1 — a Gmail compose window addressed to financedept@nyu.edu, subject "next semester payment", signed Brian Sandro](stills/s01/e01-tuition-email.jpg)
-
-*Episode 1, 5:33. The first thing the series tells you about Drosan is not that he
-runs a warez group. It is that his father is ill and the tuition is not going to be
-paid — and the signature at the bottom is his real name, eleven minutes in, five
-episodes before anyone thinks to look for it.*
-
-![Episode 1 — an ICQ message session with LuckyChi2203, who writes "Yes, I am here"](stills/s01/e01-luckychi-icq.jpg)
-
-*Episode 1, 12:03. The buyer, in the first of the windows that will eventually cost
-Drosan everything. LuckyChi2203 is a fabrication; the man typing is teflon, and the
-money comes from his employer's credit card, behind his handlers' backs.*
-
-![Episode 6 — a Yahoo! Mail inbox with one message, from "ed koenig", subject "access issue", dated Sun 03/13](stills/s01/e06-inbox-ed-koenig.jpg)
-
-*Episode 6, 14:18. One row in trooper's inbox, and the only place in the first
-fifteen episodes where teflon's real name is written down: sender **ed koenig**,
-subject **access issue**. Nobody in the story reads it as a name.*
-
-![Episode 6 — a Yahoo! Mail compose window, To: brian.sandro@gmail.com, Subject: Fwd: access issue](stills/s01/e06-forward.jpg)
-
-*Episode 6, 6:39. Three seconds on screen, and the line that gives Drosan his
-surname: the mail goes to `brian.sandro@gmail.com`.*
-
-![Episode 13 — a PuTTY window showing a Metasploit session returning a Windows command prompt on 63.247.91.187](stills/s01/e13-metasploit-shell.jpg)
-
-*Episode 13, 13:00. Drosan breaks into the server at teflon's employer to destroy the
-FTP log that would give him away. The shell comes back on `63.247.91.187` — and in the window at the
-left, teflon is asking how it is going.*
-
-![Episode 15 — an AIM conversation between c0dac0da and gryffin524 while the #dust channel discusses gryffin](stills/s01/e15-gryffin-deal.jpg)
-
-*Episode 15, 10:00. The whole season in one screen: in the channel behind, slipknot
-is working out that gryffin cannot be trusted; in the window in front, cOda is
-closing the deal with him.*
-
-![Episode 16 — an FTP server log showing repeated logins by user coda, the Christmas-week entries selected](stills/s01/e16-ftp-logs.jpg)
-
-*Episode 16, 19:20. cOda tells the channel he could not get to his apartment for a
-week. The site's own log has him logging in throughout, moving gigabytes.*
-
-![Episode 17 — an FBI briefing room, a whiteboard with "Ed Koenig / Teflon" boxed, captioned Monday, January 30, 2006](stills/s01/e17-whiteboard.jpg)
-
-*Episode 17, 3:39. The only episode with no computers in it, and the one that says
-the names out loud. Tesseract recovers nothing from this board; the eye reads it
-without effort.*
-
-![Episode 20 — a Yahoo! Mail compose window reading "Dear Cindy, Thank you so much for sending over the foot warmers. I am much more comfortable at night now that I have them."](stills/s01/e20-thank-you.jpg)
-
-*Episode 20, 23:06. After twenty episodes of federal investigation, the series ends
-on a thank-you note about foot warmers.*
-
 ### On the sources
+
+The frames in the episode entries are reproduced because the series is read rather than watched, and a few of its frames carry more than any description of them can. They remain Jun Group's.
 
 Quoted exchanges follow the client they came from: IRC — the group's channel and the private queries inside mIRC — uses `<nick>`, and the instant-messaging windows on ICQ, AIM and Yahoo! Messenger use `nick:`, which is how each of them actually renders a line.
 

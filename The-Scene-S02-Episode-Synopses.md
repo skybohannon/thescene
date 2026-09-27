@@ -72,6 +72,12 @@ find somebody else*, *i have to go to work*. Then the register changes:
 sng330 types *it's done* and gives a Jabber address. Everything after this in the
 season happens there.
 
+![Episode 1 — an mIRC window on AlNET, tabs for #elitewarez and a private query with talisman, who is recruiting sng330](stills/s02/e01-recruitment.jpg)
+
+*Episode 1, 2:30. The whole season starts as an ordinary scene recruitment, refused eight
+times. talisman's host is cloaked; the channel tab behind says `#elitewarez`; the line
+being typed at the bottom is "no than[ks]".*
+
 Between the two conversations the narration stops being about her and explains the
 machinery, in the season's only piece of exposition:
 
@@ -85,6 +91,12 @@ machinery, in the season's only piece of exposition:
 Her Start menu, open on screen a few seconds later, is the same claim in software:
 Gaim and Gaim-otr, mIRC, Putty, WinSCP3, FileZilla, TightVNC, a Cisco VPN client — and
 Vidalia, which is the Tor controller the narration has just described.
+
+![Episode 1 — a Windows XP Start menu logged in as David, listing Gaim, Gaim-otr, mIRC, Putty, WinSCP3, TightVNC and Vidalia](stills/s02/e01-startmenu.jpg)
+
+*Episode 1, 4:06. The toolkit, a few seconds after the narration explains Tor: Gaim and
+Gaim-otr for the encrypted chat, mIRC for the scene, and Vidalia, which is Tor's own
+controller. The account name is **David** — nobody in this season, but the name season 1's encoder, pyr0, is called out loud in its episode 14.*
 
 In the encrypted window the other man is `t0mb0`, and he is not recruiting an
 encoder at all.
@@ -139,6 +151,12 @@ are*, *good afternoon* — while houdini6 asks the same question three different
 > **t0mb0:** since your mother passed on
 >
 > **t0mb0:** (my condolences, btw)
+
+![Episode 2 — a Gaim window with t0mb0, timestamped, in which houdini6 asks "where is she?" and "tell me where she is"](stills/s02/e02-where-is-she.jpg)
+
+*Episode 2, 1:48. Two questions and five deflections, timestamped to the second. t0mb0
+answers "good evening", "ah", "silly", "it is not late where you are", "good
+afternoon" — and then "you do not know ?" The OTR indicator reads Private.*
 
 Then, line by line, t0mb0 lays out everything he knows, in the gentlest possible
 phrasing:
@@ -430,6 +448,12 @@ sounds like fun*. He replies *you just made my day!*
 The detail that lands the invitation is the one true thing on the screen. Her
 daughter really is in Estonia, and the photograph on the monitor really is hers.
 
+![Episode 6 — an AIM window with MikeyD5550 inviting DanikaLi99 to a Mets game](stills/s02/e06-danika-mike.jpg)
+
+*Episode 6, 3:45. The cover identity at work, and the only warm conversation in the
+season. Note the status line: on AIM the OTR indicator reads **Not private**, where
+every Jabber window in the season reads Private.*
+
 The episode closes back in Jabber, with the same man discussed as an asset:
 
 > **t0mb0:** what is the status of the [inventory]
@@ -659,6 +683,12 @@ said he had a hard drive full of them... I'm sure Mr. Davis will deny all of thi
 But all you have to do is examine his hard drive and you'll see that I'm telling you
 the truth.*
 
+![Episode 9 — a Yahoo Mail compose window containing an anonymous complaint accusing Mike Davis of harassment](stills/s02/e09-complaint.jpg)
+
+*Episode 9, 3:15. The second half of the frame-up, composed on screen from a throwaway
+account. Nothing in it happened. "But all you have to do is examine his hard drive and
+you'll see that I'm telling you the truth" — which, by episode 8, is true.*
+
 > **houdini6:** so you're willing to ruin an innocent man's career and reputation
 > just as an added measure of prtoection?
 >
@@ -726,6 +756,11 @@ before Danika was born.
 > **t!nman:** i'm never gonna get used to it
 >
 > **houdini6:** you're just like my dad
+
+![Episode 10 — a Gaim window with t!nman, who writes "this shyte aint talkin" and "i aint no bloody typist"](stills/s02/e10-murph.jpg)
+
+*Episode 10, 1:30. Murph, arriving. He is the only person in twenty episodes who types
+like someone who would rather be talking.*
 
 The family history arrives sideways, in condolences. Danika's mother has died — her
 name was **Vicky**, she died in Estonia, and Murph knew her *since the old days back
@@ -1272,6 +1307,12 @@ composing her own last letter while the people outside her office get into posit
 > Anyway, I hope you can do something with this information. You've been a great
 > friend. A second father, really.
 
+![Episode 16 — a Yahoo Mail compose window containing a long letter to Murph about being watched](stills/s02/e16-email.jpg)
+
+*Episode 16, 2:45. Not a chat window, and the most important document in the season:
+"The 'security guards' that they hired have been eyeing me all day and they've now lost
+all pretense and have taken up positions just down the hall from my office."*
+
 Attached below it, the thing she went into the building for. It is a shipment
 confirmation, and it is the answer to the question the whole season is about, sitting
 on screen in plain type four episodes before anyone says it out loud:
@@ -1290,6 +1331,12 @@ on screen in plain type four episodes before anyone says it out loud:
 The confirmation is dated **September 27, 2006** and the sender is at **2451 Warwick
 Avenue, Newark**. Above it, the letter ends the way nothing else in the season does —
 *Love, Dani*.
+
+![Episode 16 — a shipment confirmation for 18 size AA3 containers from Applied Engineering Partnership, signed by H. XIOU](stills/s02/e16-shipment.jpg)
+
+*Episode 16, 8:06. Attached beneath the letter, and the answer to the whole season:
+confirmation #2668765, dated September 27, 2006, eighteen containers leaving 2451
+Warwick Avenue, Newark. Above it, the only sign-off she gives anyone — "Love, Dani".*
 
 Hunan is where, in episode 20, Murph says he has been spending time with Wei Chang.
 
@@ -1358,6 +1405,12 @@ job has stopped pretending to be an operations manager.
 > **jimbrandon09:** and i know when i'm being strung along
 >
 > **tann3r:** no one is stringing you along, ralph
+
+![Episode 17 — a Gaim window in which tann3r tells jimbrandon09 "no one is stringing you along, ralph"](stills/s02/e17-ralph-stan.jpg)
+
+*Episode 17, 2:06. The first episode told from inside the agency, and the frame that
+identifies its narrator: the man calling himself Jim Brandon is addressed as **ralph**
+by his own supervisor.*
 
 The leverage is simple and he applies it without embarrassment:
 
@@ -1765,6 +1818,11 @@ Pennsylvania. Not an orphanage in Estonia, which is where the whole season's sea
 had been directed — but in the custody of the people doing the searching. Whether she
 was ever in Estonia at all is a question the series leaves standing.
 
+![Episode 20 — a Gaim window in which tann3r says Katerina is with a foster care family in pennsylvania](stills/s02/e20-pennsylvania.jpg)
+
+*Episode 20, 13:00. A season of searching Estonian orphanages, and two lines
+under pressure.*
+
 > **houdini6:** you'll send me the address in the next 10 minutes
 >
 > **houdini6:** won't you
@@ -1975,6 +2033,8 @@ NonCommercial term the series never claimed. Treat it as unverified.
 
 ### On the sources
 
+The frames in the episode entries are reproduced because the series is read rather than watched, and a few of its frames carry more than any description of them can. They remain Jun Group's.
+
 Quoted exchanges follow the client they came from. This season runs on three:
 
 - **Gaim, talking Jabber**, is most of it, and it prints a full address —
@@ -2068,69 +2128,6 @@ Two details are worth pausing on. The FTP window in episode 4 and the Start menu
 episode 1 both name the machine's Windows account, and it is neither of hers. And in
 episode 8, while she fills a colleague's hard drive with material that will end his
 career, the IRC status window is printing her own residential cable host in clear.
-
-### Ten frames
-
-The season is read rather than watched, and a few of its frames carry more than any
-description of them can. These are reproduced for reference; they remain Jun Group's.
-
-![Episode 1 — an mIRC window on AlNET, tabs for #elitewarez and a private query with talisman, who is recruiting sng330](stills/s02/e01-recruitment.jpg)
-
-*Episode 1, 2:30. The whole season starts as an ordinary scene recruitment, refused eight
-times. talisman's host is cloaked; the channel tab behind says `#elitewarez`; the line
-being typed at the bottom is "no than[ks]".*
-
-![Episode 1 — a Windows XP Start menu logged in as David, listing Gaim, Gaim-otr, mIRC, Putty, WinSCP3, TightVNC and Vidalia](stills/s02/e01-startmenu.jpg)
-
-*Episode 1, 4:06. The toolkit, a few seconds after the narration explains Tor: Gaim and
-Gaim-otr for the encrypted chat, mIRC for the scene, and Vidalia, which is Tor's own
-controller. The account name is **David** — nobody in this season, but the name season 1's encoder, pyr0, is called out loud in its episode 14.*
-
-![Episode 2 — a Gaim window with t0mb0, timestamped, in which houdini6 asks "where is she?" and "tell me where she is"](stills/s02/e02-where-is-she.jpg)
-
-*Episode 2, 1:48. Two questions and five deflections, timestamped to the second. t0mb0
-answers "good evening", "ah", "silly", "it is not late where you are", "good
-afternoon" — and then "you do not know ?" The OTR indicator reads Private.*
-
-![Episode 6 — an AIM window with MikeyD5550 inviting DanikaLi99 to a Mets game](stills/s02/e06-danika-mike.jpg)
-
-*Episode 6, 3:45. The cover identity at work, and the only warm conversation in the
-season. Note the status line: on AIM the OTR indicator reads **Not private**, where
-every Jabber window in the season reads Private.*
-
-![Episode 9 — a Yahoo Mail compose window containing an anonymous complaint accusing Mike Davis of harassment](stills/s02/e09-complaint.jpg)
-
-*Episode 9, 3:15. The second half of the frame-up, composed on screen from a throwaway
-account. Nothing in it happened. "But all you have to do is examine his hard drive and
-you'll see that I'm telling you the truth" — which, by episode 8, is true.*
-
-![Episode 10 — a Gaim window with t!nman, who writes "this shyte aint talkin" and "i aint no bloody typist"](stills/s02/e10-murph.jpg)
-
-*Episode 10, 1:30. Murph, arriving. He is the only person in twenty episodes who types
-like someone who would rather be talking.*
-
-![Episode 16 — a Yahoo Mail compose window containing a long letter to Murph about being watched](stills/s02/e16-email.jpg)
-
-*Episode 16, 2:45. Not a chat window, and the most important document in the season:
-"The 'security guards' that they hired have been eyeing me all day and they've now lost
-all pretense and have taken up positions just down the hall from my office."*
-
-![Episode 16 — a shipment confirmation for 18 size AA3 containers from Applied Engineering Partnership, signed by H. XIOU](stills/s02/e16-shipment.jpg)
-
-*Episode 16, 8:06. Attached beneath the letter, and the answer to the whole season:
-confirmation #2668765, dated September 27, 2006, eighteen containers leaving 2451
-Warwick Avenue, Newark. Above it, the only sign-off she gives anyone — "Love, Dani".*
-
-![Episode 17 — a Gaim window in which tann3r tells jimbrandon09 "no one is stringing you along, ralph"](stills/s02/e17-ralph-stan.jpg)
-
-*Episode 17, 2:06. The first episode told from inside the agency, and the frame that
-identifies its narrator: the man calling himself Jim Brandon is addressed as **ralph**
-by his own supervisor.*
-
-![Episode 20 — a Gaim window in which tann3r says Katerina is with a foster care family in pennsylvania](stills/s02/e20-pennsylvania.jpg)
-
-*Episode 20, 13:00. A season of searching Estonian orphanages, and two lines
-under pressure.*
 
 ### Where to look
 

@@ -9,7 +9,7 @@ No episode-by-episode synopsis of it appears to exist: the databases that list t
 **[skybohannon.github.io/thescene](https://skybohannon.github.io/thescene/)** — the synopses, published.
 
 - **Haven't watched it?** Start with the [spoiler-free episode guide](https://skybohannon.github.io/thescene/The-Scene-Episode-Guide.html), then watch it free on the Internet Archive: [season 1](https://archive.org/details/the_scene_season_1), [The Scene 2.0](https://archive.org/details/welcometothescene_version2.0_xvid).
-- **Watched it?** The full synopses: [season 1](https://skybohannon.github.io/thescene/The-Scene-S01-Episode-Synopses.html), [The Scene 2.0](https://skybohannon.github.io/thescene/The-Scene-S02-Episode-Synopses.html). Also the [characters and handles](https://skybohannon.github.io/thescene/The-Scene-Characters.html) and the [frames](https://skybohannon.github.io/thescene/The-Scene-Frames.html).
+- **Watched it?** The full synopses: [season 1](https://skybohannon.github.io/thescene/The-Scene-S01-Episode-Synopses.html), [The Scene 2.0](https://skybohannon.github.io/thescene/The-Scene-S02-Episode-Synopses.html). Also the [characters and handles](https://skybohannon.github.io/thescene/The-Scene-Characters.html).
 - **Spotted a mistake?** [Report a correction](https://github.com/skybohannon/thescene/issues/new?template=correction.yml). A timestamp helps most.
 
 The rest of this page is about how it was made.
@@ -21,15 +21,14 @@ The rest of this page is about how it was made.
 | `The-Scene-S01-Episode-Synopses.md` | Season 1: all 20 episodes, POV per episode, character notes, and the threads that pay off across the season |
 | `The-Scene-S02-Episode-Synopses.md` | *The Scene 2.0*: all 20 episodes, the cold-open narration, the infrastructure the season is built on, and the personal thread underneath it |
 | `The-Scene-Episode-Guide.md` | A spoiler-free guide for first-time viewers: one line per episode, with a link to its full entry for afterwards |
-| `The-Scene-Frames.md` | Every captioned frame from both synopses on one page, assembled at build time from their frames sections |
 | `The-Scene-Characters.md` | Both seasons: every handle, who it belongs to, who plays them, and which episodes they're in |
 | `index.html` | The landing page for the GitHub Pages edition |
-| `stills/s01/` | Nine frames from season 1, referenced by that synopsis |
+| `stills/s01/` | Nine frames from season 1, shown in the episodes they come from |
 | `stills/s02/` | Ten frames from season 2, likewise |
 | `scripts/` | The pipeline that recovered the text it was written from |
 | `LICENSE` | CC BY 4.0, covering the writing here — not the series |
 
-Each synopsis, the character index, the episode guide and the frames page also ship as a single self-contained `.html` file with the frames embedded, so it can be read anywhere — including next to the episodes themselves. They are also published at **[skybohannon.github.io/thescene](https://skybohannon.github.io/thescene/)**, built by `.github/workflows/pages.yml` on every push: there the frames are linked rather than embedded so the pages load quickly, every handle links to its row in the character index, and every timing in *Where to look* opens the Internet Archive copy of the episode at that second. The self-contained files are served there too, under `offline/`.
+Each synopsis, the character index and the episode guide also ship as a single self-contained `.html` file with the frames embedded, so it can be read anywhere — including next to the episodes themselves. They are also published at **[skybohannon.github.io/thescene](https://skybohannon.github.io/thescene/)**, built by `.github/workflows/pages.yml` on every push: there the frames are linked rather than embedded so the pages load quickly, every handle links to its row in the character index, and every timing in *Where to look* opens the Internet Archive copy of the episode at that second. The self-contained files are served there too, under `offline/`.
 
 The recovered screen text and the audio transcripts themselves are **not** published here — see *A note on the material* below.
 

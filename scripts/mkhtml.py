@@ -35,36 +35,6 @@ def archive_url(season, ep):
         return 'https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_%d.mp4' % ep
     return 'https://archive.org/download/welcometothescene_version2.0_xvid/episode2.%d_xvid.mp4' % (ep - 1)
 
-# --- the frames gallery: every captioned frame from both synopses ---------
-# A page containing <!-- frames --> gets them in its place, taken from each
-# synopsis's frames section so the two can never disagree.
-SYNOPSES = [(1, 'The-Scene-S01-Episode-Synopses.md'), (2, 'The-Scene-S02-Episode-Synopses.md')]
-
-def frames_html():
-    out = []
-    for season, path in SYNOPSES:
-        text = io.open(path, encoding='utf-8').read()
-        section = re.search(r'^### (?:\w+) frames\n(.*?)(?=^### )', text, flags=re.M | re.S).group(1)
-        name = 'The Scene' if season == 1 else 'The Scene 2.0'
-        out.append('<h2>Season %d &mdash; <em>%s</em></h2>' % (season, name))
-        rendered = md.render(section)
-        for m in re.finditer(r'<p><img src="([^"]+)" alt="([^"]*)"\s*/?></p>\s*<p><em>(.*?)</em></p>', rendered, flags=re.S):
-            src, alt, caption = m.groups()
-            ep = int(re.search(r'/e(\d\d)-', src).group(1))
-            # the caption opens "Episode 1, 5:33." -- link the time to that moment
-            def watch(tm):
-                mins, secs = tm.group(1), tm.group(2)
-                return '<a href="%s#t=%d" aria-label="Watch episode %d from %s:%s">%s:%s</a>' % (
-                    archive_url(season, ep), int(mins) * 60 + int(secs), ep, mins, secs, mins, secs)
-            caption = re.sub(r'(?<=^Episode %d, )(\d{1,2}):(\d\d)' % ep, watch, caption)
-            out.append('<figure class="frame"><img src="%s" alt="%s"><figcaption>%s '
-                       '<a class="more" href="%s#episode-%d">Episode %d in the synopsis &rarr;</a></figcaption></figure>'
-                       % (src, alt, caption, path, ep, ep))
-    return '\n'.join(out)
-
-if '<!-- frames -->' in body:
-    body = body.replace('<!-- frames -->', frames_html())
-
 # --- frames: embedded, or linked and lazy-loaded for the web --------------
 stills = re.findall(r'src="([^"]+\.jpg)"', body)
 
@@ -174,6 +144,15 @@ body = re.sub(
     lambda m: '<figure><img%s><figcaption>%s</figcaption></figure>' % (m.group(1), m.group(2)),
     body, flags=re.S)
 
+# a frame's caption opens "Episode 1, 5:33." -- the time opens that moment
+def watch_caption(m):
+    ep, mins, secs = int(m.group(2)), m.group(3), m.group(4)
+    return '%s<a href="%s#t=%d" aria-label="Watch episode %d from %s:%s">%s:%s</a>' % (
+        m.group(1), archive_url(SEASON, ep), int(mins) * 60 + int(secs), ep, mins, secs, mins, secs)
+
+if SEASON:
+    body = re.sub(r'(<figcaption>Episode (\d+), )(\d{1,2}):(\d\d)', watch_caption, body)
+
 # --- heading ids + table of contents --------------------------------------
 
 toc = []
@@ -230,7 +209,7 @@ body = body.replace('<table>', '<div class="tablewrap"><table>').replace('</tabl
 def li(items):
     return '\n'.join('<li><a href="#%s">%s</a></li>' % (s, t) for s, t in items)
 
-# pages without episodes (the index, the guide, the frames) get one plain list
+# pages without episodes (the index, the guide) get one plain list
 nav = ('<nav id="toc" aria-label="Contents">\n<h2 class="toch">Contents</h2>\n%s</nav>'
        % (('<ol class="eps">\n%s\n</ol>\n<ul class="back">\n%s\n</ul>\n' % (li(eps), li(back))) if eps
           else '<ul class="back only">\n%s\n</ul>\n' % li(back)))
@@ -341,8 +320,6 @@ hr{border:0;border-top:1px solid var(--rule);margin:2.5rem 0}
 figure{margin:2rem 0}
 figure img{width:100%;height:auto;display:block;border:1px solid var(--rule);border-radius:3px}
 figcaption{margin-top:.6rem;font-size:.86rem;line-height:1.5;color:var(--muted)}
-figure.frame{margin:2.4rem 0 3rem}
-figure.frame a.more{display:inline-block;margin-top:.3rem;white-space:nowrap}
 #toc{margin:0 0 3rem;padding:1.2rem 1.3rem;background:var(--quote-bg);border-radius:4px}
 #toc .toch{font-size:.74rem;text-transform:uppercase;letter-spacing:.09em;color:var(--muted);
   margin:0 0 .8rem;border:0;padding:0}
