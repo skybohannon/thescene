@@ -900,12 +900,12 @@ window that does not answer:
 >
 > **houdini6:** i can only stall the weapons shipments for maybe a week
 
-On screen behind her, the money: a bank's confirmation to
+On screen behind her, the money: a bank's confirmation, dated **Sep 3, 2006**, to
 `michaelrcunningham5@gmail.com` that *per your request of last week, we have
-completed a wire transfer*, and that *the name on the receiving account is Applied
-Engineering Partnership*. The figure is on the screen too — **$74,507.89 (US) to
-router number 8890754**, which is the $75,000 agreed in episode 2 with something
-taken out of it on the way.
+completed a wire transfer of $74,507.89 (US) to router number 8890754*, and that *the
+name on the receiving account is Applied Engineering Partnership LLP* — the $75,000
+agreed in episode 2 with something taken out of it on the way. It's signed **Gerard
+Le Salle, Relationship Manager**.
 
 Then Mike, back from his week, apologizing for having had feelings about being
 destroyed:
@@ -916,11 +916,13 @@ destroyed:
 >
 > **DanikaLi99:** you sound much better now
 >
-> **MikeyD5550:** this whole situation's just been hard
+> **MikeyD5550:** this whole situations just been hard
 >
 > **DanikaLi99:** i'm sure
 >
-> **MikeyD5550:** i'm glad you believe [me]
+> **MikeyD5550:** i'm glad you believe
+>
+> **MikeyD5550:** me
 >
 > **MikeyD5550:** it really means a lot
 >
@@ -957,7 +959,7 @@ Tomasz treats lateness as breach:
 >
 > **houdini6:** where is she??
 >
-> **t0mb0:** even though you have breached the terms of [our agreement]
+> **t0mb0:** even though you have breached the terms of our contract
 >
 > **houdini6:** the weapons are only 3 days late!!!
 >
@@ -969,10 +971,10 @@ Tomasz treats lateness as breach:
 >
 > **t0mb0:** in return for your work
 >
-> **t0mb0:** we are keeping katerina out of harm's [way]
+> **t0mb0:** we are keeping katerina out of harms way
 
-She threatens the only way she can — *otherwise i'll call up some of my father's
-[friends]*, *and let them handle it* — and Tomasz answers with the sentence that
+She threatens the only way she can — *otherwise i'll call up some of my father's old
+contacts*, *and let them handle it* — and Tomasz answers with the sentence that
 tells you what kind of man Danika's father was:
 
 > **t0mb0:** if you turn me in to the chinese
@@ -991,7 +993,9 @@ Then Murph comes back, and the episode ends on it.
 >
 > **houdini6:** what did he say???
 >
-> **t!nman:** he didn't find out where they got [her]
+> **t!nman:** he didn't find out where they got katerina
+>
+> **houdini6:** SHIT
 >
 > **t!nman:** but he's confident that she'll be safe
 >
@@ -999,7 +1003,9 @@ Then Murph comes back, and the episode ends on it.
 >
 > **t!nman:** there aint gonna be no bust luv
 >
-> **t!nman:** [i] dont have all the answers
+> **houdini6:** WHAT?
+>
+> **t!nman:** dont have all the answers
 >
 > **t!nman:** but the picture's gettin clearer
 >
@@ -1042,24 +1048,14 @@ tann3r reports a triumph:
 >
 > **tann3r:** and counting
 
-Murph, being told the same thing second-hand, answers in four words: *utter and
-complete horseshit.* And then explains why, which is the most purely
-scene-literate argument in either season:
+She takes the triumph the way anyone would, and asks the only question that matters
+to her:
 
-> **t!nman:** if he'd really taken down a player like tombo
+> **houdini6:** I'm glad it's a success stan
 >
-> **t!nman:** don't you think i woulda known about it
->
-> **t!nman:** the whole scene woulda shut down
->
-> **t!nman:** it's all a crock
->
-> **t!nman:** they guy you were chatting with was probably not [tombo]
->
-> **t!nman:** just some govt spook
+> **houdini6:** but what about katerina?
 
-Meanwhile tann3r explains why Katerina still cannot come home, and the explanation is
-elegant:
+tann3r explains why she still cannot come home, and the explanation is elegant:
 
 > **tann3r:** tombo has acknowledged that they have her
 >
@@ -1073,18 +1069,17 @@ elegant:
 >
 > **tann3r:** and so they're using her as a bargaining chip
 
-She takes the news the way anyone would, and then asks the only question that matters
-to her:
+*Oh god.* *Look don't worry*, *it's not in their interests to hurt katerina*, *we
+expect to have her back shortly* — and she pushes back harder than the reassurance
+deserves: *you keep saying that*, *but what are you DOING about it, stan?* — *everything
+humanly possible*, *i assure you*, *i promise to keep you updated.*
 
-> **houdini6:** I'm glad it's a success stan
->
-> **houdini6:** but what about katerina?
-
-She tells him the truth about what this is doing to her — *i honestly don't know
-how much more of this i can [take]*, *he's feeding me all of this stuff about
-[her]*, *and whether it's true or not it's very hard to [bear]* — and gets *don't
-worry*, *everything humanly possible*, *i assure you*, *i promise to keep you
-updated*. Murph, in the next window, says *ain't none of it true*, *she's safe and
+It is Murph, in the other window, who gets the truth rather than the reassurance. She
+has just relayed tann3r's boast to him — *he says that tombo's talking, and it's lead
+to lots of arrests* — and gotten only *utter and complete horseshit luv*. Then, to him
+and not to tann3r: *murph*, *i honestly don't know how much more of this i can
+handle*, *he's feeding me all this stuff about katerina*, *and whether it's true or
+not it's very hard to take*. Murph answers *ain't none of it true*, *she's safe and
 sound and we'll get her back*, and then the instruction that defines the rest of the
 season:
 
@@ -1092,9 +1087,24 @@ season:
 >
 > **t!nman:** just play along
 
-The episode ends with Murph setting the new problem. A whole shipload of weapons
-parts has just moved. *Blackhawk parts dont just disappear. Somebody got [them]. The
-question is [who].*
+Only after that does Murph explain the horseshit remark, in the most purely
+scene-literate argument in either season:
+
+> **t!nman:** if he'd really taken down a player like tombo
+>
+> **t!nman:** don't you think i woulda known about it ?
+>
+> **t!nman:** the whole scene woulda shut down
+>
+> **t!nman:** it's all a crock
+>
+> **t!nman:** they guy you were chatting with was probably not even tombo
+>
+> **t!nman:** just some govt spook
+
+The episode ends with Murph setting the new problem: *a whole shitload of weapons
+parts just got shipped outta that company*, *and blackhawk parts dont just disappear*,
+*somebody got em*. *The question is who.*
 
 ## Episode 14 — jim brandon *(POV: Danika)*
 
@@ -1105,8 +1115,11 @@ question is [who].*
 Danika comes back to work to find the company hardened against her: *one of the new
 multilayer firewalls, a packet logger, and they rearranged their network*. An Nmap
 run scrolls behind the conversation — `nmap -sS -sV -A -f -v -v 199.46.198.87`, a
-fragmented scan of 1,680 ports started at 10:49 — and it finds too many fingerprints
-to identify the host.
+fragmented scan of 1,680 ports started 2006-09-28 at 10:49 Eastern — and it finds too
+many fingerprints to identify the host. A second scan minutes later, against
+**199.46.198.88**, resolves where the first one didn't: **itis-ts02.raytheon.com**.
+Raytheon is never named in dialogue anywhere in the season — this scan is the only
+place the client's identity actually appears on screen.
 
 > **t!nman:** a bit o paranoia can be healthy
 >
@@ -1119,31 +1132,31 @@ to identify the host.
 > **houdini6:** because i haven't found out anything
 
 She wants a record they have not thought to alter — *i may at least be able to see
-who's been [logging in and when]*, *at least it will give us some clues* — and
+who'se been loggin in and when*, *at least it will give us some clues* — and
 answers Murph's skepticism with something that sounds like her father talking: *in my
 experience, if you follow the right path, the answers will reveal themselves.*
 
-Then a new window opens, and it opens in exactly the wrong place.
+Then a new window opens, and it opens in exactly the wrong place. This is AIM, not Jabber — the same jimbrandon999 handle appears as jimbrandon09@jabber.org once he moves the conversation there from episode 17 on.
 
-> **jimbrandon09:** danika?
+> **jimbrandon999:** danika?
 >
 > **DanikaLi99:** yes
 >
-> **jimbrandon09:** it's jim brandon
+> **jimbrandon999:** it's jim brandon
 >
-> **jimbrandon09:** got your IM from Mike Davis' computer
+> **jimbrandon999:** got your IM from Mike Davis' computer
 >
-> **jimbrandon09:** i hope you don't mind my pinging you
+> **jimbrandon999:** i hope you don't mind my pinging you
 >
 > **DanikaLi99:** no, not at all
 >
-> **jimbrandon09:** i'd have called
+> **jimbrandon999:** i'd have called
 >
-> **jimbrandon09:** but i'm here in the warehouse
+> **jimbrandon999:** but i'm here in the warehouse
 >
-> **jimbrandon09:** they've put me into mike's old job
+> **jimbrandon999:** they've put me into mike's old job
 >
-> **jimbrandon09:** and i'm trying [to] figure everything out
+> **jimbrandon999:** and i'm trying figure everything out
 
 He would like her to walk him through some items — *i'm trying to familiarize myself
 with the systems*, *and how they link up to accounting, etc.* She says *glad to
@@ -1159,7 +1172,7 @@ She turns to the other window and says what the audience is thinking:
 >
 > **houdini6:** that he's pinging me just now
 >
-> **houdini6:** god, i feel like they're watching my every [move]
+> **houdini6:** god, i feel like they're watching my every move
 >
 > **t!nman:** how would he know
 >
@@ -1174,15 +1187,14 @@ She turns to the other window and says what the audience is thinking:
 Murph's conclusion is the episode's last turn, and it moves her from operator to
 target:
 
-> **t!nman:** these guys have a way of being rid of people that [have outlived their
-> use]
+> **t!nman:** these guys have a way of being rid of people that have outlived their
+> uses
 >
 > **houdini6:** but i pose no threat to them?
 >
 > **t!nman:** untrue
 >
-> **t!nman:** let's assume they shipped those weaps to someone [who shouldn't have
-> them]
+> **t!nman:** let's assume they shipped those weaps to someone who shouldn't have em
 >
 > **t!nman:** (not a stretch)
 >
@@ -1200,7 +1212,7 @@ target:
 
 She asks for a little more time to find where the weapons went. Murph tells her
 what finding out would mean: *it's good cause that will prove that the US gov't is
-[arming someone it shouldn't]*, *and you'll have ICE by the short and curlies.* And
+sending illegal weaps overseas*, *and you'll have ICE by the short and curlies.* And
 the bad news is that *they'll know it* too.
 
 ## Episode 15 — the bluff *(POV: Danika)*
@@ -1305,7 +1317,7 @@ friends around you for support*, *don't you agree?*
 >
 > **houdini6:** i made him think that i had the info already
 >
-> **houdini6:** and that i'd given it to several friends - just in [case]
+> **houdini6:** and that i'd given it to several friends - just in case
 >
 > **t!nman:** bloody brilliant
 >
@@ -1322,11 +1334,20 @@ She has nothing. It is a pure bluff, and it buys her the rest of the season.
 Two things happen in this episode and they are in different windows, and the whole
 season is in the gap between them.
 
-In the first, an email. Not to anyone in the operation — to Murph, at an address the
-two of them set up *as an emergency contact point*, *although I'd hoped never to use
-it*. It is the longest single piece of writing in either season, and it is a woman
-composing her own last letter while the people outside her office get into position.
+In the first, an email. Not to anyone in the operation — to Murph, at
+`bludlines@yahoo.com`, subject *Contact*, an address the two of them set up *as an
+emergency contact point*, *although I'd hoped never to use it*. It is the longest
+single piece of writing in either season, and it is a woman composing her own last
+letter while the people outside her office get into position.
 
+> Murph,
+>
+> I've been trying to reach you for the past several days. I don't know where you
+> are, but I can only pray that you're all right.
+>
+> I'm glad now that we set up this e-mail account as an emergency contact point -
+> although I'd hoped never to use it.
+>
 > Well, Murph, I may have pushed my luck too far. I suppose I've made the classic
 > mistake of underestimating my opponent. I'm being watched 24/7, and I'm no longer
 > sure I can get out of here. The "security guards" that they hired have been eyeing
@@ -1334,9 +1355,10 @@ composing her own last letter while the people outside her office get into posit
 > the hall from my office.
 >
 > I have my escape plan all set, but now that it's come to it, I'm not at all
-> confident [...]
+> confident I can carry it out.
 >
-> God I'm scared. What do I do, Murph? I just don't know what to do??
+> Jesus. This is really it. Stan's asked me to get together in person, just as you
+> warned me he would.
 >
 > But don't worry Murph, I'm not giving up. I'm going to stay cool and get the hell
 > out of here right now. I'll write you again when I get to a safe place, OK? When
@@ -1344,10 +1366,16 @@ composing her own last letter while the people outside her office get into posit
 >
 > Oh, and by the way, there's one other thing: in case I don't make it, I contacted
 > the shipping company and I told them there was a billing problem. Following is an
-> email that contains the actual address where the weapons were shipped.
+> email that contains the actual address where the weapons were shipped. I told you,
+> Murph, it's just a matter of staying on the right path...
 >
 > Anyway, I hope you can do something with this information. You've been a great
 > friend. A second father, really.
+>
+> Talk to you soon.
+>
+> Love,
+> Dani
 
 ![Episode 16 — a Yahoo Mail compose window containing a long letter to Murph about being watched](stills/s02/e16-email.jpg)
 
@@ -1355,24 +1383,38 @@ composing her own last letter while the people outside her office get into posit
 "The 'security guards' that they hired have been eyeing me all day and they've now lost
 all pretense and have taken up positions just down the hall from my office."*
 
+For a few seconds, between the "Jesus, this is really it" line and "But don't worry
+Murph", the letter actually reads *God I'm scared. What do I do, Murph? I just don't
+know what to do??* — typed in full, then deleted before she moves on. It's on screen
+long enough to read; it just isn't in the letter she sends.
+
 Attached below it, the thing she went into the building for. It is a shipment
 confirmation, and it is the answer to the question the whole season is about, sitting
 on screen in plain type four episodes before anyone says it out loud:
 
 > Shipment confirmation #2668765
+> Date: September 27, 2006
 >
 > This will confirm shipment of 18 size AA3 containers from:
-> Applied Engineering Partnership, Newark, NJ 98721
+>
+> Applied Engineering Partnership
+> 2451 Warwick Avenue
+> Newark, NJ 98721
 >
 > to
 >
-> No. 46, Zhanlanguan Lu, Jishou, Hunan, China
+> No. 46, Zhanlanguan Lu
+> Jishou
+> Hunan, China
 >
-> SHIPMENT WAS RECEIVED OCTOBER 4, 2006 &mdash; SIGNED BY [H. XIOU] &mdash; 3:25pm
+> SHIPMENT WAS RECEIVED OCTOBER 4, 2006
+> SIGNED BY [H. XIOU]
+> 3:25pm
 
-The confirmation is dated **September 27, 2006** and the sender is at **2451 Warwick
-Avenue, Newark**. Above it, the letter ends the way nothing else in the season does —
-*Love, Dani*.
+The bracket around the signature is the document's own, not an editorial mark for
+something illegible — the confirmation itself is typed with the recipient's name
+left in square brackets, never filled in. Above the letter, the sign-off is the only
+one she gives anyone in either season.
 
 ![Episode 16 — a shipment confirmation for 18 size AA3 containers from Applied Engineering Partnership, signed by H. XIOU](stills/s02/e16-shipment.jpg)
 
@@ -1415,10 +1457,10 @@ In the other window, at the same moment, Stan is delighted.
 > **houdini6:** thank you for all you've done
 
 The two are interleaved on the same screen, and the timings show her writing around
-him. The men in the corridor go into the letter at 2:39; Stan's invitation arrives at
-4:03; and at 5:36 she adds the line that ties them together — *Jesus. This is really
-it. Stan's asked me to get together in person, just as you [said he would]*. Murph
-predicted both tacks in the previous episode, and this is the second one. A car is
+him: the men in the corridor go into the letter at 2:39, Stan's invitation arrives at
+4:03, and by 5:36 she's folded it into the same letter — *Stan's asked me to get
+together in person, just as you warned me he would*. Murph predicted both tacks back
+in episode 15, and this is the second one. A car is
 being sent for a woman who has already written that there are men outside her door.
 
 ## Episode 17 — the offer expires in 15 seconds *(POV: Ralph Lasky)*
