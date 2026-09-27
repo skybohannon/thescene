@@ -75,6 +75,8 @@ hr{border:0;border-top:1px solid var(--rule);margin:2.5rem 0}
 figure{margin:2rem 0}
 figure img{width:100%;height:auto;display:block;border:1px solid var(--rule);border-radius:3px}
 figcaption{margin-top:.6rem;font-size:.86rem;line-height:1.5;color:var(--muted)}
+figure.frame{margin:2.4rem 0 3rem}
+figure.frame a.more{display:inline-block;margin-top:.3rem;white-space:nowrap}
 #toc{margin:0 0 3rem;padding:1.2rem 1.3rem;background:var(--quote-bg);border-radius:4px}
 #toc .toch{font-size:.74rem;text-transform:uppercase;letter-spacing:.09em;color:var(--muted);
   margin:0 0 .8rem;border:0;padding:0}
@@ -83,6 +85,7 @@ figcaption{margin-top:.6rem;font-size:.86rem;line-height:1.5;color:var(--muted)}
 #toc li{margin:0 0 .3rem;break-inside:avoid}
 #toc ul.back{margin-top:.9rem;padding-top:.8rem;border-top:1px solid var(--rule);
   columns:2;column-gap:1.6rem}
+#toc ul.back.only{margin-top:0;padding-top:0;border-top:0}
 #toc a{text-decoration:none;color:var(--fg)}
 #toc a:hover{color:var(--accent);text-decoration:underline}
 a.h{color:inherit;text-decoration-style:dotted;text-decoration-color:var(--muted)}
@@ -105,19 +108,27 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
   #toc ol.eps,#toc ul.back{columns:1}
   blockquote{font-size:.78rem;padding:.7rem .8rem}
 }
+.theme{float:right;margin-left:1rem;font:inherit;font-size:.74rem;letter-spacing:.05em;text-transform:uppercase;
+  color:var(--muted);background:none;border:1px solid var(--muted);border-radius:3px;padding:.3rem .6rem;cursor:pointer}
+.theme:hover{color:var(--accent);border-color:var(--accent)}
+.theme:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+:root{color-scheme:light dark}
+:root[data-theme="light"]{color-scheme:light}
+:root[data-theme="dark"]{color-scheme:dark}
 @media print{
   body{background:#fff;color:#000}
-  #toc,p.epnav,a.perma{display:none}
+  #toc,p.epnav,a.perma,.theme,.skip{display:none}
   h2{break-after:avoid}
   figure{break-inside:avoid}
 }
 </style>
+<script>try{var t=localStorage.getItem("thescene-theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
 </head>
 <body>
 <a class="skip" href="#main">Skip to the text</a>
 <div class="wrap">
 <header class="mast">
-<p class="kicker"><a class="home" href="https://skybohannon.github.io/thescene/">The Scene</a> &middot; Reconstruction</p>
+<p class="kicker"><button class="theme" type="button" hidden>Theme: auto</button><a class="home" href="https://skybohannon.github.io/thescene/">The Scene</a> &middot; Reconstruction</p>
 <h1>The Scene 2.0 (2006) — Season 2 Episode Synopses</h1>
 </header>
 <nav id="toc" aria-label="Contents">
@@ -304,7 +315,7 @@ episode 20 take the whole season as read.</p>
 </tr>
 </tbody>
 </table></div>
-<h2 id="episode-1-the-recruitment-pov-lukai">Episode 1 — the recruitment <em>(POV: lukai)</em> <a class="perma" href="#episode-1-the-recruitment-pov-lukai" aria-label="Link to this section">#</a></h2>
+<span id="episode-1"></span><h2 id="episode-1-the-recruitment-pov-lukai">Episode 1 — the recruitment <em>(POV: lukai)</em> <a class="perma" href="#episode-1-the-recruitment-pov-lukai" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#toc">Contents</a> &middot; <a href="#episode-2-katerina-pov-lukai">Episode 2 &rarr;</a></p>
 <blockquote>
 <p><em>I'd been out of the scene for over a year and I wasn't looking to return. I
@@ -364,7 +375,7 @@ encoder at all.</p>
 <code>http://walkin.thruhere.net/lukai.jpg</code> — with <em>have a look</em>, <em>and then we can talk
 some more</em>. The episode ends on the link. What the picture shows is never stated;
 the next episode is about what it means.</p>
-<h2 id="episode-2-katerina-pov-lukai">Episode 2 — Katerina <em>(POV: lukai)</em> <a class="perma" href="#episode-2-katerina-pov-lukai" aria-label="Link to this section">#</a></h2>
+<span id="episode-2"></span><h2 id="episode-2-katerina-pov-lukai">Episode 2 — Katerina <em>(POV: lukai)</em> <a class="perma" href="#episode-2-katerina-pov-lukai" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-1-the-recruitment-pov-lukai">&larr; Episode 1</a> &middot; <a href="#toc">Contents</a> &middot; <a href="#episode-3-the-job-pov-lukai">Episode 3 &rarr;</a></p>
 <blockquote>
 <p><em>When I first got into this scene, I was convinced I could game the system.
@@ -419,7 +430,7 @@ plain words:</p>
 <p><strong>t0mb0:</strong> if you don't come through for us</p>
 <p><strong>t0mb0:</strong> you will never see katerina</p>
 </blockquote>
-<h2 id="episode-3-the-job-pov-lukai">Episode 3 — the job <em>(POV: lukai)</em> <a class="perma" href="#episode-3-the-job-pov-lukai" aria-label="Link to this section">#</a></h2>
+<span id="episode-3"></span><h2 id="episode-3-the-job-pov-lukai">Episode 3 — the job <em>(POV: lukai)</em> <a class="perma" href="#episode-3-the-job-pov-lukai" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-2-katerina-pov-lukai">&larr; Episode 2</a> &middot; <a href="#toc">Contents</a> &middot; <a href="#episode-4-some-to-china-some-to-iran-pov-lukai">Episode 4 &rarr;</a></p>
 <blockquote>
 <p><em>I've seen a face of the internet that most people will never know. Still,
@@ -447,7 +458,7 @@ Laurent:</em>, and confirms the opening of an account in the name of
 <strong><a class="h" href="The-Scene-Characters.html#s2-cunningham">Michael Cunningham</a></strong>, with <em>an initial deposit of $75k
 (US) via wire transfer</em>, forms to be faxed and a routing number requested. The account
 will be in <strong>Bern</strong>.</p>
-<h2 id="episode-4-some-to-china-some-to-iran-pov-lukai">Episode 4 — some to china, some to iran <em>(POV: lukai)</em> <a class="perma" href="#episode-4-some-to-china-some-to-iran-pov-lukai" aria-label="Link to this section">#</a></h2>
+<span id="episode-4"></span><h2 id="episode-4-some-to-china-some-to-iran-pov-lukai">Episode 4 — some to china, some to iran <em>(POV: lukai)</em> <a class="perma" href="#episode-4-some-to-china-some-to-iran-pov-lukai" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-3-the-job-pov-lukai">&larr; Episode 3</a> &middot; <a href="#toc">Contents</a> &middot; <a href="#episode-5-the-other-window-pov-danika">Episode 5 &rarr;</a></p>
 <blockquote>
 <p><em>People say the world is changing, but the reality is that a few simple
@@ -482,7 +493,7 @@ episode never says whether that is one man, one alias, or carelessness.</p>
 <em>of course it is, it's clean</em>. The file lands, receipt is confirmed, and t0mb0 says
 <em>everything is in order</em>.</p>
 <p>The local pane of that same window reads <code>C:\Documents and Settings\David\Desktop</code>.</p>
-<h2 id="episode-5-the-other-window-pov-danika">Episode 5 — the other window <em>(POV: Danika)</em> <a class="perma" href="#episode-5-the-other-window-pov-danika" aria-label="Link to this section">#</a></h2>
+<span id="episode-5"></span><h2 id="episode-5-the-other-window-pov-danika">Episode 5 — the other window <em>(POV: Danika)</em> <a class="perma" href="#episode-5-the-other-window-pov-danika" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-4-some-to-china-some-to-iran-pov-lukai">&larr; Episode 4</a> &middot; <a href="#toc">Contents</a> &middot; <a href="#episode-6-danika-pov-danika">Episode 6 &rarr;</a></p>
 <blockquote>
 <p><em>US-built fighter jets, missiles and helicopters can be found in every
@@ -548,7 +559,7 @@ then alter the records]</p>
 <p>t0mb0 calls it a logical plan and asks how he will get that person. The reply is the
 last line of the episode, and the first time houdini6 uses her handler's name:
 <em>don't worry, tomasz.</em></p>
-<h2 id="episode-6-danika-pov-danika">Episode 6 — Danika <em>(POV: Danika)</em> <a class="perma" href="#episode-6-danika-pov-danika" aria-label="Link to this section">#</a></h2>
+<span id="episode-6"></span><h2 id="episode-6-danika-pov-danika">Episode 6 — Danika <em>(POV: Danika)</em> <a class="perma" href="#episode-6-danika-pov-danika" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-5-the-other-window-pov-danika">&larr; Episode 5</a> &middot; <a href="#toc">Contents</a> &middot; <a href="#episode-7-partner-pov-danika">Episode 7 &rarr;</a></p>
 <blockquote>
 <p><em>When you operate in the scene, you can't afford mistakes, you can't afford
@@ -602,7 +613,7 @@ daughter really is in Estonia, and the photograph on the monitor really is hers.
 <p><strong>houdini6:</strong> very</p>
 <p><strong>houdini6:</strong> he has no idea what is about to [happen to him]</p>
 </blockquote>
-<h2 id="episode-7-partner-pov-danika">Episode 7 — partner <em>(POV: Danika)</em> <a class="perma" href="#episode-7-partner-pov-danika" aria-label="Link to this section">#</a></h2>
+<span id="episode-7"></span><h2 id="episode-7-partner-pov-danika">Episode 7 — partner <em>(POV: Danika)</em> <a class="perma" href="#episode-7-partner-pov-danika" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-6-danika-pov-danika">&larr; Episode 6</a> &middot; <a href="#toc">Contents</a> &middot; <a href="#episode-8-filling-up-mike-davis-computer-pov-danika">Episode 8 &rarr;</a></p>
 <blockquote>
 <p><em>Trafficking illegal weapons parts requires the involvement of a number of
@@ -658,7 +669,7 @@ it:</p>
 </blockquote>
 <p>She asks what time he is coming back. <em>Sure</em> — <em>that will give me plenty of time to
 finish up what i'm doing.</em> What she is doing is standing in his office.</p>
-<h2 id="episode-8-filling-up-mike-davis-computer-pov-danika">Episode 8 — filling up Mike Davis' computer <em>(POV: Danika)</em> <a class="perma" href="#episode-8-filling-up-mike-davis-computer-pov-danika" aria-label="Link to this section">#</a></h2>
+<span id="episode-8"></span><h2 id="episode-8-filling-up-mike-davis-computer-pov-danika">Episode 8 — filling up Mike Davis' computer <em>(POV: Danika)</em> <a class="perma" href="#episode-8-filling-up-mike-davis-computer-pov-danika" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-7-partner-pov-danika">&larr; Episode 7</a> &middot; <a href="#toc">Contents</a> &middot; <a href="#episode-9-the-carrot-and-the-stick-pov-danika">Episode 9 &rarr;</a></p>
 <blockquote>
 <p><em>Surfing the internet feels private, but that couldn't be further from the
@@ -716,7 +727,7 @@ means overwriting the current files on the server, which means covering her trac
 <em>if anyone ever questions our clients' shipments i must [be protected]</em> — and she has
 broken into a computer that will let her do it. The method is named in the last line
 of the episode: <em>by making sure that somebody else in the company gets the [blame]</em>.</p>
-<h2 id="episode-9-the-carrot-and-the-stick-pov-danika">Episode 9 — the carrot and the stick <em>(POV: Danika)</em> <a class="perma" href="#episode-9-the-carrot-and-the-stick-pov-danika" aria-label="Link to this section">#</a></h2>
+<span id="episode-9"></span><h2 id="episode-9-the-carrot-and-the-stick-pov-danika">Episode 9 — the carrot and the stick <em>(POV: Danika)</em> <a class="perma" href="#episode-9-the-carrot-and-the-stick-pov-danika" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-8-filling-up-mike-davis-computer-pov-danika">&larr; Episode 8</a> &middot; <a href="#toc">Contents</a> &middot; <a href="#episode-10-murph-pov-danika">Episode 10 &rarr;</a></p>
 <blockquote>
 <p><em>Immigration and Customs Enforcement, ICE, is the largest investigative
@@ -777,7 +788,7 @@ in this operation has an answer to:</p>
 <p><strong>tann3r:</strong> i've given you the carrot, danikia</p>
 <p><strong>tann3r:</strong> don't make me use the stick</p>
 </blockquote>
-<h2 id="episode-10-murph-pov-danika">Episode 10 — Murph <em>(POV: Danika)</em> <a class="perma" href="#episode-10-murph-pov-danika" aria-label="Link to this section">#</a></h2>
+<span id="episode-10"></span><h2 id="episode-10-murph-pov-danika">Episode 10 — Murph <em>(POV: Danika)</em> <a class="perma" href="#episode-10-murph-pov-danika" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-9-the-carrot-and-the-stick-pov-danika">&larr; Episode 9</a> &middot; <a href="#toc">Contents</a> &middot; <a href="#episode-11-three-minutes-pov-danika">Episode 11 &rarr;</a></p>
 <blockquote>
 <p><em>I grew up believing that the people who protected us were different, that
@@ -855,7 +866,7 @@ him:</p>
 <p><strong>MikeyD5550:</strong> i just wanted to get that off my chest</p>
 <p><strong>MikeyD5550:</strong> i wont bother you [again]</p>
 </blockquote>
-<h2 id="episode-11-three-minutes-pov-danika">Episode 11 — three minutes <em>(POV: Danika)</em> <a class="perma" href="#episode-11-three-minutes-pov-danika" aria-label="Link to this section">#</a></h2>
+<span id="episode-11"></span><h2 id="episode-11-three-minutes-pov-danika">Episode 11 — three minutes <em>(POV: Danika)</em> <a class="perma" href="#episode-11-three-minutes-pov-danika" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-10-murph-pov-danika">&larr; Episode 10</a> &middot; <a href="#toc">Contents</a> &middot; <a href="#episode-12-tombo-works-for-ice-pov-danika">Episode 12 &rarr;</a></p>
 <blockquote>
 <p><em>The scene is like a body of water, black and silent and cold. I stare into
@@ -888,7 +899,7 @@ destroyed:</p>
 <p><strong>DanikaLi99:</strong> i think everyone here believes you</p>
 <p><strong>DanikaLi99:</strong> i just wonder who could have done this to you?</p>
 </blockquote>
-<h2 id="episode-12-tombo-works-for-ice-pov-danika">Episode 12 — tombo works for ICE <em>(POV: Danika)</em> <a class="perma" href="#episode-12-tombo-works-for-ice-pov-danika" aria-label="Link to this section">#</a></h2>
+<span id="episode-12"></span><h2 id="episode-12-tombo-works-for-ice-pov-danika">Episode 12 — tombo works for ICE <em>(POV: Danika)</em> <a class="perma" href="#episode-12-tombo-works-for-ice-pov-danika" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-11-three-minutes-pov-danika">&larr; Episode 11</a> &middot; <a href="#toc">Contents</a> &middot; <a href="#episode-13-the-bust-that-didn-t-happen-pov-danika">Episode 13 &rarr;</a></p>
 <blockquote>
 <p><em>A bust in the scene is like someone getting shot in a big city. It's not
@@ -942,7 +953,7 @@ tells you what kind of man <a class="h" href="The-Scene-Characters.html#s2-danik
 <p><strong>t!nman:</strong> because tombo is working for the same people you are</p>
 <p><strong>t!nman:</strong> he's working for ICE</p>
 </blockquote>
-<h2 id="episode-13-the-bust-that-didn-t-happen-pov-danika">Episode 13 — the bust that didn't happen <em>(POV: Danika)</em> <a class="perma" href="#episode-13-the-bust-that-didn-t-happen-pov-danika" aria-label="Link to this section">#</a></h2>
+<span id="episode-13"></span><h2 id="episode-13-the-bust-that-didn-t-happen-pov-danika">Episode 13 — the bust that didn't happen <em>(POV: Danika)</em> <a class="perma" href="#episode-13-the-bust-that-didn-t-happen-pov-danika" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-12-tombo-works-for-ice-pov-danika">&larr; Episode 12</a> &middot; <a href="#toc">Contents</a> &middot; <a href="#episode-14-jim-brandon-pov-danika">Episode 14 &rarr;</a></p>
 <blockquote>
 <p><em>My father once said, working in the scene takes everything you've got. If
@@ -1005,7 +1016,7 @@ season:</p>
 <p>The episode ends with Murph setting the new problem. A whole shipload of weapons
 parts has just moved. <em>Blackhawk parts dont just disappear. Somebody got [them]. The
 question is [who].</em></p>
-<h2 id="episode-14-jim-brandon-pov-danika">Episode 14 — jim brandon <em>(POV: Danika)</em> <a class="perma" href="#episode-14-jim-brandon-pov-danika" aria-label="Link to this section">#</a></h2>
+<span id="episode-14"></span><h2 id="episode-14-jim-brandon-pov-danika">Episode 14 — jim brandon <em>(POV: Danika)</em> <a class="perma" href="#episode-14-jim-brandon-pov-danika" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-13-the-bust-that-didn-t-happen-pov-danika">&larr; Episode 13</a> &middot; <a href="#toc">Contents</a> &middot; <a href="#episode-15-the-bluff-pov-danika">Episode 15 &rarr;</a></p>
 <blockquote>
 <p><em>When I first came to the States, I thought it would be a safe haven, a
@@ -1078,7 +1089,7 @@ them]</p>
 what finding out would mean: <em>it's good cause that will prove that the US gov't is
 [arming someone it shouldn't]</em>, <em>and you'll have ICE by the short and curlies.</em> And
 the bad news is that <em>they'll know it</em> too.</p>
-<h2 id="episode-15-the-bluff-pov-danika">Episode 15 — the bluff <em>(POV: Danika)</em> <a class="perma" href="#episode-15-the-bluff-pov-danika" aria-label="Link to this section">#</a></h2>
+<span id="episode-15"></span><h2 id="episode-15-the-bluff-pov-danika">Episode 15 — the bluff <em>(POV: Danika)</em> <a class="perma" href="#episode-15-the-bluff-pov-danika" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-14-jim-brandon-pov-danika">&larr; Episode 14</a> &middot; <a href="#toc">Contents</a> &middot; <a href="#episode-16-wonderful-news-pov-danika">Episode 16 &rarr;</a></p>
 <blockquote>
 <p><em>In the secret branches of law enforcement, there are those who represent a
@@ -1153,7 +1164,7 @@ friends around you for support</em>, <em>don't you agree?</em></p>
 <p><strong>t!nman:</strong> you'll be safe for a while then</p>
 </blockquote>
 <p>She has nothing. It is a pure bluff, and it buys her the rest of the season.</p>
-<h2 id="episode-16-wonderful-news-pov-danika">Episode 16 — wonderful news <em>(POV: Danika)</em> <a class="perma" href="#episode-16-wonderful-news-pov-danika" aria-label="Link to this section">#</a></h2>
+<span id="episode-16"></span><h2 id="episode-16-wonderful-news-pov-danika">Episode 16 — wonderful news <em>(POV: Danika)</em> <a class="perma" href="#episode-16-wonderful-news-pov-danika" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-15-the-bluff-pov-danika">&larr; Episode 15</a> &middot; <a href="#toc">Contents</a> &middot; <a href="#episode-17-the-offer-expires-in-15-seconds-pov-ralph-lasky">Episode 17 &rarr;</a></p>
 <blockquote>
 <p><em>I met Murphy in Estonia, three days after my sixth birthday. That's nearly
@@ -1223,7 +1234,7 @@ him. The men in the corridor go into the letter at 2:39; Stan's invitation arriv
 it. Stan's asked me to get together in person, just as you [said he would]</em>. Murph
 predicted both tacks in the previous episode, and this is the second one. A car is
 being sent for a woman who has already written that there are men outside her door.</p>
-<h2 id="episode-17-the-offer-expires-in-15-seconds-pov-ralph-lasky">Episode 17 — the offer expires in 15 seconds <em>(POV: Ralph Lasky)</em> <a class="perma" href="#episode-17-the-offer-expires-in-15-seconds-pov-ralph-lasky" aria-label="Link to this section">#</a></h2>
+<span id="episode-17"></span><h2 id="episode-17-the-offer-expires-in-15-seconds-pov-ralph-lasky">Episode 17 — the offer expires in 15 seconds <em>(POV: Ralph Lasky)</em> <a class="perma" href="#episode-17-the-offer-expires-in-15-seconds-pov-ralph-lasky" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-16-wonderful-news-pov-danika">&larr; Episode 16</a> &middot; <a href="#toc">Contents</a> &middot; <a href="#episode-18-bellbird-pov-ralph-lasky">Episode 18 &rarr;</a></p>
 <blockquote>
 <p><em>My name is Ralph Lasky, but at work I'm known as Jim Brandon. I'm a field
@@ -1286,7 +1297,7 @@ and <em>everything about the case was in your brief!</em> Stan folds — <em>all
 man's going to castrate me</em> — and Ralph, who has just held a knife to his supervisor's
 career, is gracious about it: <em>he doesn't have to know, stan</em>, <em>i'm not trying to fuck
 up your career</em>, <em>i just want to do my job.</em></p>
-<h2 id="episode-18-bellbird-pov-ralph-lasky">Episode 18 — bellbird <em>(POV: Ralph Lasky)</em> <a class="perma" href="#episode-18-bellbird-pov-ralph-lasky" aria-label="Link to this section">#</a></h2>
+<span id="episode-18"></span><h2 id="episode-18-bellbird-pov-ralph-lasky">Episode 18 — bellbird <em>(POV: Ralph Lasky)</em> <a class="perma" href="#episode-18-bellbird-pov-ralph-lasky" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-17-the-offer-expires-in-15-seconds-pov-ralph-lasky">&larr; Episode 17</a> &middot; <a href="#toc">Contents</a> &middot; <a href="#episode-19-what-your-government-bought-pov-danika">Episode 19 &rarr;</a></p>
 <blockquote>
 <p><em>Governments keep secrets for a variety of reasons. Some of those reasons
@@ -1350,7 +1361,7 @@ over the past fifteen years</p>
 <p><strong>jimbrandon09:</strong> i think you'd find that the four surviving members of zheng's
 [cohort] were getting more than their [share]</p>
 </blockquote>
-<h2 id="episode-19-what-your-government-bought-pov-danika">Episode 19 — what your government bought <em>(POV: Danika)</em> <a class="perma" href="#episode-19-what-your-government-bought-pov-danika" aria-label="Link to this section">#</a></h2>
+<span id="episode-19"></span><h2 id="episode-19-what-your-government-bought-pov-danika">Episode 19 — what your government bought <em>(POV: Danika)</em> <a class="perma" href="#episode-19-what-your-government-bought-pov-danika" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-18-bellbird-pov-ralph-lasky">&larr; Episode 18</a> &middot; <a href="#toc">Contents</a> &middot; <a href="#episode-20-the-frame-returned-pov-danika">Episode 20 &rarr;</a></p>
 <blockquote>
 <p><em>I'd left Applied Engineering nearly a month ago, and I'd not heard a word
@@ -1405,7 +1416,7 @@ their collective hands]</p>
 <p><strong>t!nman:</strong> that yer government has spent a lot of years and a [lot of money]</p>
 <p><strong>t!nman:</strong> basically planning [this]</p>
 </blockquote>
-<h2 id="episode-20-the-frame-returned-pov-danika">Episode 20 — the frame, returned <em>(POV: Danika)</em> <a class="perma" href="#episode-20-the-frame-returned-pov-danika" aria-label="Link to this section">#</a></h2>
+<span id="episode-20"></span><h2 id="episode-20-the-frame-returned-pov-danika">Episode 20 — the frame, returned <em>(POV: Danika)</em> <a class="perma" href="#episode-20-the-frame-returned-pov-danika" aria-label="Link to this section">#</a></h2>
 <p class="epnav"><a href="#episode-19-what-your-government-bought-pov-danika">&larr; Episode 19</a> &middot; <a href="#toc">Contents</a></p>
 <blockquote>
 <p><em>We'd planned everything out to the last detail and Murph assured me that we
@@ -2076,5 +2087,26 @@ frames reproduced above remain theirs.</p>
 <p>Spotted something that doesn&rsquo;t match the episode? <a href="https://github.com/skybohannon/thescene/issues/new?template=correction.yml">Report a correction</a>.</p>
 </footer>
 </div>
+<script>
+(function () {
+  var b = document.querySelector('.theme'), root = document.documentElement;
+  if (!b) return;
+  var modes = ['auto', 'light', 'dark'];
+  function current() { return root.getAttribute('data-theme') || 'auto'; }
+  function show() { b.textContent = 'Theme: ' + current(); }
+  b.hidden = false;
+  show();
+  b.addEventListener('click', function () {
+    var next = modes[(modes.indexOf(current()) + 1) % modes.length];
+    if (next === 'auto') root.removeAttribute('data-theme');
+    else root.setAttribute('data-theme', next);
+    try {
+      if (next === 'auto') localStorage.removeItem('thescene-theme');
+      else localStorage.setItem('thescene-theme', next);
+    } catch (e) {}
+    show();
+  });
+})();
+</script>
 </body>
 </html>

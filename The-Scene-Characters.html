@@ -74,6 +74,8 @@ hr{border:0;border-top:1px solid var(--rule);margin:2.5rem 0}
 figure{margin:2rem 0}
 figure img{width:100%;height:auto;display:block;border:1px solid var(--rule);border-radius:3px}
 figcaption{margin-top:.6rem;font-size:.86rem;line-height:1.5;color:var(--muted)}
+figure.frame{margin:2.4rem 0 3rem}
+figure.frame a.more{display:inline-block;margin-top:.3rem;white-space:nowrap}
 #toc{margin:0 0 3rem;padding:1.2rem 1.3rem;background:var(--quote-bg);border-radius:4px}
 #toc .toch{font-size:.74rem;text-transform:uppercase;letter-spacing:.09em;color:var(--muted);
   margin:0 0 .8rem;border:0;padding:0}
@@ -82,6 +84,7 @@ figcaption{margin-top:.6rem;font-size:.86rem;line-height:1.5;color:var(--muted)}
 #toc li{margin:0 0 .3rem;break-inside:avoid}
 #toc ul.back{margin-top:.9rem;padding-top:.8rem;border-top:1px solid var(--rule);
   columns:2;column-gap:1.6rem}
+#toc ul.back.only{margin-top:0;padding-top:0;border-top:0}
 #toc a{text-decoration:none;color:var(--fg)}
 #toc a:hover{color:var(--accent);text-decoration:underline}
 a.h{color:inherit;text-decoration-style:dotted;text-decoration-color:var(--muted)}
@@ -104,27 +107,32 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
   #toc ol.eps,#toc ul.back{columns:1}
   blockquote{font-size:.78rem;padding:.7rem .8rem}
 }
+.theme{float:right;margin-left:1rem;font:inherit;font-size:.74rem;letter-spacing:.05em;text-transform:uppercase;
+  color:var(--muted);background:none;border:1px solid var(--muted);border-radius:3px;padding:.3rem .6rem;cursor:pointer}
+.theme:hover{color:var(--accent);border-color:var(--accent)}
+.theme:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+:root{color-scheme:light dark}
+:root[data-theme="light"]{color-scheme:light}
+:root[data-theme="dark"]{color-scheme:dark}
 @media print{
   body{background:#fff;color:#000}
-  #toc,p.epnav,a.perma{display:none}
+  #toc,p.epnav,a.perma,.theme,.skip{display:none}
   h2{break-after:avoid}
   figure{break-inside:avoid}
 }
 </style>
+<script>try{var t=localStorage.getItem("thescene-theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
 </head>
 <body>
 <a class="skip" href="#main">Skip to the text</a>
 <div class="wrap">
 <header class="mast">
-<p class="kicker"><a class="home" href="https://skybohannon.github.io/thescene/">The Scene</a> &middot; Reconstruction</p>
+<p class="kicker"><button class="theme" type="button" hidden>Theme: auto</button><a class="home" href="https://skybohannon.github.io/thescene/">The Scene</a> &middot; Reconstruction</p>
 <h1>The Scene (2004–2006) — Characters and Handles</h1>
 </header>
 <nav id="toc" aria-label="Contents">
 <h2 class="toch">Contents</h2>
-<ol class="eps">
-
-</ol>
-<ul class="back">
+<ul class="back only">
 <li><a href="#season-1-the-scene-2004-2006">Season 1 — The Scene (2004–2006)</a></li>
 <li><a href="#cpx">CPX</a></li>
 <li><a href="#drosan-s-life-outside-the-channel">Drosan's life outside the channel</a></li>
@@ -663,5 +671,26 @@ frames reproduced above remain theirs.</p>
 <p>Spotted something that doesn&rsquo;t match the episode? <a href="https://github.com/skybohannon/thescene/issues/new?template=correction.yml">Report a correction</a>.</p>
 </footer>
 </div>
+<script>
+(function () {
+  var b = document.querySelector('.theme'), root = document.documentElement;
+  if (!b) return;
+  var modes = ['auto', 'light', 'dark'];
+  function current() { return root.getAttribute('data-theme') || 'auto'; }
+  function show() { b.textContent = 'Theme: ' + current(); }
+  b.hidden = false;
+  show();
+  b.addEventListener('click', function () {
+    var next = modes[(modes.indexOf(current()) + 1) % modes.length];
+    if (next === 'auto') root.removeAttribute('data-theme');
+    else root.setAttribute('data-theme', next);
+    try {
+      if (next === 'auto') localStorage.removeItem('thescene-theme');
+      else localStorage.setItem('thescene-theme', next);
+    } catch (e) {}
+    show();
+  });
+})();
+</script>
 </body>
 </html>

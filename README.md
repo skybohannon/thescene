@@ -10,6 +10,8 @@ No episode-by-episode synopsis of it appears to exist: the databases that list t
 | --- | --- |
 | `The-Scene-S01-Episode-Synopses.md` | Season 1: all 20 episodes, POV per episode, character notes, and the threads that pay off across the season |
 | `The-Scene-S02-Episode-Synopses.md` | *The Scene 2.0*: all 20 episodes, the cold-open narration, the infrastructure the season is built on, and the personal thread underneath it |
+| `The-Scene-Episode-Guide.md` | A spoiler-free guide for first-time viewers: one line per episode, with a link to its full entry for afterwards |
+| `The-Scene-Frames.md` | Every captioned frame from both synopses on one page, assembled at build time from their frames sections |
 | `The-Scene-Characters.md` | Both seasons: every handle, who it belongs to, who plays them, and which episodes they're in |
 | `index.html` | The landing page for the GitHub Pages edition |
 | `stills/s01/` | Nine frames from season 1, referenced by that synopsis |
@@ -17,7 +19,7 @@ No episode-by-episode synopsis of it appears to exist: the databases that list t
 | `scripts/` | The pipeline that recovered the text it was written from |
 | `LICENSE` | CC BY 4.0, covering the writing here — not the series |
 
-Each synopsis, and the character index, also ships as a single self-contained `.html` file with the frames embedded, so it can be read anywhere — including next to the episodes themselves. They are also published at **[skybohannon.github.io/thescene](https://skybohannon.github.io/thescene/)**, built by `.github/workflows/pages.yml` on every push: there the frames are linked rather than embedded so the pages load quickly, every handle links to its row in the character index, and every timing in *Where to look* opens the Internet Archive copy of the episode at that second. The self-contained files are served there too, under `offline/`.
+Each synopsis, the character index, the episode guide and the frames page also ship as a single self-contained `.html` file with the frames embedded, so it can be read anywhere — including next to the episodes themselves. They are also published at **[skybohannon.github.io/thescene](https://skybohannon.github.io/thescene/)**, built by `.github/workflows/pages.yml` on every push: there the frames are linked rather than embedded so the pages load quickly, every handle links to its row in the character index, and every timing in *Where to look* opens the Internet Archive copy of the episode at that second. The self-contained files are served there too, under `offline/`.
 
 The recovered screen text and the audio transcripts themselves are **not** published here — see *A note on the material* below.
 

@@ -63,12 +63,20 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
   .wrap{padding:2.2rem 0 4rem}
   header.mast h1{font-size:1.6rem}
 }
+.theme{float:right;margin-left:1rem;font:inherit;font-size:.74rem;letter-spacing:.05em;text-transform:uppercase;
+  color:var(--muted);background:none;border:1px solid var(--muted);border-radius:3px;padding:.3rem .6rem;cursor:pointer}
+.theme:hover{color:var(--accent);border-color:var(--accent)}
+.theme:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+:root{color-scheme:light dark}
+:root[data-theme="light"]{color-scheme:light}
+:root[data-theme="dark"]{color-scheme:dark}
 </style>
+<script>try{var t=localStorage.getItem("thescene-theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
 </head>
 <body>
 <div class="wrap">
 <header class="mast">
-<p class="kicker">Reconstruction</p>
+<p class="kicker"><button class="theme" type="button" hidden>Theme: auto</button>Reconstruction</p>
 <h1>The Scene (2004–2006)</h1>
 </header>
 <main>
@@ -76,6 +84,8 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <p><em>The Scene</em> is a web series in two twenty-episode seasons about warez groups and the people in them, told almost entirely through on-screen text: IRC channels, instant messages, mail and FTP windows that the viewer reads rather than hears. The databases that list it leave the plot fields blank. These are the missing synopses, reconstructed from every episode's screen text and audio.</p>
 
 <p>They are written for someone who has watched the series, or doesn't mind knowing how it ends.</p>
+
+<p><strong>Haven't watched it yet?</strong> Start with the <a href="The-Scene-Episode-Guide.html">spoiler-free episode guide</a>: one line per episode, nothing about how it ends.</p>
 
 <ul class="editions">
 <li><a href="The-Scene-S01-Episode-Synopses.html">
@@ -93,10 +103,15 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
   <span class="name">Characters and Handles</span>
   <span class="what">Who every handle belongs to, who plays them, and where to find them.</span>
 </a></li>
+<li><a href="The-Scene-Frames.html">
+  <span class="label">Both seasons · 19 frames</span>
+  <span class="name">Frames</span>
+  <span class="what">The windows the story turns on, gathered in one place with their captions.</span>
+</a></li>
 </ul>
 
 <h2>Read it offline</h2>
-<p>Each edition also comes as a single file with its frames built in, which works without a connection, including next to the episodes themselves: <a href="offline/The-Scene-S01-Episode-Synopses.html">season 1</a>, <a href="offline/The-Scene-S02-Episode-Synopses.html">The Scene 2.0</a>, and the <a href="offline/The-Scene-Characters.html">character index</a>. Save the page to keep it.</p>
+<p>Each edition also comes as a single file with its frames built in, which works without a connection, including next to the episodes themselves: <a href="offline/The-Scene-S01-Episode-Synopses.html">season 1</a>, <a href="offline/The-Scene-S02-Episode-Synopses.html">The Scene 2.0</a>, the <a href="offline/The-Scene-Characters.html">character index</a>, the <a href="offline/The-Scene-Episode-Guide.html">episode guide</a> and the <a href="offline/The-Scene-Frames.html">frames</a>. Save the page to keep it.</p>
 
 <h2>Watch it</h2>
 <p>Both seasons are free on the Internet Archive: <a href="https://archive.org/details/the_scene_season_1">season 1</a> and <a href="https://archive.org/details/welcometothescene_version2.0_xvid">The Scene 2.0</a>. Background, cast and credits are on <a href="https://en.wikipedia.org/wiki/The_Scene_(miniseries)">Wikipedia</a> and <a href="https://www.imdb.com/title/tt2201890/">IMDb</a>.</p>
@@ -113,5 +128,26 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 frames reproduced in the synopses remain theirs.</p>
 </footer>
 </div>
+<script>
+(function () {
+  var b = document.querySelector('.theme'), root = document.documentElement;
+  if (!b) return;
+  var modes = ['auto', 'light', 'dark'];
+  function current() { return root.getAttribute('data-theme') || 'auto'; }
+  function show() { b.textContent = 'Theme: ' + current(); }
+  b.hidden = false;
+  show();
+  b.addEventListener('click', function () {
+    var next = modes[(modes.indexOf(current()) + 1) % modes.length];
+    if (next === 'auto') root.removeAttribute('data-theme');
+    else root.setAttribute('data-theme', next);
+    try {
+      if (next === 'auto') localStorage.removeItem('thescene-theme');
+      else localStorage.setItem('thescene-theme', next);
+    } catch (e) {}
+    show();
+  });
+})();
+</script>
 </body>
 </html>

@@ -22,6 +22,49 @@ md_text = io.open(SRC, encoding='utf-8').read()
 md = MarkdownIt('commonmark', {'typographer': False}).enable(['table'])
 body = md.render(md_text)
 
+def slug(t):
+    t = re.sub(r'<[^>]+>', '', t)
+    t = html.unescape(t)
+    t = re.sub(r'[^a-z0-9]+', '-', t.lower()).strip('-')
+    return t
+
+def archive_url(season, ep):
+    """The Internet Archive H.264 file for an episode. Season 2's are
+    numbered from zero there."""
+    if season == 1:
+        return 'https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_%d.mp4' % ep
+    return 'https://archive.org/download/welcometothescene_version2.0_xvid/episode2.%d_xvid.mp4' % (ep - 1)
+
+# --- the frames gallery: every captioned frame from both synopses ---------
+# A page containing <!-- frames --> gets them in its place, taken from each
+# synopsis's frames section so the two can never disagree.
+SYNOPSES = [(1, 'The-Scene-S01-Episode-Synopses.md'), (2, 'The-Scene-S02-Episode-Synopses.md')]
+
+def frames_html():
+    out = []
+    for season, path in SYNOPSES:
+        text = io.open(path, encoding='utf-8').read()
+        section = re.search(r'^### (?:\w+) frames\n(.*?)(?=^### )', text, flags=re.M | re.S).group(1)
+        name = 'The Scene' if season == 1 else 'The Scene 2.0'
+        out.append('<h2>Season %d &mdash; <em>%s</em></h2>' % (season, name))
+        rendered = md.render(section)
+        for m in re.finditer(r'<p><img src="([^"]+)" alt="([^"]*)"\s*/?></p>\s*<p><em>(.*?)</em></p>', rendered, flags=re.S):
+            src, alt, caption = m.groups()
+            ep = int(re.search(r'/e(\d\d)-', src).group(1))
+            # the caption opens "Episode 1, 5:33." -- link the time to that moment
+            def watch(tm):
+                mins, secs = tm.group(1), tm.group(2)
+                return '<a href="%s#t=%d" aria-label="Watch episode %d from %s:%s">%s:%s</a>' % (
+                    archive_url(season, ep), int(mins) * 60 + int(secs), ep, mins, secs, mins, secs)
+            caption = re.sub(r'(?<=^Episode %d, )(\d{1,2}):(\d\d)' % ep, watch, caption)
+            out.append('<figure class="frame"><img src="%s" alt="%s"><figcaption>%s '
+                       '<a class="more" href="%s#episode-%d">Episode %d in the synopsis &rarr;</a></figcaption></figure>'
+                       % (src, alt, caption, path, ep, ep))
+    return '\n'.join(out)
+
+if '<!-- frames -->' in body:
+    body = body.replace('<!-- frames -->', frames_html())
+
 # --- frames: embedded, or linked and lazy-loaded for the web --------------
 stills = re.findall(r'src="([^"]+\.jpg)"', body)
 
@@ -38,15 +81,13 @@ def embed(m):
 body = re.sub(r'src="([^"]+\.jpg)"', embed, body)
 
 # --- links to a sibling .md point at its HTML edition instead -------------
-body = re.sub(r'href="([^":/]+)\.md"', r'href="\1.html"', body)
+body = re.sub(r'href="([^":/#]+)\.md(#[^"]*)?"', r'href="\1.html\2"', body)
 
 # --- "Where to look": each start time opens the episode at that second ----
 # The timings were taken from the Internet Archive's H.264 encodes, so they
-# link to those files. Season 2's episodes are numbered from zero there.
+# link to those files.
 def episode_url(ep):
-    if SEASON == 1:
-        return 'https://archive.org/download/the_scene_season_1/the_scene_xvid_episode_%d.mp4' % ep
-    return 'https://archive.org/download/welcometothescene_version2.0_xvid/episode2.%d_xvid.mp4' % (ep - 1)
+    return archive_url(SEASON, ep)
 
 def link_timings(section):
     def row(m):
@@ -134,19 +175,18 @@ body = re.sub(
     body, flags=re.S)
 
 # --- heading ids + table of contents --------------------------------------
-def slug(t):
-    t = re.sub(r'<[^>]+>', '', t)
-    t = html.unescape(t)
-    t = re.sub(r'[^a-z0-9]+', '-', t.lower()).strip('-')
-    return t
 
 toc = []
 def addid(m):
     lvl, attrs, text = m.group(1), m.group(2), m.group(3)
     s = slug(text)
     toc.append((int(lvl), s, text))
-    return ('<h%s id="%s"%s>%s <a class="perma" href="#%s" aria-label="Link to this section">#</a></h%s>'
-            % (lvl, s, attrs, text, s, lvl))
+    # Episodes also answer to a short anchor, #episode-5, which gives nothing
+    # away in a link -- the long one carries the entry's title.
+    ep = re.match(r'Episode (\d+)\b', re.sub(r'<[^>]+>', '', text)) if lvl == '2' else None
+    short_id = '<span id="episode-%s"></span>' % ep.group(1) if ep else ''
+    return ('%s<h%s id="%s"%s>%s <a class="perma" href="#%s" aria-label="Link to this section">#</a></h%s>'
+            % (short_id, lvl, s, attrs, text, s, lvl))
 
 body = re.sub(r'<h([23])(.*?)>(.*?)</h\1>', addid, body, flags=re.S)
 
@@ -190,9 +230,10 @@ body = body.replace('<table>', '<div class="tablewrap"><table>').replace('</tabl
 def li(items):
     return '\n'.join('<li><a href="#%s">%s</a></li>' % (s, t) for s, t in items)
 
-nav = ('<nav id="toc" aria-label="Contents">\n<h2 class="toch">Contents</h2>\n'
-       '<ol class="eps">\n%s\n</ol>\n<ul class="back">\n%s\n</ul>\n</nav>'
-       % (li(eps), li(back)))
+# pages without episodes (the index, the guide, the frames) get one plain list
+nav = ('<nav id="toc" aria-label="Contents">\n<h2 class="toch">Contents</h2>\n%s</nav>'
+       % (('<ol class="eps">\n%s\n</ol>\n<ul class="back">\n%s\n</ul>\n' % (li(eps), li(back))) if eps
+          else '<ul class="back only">\n%s\n</ul>\n' % li(back)))
 
 # drop the leading <h1> out of the flow so we can rebuild the header
 m = re.search(r'<h1>(.*?)</h1>', body, flags=re.S)
@@ -300,6 +341,8 @@ hr{border:0;border-top:1px solid var(--rule);margin:2.5rem 0}
 figure{margin:2rem 0}
 figure img{width:100%;height:auto;display:block;border:1px solid var(--rule);border-radius:3px}
 figcaption{margin-top:.6rem;font-size:.86rem;line-height:1.5;color:var(--muted)}
+figure.frame{margin:2.4rem 0 3rem}
+figure.frame a.more{display:inline-block;margin-top:.3rem;white-space:nowrap}
 #toc{margin:0 0 3rem;padding:1.2rem 1.3rem;background:var(--quote-bg);border-radius:4px}
 #toc .toch{font-size:.74rem;text-transform:uppercase;letter-spacing:.09em;color:var(--muted);
   margin:0 0 .8rem;border:0;padding:0}
@@ -308,6 +351,7 @@ figcaption{margin-top:.6rem;font-size:.86rem;line-height:1.5;color:var(--muted)}
 #toc li{margin:0 0 .3rem;break-inside:avoid}
 #toc ul.back{margin-top:.9rem;padding-top:.8rem;border-top:1px solid var(--rule);
   columns:2;column-gap:1.6rem}
+#toc ul.back.only{margin-top:0;padding-top:0;border-top:0}
 #toc a{text-decoration:none;color:var(--fg)}
 #toc a:hover{color:var(--accent);text-decoration:underline}
 a.h{color:inherit;text-decoration-style:dotted;text-decoration-color:var(--muted)}
@@ -330,9 +374,16 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
   #toc ol.eps,#toc ul.back{columns:1}
   blockquote{font-size:.78rem;padding:.7rem .8rem}
 }
+.theme{float:right;margin-left:1rem;font:inherit;font-size:.74rem;letter-spacing:.05em;text-transform:uppercase;
+  color:var(--muted);background:none;border:1px solid var(--muted);border-radius:3px;padding:.3rem .6rem;cursor:pointer}
+.theme:hover{color:var(--accent);border-color:var(--accent)}
+.theme:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+:root{color-scheme:light dark}
+:root[data-theme="light"]{color-scheme:light}
+:root[data-theme="dark"]{color-scheme:dark}
 @media print{
   body{background:#fff;color:#000}
-  #toc,p.epnav,a.perma{display:none}
+  #toc,p.epnav,a.perma,.theme,.skip{display:none}
   h2{break-after:avoid}
   figure{break-inside:avoid}
 }
@@ -346,12 +397,13 @@ doc = u"""<!DOCTYPE html>
 <title>%s</title>
 %s
 <style>%s</style>
+<script>try{var t=localStorage.getItem("thescene-theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
 </head>
 <body>
 <a class="skip" href="#main">Skip to the text</a>
 <div class="wrap">
 <header class="mast">
-<p class="kicker"><a class="home" href="%s">The Scene</a> &middot; Reconstruction</p>
+<p class="kicker"><button class="theme" type="button" hidden>Theme: auto</button><a class="home" href="%s">The Scene</a> &middot; Reconstruction</p>
 <h1>%s</h1>
 </header>
 %s
@@ -366,6 +418,27 @@ frames reproduced above remain theirs.</p>
 <p>Spotted something that doesn&rsquo;t match the episode? <a href="https://github.com/skybohannon/thescene/issues/new?template=correction.yml">Report a correction</a>.</p>
 </footer>
 </div>
+<script>
+(function () {
+  var b = document.querySelector('.theme'), root = document.documentElement;
+  if (!b) return;
+  var modes = ['auto', 'light', 'dark'];
+  function current() { return root.getAttribute('data-theme') || 'auto'; }
+  function show() { b.textContent = 'Theme: ' + current(); }
+  b.hidden = false;
+  show();
+  b.addEventListener('click', function () {
+    var next = modes[(modes.indexOf(current()) + 1) %% modes.length];
+    if (next === 'auto') root.removeAttribute('data-theme');
+    else root.setAttribute('data-theme', next);
+    try {
+      if (next === 'auto') localStorage.removeItem('thescene-theme');
+      else localStorage.setItem('thescene-theme', next);
+    } catch (e) {}
+    show();
+  });
+})();
+</script>
 </body>
 </html>
 """ % (html.escape(title), meta, CSS, home, html.escape(title), nav, body)
