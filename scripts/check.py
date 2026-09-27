@@ -10,6 +10,15 @@ Two things drift when a synopsis is edited and the index isn't:
 - The handles. Every speaker in a quoted chat log should be someone the index
   knows about; a new one means a row (and an entry in characters.py) is due.
 
+It also lists, informationally, any square-bracketed span left in a
+synopsis's prose. The convention (see each synopsis's "On the sources"
+section) is that brackets mark a word the frame didn't settle -- inferred
+from context rather than actually legible. A verification pass against the
+video should end with none left uncorrected, so these are worth a look each
+time one runs, even though a stray bracket isn't counted as a "problem" the
+way a real mismatch is: some are intentional (a word caught mid-type, like
+"no than[ks]"), so this list isn't auto-failed the way the checks above are.
+
 Prints each disagreement and exits 1 if there are any.
 """
 import io, os, re, sys
@@ -111,6 +120,17 @@ def speakers(path):
     return out
 
 
+def bracketed_spans(path):
+    """[word]s in prose: not an image's ![alt] and not a [link](url)."""
+    out = []
+    for lineno, line in enumerate(io.open(path, encoding='utf-8'), 1):
+        for m in re.finditer(r'(!?)\[([^\]\n]*)\](\()?', line):
+            if m.group(1) or m.group(3):
+                continue
+            out.append((lineno, m.group(2)))
+    return out
+
+
 def main():
     problems = []
     rows = index_rows()
@@ -134,6 +154,10 @@ def main():
         for nick in sorted(speakers(path)):
             if nick not in IGNORED_SPEAKERS and not known.fullmatch(nick):
                 problems.append('%s: chat speaker "%s" is not in characters.py' % (path, nick))
+
+        for lineno, word in bracketed_spans(path):
+            print('%s:%d: bracketed "%s" -- inferred, or still legible at full size?'
+                  % (path, lineno, word))
 
     for p in problems:
         print(p)

@@ -40,7 +40,7 @@ The spoken material — the narration, the phone calls, and episode 17, the one 
 
 The interval is the decision that matters, and it should be set by the shortest-lived window rather than the busiest one. The IRC channel is forgiving, because chat scrolls slowly and lines sit on screen for a long time. A private IM open for thirty seconds is not, and neither is a background conversation in another language — at a coarser setting either can fall entirely between frames. Several of the season's turning points happen in windows that are open for only a few seconds.
 
-A first draft built this way is not the last word on it: OCR reads text, it doesn't read a scene, and it can miss a window that matters or misattribute a line inside one it caught. Season 1 has since been checked a second time, watched again directly rather than through the OCR sweep, at intervals fine enough to catch what a text-only pass doesn't. See "On the sources" at the end of that synopsis for what the pass found.
+A first draft built this way is not the last word on it: OCR reads text, it doesn't read a scene, and it can miss a window that matters or misattribute a line inside one it caught. Both seasons have since been checked a second time, watched again directly rather than through the OCR sweep, at intervals fine enough to catch what a text-only pass doesn't. See "On the sources" at the end of each synopsis for what the pass found.
 
 ### Season 2
 

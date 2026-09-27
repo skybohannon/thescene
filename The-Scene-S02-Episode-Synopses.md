@@ -35,7 +35,7 @@ episode 20 take the whole season as read.
 | 16 | wonderful news | Danika | She writes her own last letter to one window while the other tells her that her daughter has been found and a car is coming. |
 | 17 | the offer expires in 15 seconds | Ralph Lasky | Inside the agency for the first time: a field officer holds his own supervisor to ransom for a briefing, and names a retired man neither of them was supposed to know about. |
 | 18 | bellbird | Ralph Lasky | The history. A recruitment in 1970s Beijing, six agents, four still alive, and a program measured in generations. |
-| 19 | what your government bought | Danika | Out, in a motel, and told what her father was — and what the weapons she shipped were actually for. |
+| 19 | what your government bought | Danika | Out, in a motel, and told what her father was — and that the weapons she shipped were financing a coup. |
 | 20 | the frame, returned | Danika | The method she was ordered to use on an innocent man, used on the man who ordered it, with that man's help. |
 
 ## Episode 1 — the recruitment *(POV: lukai)*
@@ -58,10 +58,10 @@ do with any of it.
 > **&lt;sng330&gt;** oh, it's you
 
 talisman says his group needs an encoder, that they have releases coming, that they
-need someone fast. It is an ordinary scene recruitment, and `sng330` turns it down
-eight times — *i'm not available*, *not interested*, *i don't encode anymore*, *no
-thanks*, *i have no time for this*, *i can't do this right now*, *tell your group to
-find somebody else*, *i have to go to work*. Then the register changes:
+need someone fast. It is an ordinary scene recruitment, and `sng330` turns it down six
+times running — *i'm not available*, *not interested*, *i don't encode anymore*, *no
+thanks*, *i have no time for this*, *tell your group to find somebody else* — before
+the register changes:
 
 > **&lt;talisman&gt;** you really don't want to disappoint my group
 >
@@ -69,8 +69,10 @@ find somebody else*, *i have to go to work*. Then the register changes:
 >
 > **&lt;talisman&gt;** i will idle here while you set it up
 
-sng330 types *it's done* and gives a Jabber address. Everything after this in the
-season happens there.
+It doesn't land, not right away: sng330 deflects twice more — *i can't do this right
+now*, *i have to go to work* — eight refusals in all, and only gives in once talisman
+answers *ping me when the channel is ready*. She types *fine*, then *it's done*, and
+gives a Jabber address. Everything after this in the season happens there.
 
 ![Episode 1 — an mIRC window on AlNET, tabs for #elitewarez and a private query with talisman, who is recruiting sng330](stills/s02/e01-recruitment.jpg)
 
@@ -99,9 +101,11 @@ Gaim-otr for the encrypted chat, mIRC for the scene, and Vidalia, which is Tor's
 controller. The account name is **David** — nobody in this season, but the name season 1's encoder, pyr0, is called out loud in its episode 14.*
 
 In the encrypted window the other man is `t0mb0`, and he is not recruiting an
-encoder at all.
+encoder at all — his opening line drops the pretense outright:
 
-> **t0mb0:** our mutual friend wishes to engage your [services]
+> **t0mb0:** i assume we may now dispense of the schoolboy movie piracy chatter?
+>
+> **t0mb0:** our mutual friend wishes to engage your services
 >
 > **t0mb0:** he has buyers
 >
@@ -161,7 +165,7 @@ afternoon" — and then "you do not know ?" The OTR indicator reads Private.*
 Then, line by line, t0mb0 lays out everything he knows, in the gentlest possible
 phrasing:
 
-> **t0mb0:** i [imagine] this is the worst thing for you
+> **t0mb0:** i imagine this is the worst thing for you
 >
 > **t0mb0:** to be separated from your baby for so long
 >
@@ -171,7 +175,7 @@ phrasing:
 >
 > **t0mb0:** not knowing who is raising her
 >
-> **t0mb0:** this is not a good situation you have made for [yourself]
+> **t0mb0:** this is not a good situation you have made for yourself, lukai
 
 houdini6 answers with the only thing she has: *i did it for katerina*, *and i did it
 for my mother*, *you know i had to leave the country*. t0mb0 agrees with her — that
@@ -187,7 +191,7 @@ contacts, etc.*, *it is a good plan*, *things are no different now*.
 >
 > **t0mb0:** one of the better ones, actually
 >
-> **t0mb0:** our mutual friend has seen to it that she is [well cared for]
+> **t0mb0:** our mutual friend has seen to it that she is well cared for
 >
 > **t0mb0:** you see, lukai
 >
@@ -208,7 +212,7 @@ plain words:
 >
 > **t0mb0:** if you don't come through for us
 >
-> **t0mb0:** you will never see katerina
+> **t0mb0:** you will never see katerina again
 
 ## Episode 3 — the job *(POV: lukai)*
 
@@ -222,15 +226,15 @@ handler.
 
 > **t0mb0:** location ?
 >
-> **houdini6:** newark
+> **houdini6:** newark, nj
 >
-> **t0mb0:** this is far from new york
+> **t0mb0:** this is far from new york ?
+>
+> **houdini6:** 1:15 mins
 >
 > **t0mb0:** not acceptable
 >
 > **t0mb0:** perhaps you should move closer
->
-> **houdini6:** 1:15 mins
 >
 > **houdini6:** unnecessary
 
@@ -288,10 +292,18 @@ episode never says whether that is one man, one alias, or carelessness.
 The specifications move by FTP, and the client is open beside the chat: connected to
 **82.165.238.165** on port 21, retrieving a directory listing for
 **`/home/a/yatb-rev159/`**. t0mb0 asks whether the server is secure; houdini6 answers
-*of course it is, it's clean*. The file lands, receipt is confirmed, and t0mb0 says
-*everything is in order*.
+*of course it is, it's clean*. He uploads, she confirms receipt, and asks *everything
+is in order ?* — *yes*.
 
-The local pane of that same window reads `C:\Documents and Settings\David\Desktop`.
+What lands is a genuine parts manual: a PDF, open on screen right after, headed
+**S-70A International Black Hawk Helicopter** and a section titled *Overhaul Periods
+and Retirement Times*, with a cockpit instrument-panel diagram on the facing page.
+"The goods" are not an abstraction the chat gestures at; the document itself is on
+screen.
+
+The local pane of that same window reads `C:\Documents and Settings\David\Desktop`,
+and the desktop behind it collects the episode's evidence in one place: `657.jpg`,
+`705.jpg`, `705_2.jpg`, and the Black Hawk PDF.
 
 ## Episode 5 — the other window *(POV: Danika)*
 
@@ -313,7 +325,8 @@ chat window. A new contact greets houdini6 by a name nobody has used yet:
 >
 > **houdini6:** operation is on schedule
 >
-> **tann3r:** pls confirm that you have made contact with michael
+> **tann3r:** pls confirm that you have made contact with michael davis, operations
+> mgr
 >
 > **houdini6:** confirmed
 >
@@ -348,16 +361,20 @@ history to plan it. The personal cost surfaces in the same window:
 >
 > **tann3r:** i know it
 >
-> **tann3r:** we're checking all of the orphanages in that part of [the country]
+> **tann3r:** we're checking all of the orphanages in that part of estonia
 >
 > **tann3r:** we'll find her
 >
 > **houdini6:** that assumes she actually is in an orphanage
 
+This is the season's only mention of what country Katerina and her mother left —
+**Estonia**.
+
 While that runs, t0mb0 is in the other window — *lukai?*, *why haven't i heard from
 you?*, *what is the status?* — and houdini6 answers both men at once, telling t0mb0
 *nothing to report* and *i am still setting up here* while tann3r asks whether t0mb0
-is lying. *i have no way to verify one way or another.* Then: *just keep him close*,
+is lying. *i have no way to verify on way or another* — the typo is on screen. Then:
+*just keep him close*,
 *and we'll have this operation wrapped up in no time*, *do you think tombo suspects
 anything?*
 
@@ -373,16 +390,16 @@ easy part*. The hard part is inventory and shipping:
 >
 > **houdini6:** but iw as unsuccessful
 >
-> **houdini6:** the security measures are good and i am [not]
+> **houdini6:** the security measures are good and i am too visible here
 >
 > **t0mb0:** try again tonight
 >
 > **houdini6:** no, the network admin is already suspicious
 >
-> **houdini6:** i need to find someone in inventory who [has access to the database]
+> **houdini6:** i need to find someone in inventory who has access to the db
 >
-> **houdini6:** once i am into the database, i can ship goods [wherever i want and
-> then alter the records]
+> **houdini6:** once i am into the database, i can ship goods wherever i want and
+> then alter the records
 
 t0mb0 calls it a logical plan and asks how she will get that person. The reply is the
 last line of the episode, and the first time houdini6 uses her handler's name:
@@ -402,7 +419,7 @@ it hired; Danika is also, as episode 5 established, what her own side calls her.
 >
 > **DanikaLi99:** hi Mike
 >
-> **MikeyD5550:** sorry for the [noise]
+> **MikeyD5550:** sorry for the im
 >
 > **MikeyD5550:** i'm over at the warehouse today
 >
@@ -425,7 +442,7 @@ Then he changes the subject, and the episode becomes something else:
 >
 > **MikeyD5550:** i'm taking my boys out to the mets game
 >
-> **MikeyD5550:** next week and i have a few extra [tickets]
+> **MikeyD5550:** next week and i have a few extra tix
 >
 > **MikeyD5550:** thought you and your little girl might like to come along
 >
@@ -456,7 +473,7 @@ every Jabber window in the season reads Private.*
 
 The episode closes back in Jabber, with the same man discussed as an asset:
 
-> **t0mb0:** what is the status of the [inventory]
+> **t0mb0:** what is the status of the inventory db ?
 >
 > **houdini6:** moving forward
 >
@@ -472,7 +489,7 @@ The episode closes back in Jabber, with the same man discussed as an asset:
 >
 > **houdini6:** very
 >
-> **houdini6:** he has no idea what is about to [happen to him]
+> **houdini6:** he has no idea what is about to happen to him
 
 ## Episode 7 — partner *(POV: Danika)*
 
@@ -488,11 +505,11 @@ episode 5 only implied.
 >
 > **houdini6:** i don't have time for this
 >
-> **tann3r:** do i detect a note of impatience, agent [?]
+> **tann3r:** do i detect a note of impatience, agent li ?
 >
 > **houdini6:** i'm not used to having a babysitter
 >
-> **tann3r:** well this wasn't exactly my first choice of an [assignment]
+> **tann3r:** well this wasn't exactly my first choice of an assignment either
 >
 > **tann3r:** but they assigned BOTH of us to this operation
 >
@@ -500,7 +517,7 @@ episode 5 only implied.
 
 The update is a break-in, described flatly while it happens:
 
-> **houdini6:** i am currently breaking into mike davis' [machine]
+> **houdini6:** i am currently breaking into mike davis' computer
 >
 > **tann3r:** he's not there?
 >
@@ -516,11 +533,13 @@ The update is a break-in, described flatly while it happens:
 >
 > **houdini6:** once i find his i'll just use it to log in remotely
 
-No inventory database yet: *mike's boss is out of town*. Then, unprompted, an
+The packet sniffer on screen is a real tool, Ethereal, capturing off a Marvell
+Gigabit adapter while a PuTTY session sits in the taskbar behind it. No inventory
+database yet: *mike's boss is out of town*. Then, unprompted, an
 apology — *sorry i'm so touchy*, *it's the pressure* — and tann3r says *it's okay*
 three times. houdini6 asks the only question she cares about: *is there an update from
 estonia?* Twelve orphanages checked, about fifteen to go. *So sit tight.* — *why must
-it take so [long]* — *keep your chin up, partner.*
+it take so long* — *keep your chin up, partner.*
 
 And in the third window, at the same moment, the man whose passwords she is sniffing
 is thanking her for a nice evening:
@@ -535,8 +554,8 @@ is thanking her for a nice evening:
 >
 > **MikeyD5550:** yeah but he's been acting out since his mother left
 >
-> **MikeyD5550:** anyway, i was thinking next time we could leave the kids with
-> [someone]
+> **MikeyD5550:** anyway, i was thinking next time we could leave the kids with a
+> sitter
 >
 > **MikeyD5550:** dinner and a movie perhaps?
 >
@@ -564,7 +583,7 @@ The episode opens on a joke that turns out not to be one.
 
 > **tann3r:** how goes it?
 >
-> **houdini6:** i'm currently donwloading hardcore porno
+> **houdini6:** i'm currently donwloading hardcore porno movies
 >
 > **tann3r:** haha, i'll be sure and put that on the report
 >
@@ -575,6 +594,33 @@ The episode opens on a joke that turns out not to be one.
 > **tann3r:** you're serious?
 >
 > **houdini6:** yes, i am serious, stan
+
+There is also friction here, and it is the first time tann3r pushes back — before
+the joke lands, not after:
+
+> **tann3r:** i know i'm new to the unit and all
+>
+> **tann3r:** but i'm working my ass off
+>
+> **tann3r:** tyring to find your little girl
+>
+> **tann3r:** think you could cut me just a little slack?
+>
+> **houdini6:** you're right
+>
+> **houdini6:** sorry again
+>
+> **houdini6:** i must learn to behave
+>
+> **tann3r:** no big deal
+>
+> **tann3r:** i understand
+>
+> **tann3r:** so, porn?
+>
+> **houdini6:** yes, lots of it
+>
+> **houdini6:** the filthiest, most abhorrent i can find
 
 She is doing it on `irc.a0hell.net`, in a channel called `#ALTERED-PORN`, by DCC — a
 screen of warez-scene furniture put to a use the scene never intended. The status
@@ -593,23 +639,9 @@ filling up is not his:
 >
 > **houdini6:** i'm filling up Mike Davis' computer
 >
+> **tann3r:** ahhh
+>
 > **tann3r:** i see said the blind man
-
-There is also friction, and it is the first time tann3r pushes back:
-
-> **tann3r:** i know i'm new to the unit and all
->
-> **tann3r:** but i'm working my ass off
->
-> **tann3r:** trying to find your little girl
->
-> **tann3r:** think you could cut me just a little slack?
->
-> **houdini6:** you're right
->
-> **houdini6:** sorry again
->
-> **houdini6:** i must learn to behave
 
 In the other window, progress and impatience. houdini6 has acquired the inventory
 database; t0mb0 is unmoved.
@@ -628,12 +660,12 @@ database; t0mb0 is unmoved.
 >
 > **houdini6:** i'm doing everything i can
 
-Asked what is holding her up, she explains the whole shape of it: she will alter the
-inventory database and the shipping log to reflect the client's purchases, which
-means overwriting the current files on the server, which means covering her tracks —
-*if anyone ever questions our clients' shipments i must [be protected]* — and she has
-broken into a computer that will let her do it. The method is named in the last line
-of the episode: *by making sure that somebody else in the company gets the [blame]*.
+Asked what is holding her up, she explains the whole shape of it: she has broken into
+a computer that will enable her to do this, will alter the inventory database and the
+shipping log to reflect the client's purchases, and to do so must overwrite the
+current files on the server — *but if anyone ever questions our clients' shipments i
+must protect myself*. The method is named in the last line of the episode: *by making
+sure that somebody else in the company gets the blame*.
 
 ## Episode 9 — the carrot and the stick *(POV: Danika)*
 
@@ -654,9 +686,10 @@ The first line is a refusal.
 >
 > **tann3r:** it's coming from higher up
 
-The frame is already built — *i've partitioned his hard drive*, *and filled it with
-the evidence*, *we can make him the scapegoat whenever [we need to]* — and houdini6's
-objection is that it is now unnecessary:
+She objects first that Mike is a decent guy, there's no reason to crucify him — *we've
+been all through this*, tann3r says. The frame is already built — *i've partitioned
+his hard drive*, *and filled it with the evidence*, *we can make him the scapegoat
+whenever we need to* — and houdini6's objection is that it is now unnecessary:
 
 > **houdini6:** nothing will go wrong
 >
@@ -664,24 +697,28 @@ objection is that it is now unnecessary:
 >
 > **houdini6:** and no one suspects a thing
 >
-> **houdini6:** the weapons will be shipped to tombo's client
+> **houdini6:** the weapons will be shipped to tombo's client at the end of the month
 >
 > **houdini6:** right on schedule
 
 The name above tann3r is spoken here for the first time: **greenberg**, who *doesn't
-want to take any chances* and *won't risk having your cover blown if something [goes
-wrong]*. If it does, *we want people to automatically blame davis*, because *it's the
+want to take anyu chances* and *won't risk having your cover blown if something goes
+wrong*. If it does, *we want people to automatically blame davis*, because *it's the
 best way to keep suspicion off of you*.
 
 Behind the chat is the other half of the frame, and it is worse than the pornography:
 a letter, composed on screen in a Yahoo account opened for the purpose —
-`infinitematter@yahoo.com` — from an anonymous employee of Applied Engineering.
-*Last week a report of yours named Mike Davis called me into his office to discuss
-some company business. When I got there, he began coming onto me... he started
+`infinitematter@yahoo.com` — from an anonymous employee of Applied Engineering, sent
+to `Thomas.Einsdale@appliedengineeringllc.com` under the subject line *Mike Davis*.
+*I am an employee of Applied Engineering. I'm writing to you anonymously because I
+value my job and don't wish to lose it. Last week a report of yours named Mike Davis
+called me into his office to discuss some company business. When I got there, he
+began coming onto me. I tried to get out of it gracefully, but then he started
 showing me a movie on his computer, a very disturbing and inappropriate movie. He
-said he had a hard drive full of them... I'm sure Mr. Davis will deny all of this.
-But all you have to do is examine his hard drive and you'll see that I'm telling you
-the truth.*
+said he had a hard drive full of them. Naturally, I left but I see Mr. Davis all over
+the place and I don't like the looks he gives me. As I said, this job is very
+important to me... I'm sure Mr. Davis will deny all of this. But all you have to do
+is examine his hard drive and you'll see that I'm telling you the truth.*
 
 ![Episode 9 — a Yahoo Mail compose window containing an anonymous complaint accusing Mike Davis of harassment](stills/s02/e09-complaint.jpg)
 
@@ -696,7 +733,7 @@ you'll see that I'm telling you the truth" — which, by episode 8, is true.*
 >
 > **houdini6:** that's bullshit
 >
-> **houdini6:** you don't go to extremes like this over some [2nd rate operation]
+> **houdini6:** you don't go to extremes like this over some 2nd rate weapons dealers
 >
 > **tann3r:** you have your orders
 >
@@ -709,11 +746,11 @@ in this operation has an answer to:
 
 > **houdini6:** and what will you tell his children?
 >
-> **houdini6:** that their daddy didn't really download all [of that]
+> **houdini6:** that their daddy didn't really download all that porn?
 >
 > **houdini6:** something about this smells, stan
 >
-> **houdini6:** there's another reason you want mike out of [the way]
+> **houdini6:** there's another reason you want mike out of there
 >
 > **houdini6:** what is it?
 >
@@ -762,9 +799,13 @@ before Danika was born.
 *Episode 10, 1:30. Murph, arriving. He is the only person in twenty episodes who types
 like someone who would rather be talking.*
 
-The family history arrives sideways, in condolences. Danika's mother has died — her
-name was **Vicky**, she died in Estonia, and Murph knew her *since the old days back
-in beijing*.
+Murph has been watching from the trade side: *i've seen some of tomasz people getting
+pretty worked up*, *looks like they're expecting a big shipment* — small talk first,
+about *a tough biz* she's apparently a star at.
+
+The family history arrives next, sideways, in condolences. Danika's mother has died —
+her name was **Vicky**, she died in Estonia, and Murph knew her *since the old days
+back in beijing*.
 
 > **t!nman:** i'm so very sorry luv
 >
@@ -792,9 +833,7 @@ in beijing*.
 >
 > **t!nman:** her family was diplomats
 
-Murph has been watching from the trade side: *i've seen some of tomasz['s] people
-getting pretty worked [up]*, *looks like they're expecting a big shipment*. And then
-she asks him for the thing the agency has been promising for five episodes.
+Then she asks him for the thing the agency has been promising for five episodes.
 
 > **houdini6:** listen
 >
@@ -806,13 +845,16 @@ she asks him for the thing the agency has been promising for five episodes.
 >
 > **t!nman:** we'll get yer little girl back
 
-He says it has to be quick — *there's something going on*, *something with ICE that i
-can't figure out* — and lays out the clock: the money moves, the shipment happens in
-days, and *they're going to come down on tomasz right [away]*. Murph asks one
-question, *the customer is who i think it is?*, and draws the conclusion the rest of
-the season runs on:
+It is Danika, not Murph, who lays out the clock — *there's something going on*,
+*something with ICE that i can't figure out*, *i've stalled it as long as i could*,
+*but the money will be transferred out of suisse any day*, *the shipment will take
+place in a matter of weeks*. Murph is the one asking the questions: *how far along is
+the operation?*, *and i assume all hell will break loose after that?* — *yes*,
+*they're going to come down on tomasz right away*. Murph asks the one that matters,
+*the customer is who i think it is?*, and draws the conclusion the rest of the season
+runs on:
 
-> **t!nman:** then we have to find yer little girl before all this goes [down]
+> **t!nman:** then we have to find yer little girl before all this goes down
 >
 > **t!nman:** because once the arrest happens
 >
@@ -840,7 +882,7 @@ him:
 >
 > **MikeyD5550:** i just wanted to get that off my chest
 >
-> **MikeyD5550:** i wont bother you [again]
+> **MikeyD5550:** i wont bother you anymore
 
 ## Episode 11 — three minutes *(POV: Danika)*
 
@@ -858,12 +900,12 @@ window that does not answer:
 >
 > **houdini6:** i can only stall the weapons shipments for maybe a week
 
-On screen behind her, the money: a bank's confirmation to
+On screen behind her, the money: a bank's confirmation, dated **Sep 3, 2006**, to
 `michaelrcunningham5@gmail.com` that *per your request of last week, we have
-completed a wire transfer*, and that *the name on the receiving account is Applied
-Engineering Partnership*. The figure is on the screen too — **$74,507.89 (US) to
-router number 8890754**, which is the $75,000 agreed in episode 2 with something
-taken out of it on the way.
+completed a wire transfer of $74,507.89 (US) to router number 8890754*, and that *the
+name on the receiving account is Applied Engineering Partnership LLP* — the $75,000
+agreed in episode 2 with something taken out of it on the way. It's signed **Gerard
+Le Salle, Relationship Manager**.
 
 Then Mike, back from his week, apologizing for having had feelings about being
 destroyed:
@@ -874,11 +916,13 @@ destroyed:
 >
 > **DanikaLi99:** you sound much better now
 >
-> **MikeyD5550:** this whole situation's just been hard
+> **MikeyD5550:** this whole situations just been hard
 >
 > **DanikaLi99:** i'm sure
 >
-> **MikeyD5550:** i'm glad you believe [me]
+> **MikeyD5550:** i'm glad you believe
+>
+> **MikeyD5550:** me
 >
 > **MikeyD5550:** it really means a lot
 >
@@ -915,7 +959,7 @@ Tomasz treats lateness as breach:
 >
 > **houdini6:** where is she??
 >
-> **t0mb0:** even though you have breached the terms of [our agreement]
+> **t0mb0:** even though you have breached the terms of our contract
 >
 > **houdini6:** the weapons are only 3 days late!!!
 >
@@ -927,10 +971,10 @@ Tomasz treats lateness as breach:
 >
 > **t0mb0:** in return for your work
 >
-> **t0mb0:** we are keeping katerina out of harm's [way]
+> **t0mb0:** we are keeping katerina out of harms way
 
-She threatens the only way she can — *otherwise i'll call up some of my father's
-[friends]*, *and let them handle it* — and Tomasz answers with the sentence that
+She threatens the only way she can — *otherwise i'll call up some of my father's old
+contacts*, *and let them handle it* — and Tomasz answers with the sentence that
 tells you what kind of man Danika's father was:
 
 > **t0mb0:** if you turn me in to the chinese
@@ -949,7 +993,9 @@ Then Murph comes back, and the episode ends on it.
 >
 > **houdini6:** what did he say???
 >
-> **t!nman:** he didn't find out where they got [her]
+> **t!nman:** he didn't find out where they got katerina
+>
+> **houdini6:** SHIT
 >
 > **t!nman:** but he's confident that she'll be safe
 >
@@ -957,7 +1003,9 @@ Then Murph comes back, and the episode ends on it.
 >
 > **t!nman:** there aint gonna be no bust luv
 >
-> **t!nman:** [i] dont have all the answers
+> **houdini6:** WHAT?
+>
+> **t!nman:** dont have all the answers
 >
 > **t!nman:** but the picture's gettin clearer
 >
@@ -1000,24 +1048,14 @@ tann3r reports a triumph:
 >
 > **tann3r:** and counting
 
-Murph, being told the same thing second-hand, answers in four words: *utter and
-complete horseshit.* And then explains why, which is the most purely
-scene-literate argument in either season:
+She takes the triumph the way anyone would, and asks the only question that matters
+to her:
 
-> **t!nman:** if he'd really taken down a player like tombo
+> **houdini6:** I'm glad it's a success stan
 >
-> **t!nman:** don't you think i woulda known about it
->
-> **t!nman:** the whole scene woulda shut down
->
-> **t!nman:** it's all a crock
->
-> **t!nman:** they guy you were chatting with was probably not [tombo]
->
-> **t!nman:** just some govt spook
+> **houdini6:** but what about katerina?
 
-Meanwhile tann3r explains why Katerina still cannot come home, and the explanation is
-elegant:
+tann3r explains why she still cannot come home, and the explanation is elegant:
 
 > **tann3r:** tombo has acknowledged that they have her
 >
@@ -1031,18 +1069,17 @@ elegant:
 >
 > **tann3r:** and so they're using her as a bargaining chip
 
-She takes the news the way anyone would, and then asks the only question that matters
-to her:
+*Oh god.* *Look don't worry*, *it's not in their interests to hurt katerina*, *we
+expect to have her back shortly* — and she pushes back harder than the reassurance
+deserves: *you keep saying that*, *but what are you DOING about it, stan?* — *everything
+humanly possible*, *i assure you*, *i promise to keep you updated.*
 
-> **houdini6:** I'm glad it's a success stan
->
-> **houdini6:** but what about katerina?
-
-She tells him the truth about what this is doing to her — *i honestly don't know
-how much more of this i can [take]*, *he's feeding me all of this stuff about
-[her]*, *and whether it's true or not it's very hard to [bear]* — and gets *don't
-worry*, *everything humanly possible*, *i assure you*, *i promise to keep you
-updated*. Murph, in the next window, says *ain't none of it true*, *she's safe and
+It is Murph, in the other window, who gets the truth rather than the reassurance. She
+has just relayed tann3r's boast to him — *he says that tombo's talking, and it's lead
+to lots of arrests* — and gotten only *utter and complete horseshit luv*. Then, to him
+and not to tann3r: *murph*, *i honestly don't know how much more of this i can
+handle*, *he's feeding me all this stuff about katerina*, *and whether it's true or
+not it's very hard to take*. Murph answers *ain't none of it true*, *she's safe and
 sound and we'll get her back*, and then the instruction that defines the rest of the
 season:
 
@@ -1050,9 +1087,24 @@ season:
 >
 > **t!nman:** just play along
 
-The episode ends with Murph setting the new problem. A whole shipload of weapons
-parts has just moved. *Blackhawk parts dont just disappear. Somebody got [them]. The
-question is [who].*
+Only after that does Murph explain the horseshit remark, in the most purely
+scene-literate argument in either season:
+
+> **t!nman:** if he'd really taken down a player like tombo
+>
+> **t!nman:** don't you think i woulda known about it ?
+>
+> **t!nman:** the whole scene woulda shut down
+>
+> **t!nman:** it's all a crock
+>
+> **t!nman:** they guy you were chatting with was probably not even tombo
+>
+> **t!nman:** just some govt spook
+
+The episode ends with Murph setting the new problem: *a whole shitload of weapons
+parts just got shipped outta that company*, *and blackhawk parts dont just disappear*,
+*somebody got em*. *The question is who.*
 
 ## Episode 14 — jim brandon *(POV: Danika)*
 
@@ -1063,8 +1115,16 @@ question is [who].*
 Danika comes back to work to find the company hardened against her: *one of the new
 multilayer firewalls, a packet logger, and they rearranged their network*. An Nmap
 run scrolls behind the conversation — `nmap -sS -sV -A -f -v -v 199.46.198.87`, a
-fragmented scan of 1,680 ports started at 10:49 — and it finds too many fingerprints
-to identify the host.
+fragmented scan of 1,680 ports started 2006-09-28 at 10:49 Eastern — and it finds too
+many fingerprints to identify the host. A second scan minutes later, against
+**199.46.198.88**, resolves where the first one didn't: **itis-ts02.raytheon.com**.
+Raytheon is never named in dialogue anywhere in the season — this scan is the only
+place the client's identity actually appears on screen.
+
+![Episode 14 — a terminal window running a second Nmap scan that resolves 199.46.198.88 to itis-ts02.raytheon.com](stills/s02/e14-raytheon.jpg)
+
+*Episode 14, ~4:15. The only place the client's name appears anywhere in the season,
+and it's in a command-line scan result nobody on screen is shown reading.*
 
 > **t!nman:** a bit o paranoia can be healthy
 >
@@ -1077,31 +1137,31 @@ to identify the host.
 > **houdini6:** because i haven't found out anything
 
 She wants a record they have not thought to alter — *i may at least be able to see
-who's been [logging in and when]*, *at least it will give us some clues* — and
+who'se been loggin in and when*, *at least it will give us some clues* — and
 answers Murph's skepticism with something that sounds like her father talking: *in my
 experience, if you follow the right path, the answers will reveal themselves.*
 
-Then a new window opens, and it opens in exactly the wrong place.
+Then a new window opens, and it opens in exactly the wrong place. This is AIM, not Jabber — the same jimbrandon999 handle appears as jimbrandon09@jabber.org once he moves the conversation there from episode 17 on.
 
-> **jimbrandon09:** danika?
+> **jimbrandon999:** danika?
 >
 > **DanikaLi99:** yes
 >
-> **jimbrandon09:** it's jim brandon
+> **jimbrandon999:** it's jim brandon
 >
-> **jimbrandon09:** got your IM from Mike Davis' computer
+> **jimbrandon999:** got your IM from Mike Davis' computer
 >
-> **jimbrandon09:** i hope you don't mind my pinging you
+> **jimbrandon999:** i hope you don't mind my pinging you
 >
 > **DanikaLi99:** no, not at all
 >
-> **jimbrandon09:** i'd have called
+> **jimbrandon999:** i'd have called
 >
-> **jimbrandon09:** but i'm here in the warehouse
+> **jimbrandon999:** but i'm here in the warehouse
 >
-> **jimbrandon09:** they've put me into mike's old job
+> **jimbrandon999:** they've put me into mike's old job
 >
-> **jimbrandon09:** and i'm trying [to] figure everything out
+> **jimbrandon999:** and i'm trying figure everything out
 
 He would like her to walk him through some items — *i'm trying to familiarize myself
 with the systems*, *and how they link up to accounting, etc.* She says *glad to
@@ -1117,7 +1177,7 @@ She turns to the other window and says what the audience is thinking:
 >
 > **houdini6:** that he's pinging me just now
 >
-> **houdini6:** god, i feel like they're watching my every [move]
+> **houdini6:** god, i feel like they're watching my every move
 >
 > **t!nman:** how would he know
 >
@@ -1132,15 +1192,14 @@ She turns to the other window and says what the audience is thinking:
 Murph's conclusion is the episode's last turn, and it moves her from operator to
 target:
 
-> **t!nman:** these guys have a way of being rid of people that [have outlived their
-> use]
+> **t!nman:** these guys have a way of being rid of people that have outlived their
+> uses
 >
 > **houdini6:** but i pose no threat to them?
 >
 > **t!nman:** untrue
 >
-> **t!nman:** let's assume they shipped those weaps to someone [who shouldn't have
-> them]
+> **t!nman:** let's assume they shipped those weaps to someone who shouldn't have em
 >
 > **t!nman:** (not a stretch)
 >
@@ -1158,7 +1217,7 @@ target:
 
 She asks for a little more time to find where the weapons went. Murph tells her
 what finding out would mean: *it's good cause that will prove that the US gov't is
-[arming someone it shouldn't]*, *and you'll have ICE by the short and curlies.* And
+sending illegal weaps overseas*, *and you'll have ICE by the short and curlies.* And
 the bad news is that *they'll know it* too.
 
 ## Episode 15 — the bluff *(POV: Danika)*
@@ -1263,7 +1322,7 @@ friends around you for support*, *don't you agree?*
 >
 > **houdini6:** i made him think that i had the info already
 >
-> **houdini6:** and that i'd given it to several friends - just in [case]
+> **houdini6:** and that i'd given it to several friends - just in case
 >
 > **t!nman:** bloody brilliant
 >
@@ -1280,11 +1339,20 @@ She has nothing. It is a pure bluff, and it buys her the rest of the season.
 Two things happen in this episode and they are in different windows, and the whole
 season is in the gap between them.
 
-In the first, an email. Not to anyone in the operation — to Murph, at an address the
-two of them set up *as an emergency contact point*, *although I'd hoped never to use
-it*. It is the longest single piece of writing in either season, and it is a woman
-composing her own last letter while the people outside her office get into position.
+In the first, an email. Not to anyone in the operation — to Murph, at
+`bludlines@yahoo.com`, subject *Contact*, an address the two of them set up *as an
+emergency contact point*, *although I'd hoped never to use it*. It is the longest
+single piece of writing in either season, and it is a woman composing her own last
+letter while the people outside her office get into position.
 
+> Murph,
+>
+> I've been trying to reach you for the past several days. I don't know where you
+> are, but I can only pray that you're all right.
+>
+> I'm glad now that we set up this e-mail account as an emergency contact point -
+> although I'd hoped never to use it.
+>
 > Well, Murph, I may have pushed my luck too far. I suppose I've made the classic
 > mistake of underestimating my opponent. I'm being watched 24/7, and I'm no longer
 > sure I can get out of here. The "security guards" that they hired have been eyeing
@@ -1292,9 +1360,10 @@ composing her own last letter while the people outside her office get into posit
 > the hall from my office.
 >
 > I have my escape plan all set, but now that it's come to it, I'm not at all
-> confident [...]
+> confident I can carry it out.
 >
-> God I'm scared. What do I do, Murph? I just don't know what to do??
+> Jesus. This is really it. Stan's asked me to get together in person, just as you
+> warned me he would.
 >
 > But don't worry Murph, I'm not giving up. I'm going to stay cool and get the hell
 > out of here right now. I'll write you again when I get to a safe place, OK? When
@@ -1302,10 +1371,16 @@ composing her own last letter while the people outside her office get into posit
 >
 > Oh, and by the way, there's one other thing: in case I don't make it, I contacted
 > the shipping company and I told them there was a billing problem. Following is an
-> email that contains the actual address where the weapons were shipped.
+> email that contains the actual address where the weapons were shipped. I told you,
+> Murph, it's just a matter of staying on the right path...
 >
 > Anyway, I hope you can do something with this information. You've been a great
 > friend. A second father, really.
+>
+> Talk to you soon.
+>
+> Love,
+> Dani
 
 ![Episode 16 — a Yahoo Mail compose window containing a long letter to Murph about being watched](stills/s02/e16-email.jpg)
 
@@ -1313,24 +1388,43 @@ composing her own last letter while the people outside her office get into posit
 "The 'security guards' that they hired have been eyeing me all day and they've now lost
 all pretense and have taken up positions just down the hall from my office."*
 
+For a few seconds, between the "Jesus, this is really it" line and "But don't worry
+Murph", the letter actually reads *God I'm scared. What do I do, Murph? I just don't
+know what to do??* — typed in full, then deleted before she moves on. It's on screen
+long enough to read; it just isn't in the letter she sends.
+
+![Episode 16 — the same compose window, a moment before deletion, reading "God I'm scared. What do I do, Murph? I just don't know what to do??"](stills/s02/e16-scared.jpg)
+
+*Episode 16, ~6:06. On screen for a few seconds and then gone: the one line in the
+letter that doesn't make it into the version Murph actually reads.*
+
 Attached below it, the thing she went into the building for. It is a shipment
 confirmation, and it is the answer to the question the whole season is about, sitting
 on screen in plain type four episodes before anyone says it out loud:
 
 > Shipment confirmation #2668765
+> Date: September 27, 2006
 >
 > This will confirm shipment of 18 size AA3 containers from:
-> Applied Engineering Partnership, Newark, NJ 98721
+>
+> Applied Engineering Partnership
+> 2451 Warwick Avenue
+> Newark, NJ 98721
 >
 > to
 >
-> No. 46, Zhanlanguan Lu, Jishou, Hunan, China
+> No. 46, Zhanlanguan Lu
+> Jishou
+> Hunan, China
 >
-> SHIPMENT WAS RECEIVED OCTOBER 4, 2006 &mdash; SIGNED BY [H. XIOU] &mdash; 3:25pm
+> SHIPMENT WAS RECEIVED OCTOBER 4, 2006
+> SIGNED BY [H. XIOU]
+> 3:25pm
 
-The confirmation is dated **September 27, 2006** and the sender is at **2451 Warwick
-Avenue, Newark**. Above it, the letter ends the way nothing else in the season does —
-*Love, Dani*.
+The bracket around the signature is the document's own, not an editorial mark for
+something illegible — the confirmation itself is typed with the recipient's name
+left in square brackets, never filled in. Above the letter, the sign-off is the only
+one she gives anyone in either season.
 
 ![Episode 16 — a shipment confirmation for 18 size AA3 containers from Applied Engineering Partnership, signed by H. XIOU](stills/s02/e16-shipment.jpg)
 
@@ -1373,10 +1467,10 @@ In the other window, at the same moment, Stan is delighted.
 > **houdini6:** thank you for all you've done
 
 The two are interleaved on the same screen, and the timings show her writing around
-him. The men in the corridor go into the letter at 2:39; Stan's invitation arrives at
-4:03; and at 5:36 she adds the line that ties them together — *Jesus. This is really
-it. Stan's asked me to get together in person, just as you [said he would]*. Murph
-predicted both tacks in the previous episode, and this is the second one. A car is
+him: the men in the corridor go into the letter at 2:39, Stan's invitation arrives at
+4:03, and by 5:36 she's folded it into the same letter — *Stan's asked me to get
+together in person, just as you warned me he would*. Murph predicted both tacks back
+in episode 15, and this is the second one. A car is
 being sent for a woman who has already written that there are men outside her door.
 
 ## Episode 17 — the offer expires in 15 seconds *(POV: Ralph Lasky)*
@@ -1390,7 +1484,7 @@ The first of two episodes shot from inside the agency rather than against it, an
 first in the season where Danika does not appear at all. The man who took Mike Davis's
 job has stopped pretending to be an operations manager.
 
-> **jimbrandon09:** am I going to get a straight answer or [not]
+> **jimbrandon09:** am I going to get a straight answer or what?
 >
 > **tann3r:** i've told you everything i can
 >
@@ -1420,7 +1514,7 @@ The leverage is simple and he applies it without embarrassment:
 >
 > **jimbrandon09:** you can tell me what i want to know
 >
-> **jimbrandon09:** or you can lose your man at applied [engineering]
+> **jimbrandon09:** or you can lose your man at applied engineering
 >
 > **tann3r:** you're not serious
 >
@@ -1428,11 +1522,11 @@ The leverage is simple and he applies it without embarrassment:
 >
 > **jimbrandon09:** i'll fold up my laptop and walk out of here right now!
 >
-> **jimbrandon09:** how do you think greenberg will like [that]
+> **jimbrandon09:** how do you think greenberg will like that?
 
 His assessment of the operation is the audience's, delivered to the man responsible:
-*you've screwed this job up nine ways*, *danika's gone*, *you were sloppy on the
-weapons [shipments]*, *and the records leaked out*. And then the piece Stan did not
+*you've screwed this job up nine ways till sunday*, *danika's gone*, *you were
+sloppy on the weapons shipments*, *and the records leaked out*. And then the piece Stan did not
 have:
 
 > **jimbrandon09:** and now you've got another old fart from my day asking all the
@@ -1488,7 +1582,9 @@ straightforward exchange in the season.
 >
 > **jimbrandon09:** it's ralph lasky
 >
-> **jimbrandon09:** we worked together for a while in [beijing]
+> **jimbrandon09:** we worked together for a while in the eighties
+>
+> **jimbrandon09:** in beijing
 >
 > **t!nman:** i remember you
 >
@@ -1518,41 +1614,46 @@ statement of principle:
 >
 > **jimbrandon09:** but every once in a while
 >
-> **jimbrandon09:** you see something you can
+> **jimbrandon09:** you see something you can fix
 >
 > **jimbrandon09:** and that's what i'm seeing now
 
-And then the history. Danika's father was **Zhen**, American operational name
-**bellbird**.
+And then the history. Danika's father was **Zhen Li** — her own surname, on every
+handle she's used all season, is his — American operational name **bellbird**.
 
 > **jimbrandon09:** i assume the word "bellbird" is familiar?
 >
-> **t!nman:** yes, zhen
+> **t!nman:** yes, zhen li
 >
 > **t!nman:** danika's daddy
 >
 > **t!nman:** bellbird was his american op name
 
+![Episode 18 — a Gaim window in which t!nman confirms "yes, zhen li" as danika's daddy](stills/s02/e18-zhenli.jpg)
+
+*Episode 18, ~4:49. Her father's full name, spoken once, in a window she's not even
+in — Danika's own surname all season has been sitting in plain sight.*
+
 Approached in the 1970s, just promoted to the diplomatic corps; the company liked him
-because they thought he had *the potential to rise up through the ranks in the chinese
-govt*. Hesitant at first, and then persuaded once he understood the scope of it. About
-a dozen were approached, *all of them young and from good [families]*, *but each of
-them had a reason to work for the [Americans]* — in Zhen's case an uncle the Party
-killed. Six were successfully recruited. Four are still alive.
+because *he had family* and because they thought he had *the potential to rise up
+through the ranks in the chinese govt*. Hesitant at first, and then persuaded once he
+understood the scope of it. About a dozen were approached, *all of them young and from
+good families*, *but each of them had a reason to work for the americans* — in Zhen's
+case an uncle the Party killed. Six were successfully recruited. Four are still alive.
 
 > **jimbrandon09:** it was a longterm program
 >
-> **jimbrandon09:** which is itself a radical departure for [the agency]
+> **jimbrandon09:** which is itself a radical departure for the us govt.
 >
-> **jimbrandon09:** they finally learned to think like their enemy
+> **jimbrandon09:** they finally learned to think like their enemy i guess
 >
-> **jimbrandon09:** the chinese govt don't think in terms [of years]
+> **jimbrandon09:** the chinese govt don't think in terms of years
 >
 > **jimbrandon09:** they think in terms of generations
 
 And the conclusion, offered as suspicion rather than fact:
 
-> **jimbrandon09:** i'm telling you that zheng's operation [never ended]
+> **jimbrandon09:** i'm telling you that zheng's operation isn't over
 >
 > **jimbrandon09:** it's still going on
 >
@@ -1562,7 +1663,7 @@ And the conclusion, offered as suspicion rather than fact:
 > over the past fifteen years
 >
 > **jimbrandon09:** i think you'd find that the four surviving members of zheng's
-> [cohort] were getting more than their [share]
+> operation were getting more than their fair shares
 
 ## Episode 19 — what your government bought *(POV: Danika)*
 
@@ -1571,8 +1672,9 @@ And the conclusion, offered as suspicion rather than fact:
 > thought the silence would drive me mad.*
 
 She is out. A motel, after a getaway she ran to Murph's instructions — *i switched
-subways several times*, *and followed a fairly labyrinthine path*, *no one was with
-me* — and Murph, who has not been in touch with her since episode 15, finally answers.
+subways several times*, *and followed a fairly labyrinthine path through several
+stores and restaurants*, *no one was with me* — and Murph, who has not been in touch
+with her since episode 15, finally answers.
 
 > **t!nman:** good girl
 >
@@ -1583,7 +1685,7 @@ me* — and Murph, who has not been in touch with her since episode 15, finally 
 He went to ground because someone with *juice* was asking after him and he could not
 be sure the chats weren't being read. The someone turns out to be Ralph:
 
-> **t!nman:** it turns out the guy lookin for me was someone of [interest]
+> **t!nman:** it turns out the guy lookin for me was someone of yer acquaintance
 >
 > **t!nman:** jim brandon
 >
@@ -1597,12 +1699,12 @@ be sure the chats weren't being read. The someone turns out to be Ralph:
 >
 > **t!nman:** he doesn't much like yer boss
 >
-> **t!nman:** nor what stan's been doing to [you]
+> **t!nman:** nor what stan's been doing to ya
 
 Then Murph tells her about her father, and the season's actual subject finally comes
 into view.
 
-> **t!nman:** yer dad and a bunch of others spent years working for [the americans]
+> **t!nman:** yer dad and a bunch of others spent years working for the US
 >
 > **t!nman:** they were basically double agents
 >
@@ -1610,7 +1712,7 @@ into view.
 >
 > **t!nman:** they provided info
 >
-> **t!nman:** and in return they had fantastic careers in the chinese [government]
+> **t!nman:** and in return they had fantastic careers in the chinese govt
 >
 > **houdini6:** how did the US help their careers?
 >
@@ -1626,24 +1728,32 @@ into view.
 >
 > **t!nman:** but the four guys left are in the chinese military
 >
-> **t!nman:** and someoen got the gright idea that it would be good [to strengthen
-> their collective hands]
+> **t!nman:** and someoen got the gright idea that it would be good to strengthen
+> their collective hands
 >
-> **houdini6:** the weapons?
+> **houdini6:** the weapons? THAT's where they were sending the weapons?
+>
+> **t!nman:** yes luv
 >
 > **t!nman:** weapons, cash, connections
 >
 > **t!nman:** the whole works
 
-Which makes the shipment she was blackmailed into arranging not a theft at all.
+Which makes the shipment she was blackmailed into arranging not a theft at all — it's
+a state paying its own moles to arm themselves.
 
 > **t!nman:** i can't say for sure
 >
 > **t!nman:** but it seems to me
 >
-> **t!nman:** that yer government has spent a lot of years and a [lot of money]
+> **t!nman:** that yer government has spent a lot of years and a lot of money
 >
-> **t!nman:** basically planning [this]
+> **t!nman:** basically planning a coup
+
+![Episode 19 — a Gaim window in which t!nman tells houdini6 the US government has spent years and money "basically planning a coup"](stills/s02/e19-coup.jpg)
+
+*Episode 19, ~8:27. The season's actual answer to what the weapons were for, typed by
+the one person in it who never lies to her.*
 
 ## Episode 20 — the frame, returned *(POV: Danika)*
 
@@ -1718,9 +1828,9 @@ The first is his own:
 
 The second name stops him dead:
 
-> **houdini6:** murph had a little chat with greenberg last [night]
+> **houdini6:** murph had a little chat with greenberg last night
 >
-> **houdini6:** apparently they were discussing a man you [know]
+> **houdini6:** apparently they were discussing a man you do know
 >
 > **houdini6:** a man named wei chang
 >
@@ -1774,11 +1884,12 @@ ordered to use on Mike in episode 9.
 >
 > **houdini6:** the wire transfers are all there
 >
-> **houdini6:** if your memory is that badm you can check your chat [logs]
+> **houdini6:** if your memory is that badm you can check your chat logs
 >
-> **houdini6:** you'll see all the records of the conversations
+> **houdini6:** you'll see all the records of the conversations we had
 >
-> **houdini6:** all the things you said you'd do to me after we'd diverted [the money]
+> **houdini6:** all the things you said you'd do to me after we'd diverted enough
+> cash
 >
 > **houdini6:** all those nasty little pictures you sent me
 >
@@ -1802,13 +1913,13 @@ ordered to use on Mike in episode 9.
 > **houdini6:** toss out your computer
 >
 > **houdini6:** when they find the copies of the logs on the server you can tell them
-> how your box mysteriously disappeared at just the right [moment]
+> how your box mysteriously disappeared at just the right time
 
 Then she asks for the only thing she has ever asked for.
 
-> **houdini6:** now that i have you in the proper frame of [mind]
+> **houdini6:** now that i have you in the proper frame of mind
 >
-> **houdini6:** i'd like you to tell me where i can find my [daughter]
+> **houdini6:** i'd like you to tell me where i can find my daughter
 >
 > **tann3r:** she's with a foster care family
 >
@@ -1833,7 +1944,7 @@ under pressure.*
 > **houdini6:** way to go, stan
 
 The last card of the season carries no date and no next episode — only *END OF
-[SEASON]*, and an address to visit for information on upcoming projects.
+PROGRAM*, and an address to visit for information on upcoming projects.
 
 ### The personal thread
 
@@ -1881,6 +1992,7 @@ timestamps on screen rather than in window captions.
 | --- | --- |
 | A bank's wire-transfer confirmation, episode 11 | **Sep 3, 2006** |
 | An Nmap run against the company network, episode 14 | **2006-09-28 10:49 Eastern** |
+| A second Nmap run, minutes later, resolving the client's hostname | **2006-09-28 10:52 Eastern** |
 | The shipment confirmation attached to the episode 16 email | dated **September 27, 2006** |
 | The same confirmation's delivery stamp | received **October 4, 2006**, 3:25pm, in Jishou, Hunan |
 
@@ -1893,15 +2005,19 @@ screen works out where they went.
 There isn't one, and that is itself a difference worth recording. Every season 1
 episode but the tenth ended on a card announcing when the next would appear, which is how that
 season's near-real-time release pattern can be reconstructed. Season 2's end card
-carries only a web address. Episode 20's reads *END OF [SEASON] — FOR INFO ON UPCOMING
-PROJECTS, VISIT: WELCOMETOTHESCENE.com*, and nothing in any of the twenty episodes
-gives a date. The Internet Archive item is dated 2006 and that is all there is.
+carries only a web address. Episode 20's reads *END OF PROGRAM* / *FOR INFO ON
+UPCOMING PROJECTS, VISIT: WELCOMETOTHESCENE.com*, and nothing in any of the twenty
+episodes gives a date. The Internet Archive item is dated 2006 and that is all there
+is.
 
 ### Open questions
 
-Not among them: where the weapons went. Episode 16 puts the delivery address on screen
-— Jishou, in Hunan province — and the series then spends four more episodes letting
-its characters work out what the audience has already been shown.
+Not among them: where the weapons went, or why. Episode 16 puts the delivery address
+on screen — Jishou, in Hunan province — and the series then spends four more episodes
+letting its characters work out what the audience has already been shown. Episode 19
+answers the second half directly, in Murph's own word for it: *basically planning a
+coup*, financed for years with US money paid to its own moles inside the Chinese
+military.
 
 
 **Whose computer is it.** The Start menu in episode 1 — on the machine the episode is
@@ -1926,9 +2042,9 @@ cover goods and take the confirmations. He never appears because there is nobody
 appear.
 
 **Whether t0mb0 is a person at all.** Murph's argument in episode 13 is that the man
-Danika spent twelve episodes negotiating with was *probably not [tombo]*, *just some
-govt spook*. Episode 12 says he is working for ICE. Nothing later confirms which, and
-he never speaks again after episode 12.
+Danika spent twelve episodes negotiating with was *probably not even tombo*, *just
+some govt spook*. Episode 12 says he is working for ICE. Nothing later confirms
+which, and he never speaks again after episode 12.
 
 **Wei Chang.** The name that ends Stan's resistance in episode 20, said to be one of
 the four surviving members of her father's cohort, now in the Chinese military, and to
@@ -1994,8 +2110,8 @@ run the third.
 - **Ralph Lasky** (`jimbrandon09@jabber.org`, cover name **Jim Brandon**) — ex-Navy
   cryptographer, fifteen years in, put into Mike Davis's job. Introduced as a threat
   and revealed as the one person inside the agency willing to break procedure because
-  *every once in a while you see something you can [do something about]*. His wife is
-  the redhead Murph remembers him chasing in Beijing.
+  *every once in a while you see something you can fix*. His wife is the redhead
+  Murph remembers him chasing in Beijing.
 - **Mike Davis** (`MikeyD5550`) — operations manager, divorced, two sons, one of whom
   is called Charlie. Framed for possession of pornography and an invented harassment
   complaint, suspended, and then recruited by the woman who did it. Gets the last laugh
@@ -2035,7 +2151,7 @@ NonCommercial term the series never claimed. Treat it as unverified.
 
 The frames in the episode entries are reproduced because the series is read rather than watched, and a few of its frames carry more than any description of them can. They remain Jun Group's.
 
-**A note on this season's state.** Season 1 has since been checked a second time, full episodes read again directly against the video rather than the original OCR sweep -- see that season's equivalent note for what it found. This season has not yet had that pass; treat it as less scrutinized until it does.
+**A note on this season's state.** Both seasons have now had the same second pass: every episode read again directly against the video, at roughly 17-second intervals, rather than trusted from the original OCR sweep — see season 1's equivalent note for what that pass found there. This season's version turned up more of the same kind of thing, and one real misreading: episode 13's confession to Murph had been conflated with a separate, cooler exchange with tann3r happening in the other window at the same time, and episode 10 had Danika and Murph's lines swapped in the exchange where she lays out the operation's clock. It also recovered several lines the first draft had bracketed as illegible that turn out to be perfectly readable at full size — among them the actual answer to what the weapons were for, in Murph's own word for it in episode 19: *a coup*.
 
 Quoted exchanges follow the client they came from. This season runs on three:
 
