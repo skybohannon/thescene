@@ -2131,7 +2131,7 @@ NonCommercial term the series never claimed. Treat it as unverified.
 
 The frames in the episode entries are reproduced because the series is read rather than watched, and a few of its frames carry more than any description of them can. They remain Jun Group's.
 
-**A note on this season's state.** Season 1 has since been checked a second time, full episodes read again directly against the video rather than the original OCR sweep -- see that season's equivalent note for what it found. This season has not yet had that pass; treat it as less scrutinized until it does.
+**A note on this season's state.** Both seasons have now had the same second pass: every episode read again directly against the video, at roughly 17-second intervals, rather than trusted from the original OCR sweep — see season 1's equivalent note for what that pass found there. This season's version turned up more of the same kind of thing, and one real misreading: episode 13's confession to Murph had been conflated with a separate, cooler exchange with tann3r happening in the other window at the same time, and episode 10 had Danika and Murph's lines swapped in the exchange where she lays out the operation's clock. It also recovered several lines the first draft had bracketed as illegible that turn out to be perfectly readable at full size — among them the actual answer to what the weapons were for, in Murph's own word for it in episode 19: *a coup*.
 
 Quoted exchanges follow the client they came from. This season runs on three:
 
