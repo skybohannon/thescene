@@ -10,9 +10,9 @@ This is written for someone who has watched the series, or doesn't mind knowing:
 
 | # | Title | POV | What happens |
 | --- | --- | --- | --- |
-| 1 | the package came | Drosan | A screener of *Alexander* arrives; the group races to release it. A tuition letter and a waiting buyer establish the motive. |
+| 1 | the package came | Drosan | A screener of *Alexander* arrives; the group races to release it. A tuition letter, and a waiting buyer he finally says yes to. |
 | 2 | the NFO, the missing RARs | Drosan | *The Incredibles* goes out two RAR files short, because he has already sold it. |
-| 3 | beaten to it | Drosan | A rival group releases *The Exorcist* first. Suspicion lands on trooper, who is innocent. |
+| 3 | beaten to it | Drosan | A rival group releases *The Exorcist* first. Suspicion lands on trooper; slipknot traces it to a bootleg on the street in Singapore. |
 | 4 | teflon shows his hand | Drosan | teflon reconstructs the leak from a shipping delay and demands a cut. |
 | 5 | the price of silence | teflon | The elder statesman is an FBI informant with an appointment at nine in the morning. |
 | 6 | trooper comes to the channel | trooper | An email teflon should never have sent — and the name in its From field. |
@@ -49,18 +49,34 @@ Three other windows complicate the victory. Todd — **Tremor2212** — IMs **Br
 
 He is also reading the news about himself. Slashdot carries **"MPAA Sues Movie-Swappers"**, and he follows the link out to an MSNBC story, "Hollywood sues alleged file swappers," timestamped **3:54 p.m. ET, Nov. 16, 2004** — two days before the title card's date, and the environment the whole season takes place in, delivered as an idle browser tab.
 
-**And Lucky Chi is already there.** An ICQ window is open, `LuckyChi2203` on one side and `BrianSan` on the other, at 8:06 PM:
+**And Lucky Chi is already there.** An ICQ window opens at 8:06 PM, `LuckyChi2203` on one side and `BrianSan` on the other, and the offer has plainly been made before tonight:
 
 > **LuckyChi2203:** Brian, are you there?
 >
-> **BrianSan:** yes, hold on a sec
+> **BrianSan:** okay, I'm back
+>
+> **LuckyChi2203:** Have you think about our discussion?
+>
+> **BrianSan:** yes, I've been thinking about it a lot.
+>
+> **LuckyChi2203:** Still undecided I see.
+>
+> **BrianSan:** i'm afraid so … this is a difficult decision for me
+>
+> **LuckyChi2203:** Understandable. … Consider the good it does … Not only for you but for many other. … For many other who need to make living.
+>
+> **BrianSan:** I'll get back to you soon, I promise … i just need a little more time
+>
+> **LuckyChi2203:** Not too much time.
+>
+> **BrianSan:** okay
 
-So the buyer already exists, already knows him as Brian, and is waiting on him in the very first episode — before the narration's line about never having thought of himself as the sort of person who would sell. The episode's closing confession is not a foreshadowing. It is a description of a relationship the audience has already watched him tend.
+So the buyer already exists, already knows him as Brian, and is waiting on him in the very first episode — before the narration's line about never having thought of himself as the sort of person who would sell. What the episode shows is the decision being made. He asks for time at 12:30, writes the tuition letter, and at the end of the episode opens the window again: *are you there?* — *Yes, I am here* — **so how do we make this happen?** The closing confession is not a foreshadowing. It is a caption for what he has just typed.
 
-![Episode 1 — an ICQ message session with LuckyChi2203, who writes "Yes, I am here"](stills/s01/e01-luckychi-icq.jpg)
+![Episode 1 — an ICQ message session: LuckyChi2203, "Yes, I am here"; BrianSan, "so how do we make this happen?"](stills/s01/e01-luckychi-icq.jpg)
 
-*Episode 1, 12:03. The buyer, in the first of the windows that will eventually cost
-Drosan everything. LuckyChi2203 is a fabrication; the man typing is teflon, and the
+*Episode 1, 17:39. The decision, at the end of the first episode: "so how do we make
+this happen?" The first of the windows that will eventually cost Drosan everything. LuckyChi2203 is a fabrication; the man typing is teflon, and the
 money comes from his employer's credit card, behind his handlers' backs.*
 
 **And in a third, the motive is typed out.** He opens Gmail and composes a message to `financedept@nyu.edu`, subject **"next semester payment"**, writing it in front of the viewer sentence by sentence, deleting and restarting:
@@ -75,7 +91,7 @@ money comes from his employer's credit card, behind his handlers' backs.*
 >
 > Brian Sandro
 
-He signs it with his full name, which means the first episode of the series already has it on screen — before the Gmail sign-in field in episode 2 and the email header in episode 6.
+He signs it with his full name, which means the first episode of the series already has it on screen — before he gives the address to his buyer in episode 2 and the email header in episode 6.
 
 ![Episode 1 — a Gmail compose window addressed to financedept@nyu.edu, subject "next semester payment", signed Brian Sandro](stills/s01/e01-tuition-email.jpg)
 
@@ -112,7 +128,17 @@ Underneath, Drosan is behaving strangely. He is normally the one pushing everyon
 >
 > **LuckyChi2203:** understand. i check with associates now
 
-He is not approached. He names the film himself, and he haggles. The standard rate is $300 a title — the figure teflon will call *chump change* in episode 5, which is the first sign, three episodes early, that teflon knows the terms because he wrote them.
+He is not approached. He names the film himself, and he haggles. The standard rate is $300 a title — the figure teflon will call *chump change* in episode 5, which is the first sign, three episodes early, that teflon knows the terms because he wrote them. (Lucky Chi keeps up the cover from the first line: Drosan's *morning* gets *not morning for me! night time now!*)
+
+**Then the deal closes, on screen, between two Melissa messages.** Lucky Chi comes back at 6:16 — *they very please about the incredibles* — and sets the terms: *i am authorize transfer you a start payment of $1,000*, *plus good will payment of $500 for start of nice mutual relationship*, *will deliver second $1,000 upon delivery*, *please provide e-mail account and i send paypal right away*. Drosan types **`brian.sandro@gmail.com`** into the window. He then signs into Gmail as `brian.sandro` — that is what the sign-in page is doing on screen — and comes back with *payment received.. thanks*. Lucky Chi: *i hope this is beginning of long and mutual beneficial relationship.* Drosan: *me too.*
+
+And the delivery:
+
+> **LuckyChi2203:** where do I get files?
+>
+> **BrianSan:** i just set it up on my 100mbit FTP server about an hour ago.. here is the IP: 63.247.91.187 with login enveloped password inflames
+
+It is the login he gave pyr0 for *Alexander* in episode 1, on the address one digit along — and `63.247.91.187` is the machine he has to break into in episode 13 to destroy the log. The file that nearly sinks him records this upload. He also hands the buyer his real name here, in episode 2, which is why Lucky Chi calls him "brian" from then on.
 
 ![Episode 2 — an ICQ session with LuckyChi2203 offering "up to $2,000US"; BrianSan replies "i have that movie on my computer right now"](stills/s01/e02-the-price.jpg)
 
@@ -122,7 +148,7 @@ typing that he needs $2,500.*
 
 The Melissa window is not small talk either. She asks whether he slept and what his first class is, and then: *Don't tell me you're chatting with people.* He tells her his uncle George was calling. It is a flat lie, delivered in the same minute as the buyer's window, and she takes it and moves on — *I'm just being selfish*, she says, and he answers *i like talking to you* — and they settle on eight o'clock, and she says she loves him, and he says *me too*. The episode's thesis about two lives is demonstrated here rather than narrated: one window has the man he is, the next has the man she thinks she's talking to.
 
-His full name is on screen again, incidentally, on a Gmail sign-in page with the username field filled in: **brian.sandro**. The NFO teflon proofreads is named too — `incredibles.xvid.dvdrip-cpx.nfo`, open in Notepad — and between tasks Drosan sits on IMDb's page for the film and on Boing Boing.
+The NFO teflon proofreads is named on screen — `incredibles.xvid.dvdrip-cpx.nfo`, open in Notepad — and between tasks Drosan sits on IMDb's page for the film and on Boing Boing.
 
 Between the two lives, the browser leaves a second date on screen: the Boing Boing masthead reads **Thursday, December 9, 2004** — a week behind the episode's own title card, which dates it Thursday, December 16.
 
@@ -183,13 +209,21 @@ He apologizes twice to the man who is ruining him. Episode 13 reveals there is n
 *Episode 3, 8:25. Two windows on one screen: Lucky Chi's "i no like your tone" behind,
 and in front, Melissa — "my roommates are gone", "and i'm here by myself".*
 
-By the end, slipknot's contact reports that D-Pix didn't get *Exorcist* from one of their usual sources — it came from someone they met randomly on IRC — and the group's suspicion turns inward for the first time.
+By the end slipknot has traced it, and clears trooper doing it. D-Pix didn't get *Exorcist* from one of their usual sources; it came from someone they met randomly on IRC — *i just saw the channel logs and i don't think it is a scener* — *a random guy that bought a silver on the street in Singapore and it turned out to be the actual DVD*. pyr0: *the goddamn product was on bootleg DVD BEFORE it hit the scene?* — *yes, it was out in singapore and probably half of asia.* The last lines of the episode are slipknot's conclusion and nobody's answer:
+
+> **&lt;slipknot&gt;** someone in the scene got the movie and sold it to an asian DVD operation
+>
+> **&lt;pyr0&gt;** OMG! i'll kill the bastard!
+>
+> **&lt;slipknot&gt;** be careful what you say.
+
+Drosan is in the channel for all of it. It is the copy he sold, on the street in Asia, and the group has worked out what happened to it in a single episode — everything but the name.
 
 ## Episode 4 — teflon shows his hand *(POV: Drosan)*
 
 **Narration:** a recurring dream — walking through a crowd, safe because nobody knows who he is, any face potentially cOda or pyr0. He spots cOda, they move toward each other, and he realizes he has no idea what cOda looks like. Then the street turns: everyone is staring, everyone knows who he is, and everyone knows what he's done.
 
-The woman in the room with him is **Dana**, not Melissa — the episode's credits bill Joe Testa "with Laura Minarich," and she is blonde where Melissa is dark. The episode never names her on screen, but Minarich is credited elsewhere as danaburke123, so the on-camera woman here is the same character who spends the back half of the season in his IM window. That puts Dana in the story four episodes before her first IM window. She stands behind his chair with a hand on his shoulder while **LuckyChi2203** messages him — the bootlegger opening by addressing him as "brian," his real name, on screen, in front of a woman he is keeping at arm's length. She asks who he's talking to; he says nobody; she says he's keeping secrets; he agrees that he's a man of many secrets. Later she asks whether he's still coming home with her and he begs off with a physics test.
+The woman in the room with him is **Dana**, not Melissa — the episode's credits bill Joe Testa "with Laura Minarich," and she is blonde where Melissa is dark. The episode never names her on screen, but Minarich is credited elsewhere as danaburke123, so the on-camera woman here is the same character who spends the back half of the season in his IM window. That puts Dana in the story four episodes before her first IM window. She stands behind his chair with a hand on his shoulder while **LuckyChi2203** messages him — the bootlegger opening by addressing him as "brian," his real name, on screen, in front of a woman he is keeping at arm's length. She asks who he's talking to; he says nobody; she says he's keeping secrets; he agrees that he's a man of many secrets. Later she is back on camera, asks whether he's still coming over tonight, and he begs off with a physics test.
 
 **What is actually in that window is the buyer running out of patience.** Lucky Chi has noticed that CPX put out a release he didn't get:
 
@@ -213,7 +247,7 @@ The AIM window running in parallel is Melissa's, and it is entirely tender and e
 
 **Online, teflon lays out a case step by step, and it is the best-written interrogation in the series.** He opens light — a possible line on *Phantom of the Opera*, a remark that cOda has been strange — builds the case against cOda as courier, then dismantles his own argument and turns:
 
-> **&lt;teflon&gt;** i am 100% certain it was someone in our group … come on, dro. i'm not stupid. did you think i wasn't gonna find out? … think about it, there are only so many places on irc … he was the source for Exorcist, right? well, as it turns out, he was as shocked as anybody that that happened. in fact, he was pissed … see, he said he fed ex'd it to you for days, but you didn't tell us about it until later. did you? … oh, don't worry, it's easily explained. fed ex is great, but they're not perfect? right? … still there? … cat got your tongue? … only you and i both know that's not what really happened … don't we
+> **&lt;teflon&gt;** i am 100% certain it was someone in our group … come on, dro. i'm not stupid. did you think i wasn't gonna find trooper? … think about it, there are only so many places on irc … he was the source for Exorcist, right? well, as it turns out, he was as shocked as anybody that that movie was out in asia. in fact, he was pissed … see, he said he fed ex'd it to you for days, but you didn't tell us about it until later. did you? … oh, don't worry, it's easily explained. fed ex is great, but they're not perfect? right? … still there? … cat got your tongue? … only you and i both know that's not what really happened … don't we
 >
 > **&lt;Drosan&gt;** what do you want?
 >
@@ -276,9 +310,9 @@ He is also, on screen, reading the directions to the meeting. His browser title 
 
 Read that against the email in the next episode and it stops being a mystery at all. teflon's mail says "some guys in my group have become a little uncomfortable with the amount of stuff you've been downloading" — which is slipknot's sentence, nearly verbatim, plus slipknot's complaint. He is not planting anything; he is reporting a meeting. cOda's deduction in episode 6 that the mail must be deliberate is a brilliant piece of reasoning about a man who has simply been careless once.
 
-Note too that the group says "the Asians" out loud here, in episode 5, and it is **Drosan** who says it. The theory that someone sold *The Exorcist* to Asian buyers has been in the room since February, volunteered by the man who did it, as a thing nobody can prove.
+Note too who says "the Asians" here: **Drosan**. The theory has been in the room since the end of episode 3, when slipknot traced the early release to a bootleg sold on the street in Singapore — and by now the man who did it is repeating it back to the group as a thing nobody can prove.
 
-**Privately, teflon runs him.** A new package is inbound, *Are We There Yet?*; in the channel he tells Drosan to make it flawless, and in the query he tells him to sell the rip. Drosan explains the stroke and the money; teflon is contemptuous — *you are a fucking liar, your word is worth shit* — and names both earlier sales: it was fine for *The Incredibles* and for *The Exorcist*, so why is it a bad idea now? The terms are cold: $300, which teflon calls chump change, with no direct contact between teflon and the buyer, so Drosan carries the money and teflon's hands stay clean.
+**Privately, teflon runs him.** A new package is inbound, *Are We There Yet?*; in the channel he tells Drosan to make it flawless, and in the query he tells him to sell the rip. Drosan explains the stroke and the money; teflon is contemptuous — *you are a fucking liar, your word is worth shit* — and names both earlier sales: it was fine for *The Incredibles* and for *The Exorcist*, so why is it a bad idea now? The terms are cold: $300, which teflon calls chump change, with no direct contact between teflon and the buyer, so Drosan carries the money and teflon's hands stay clean. And the webcam shows who the arrangement is for: by the time the price is typed, the visitor is standing behind teflon's chair, reading the query over his shoulder as Drosan offers to have the buyer pay teflon directly and teflon says *i don't want to have any direct contact with them*.
 
 Drosan asks him the question the audience wants asked — *why are you doing this? it can't be the money?* — and gets *just shut up and get the fucking VOBs.* The episode's answer is the one the viewer has been watching all along: a man with a handler appointment at nine the next morning, who has just written to his boss to say — *again* — that he'll be late.
 
@@ -545,7 +579,7 @@ The channel is **#DUST**, keyed (`mode +k forgotkey`) and running without timest
 
 **Underneath it, the episode is a heist run at gunpoint.** teflon is back in the private window, and he opens at full volume: *its worse than i thought* … *THERE IS NO TIME FOR THIS* … *you stupid bastard* … *if it wasnt me you'd be in jail* … *now shut up and listen.* He was escorted out of work that day: his employer found out he'd been arrested, and his boss is now going through all the servers. There is a file on one of them that will sink them both. He is messaging from someone else's BlackBerry and has seconds.
 
-The file is an FTP log. If the feds read it, they will have Drosan's IP — because the group's drop box lived on a server at teflon's workplace. The address teflon gives, `63.247.91.187`, sits one number away from `63.247.91.186`, the machine Drosan handed to pyr0 for the *Alexander* files back in episode 1. Everything the group ever moved went through the employer of the man the Bureau had already turned.
+The file is an FTP log. If the feds read it, they will have Drosan's IP — because the group's drop box lived on a server at teflon's workplace. The address teflon gives, `63.247.91.187`, sits one number away from `63.247.91.186`, the machine Drosan handed to pyr0 for the *Alexander* files back in episode 1 — and it is the address Drosan himself gave Lucky Chi in episode 2, *my 100mbit FTP server*, to collect *The Incredibles*. The log records the sale. Everything the group ever moved went through the employer of the man the Bureau had already turned.
 
 teflon hands over credentials — `ip: 63.247.91.187`, `user: btr69*73`, `pass: 5%23y08P`, the log at `\windows\system\logfiles`, the box running WarFTPD on XP. **They don't work.** The console answers `331 User name okay, Need password` and then `421 Password not accepted. Closing control connection.` *no, your login didn't work.* That failure is what turns the episode from an errand into a break-in.
 
@@ -993,7 +1027,7 @@ The rule, such as it is, is simpler than "one window each": the number of window
 
 ### Character notes
 
-- **Drosan** — **Brian Sandro** (he signs the episode 1 email with it, types it into a Gmail sign-in field in episode 2, and it appears as `brian.sandro@gmail.com` in an email To field in episode 6; the character is billed as "Drosan (Brian Sandro)" in the series' own credits); an NYU student writing to the finance department about tuition in episode 1, in the same statistics class as Todd; co-founded CPX with teflon about four years ago; girlfriend Melissa; father hospitalized after a stroke, which is the pressure behind the selling. Handles: **BrianSan** on ICQ, which is where the buyer reaches him; **BrianSan333** on AIM, for Melissa, Todd and — from episode 9 — Dana; and **dro_5544**, on AIM in episode 8 and on Yahoo! Messenger for the back channel with teflon and for Chris in episode 13.
+- **Drosan** — **Brian Sandro** (he signs the episode 1 email with it, gives it to Lucky Chi as his PayPal address in episode 2, and it appears as `brian.sandro@gmail.com` in an email To field in episode 6; the character is billed as "Drosan (Brian Sandro)" in the series' own credits); an NYU student writing to the finance department about tuition in episode 1, in the same statistics class as Todd; co-founded CPX with teflon about four years ago; girlfriend Melissa; father hospitalized after a stroke, which is the pressure behind the selling. Handles: **BrianSan** on ICQ, which is where the buyer reaches him; **BrianSan333** on AIM, for Melissa, Todd and — from episode 9 — Dana; and **dro_5544**, on AIM in episode 8 and on Yahoo! Messenger for the back channel with teflon and for Chris in episode 13.
 - **teflon** — **Edward G. Koenig**, 37, of Richmond, Virginia, divorced with one child (Jimmy; the woman on the episode 5 phone call is heard as Cara or Karen, and may not be the ex-wife), alimony and a house payment; `monticello222@yahoo.com` for mail and `monticello235` on AIM; on BBSs since the mid-80s; a day job at Mtrail Industries he is visibly failing at, where the group's drop box also lives. Arrested in 2004 and run as an informant for the entire series — eight arrests by his own count — and he ends it with a job at the Department of Justice. Later handles: **copleyr785**, **collangello998**, **spinnaker**, **monticello505** — the account the Bureau's man messages in episode 19, where he is addressed as *ed*, coached for the witness stand, and asked how to handle slipknot — and, invented wholesale, **LuckyChi2203**.
 - **trooper** — **Jodi**, a woman working at a DVD manufacturing plant in LA, sourcing from bins of misprinted discs; joined the scene via that job about a year before the series; `troopercamy0@yahoo.com`, `troopercamy` on AIM. For most of the season only she knows her own gender — the group refers to her as "he," and in episode 7 Drosan thanks her for her help with "thanks man." Drosan uses her first name once, in episode 18. She ends the season interviewing for an assistant's job at a studio, arranged by her sister.
 - **pyr0** — **David**. The name is spoken, never typed: his mother calls him by it from the stairs all through episode 14, from 2:09 to 18:29, and her boyfriend hammers on his door with it at 9:36 — *alright, David, open up* — over a missing box of Cuban cigars, ten minutes before cutting the power at the breaker. It is written nowhere on screen in twenty episodes, and the first pass of transcripts lost the scene outright, so a reconstruction from screen text and machine transcripts alone never sees it. The cast list agrees: *Nick White as pyr0 (David)*. It also explains an oddity in the sequel, where the machine episode 1 is shot on is logged in as `David` and episode 4's FTP client reads `C:\Documents and Settings\David\Desktop` — the season 1 encoder's account, still on the production's computer two years later. Encoder, two years in; the Bureau pegs him at 16–17, American, Midwest; lives with his mother and her boyfriend, who cuts his power mid-release.
@@ -1043,7 +1077,7 @@ episode 13's FTP credentials appear to run for twenty minutes.
 | 1 | the Slashdot / MSNBC story about the release | 15:12–15:45 |
 | 2 | the Boing Boing masthead | 5:51–6:06 |
 | 2 | Lucky Chi's terms: $300 a title, up to $2,000 for *The Incredibles* | 4:10–5:30 |
-| 2 | the Gmail sign-in, `brian.sandro` in the field | 12:03 |
+| 2 | the deal: $1,000 + $500 + $1,000, PayPal to `brian.sandro@gmail.com`, then the `.187` FTP login | 11:04–13:50 |
 | 3 | the vcdquality link | 1:33–2:03 |
 | 5 | teflon's apology to Joan, his boss | 1:24–1:51 |
 | 5 | driving directions | 9:09–9:30 |
