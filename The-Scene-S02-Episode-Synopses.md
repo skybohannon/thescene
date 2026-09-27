@@ -165,7 +165,7 @@ afternoon" — and then "you do not know ?" The OTR indicator reads Private.*
 Then, line by line, t0mb0 lays out everything he knows, in the gentlest possible
 phrasing:
 
-> **t0mb0:** i [imagine] this is the worst thing for you
+> **t0mb0:** i imagine this is the worst thing for you
 >
 > **t0mb0:** to be separated from your baby for so long
 >
@@ -175,7 +175,7 @@ phrasing:
 >
 > **t0mb0:** not knowing who is raising her
 >
-> **t0mb0:** this is not a good situation you have made for [yourself]
+> **t0mb0:** this is not a good situation you have made for yourself, lukai
 
 houdini6 answers with the only thing she has: *i did it for katerina*, *and i did it
 for my mother*, *you know i had to leave the country*. t0mb0 agrees with her — that
@@ -191,7 +191,7 @@ contacts, etc.*, *it is a good plan*, *things are no different now*.
 >
 > **t0mb0:** one of the better ones, actually
 >
-> **t0mb0:** our mutual friend has seen to it that she is [well cared for]
+> **t0mb0:** our mutual friend has seen to it that she is well cared for
 >
 > **t0mb0:** you see, lukai
 >
@@ -212,7 +212,7 @@ plain words:
 >
 > **t0mb0:** if you don't come through for us
 >
-> **t0mb0:** you will never see katerina
+> **t0mb0:** you will never see katerina again
 
 ## Episode 3 — the job *(POV: lukai)*
 
@@ -226,15 +226,15 @@ handler.
 
 > **t0mb0:** location ?
 >
-> **houdini6:** newark
+> **houdini6:** newark, nj
 >
-> **t0mb0:** this is far from new york
+> **t0mb0:** this is far from new york ?
+>
+> **houdini6:** 1:15 mins
 >
 > **t0mb0:** not acceptable
 >
 > **t0mb0:** perhaps you should move closer
->
-> **houdini6:** 1:15 mins
 >
 > **houdini6:** unnecessary
 
@@ -292,10 +292,18 @@ episode never says whether that is one man, one alias, or carelessness.
 The specifications move by FTP, and the client is open beside the chat: connected to
 **82.165.238.165** on port 21, retrieving a directory listing for
 **`/home/a/yatb-rev159/`**. t0mb0 asks whether the server is secure; houdini6 answers
-*of course it is, it's clean*. The file lands, receipt is confirmed, and t0mb0 says
-*everything is in order*.
+*of course it is, it's clean*. He uploads, she confirms receipt, and asks *everything
+is in order ?* — *yes*.
 
-The local pane of that same window reads `C:\Documents and Settings\David\Desktop`.
+What lands is a genuine parts manual: a PDF, open on screen right after, headed
+**S-70A International Black Hawk Helicopter** and a section titled *Overhaul Periods
+and Retirement Times*, with a cockpit instrument-panel diagram on the facing page.
+"The goods" are not an abstraction the chat gestures at; the document itself is on
+screen.
+
+The local pane of that same window reads `C:\Documents and Settings\David\Desktop`,
+and the desktop behind it collects the episode's evidence in one place: `657.jpg`,
+`705.jpg`, `705_2.jpg`, and the Black Hawk PDF.
 
 ## Episode 5 — the other window *(POV: Danika)*
 
@@ -317,7 +325,8 @@ chat window. A new contact greets houdini6 by a name nobody has used yet:
 >
 > **houdini6:** operation is on schedule
 >
-> **tann3r:** pls confirm that you have made contact with michael
+> **tann3r:** pls confirm that you have made contact with michael davis, operations
+> mgr
 >
 > **houdini6:** confirmed
 >
@@ -352,16 +361,20 @@ history to plan it. The personal cost surfaces in the same window:
 >
 > **tann3r:** i know it
 >
-> **tann3r:** we're checking all of the orphanages in that part of [the country]
+> **tann3r:** we're checking all of the orphanages in that part of estonia
 >
 > **tann3r:** we'll find her
 >
 > **houdini6:** that assumes she actually is in an orphanage
 
+This is the season's only mention of what country Katerina and her mother left —
+**Estonia**.
+
 While that runs, t0mb0 is in the other window — *lukai?*, *why haven't i heard from
 you?*, *what is the status?* — and houdini6 answers both men at once, telling t0mb0
 *nothing to report* and *i am still setting up here* while tann3r asks whether t0mb0
-is lying. *i have no way to verify one way or another.* Then: *just keep him close*,
+is lying. *i have no way to verify on way or another* — the typo is on screen. Then:
+*just keep him close*,
 *and we'll have this operation wrapped up in no time*, *do you think tombo suspects
 anything?*
 
@@ -377,16 +390,16 @@ easy part*. The hard part is inventory and shipping:
 >
 > **houdini6:** but iw as unsuccessful
 >
-> **houdini6:** the security measures are good and i am [not]
+> **houdini6:** the security measures are good and i am too visible here
 >
 > **t0mb0:** try again tonight
 >
 > **houdini6:** no, the network admin is already suspicious
 >
-> **houdini6:** i need to find someone in inventory who [has access to the database]
+> **houdini6:** i need to find someone in inventory who has access to the db
 >
-> **houdini6:** once i am into the database, i can ship goods [wherever i want and
-> then alter the records]
+> **houdini6:** once i am into the database, i can ship goods wherever i want and
+> then alter the records
 
 t0mb0 calls it a logical plan and asks how she will get that person. The reply is the
 last line of the episode, and the first time houdini6 uses her handler's name:
