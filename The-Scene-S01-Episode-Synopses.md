@@ -47,7 +47,7 @@ The handoff to pyr0 is given in full: `here's the IP.. 63.247.91.186`, `user: en
 
 Three other windows complicate the victory. Todd — **Tremor2212** — IMs **BrianSan333** and asks whether he and Melissa are coming out for drinks, tells him to blow off whatever he's doing, and jokes that he'll go and hit on Melissa in his place, since *she always had a thing for me anywayz*, and then that he's off to put on his leopard-skin thong. Drosan plays along — *go for it stud* — says he can't, he has to catch up on classwork, agrees to the weekend instead, and Todd signs off saying he'll tell him about it in Stats tomorrow; they are in the same statistics class. A phone call from Melissa gets the same treatment — he has to finish something.
 
-He is also reading the news about himself. Slashdot carries **"MPAA Sues Movie-Swappers"**, and he follows the link out to an MSNBC story, "Hollywood sues alleged file swappers," timestamped **3:54 p.m. ET, Nov. 16, 2004** — the earliest date the series fixes, and the environment the whole season takes place in, delivered as an idle browser tab.
+He is also reading the news about himself. Slashdot carries **"MPAA Sues Movie-Swappers"**, and he follows the link out to an MSNBC story, "Hollywood sues alleged file swappers," timestamped **3:54 p.m. ET, Nov. 16, 2004** — two days before the title card's date, and the environment the whole season takes place in, delivered as an idle browser tab.
 
 **And Lucky Chi is already there.** An ICQ window is open, `LuckyChi2203` on one side and `BrianSan` on the other, at 8:06 PM:
 
@@ -96,7 +96,23 @@ The release in hand is *The Incredibles*, an eight-gigabyte file that pyr0 and t
 
 Underneath, Drosan is behaving strangely. He is normally the one pushing everyone to move faster; today he is stalling. He's short with cOda, and when teflon asks privately what's wrong he says only that it's "dad stuff." A phone call with his mother fills that in: his father is in the hospital, there's an argument about getting him a private room, and a question about who understands the health plan — his uncle George, a chiropractor, does, and knows the doctors there, though Drosan says he'll call them himself after class. He has the number already; she gave it to him days ago. The call ends on two lines that cost him nothing and are the whole character: *tell Dad I was thinking about him*, and, when she asks, *yes, Melissa's fine*.
 
-**The screen supplies the real reason he is stalling.** A `LuckyChi2203` window is open through the whole sequence, messages alternating at 6:10 and 6:11 in the morning, directly alongside cOda's *helllooooo?* and *dude, c'mon, we gotta get this thing out* and *c'mon dro, what's up already?*. The group reads it as a man who won't answer. He is answering — just not them.
+**The screen supplies the real reason he is stalling.** A `LuckyChi2203` window is open through the whole sequence, at 6:11 and 6:12 in the morning, directly alongside cOda's *helllooooo?* and *dude, c'mon, we gotta get this thing out* and *c'mon dro, what's up already?*. The group reads it as a man who won't answer. He is answering — just not them. And what he is doing in that window is setting a price:
+
+> **LuckyChi2203:** i speak to associates. they are happy to offer arrangement … terms are following … new unreleased movie = $300US … half pay upfront … half on finish delivery
+>
+> **BrianSan:** what about a special movie? … what about a movie like… The Incredibles?
+>
+> **LuckyChi2203:** yes … much more valuable! … for this we pay up to $2,000US
+>
+> **BrianSan:** i have that movie on my computer right now … i can begin transferring immediately.. but I need 2500US
+>
+> **LuckyChi2203:** must check with associates
+>
+> **BrianSan:** i have to do this quickly or it will be too late
+>
+> **LuckyChi2203:** understand. i check with associates now
+
+He is not approached. He names the film himself, and he haggles. The standard rate is $300 a title — the figure teflon will call *chump change* in episode 5, which is the first sign, three episodes early, that teflon knows the terms because he wrote them.
 
 ![Episode 2 — an ICQ session with LuckyChi2203 offering "up to $2,000US"; BrianSan replies "i have that movie on my computer right now"](stills/s01/e02-the-price.jpg)
 
@@ -108,7 +124,7 @@ The Melissa window is not small talk either. She asks whether he slept and what 
 
 His full name is on screen again, incidentally, on a Gmail sign-in page with the username field filled in: **brian.sandro**. The NFO teflon proofreads is named too — `incredibles.xvid.dvdrip-cpx.nfo`, open in Notepad — and between tasks Drosan sits on IMDb's page for the film and on Boing Boing.
 
-Between the two lives, the episode leaves a timestamp on screen: the Boing Boing masthead reads **Thursday, December 9, 2004**.
+Between the two lives, the browser leaves a second date on screen: the Boing Boing masthead reads **Thursday, December 9, 2004** — a week behind the episode's own title card, which dates it Thursday, December 16.
 
 Then cOda begins assembling and comes up two RAR files short. He checks three times. The release is incomplete, and the group turns to Drosan at exactly the moment he goes quiet.
 
@@ -791,22 +807,57 @@ The colleague also coaches him line by line, which is the detail that makes the 
 
 Drosan clearly suspects something, but he's too careful to say so to gryffin — much as they'd like him to — and he is never going to let "cOda" back into his group, however good the pitch. The reason gryffin wants him is diagnosed coolly: it's a power thing. He's jealous of Drosan, and as long as Drosan has trooper as a source, Drosan holds the leverage; gryffin wants his own operation with his own people in it. Elsewhere in the conversation, a colleague named **Danny** has earned a free trip to Berlin — *he worked wonders* — and one asks whether the other ever got "the name" for the new site: they're going to call it *method*.
 
-They also let slip how little of this is guesswork and how much is already procedure. *is there any way drosan could know that we're monitoring [him]?* one asks. And when slipknot pings the cOda account, the agent's reaction is a manager's: *slipknot is pinging me … give me some insight on how to handle [him] … when was the last time you talked to [him]? … i don't have time to read every one of [these] … just answer the question.* The men the group has spent the season fearing find the group mostly tedious. *he is a raging moron*, one says of gryffin; *that's why we love him*, says the other; and a moment later, *whoops, moron #1 is pinging me.*
+The men the group has spent the season fearing find the group mostly tedious. *he is a raging moron*, `brenner2604` says of gryffin; *that's why we love him*, says `alanmeans06`; and a moment later, *whoops, moron #1 is pinging me.* That is the last of alanmeans06. At fourteen minutes a different window takes over.
 
-**And then the conversation turns to the trial, which nobody in the group knows is coming.** One agent chases the other about counsel — *did hutchinson get a hold of you yet?* … *get a hold of rebecca down at my office and tell her to get a hold of him* … *i want you fully briefed before the trial* … *just make sure you get an hour with him* — and gives the reason:
+**The second window is teflon.** It opens under the handle `monticello505` — the stem teflon has used since episode 5, `monticello235` on AIM and `monticello222@yahoo.com`, the habit the series has already shown hanging him — with *brenner*, *yeah*, *i did what you asked*. Near the end the agent addresses it by name, and it answers:
 
-> **brenner2604:** these kids have rich parents … so they'll have good representation … i don't want them getting off on some [technicality]
+> **brenner2604:** ed
+>
+> **monticello505:** yes
 
-That is the whole distance between the two sides of this series in three lines. The group is arguing about topsites and nicknames and who leaked *The Exorcist*. The people on the other end are booking time with a prosecutor and worrying about defense lawyers, because the kids they are building a case against have parents who can afford them.
+So the man coaching the agent through the last ten minutes of the episode is Ed Koenig, and what the agent wants from him is testimony.
 
-So the episode is a trap being machined to fit Drosan, built by people who have lost their bait, assisted by a man who is himself wired and doesn't know it.
+**The trial, which nobody in the group knows is coming, is his.** The agent chases him about the prosecutor:
+
+> **brenner2604:** did hutchenson get a hold of you yet?
+>
+> **monticello505:** no, haven't heard from him
+>
+> **brenner2604:** shit … get a hold of rebecca down at my office and tell her to get a hold of him … since hutch is insisting on putting you on the stand … i want you fully briefed before the trial starts
+>
+> **monticello505:** okay … i have a pretty good sense of what you want me to say
+>
+> **brenner2604:** just make sure you get an hour with him before you go on that stand … these kids have rich parents … so they'll have good representation … i don't want them getting off on some technicality
+
+The founder of CPX is the government's witness against the people he founded it with, and he already knows what he is expected to say. The group is arguing about topsites and nicknames and who leaked *The Exorcist*. The people on the other end are booking a prosecutor's hour with their informant and worrying about defense lawyers, because the kids they are building a case against have parents who can afford them.
+
+**Then slipknot pings the cOda account, and teflon handles him.** *slipknot is pinging me*, the agent types — *give me some insight on how to handle* — and teflon, who co-founded the group with slipknot and Drosan, answers: *end the convo as soon as possible*, *say as little as you can*.
+
+The agent does neither, and slipknot takes him apart. The conversation opens pleasantly — *things are less fun without dust, aye?* — and then turns into an interrogation that the agent does not notice until it is over:
+
+> **&lt;slipknot&gt;** interesting that you have logged into TSR a bunch of times … i wonder what it is you could be doing there? … i recommended to the siteops that they remove you … what did you give them? a server? a hard drive? … quickly … what was our first courier's name? … what's the german word for asshole?
+>
+> **&lt;coda&gt;** why are you asking me this?
+>
+> **&lt;slipknot&gt;** let me ask you something else … how long have you worked for the fbi?
+>
+> **&lt;coda&gt;** it's the DOJ actually … FBI guys are amateurs
+
+The agent, asked a question the real cOda would have laughed off, corrects the name of his employer. From there the two of them talk like professionals — *your superiors must be happy*, *they're never happy ;)*, *i don't have an attorney present ;)* — until slipknot asks what will happen to cOda, is told *he's going to prison, for a long time*, and closes it:
+
+> **&lt;slipknot&gt;** i know cod is not in jail … because i have been in contact with him … i am disappointed because i wanted to think of my opponent as intelligent and honourable … it is clear to me that you are neither
+
+— and leaves; the window prints *No such nick*. slipknot has been right about everything since episode 11, and here, at last, somebody he is right about has to read it.
+
+In the other window, the agent asks teflon when he last talked to Drosan — *it was all in yesterday's report* — *just answer the question* — *day before yesterday* … *i keep pushing him to stay involved with the new ripping group as you directed*. Then: *is there any way drosan could know that we're monitoring your conversations with him?* — *absolutely not* — *he has no idea what's happening*. Episode 18's back channel, in which teflon told Drosan what to say to gryffin, was being read by the Bureau at teflon's invitation.
+
+So the episode is a trap being machined to fit Drosan, built by people who have lost their bait, assisted by a man who is himself wired and doesn't know it, and steered by the man who started the group.
 
 ![Episode 19 — an AIM window from monticello505 to brenner2604: "is there any way drosan could know that we're monitoring your conversations with him?" / "absolutely not", above slipknot's mIRC query ending "No such nick"](stills/s01/e19-absolutely-not.jpg)
 
-*Episode 19, 24:49. The agent at cOda's keyboard asks the account he is messaging,
-`monticello505`, whether Drosan could know "we're monitoring your conversations with
-him?" — "absolutely not". Below, slipknot finishes with "cOda": "it is clear to me that
-you are neither", and leaves.*
+*Episode 19, 24:49. The agent asks teflon, under `monticello505`, whether Drosan
+could know "we're monitoring your conversations with him?" — "absolutely not". Below,
+slipknot finishes with "cOda": "it is clear to me that you are neither", and leaves.*
 
 ## Episode 20 — epilogue *(POV: Drosan)*
 
@@ -864,23 +915,34 @@ And the wall is not as solid as he thinks. Melissa sits at his machine in episod
 
 ### The season's timeline
 
-The series never announces a date, but the software does. Instant-message windows print a "Last message received on …" footer, Yahoo Mail prints full headers, and a browser masthead prints the day — and read together they put the season on a calendar about fifteen months long:
+Every episode dates itself. After the credits, a title card gives the episode number, the day, the date and the time on the clock when the webcam starts rolling — *EPISODE.ONE: THURSDAY.NOVEMBER.18.2004, 7:56PM* — and the rest of the episode runs from there. Read together, the cards put the season on a calendar eighteen months long:
 
-| Episode | On-screen date | Source |
-| --- | --- | --- |
-| 1 | November 16, 2004 | An MSNBC story open in his browser |
-| 2 | Thursday, December 9, 2004 | Boing Boing masthead in Firefox |
-| 5 | February 19, 2005 | IM window footer |
-| 6 | March 16, 2005 (email dated Sunday, March 13) | Yahoo Mail header; IM footer |
-| 7 | April 8, 2005 (an earlier one, April 5) | IM window footers |
-| 8 | May 2, 2005 | IM window footer |
-| 13 | September 24, 2005 | IM window footer |
-| 14 | October 2, 2005 | IM window footer |
-| 16 | December 22–27, 2005 | FTP log entries |
-| 17 | Monday, January 30, 2006 | Captioned on screen for the whole episode |
-| 18 | February 13, 2006 | IM window footer |
+| Episode | Title card |
+| --- | --- |
+| 1 | Thursday, November 18, 2004, 7:56 PM |
+| 2 | Thursday, December 16, 2004, 6:08 AM |
+| 3 | Tuesday, January 4, 2005, 10:03 PM |
+| 4 | Friday, February 4, 2005, 6:43 AM (the card spells it *FEBUARY*) |
+| 5 | Thursday, February 24, 2005, 7:07 PM |
+| 6 | Wednesday, March 16, 2005, 4:03 PM |
+| 7 | Friday, April 8, 2005, 10:06 PM |
+| 8 | Thursday, May 5, 2005, 7:10 PM |
+| 9 | Friday, June 3, 2005, 3:03 PM |
+| 10 | Wednesday, July 6, 2005, 4:03 PM |
+| 11 | Friday, July 29, 2005, 9:45 PM |
+| 12 | Tuesday, August 30, 2005, 9:45 PM |
+| 13 | Monday, September 26, 2005, 5:45 PM |
+| 14 | Friday, October 28, 2005, 7:08 AM |
+| 15 | Wednesday, November 30, 2005, 2:08 PM |
+| 16 | Friday, December 30, 2005, 2:29 AM (the time is faint) |
+| 17 | Monday, January 30, 2006, 3:35 PM — and captioned for the whole episode |
+| 18 | Friday, February 24, 2006, 4:15 PM |
+| 19 | Thursday, March 30, 2006, 2:03 AM |
+| 20 | Wednesday, May 3, 2006, 2:03 PM |
 
-A few things fall out of that. The collapse is slow — episodes 1 to 8, the whole arc from the *Alexander* screener to the night of the sting, take about six months, and there is a further gap of nearly five months between episode 8 and episode 13, spanned on screen by only four episodes. The Christmas dates under episode 16 are doing quiet work: cOda goes dark over the holidays, and the FTP logs slipknot obtains run from December 22nd to the 27th.
+The software agrees with the cards where it can, and the places it seems not to are the software looking backward. An instant-message footer reads "Last message received on …", which dates the last line that arrived, not the evening: so episode 5's footer says February 19 and its card February 24, episode 8's May 2 against May 5, episode 18's February 13 against February 24. The same goes for pages left open — the MSNBC story in episode 1 is timestamped two days before the card, and the Boing Boing masthead in episode 2 reads December 9, a week before it. The FTP logs in episode 16 run from December 22 to 27; the episode is set on the 30th, three days after the last of them, when cOda has been missing for about a week.
+
+A few things fall out of that. The episodes arrive roughly a month apart in story time, as regularly as they arrived for their audience. The collapse is slow — episodes 1 to 8, the whole arc from the *Alexander* screener to the night of the sting, take nearly six months. The Christmas dates under episode 16 are doing quiet work: cOda goes dark over the holidays. And the hours say something too: episodes 2 and 4 open before seven in the morning, and 16 and 19 after two at night — a season lived at the hours people keep when they are hiding something.
 
 ### The release schedule
 
@@ -909,7 +971,7 @@ Every episode but the tenth ends on a card announcing the next one, so the serie
 | 19 | early April 2006 | episode 18 |
 | 20 | early May 2006 | episode 19 |
 
-**Set that against the in-fiction dates above and something unusual emerges: the series ran in near-real time.** Episode 5 is dated February 19, 2005 on screen and was published in late February 2005. Episode 13 is dated September 24, 2005 and went out in early October. Episode 16's logs run to December 27, 2005 and it was published in early January. Episode 17's briefing is captioned January 30, 2006 and it was announced for early February. Month after month, each episode is set a week or two before the day it reached its audience — so a viewer following along in 2005 was watching events that had, in the story's terms, just happened.
+**Set that against the in-fiction dates above and something unusual emerges: the series ran in near-real time.** Episode 5's title card says February 24, 2005 and it was published in late February 2005. Episode 13's says September 26, 2005 and it went out in early October. Episode 16's says December 30, 2005 and it was published in early January. Episode 17's briefing is captioned January 30, 2006 and it was announced for early February. Month after month, each episode is set a week or two before the day it reached its audience — so a viewer following along in 2005 was watching events that had, in the story's terms, just happened.
 
 Every episode also closes on the same disclaimer: *The Scene is a work of fiction, so none of the people or events you've just watched are real. No real internet users were harmed during the production of The Scene.*
 
@@ -932,7 +994,7 @@ The rule, such as it is, is simpler than "one window each": the number of window
 ### Character notes
 
 - **Drosan** — **Brian Sandro** (he signs the episode 1 email with it, types it into a Gmail sign-in field in episode 2, and it appears as `brian.sandro@gmail.com` in an email To field in episode 6; the character is billed as "Drosan (Brian Sandro)" in the series' own credits); an NYU student writing to the finance department about tuition in episode 1, in the same statistics class as Todd; co-founded CPX with teflon about four years ago; girlfriend Melissa; father hospitalized after a stroke, which is the pressure behind the selling. Handles: **BrianSan** on ICQ, which is where the buyer reaches him; **BrianSan333** on AIM, for Melissa, Todd and — from episode 9 — Dana; and **dro_5544**, on AIM in episode 8 and on Yahoo! Messenger for the back channel with teflon and for Chris in episode 13.
-- **teflon** — **Edward G. Koenig**, 37, of Richmond, Virginia, divorced with one child (Jimmy; the woman on the episode 5 phone call is heard as Cara or Karen, and may not be the ex-wife), alimony and a house payment; `monticello222@yahoo.com` for mail and `monticello235` on AIM; on BBSs since the mid-80s; a day job at Mtrail Industries he is visibly failing at, where the group's drop box also lives. Arrested in 2004 and run as an informant for the entire series — eight arrests by his own count — and he ends it with a job at the Department of Justice. Later handles: **copleyr785**, **collangello998**, **spinnaker**, and, invented wholesale, **LuckyChi2203**.
+- **teflon** — **Edward G. Koenig**, 37, of Richmond, Virginia, divorced with one child (Jimmy; the woman on the episode 5 phone call is heard as Cara or Karen, and may not be the ex-wife), alimony and a house payment; `monticello222@yahoo.com` for mail and `monticello235` on AIM; on BBSs since the mid-80s; a day job at Mtrail Industries he is visibly failing at, where the group's drop box also lives. Arrested in 2004 and run as an informant for the entire series — eight arrests by his own count — and he ends it with a job at the Department of Justice. Later handles: **copleyr785**, **collangello998**, **spinnaker**, **monticello505** — the account the Bureau's man messages in episode 19, where he is addressed as *ed*, coached for the witness stand, and asked how to handle slipknot — and, invented wholesale, **LuckyChi2203**.
 - **trooper** — **Jodi**, a woman working at a DVD manufacturing plant in LA, sourcing from bins of misprinted discs; joined the scene via that job about a year before the series; `troopercamy0@yahoo.com`, `troopercamy` on AIM. For most of the season only she knows her own gender — the group refers to her as "he," and in episode 7 Drosan thanks her for her help with "thanks man." Drosan uses her first name once, in episode 18. She ends the season interviewing for an assistant's job at a studio, arranged by her sister.
 - **pyr0** — **David**. The name is spoken, never typed: his mother calls him by it from the stairs all through episode 14, from 2:09 to 18:29, and her boyfriend hammers on his door with it at 9:36 — *alright, David, open up* — over a missing box of Cuban cigars, ten minutes before cutting the power at the breaker. It is written nowhere on screen in twenty episodes, and the first pass of transcripts lost the scene outright, so a reconstruction from screen text and machine transcripts alone never sees it. The cast list agrees: *Nick White as pyr0 (David)*. It also explains an oddity in the sequel, where the machine episode 1 is shot on is logged in as `David` and episode 4's FTP client reads `C:\Documents and Settings\David\Desktop` — the season 1 encoder's account, still on the production's computer two years later. Encoder, two years in; the Bureau pegs him at 16–17, American, Midwest; lives with his mother and her boyfriend, who cuts his power mid-release.
 - **slipknot** — co-founder by his own account; handles affiliate sites; the group's conscience and its actual detective. Lives with his father somewhere cold. Identifies gryffin as Brudiger in episode 15 and teflon as Koenig in episode 16, both correctly, and is believed by nobody.
@@ -980,6 +1042,7 @@ episode 13's FTP credentials appear to run for twenty minutes.
 | 1 | the LuckyChi2203 session on ICQ | 12:03–17:54 |
 | 1 | the Slashdot / MSNBC story about the release | 15:12–15:45 |
 | 2 | the Boing Boing masthead | 5:51–6:06 |
+| 2 | Lucky Chi's terms: $300 a title, up to $2,000 for *The Incredibles* | 4:10–5:30 |
 | 2 | the Gmail sign-in, `brian.sandro` in the field | 12:03 |
 | 3 | the vcdquality link | 1:33–2:03 |
 | 5 | teflon's apology to Joan, his boss | 1:24–1:51 |
@@ -996,6 +1059,8 @@ episode 13's FTP credentials appear to run for twenty minutes.
 | 15 | the PayPal IP, `154.158.47.5` | 20:18–21:18 |
 | 16 | the LexisNexis result | 16:45–18:42 |
 | 16 | cOda's FTP logs | 19:00–20:57 |
+| 19 | teflon as `monticello505`: the trial, and "ed" / "yes" | 14:40–24:50 |
+| 19 | slipknot's interrogation of "cOda" | 17:20–24:50 |
 | 20 | the last email | 22:12–23:06 |
 
 Two of these are worth the trouble of finding on your own copy. The episode 6

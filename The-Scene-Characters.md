@@ -35,7 +35,7 @@ The **Episodes** column lists the episode entries in the synopsis that name the 
 | **LuckyChi2203** | "Lucky Chi" — nobody | — | 1–4, 9, 11–13, 18 | The bootlegger Drosan sells to. Invented by teflon and paid from a corporate card. |
 | **gryffin** | Timothy Brudiger | — | 9–12, 15–20 | A middleman wired by the Bureau without his knowledge, and arrested in the end. |
 | **burroughs485** | Burroughs, case agent | Joel Felber | 5, 17, 19 | Ran teflon. The man at his door in episode 5. |
-| **brenner2604**, **alanmeans06** | Federal agents | — | 19 | Running cOda's account against gryffin. Their lines treat Burroughs as a third man; the credits suggest otherwise. |
+| **brenner2604**, **alanmeans06** | Federal agents | — | 19 | Running cOda's account against gryffin; brenner2604 then preps teflon, as monticello505, for the witness stand. Their lines treat Burroughs as a third man; the credits suggest otherwise. |
 
 ### Friends who lend a hand
 
@@ -51,7 +51,7 @@ The **Episodes** column lists the episode entries in the synopsis that name the 
 | **BrianSan** (ICQ), **BrianSan333** (AIM), **dro_5544** (AIM, Yahoo!) | Drosan |
 | `brian.sandro@gmail.com` | Drosan |
 | `monticello222@yahoo.com`, **monticello235** (AIM) | teflon |
-| **copleyr785**, **collangello998**, **spinnaker** | teflon, later in the season |
+| **copleyr785**, **collangello998**, **spinnaker**, **monticello505** | teflon, later in the season |
 | `troopercamy0@yahoo.com`, **troopercamy** (AIM) | trooper |
 
 ## Season 2 — *The Scene 2.0* (2006)
@@ -115,7 +115,7 @@ The sequel shares no characters with the original, except one who never appears 
 | lukai | 2 | Danika |
 | melissbliss04 | 1 | Melissa |
 | MikeyD5550 | 2 | Mike Davis |
-| monticello222, monticello235 | 1 | teflon |
+| monticello222, monticello235, monticello505 | 1 | teflon |
 | pyr0 | 1 | pyr0 (David) |
 | r3dbadg3r | 1 | trooper's LexisNexis contact |
 | slipknot | 1 | slipknot |
