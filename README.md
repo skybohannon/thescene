@@ -22,6 +22,7 @@ The rest of this page is about how it was made.
 | `The-Scene-S02-Episode-Synopses.md` | *The Scene 2.0*: all 20 episodes, the cold-open narration, the infrastructure the season is built on, and the personal thread underneath it |
 | `The-Scene-Episode-Guide.md` | A spoiler-free guide for first-time viewers: one line per episode, with a link to its full entry for afterwards |
 | `The-Scene-Characters.md` | Both seasons: every handle, who it belongs to, who plays them, and which episodes they're in |
+| `Teh-Scene.md` | *Teh Scene*, the 2005 fan parody: what it is, who's in it, its episodes and where to watch them |
 | `index.html` | The landing page for the GitHub Pages edition |
 | `stills/s01/` | Twenty-three frames from season 1, at least one for every episode, shown where they happen |
 | `stills/s02/` | Twenty-three frames from season 2, likewise |
