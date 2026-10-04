@@ -40,12 +40,11 @@ stills = re.findall(r'src="([^"]+\.jpg)"', body)
 
 def embed(m):
     src = m.group(1)
-    path = src
-    if not os.path.exists(path):
+    if not os.path.exists(src):
         return m.group(0)
     if WEB:
         return 'loading="lazy" src="%s"' % src
-    b = base64.b64encode(open(path, 'rb').read()).decode('ascii')
+    b = base64.b64encode(open(src, 'rb').read()).decode('ascii')
     return 'src="data:image/jpeg;base64,%s"' % b
 
 body = re.sub(r'src="([^"]+\.jpg)"', embed, body)
@@ -56,16 +55,13 @@ body = re.sub(r'href="([^":/#]+)\.md(#[^"]*)?"', r'href="\1.html\2"', body)
 # --- "Where to look": each start time opens the episode at that second ----
 # The timings were taken from the Internet Archive's H.264 encodes, so they
 # link to those files.
-def episode_url(ep):
-    return archive_url(SEASON, ep)
-
 def link_timings(section):
     def row(m):
         tr = m.group(0)
         cells = re.findall(r'<td>(.*?)</td>', tr, flags=re.S)
         if not cells or not cells[0].strip().isdigit():
             return tr
-        url = episode_url(int(cells[0]))
+        url = archive_url(SEASON, int(cells[0]))
         def t(tm):
             mins, secs = tm.group(1), tm.group(2)
             return '<a href="%s#t=%d" aria-label="Watch episode %s from %s:%s">%s:%s</a>' % (

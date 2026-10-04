@@ -17,7 +17,7 @@ Handles the input, in either form:
 
     python3 normalize.py <chat.txt> > <out.txt>
 """
-import re, sys, collections, difflib
+import re, sys, collections, difflib, pathlib
 
 SPEAKER = re.compile(r'^(<[^>]{2,16}>'
                      r'|[A-Za-z0-9._!-]{2,24}@[A-Za-z0-9.-]{3,30}(?:/\w{1,12})?:'
@@ -39,13 +39,9 @@ RATIO, RARE_RATIO, RARE_MAX, ANCHOR_MIN = 0.78, 0.68, 3, 8
 # Spellings confirmed by looking at the frames. Anything clustering close to
 # one of these is rewritten to it. Add to this list rather than tuning the
 # thresholds: reading the screen is evidence, and the thresholds are not.
-ALIASES = [l.strip() for l in open(
-    __import__('os').path.join(__import__('os').path.dirname(
-        __import__('os').path.abspath(__file__)), 'handles.txt'),
-    encoding='utf-8')] if __import__('os').path.exists(
-    __import__('os').path.join(__import__('os').path.dirname(
-        __import__('os').path.abspath(__file__)), 'handles.txt')) else []
-ALIASES = [a for a in ALIASES if a and not a.startswith('#')]
+ALIASES = [a for a in (l.strip() for l in
+           pathlib.Path(__file__).with_name('handles.txt').read_text('utf-8').splitlines())
+           if a and not a.startswith('#')]
 
 lines = [l.rstrip('\n') for l in open(sys.argv[1], encoding='utf-8', errors='replace')]
 counts = collections.Counter(m.group(1) for l in lines

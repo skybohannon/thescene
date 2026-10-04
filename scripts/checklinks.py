@@ -39,10 +39,10 @@ class Page(HTMLParser):
         if tag == 'a' and a.get('name'):
             self.ids.add(a['name'])
         for key in ('href', 'src'):
-            if a.get(key) and not (tag == 'meta'):
+            if a.get(key):
                 self.links.append(a[key])
-        if tag == 'meta' and (a.get('property') or '').startswith('og:') and \
-                (a.get('content') or '').startswith('http') and a.get('property') in ('og:image', 'og:url'):
+        if tag == 'meta' and a.get('property') in ('og:image', 'og:url') and \
+                (a.get('content') or '').startswith('http'):
             self.links.append(a['content'])
 
 
