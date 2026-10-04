@@ -250,6 +250,13 @@ if SEASON:
     meta += '\n<script type="application/ld+json">%s</script>' % \
         json.dumps(ld, ensure_ascii=False).replace('</', '<\\/')
 
+# who the quoted dialogue and frames belong to
+owner = ('<em>Teh Scene</em> (2005&ndash;2006) is a fan parody made by XPC; the quoted dialogue and the '
+         'frames reproduced above remain its makers&rsquo;.' if NAME == 'Teh-Scene.html' else
+         '<em>The Scene</em> (2004&ndash;2006) is a work of Jun Group Entertainment, released under\n'
+         '<a href="https://creativecommons.org/licenses/by-nd/2.0/">CC&nbsp;BY-ND&nbsp;2.0</a>; the quoted dialogue and the\n'
+         'frames reproduced above remain theirs.')
+
 # the web build links home relatively; the standalone file links to the site
 home = 'index.html' if WEB else SITE
 
@@ -391,9 +398,7 @@ doc = u"""<!DOCTYPE html>
 </main>
 <footer class="colophon">
 <p>Original writing here is licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC&nbsp;BY&nbsp;4.0</a>.
-<em>The Scene</em> (2004&ndash;2006) is a work of Jun Group Entertainment, released under
-<a href="https://creativecommons.org/licenses/by-nd/2.0/">CC&nbsp;BY-ND&nbsp;2.0</a>; the quoted dialogue and the
-frames reproduced above remain theirs.</p>
+%s</p>
 <p>Spotted something that doesn&rsquo;t match the episode? <a href="https://github.com/skybohannon/thescene/issues/new?template=correction.yml">Report a correction</a>.</p>
 </footer>
 </div>
@@ -439,7 +444,7 @@ frames reproduced above remain theirs.</p>
 </script>
 </body>
 </html>
-""" % (html.escape(title), meta, CSS, home, html.escape(title), nav, body)
+""" % (html.escape(title), meta, CSS, home, html.escape(title), nav, body, owner)
 
 io.open(OUT, 'w', encoding='utf-8', newline='\n').write(doc)
 print('wrote', OUT, os.path.getsize(OUT), 'bytes;', len(eps), 'episodes,', len(back), 'back sections')
