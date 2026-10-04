@@ -74,6 +74,11 @@ li{margin:0 0 .5rem}
 hr{border:0;border-top:1px solid var(--rule);margin:2.5rem 0}
 figure{margin:2rem 0}
 figure img{width:100%;height:auto;display:block;border:1px solid var(--rule);border-radius:3px}
+figure img[role=button]{cursor:zoom-in}
+figure img:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+dialog.zoom{padding:0;border:0;max-width:none;max-height:none;width:100vw;height:100vh;background:#000;cursor:zoom-out}
+dialog.zoom::backdrop{background:#000}
+dialog.zoom img{width:100%;height:100%;object-fit:contain;display:block}
 figcaption{margin-top:.6rem;font-size:.86rem;line-height:1.5;color:var(--muted)}
 #toc{margin:0 0 3rem;padding:1.2rem 1.3rem;background:var(--quote-bg);border-radius:4px}
 #toc .toch{font-size:.74rem;text-transform:uppercase;letter-spacing:.09em;color:var(--muted);
@@ -394,6 +399,25 @@ frames reproduced above remain theirs.</p>
       else localStorage.setItem('thescene-theme', next);
     } catch (e) {}
     show();
+  });
+})();
+// a frame opens full-window, to read the small text; click or Esc closes it
+(function () {
+  var d = document.createElement('dialog'), big = new Image();
+  if (!d.showModal) return;
+  d.className = 'zoom';
+  d.appendChild(big);
+  document.body.appendChild(d);
+  d.addEventListener('click', function () { d.close(); });
+  document.querySelectorAll('figure img').forEach(function (img) {
+    img.tabIndex = 0;
+    img.setAttribute('role', 'button');
+    img.title = 'Enlarge';
+    function open() { big.src = img.currentSrc || img.src; big.alt = img.alt; d.showModal(); }
+    img.addEventListener('click', open);
+    img.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); }
+    });
   });
 })();
 </script>

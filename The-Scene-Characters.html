@@ -74,6 +74,11 @@ li{margin:0 0 .5rem}
 hr{border:0;border-top:1px solid var(--rule);margin:2.5rem 0}
 figure{margin:2rem 0}
 figure img{width:100%;height:auto;display:block;border:1px solid var(--rule);border-radius:3px}
+figure img[role=button]{cursor:zoom-in}
+figure img:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+dialog.zoom{padding:0;border:0;max-width:none;max-height:none;width:100vw;height:100vh;background:#000;cursor:zoom-out}
+dialog.zoom::backdrop{background:#000}
+dialog.zoom img{width:100%;height:100%;object-fit:contain;display:block}
 figcaption{margin-top:.6rem;font-size:.86rem;line-height:1.5;color:var(--muted)}
 #toc{margin:0 0 3rem;padding:1.2rem 1.3rem;background:var(--quote-bg);border-radius:4px}
 #toc .toch{font-size:.74rem;text-transform:uppercase;letter-spacing:.09em;color:var(--muted);
@@ -367,7 +372,7 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <td><strong>lukai</strong>, <strong>sng330</strong>, <code>houdini6@jabber.org</code>, <strong>DanikaLi99</strong></td>
 <td>Danika, an ICE agent undercover in Newark</td>
 <td>all 20</td>
-<td>Being blackmailed into an operation and running one, at the same time. The only person in the season who refuses an order.</td>
+<td>Being blackmailed into an operation and running one, at the same time. The only person in the season who refuses an order. Her surname is her father's — see Zhen Li, below.</td>
 </tr>
 <tr id="s2-t0mb0">
 <td><code>t0mb0@jabber.org</code></td>
@@ -388,10 +393,10 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <td>English, retired, and a friend of her father's. The only person whose information is never wrong.</td>
 </tr>
 <tr id="s2-ralph">
-<td><code>jimbrandon09@jabber.org</code></td>
+<td><code>jimbrandon09@jabber.org</code>, <strong>jimbrandon999</strong></td>
 <td>Ralph Lasky, cover name Jim Brandon</td>
 <td>14, 15, 17–19</td>
-<td>Ex-Navy cryptographer placed in Mike Davis's job. Introduced as a threat; turns out to be the one insider willing to break procedure.</td>
+<td>Ex-Navy cryptographer placed in Mike Davis's job. Introduced as a threat; turns out to be the one insider willing to break procedure. First reaches Danika over AIM as <code>jimbrandon999</code> in episode 14; the Jabber handle is his from episode 17 on.</td>
 </tr>
 <tr id="s2-talisman">
 <td><strong>talisman</strong></td>
@@ -432,10 +437,10 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <td>Raised Katerina in Estonia, and has just died there. Murph knew her in Beijing.</td>
 </tr>
 <tr id="s2-zhen">
-<td><strong>Zhen</strong> (the screen also spells it <em>zheng</em>), op name <strong>bellbird</strong></td>
+<td><strong>Zhen Li</strong> (the screen also spells it <em>zheng</em>), op name <strong>bellbird</strong></td>
 <td>Danika's father</td>
 <td>18</td>
-<td>A Chinese diplomat recruited by American intelligence in 1970s Beijing.</td>
+<td>A Chinese diplomat recruited by American intelligence in 1970s Beijing — one of six, four still alive, still in place: episode 19 has Murph call the whole thing &quot;basically planning a coup.&quot; Danika's own surname, all season, is his.</td>
 </tr>
 </tbody>
 </table></div>
@@ -564,6 +569,11 @@ footer.colophon{margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--ru
 <td>Ralph Lasky</td>
 </tr>
 <tr>
+<td>jimbrandon999</td>
+<td>2</td>
+<td>Ralph Lasky</td>
+</tr>
+<tr>
 <td>LuckyChi2203</td>
 <td>1</td>
 <td>teflon, in disguise</td>
@@ -688,6 +698,25 @@ frames reproduced above remain theirs.</p>
       else localStorage.setItem('thescene-theme', next);
     } catch (e) {}
     show();
+  });
+})();
+// a frame opens full-window, to read the small text; click or Esc closes it
+(function () {
+  var d = document.createElement('dialog'), big = new Image();
+  if (!d.showModal) return;
+  d.className = 'zoom';
+  d.appendChild(big);
+  document.body.appendChild(d);
+  d.addEventListener('click', function () { d.close(); });
+  document.querySelectorAll('figure img').forEach(function (img) {
+    img.tabIndex = 0;
+    img.setAttribute('role', 'button');
+    img.title = 'Enlarge';
+    function open() { big.src = img.currentSrc || img.src; big.alt = img.alt; d.showModal(); }
+    img.addEventListener('click', open);
+    img.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); }
+    });
   });
 })();
 </script>
