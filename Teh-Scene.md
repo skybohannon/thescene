@@ -167,7 +167,7 @@ A year later, and with most of the cast missing — the credits explain they *ei
 
 *Season 2, episode 1, 7:18. Fitzgerald's personnel file, dated 10/04/2006, a few weeks before the episode came out.*
 
-Fitzgerald, narrating, has had a worse year. *After the abysmal failure of my internet TV series*, he reported back to the MPAA's office in Denver after two weeks of not showing up, and was fired. He goes to church, then climbs a mountain in search of answers, and finds a DVD of *The Fast and the Furious*. At home his modded Xbox still carries an MPAA skin; the bought disc makes him sit through trailers. He decides that letting the pirates go isn't enough: *I had to become the bad guys in the shittier sequel. I had to become the next great XPC cammer.* No episode 2 followed.
+Fitzgerald, narrating, has had a worse year. *After the abysmal failure of my internet TV series*, he reported back to the MPAA's office in Denver after two weeks of not showing up, and was fired. He goes to church, then climbs a mountain in search of answers, and finds a DVD of *The Fast and the Furious*. At home his modded Xbox still carries an MPAA skin; the bought disc makes him sit through trailers. He decides that letting the pirates go isn't enough: *I had to become the bad guys in the shittier sequel. I had to become the next great XPC cammer.* The credits promise episode 2 for *the end of December or early January*. It never came.
 
 ## Watch it
 
@@ -177,4 +177,4 @@ A second, unrelated parody, *[Teh FuX0red Scene](https://archive.org/details/Teh
 
 ## On the sources
 
-The episode entries come from watching the episodes in the Internet Archive collection: frames every fifteen seconds, the chat windows and documents read at full size, and the dialogue transcribed with Whisper. The rest comes from the release notes in the collection, the show's website as archived in 2005 and 2006, and Wikipedia's article on *The Scene*. Where those disagree, the page says so above, and the episodes' own credits win.
+The episode entries come from watching the episodes in the Internet Archive collection: frames every fifteen seconds, the chat windows and documents read at full size, an OCR pass over a frame every three seconds to catch anything on screen too briefly for that, and the dialogue transcribed with Whisper. The rest comes from the release notes in the collection, the show's website as archived in 2005 and 2006, and Wikipedia's article on *The Scene*. Where those disagree, the page says so above, and the episodes' own credits win.
