@@ -75,7 +75,7 @@ So the buyer already exists, already knows him as Brian, and is waiting on him i
 
 ![Episode 1 — an ICQ message session: LuckyChi2203, "Yes, I am here"; BrianSan, "so how do we make this happen?"](stills/s01/e01-luckychi-icq.jpg)
 
-*Episode 1, 17:39. The decision, at the end of the first episode: "so how do we make
+*Episode 1, 17:54. The decision, at the end of the first episode: "so how do we make
 this happen?" The first of the windows that will eventually cost Drosan everything. LuckyChi2203 is a fabrication; the man typing is teflon, and the
 money comes from his employer's credit card, behind his handlers' backs.*
 
@@ -215,7 +215,7 @@ By the end slipknot has traced it, and clears trooper doing it. D-Pix didn't get
 >
 > **&lt;pyr0&gt;** OMG! i'll kill the bastard!
 >
-> **&lt;slipknot&gt;** be careful what you say.
+> **&lt;slipknot&gt;** be careful what you say. … that 'bastard' could easily be someone on this chat...
 
 Drosan is in the channel for all of it. It is the copy he sold, on the street in Asia, and the group has worked out what happened to it in a single episode — everything but the name.
 
@@ -247,7 +247,7 @@ The AIM window running in parallel is Melissa's, and it is entirely tender and e
 
 **Online, teflon lays out a case step by step, and it is the best-written interrogation in the series.** He opens light — a possible line on *Phantom of the Opera*, a remark that cOda has been strange — builds the case against cOda as courier, then dismantles his own argument and turns:
 
-> **&lt;teflon&gt;** i am 100% certain it was someone in our group … come on, dro. i'm not stupid. did you think i wasn't gonna find trooper? … think about it, there are only so many places on irc … he was the source for Exorcist, right? well, as it turns out, he was as shocked as anybody that that movie was out in asia. in fact, he was pissed … see, he said he fed ex'd it to you for days, but you didn't tell us about it until later. did you? … oh, don't worry, it's easily explained. fed ex is great, but they're not perfect? right? … still there? … cat got your tongue? … only you and i both know that's not what really happened … don't we
+> **&lt;teflon&gt;** i am 100% certain it was someone in our group … come on, dro. i'm not stupid. did you think i wasn't gonna find trooper? … think about it, there are only so many places on irc … he was the source for Exorcist, right? well, as it turns out, he was as shocked as anybody that that movie was out in asia. in fact, he was pissed … see, he said he fed ex'd it to you for morning delivery … but you didn't tell us about it until about eleven that night … oh, don't worry, it's easily explained. fed ex is great, but they're not perfect? right? … still there? … cat got your tongue? … only you and i both know that's not what really happened … don't we
 >
 > **&lt;Drosan&gt;** what do you want?
 >
@@ -312,7 +312,7 @@ Read that against the email in the next episode and it stops being a mystery at 
 
 Note too who says "the Asians" here: **Drosan**. The theory has been in the room since the end of episode 3, when slipknot traced the early release to a bootleg sold on the street in Singapore — and by now the man who did it is repeating it back to the group as a thing nobody can prove.
 
-**Privately, teflon runs him.** A new package is inbound, *Are We There Yet?*; in the channel he tells Drosan to make it flawless, and in the query he tells him to sell the rip. Drosan explains the stroke and the money; teflon is contemptuous — *you are a fucking liar, your word is worth shit* — and names both earlier sales: it was fine for *The Incredibles* and for *The Exorcist*, so why is it a bad idea now? The terms are cold: $300, which teflon calls chump change, with no direct contact between teflon and the buyer, so Drosan carries the money and teflon's hands stay clean. And the webcam shows who the arrangement is for: by the time the price is typed, the visitor is standing behind teflon's chair, reading the query over his shoulder as Drosan offers to have the buyer pay teflon directly and teflon says *i don't want to have any direct contact with them*.
+**Privately, teflon runs him.** A new package is inbound, *Are We There Yet?*; in the channel he tells Drosan to make it flawless, and in the query he tells him to sell the rip. Drosan explains the stroke and the money; teflon is contemptuous — *your word is worth shit* … *you are a fucking liar* — and names both earlier sales: it was fine for *The Incredibles* and for *The Exorcist*, so why is it a bad idea now? The terms are cold: $300, which teflon calls chump change, with no direct contact between teflon and the buyer, so Drosan carries the money and teflon's hands stay clean. And the webcam shows who the arrangement is for: by the time the price is typed, the visitor is standing behind teflon's chair, reading the query over his shoulder as Drosan offers to have the buyer pay teflon directly and teflon says *i don't want to have any direct contact with them*.
 
 Drosan asks him the question the audience wants asked — *why are you doing this? it can't be the money?* — and gets *just shut up and get the fucking VOBs.* The episode's answer is the one the viewer has been watching all along: a man with a handler appointment at nine the next morning, who has just written to his boss to say — *again* — that he'll be late.
 
@@ -357,7 +357,7 @@ The second is what the group does with it. trooper forwards it — **"Fwd: acces
 *Episode 6, 6:39. Three seconds on screen, and the line that gives Drosan his
 surname: the mail goes to `brian.sandro@gmail.com`.*
 
-In the channel the email dominates, and cOda's read lands: **teflon is fastidious about security** — *i can't believe he would send an e-mail to a source* — *but e-mail is insecure. he shouldn't be sending it to any of us* — and pyr0 adds, *specially with that attach!!!* cOda: *it's like he's TRYING to get us arrested?* Drosan explains the attachment is the group's own doing — *he got the ginfo in the attach from me* — and admits *i have no idea why he'd e-mail it to trooper*. They can't reach teflon to ask: *acting strange lately*, *he's been in meetings*, but *we've ALWAYS been able to get him after an hour or two*.
+In the channel the email dominates, and cOda's read lands: **teflon is fastidious about security** — *i can't believe he would send an e-mail to a source* — *but e-mail is insecure. he shouldn't be sending it to any of us* — and pyr0 adds, *specially with that attach!!!* cOda: *it's like he's TRYING to get us arrested?* Drosan explains the attachment is the group's own doing — *he got the ginfo in the attach from me* — and admits *i have no idea why he'd e-mail it to trooper*. They can't reach teflon to ask — Drosan has *been trying to get him all day*; slipknot suggests *he might just be in a meeting or something*; cOda: *no way* … *he's been in meetings before, but we've ALWAYS been able to get him after an hour or two*.
 
 **Then they open the attachment, and the episode's real discovery is a document property, not a header.** They read the ginfo.doc "carefully" and find nothing in the mail or the file that jumps out — trooper asks if they're *looking for like a hidden message or something* — until someone checks its Properties:
 
@@ -512,7 +512,7 @@ Drosan finally explains, and it is one of the few times he tells slipknot someth
 
 Three personal windows run alongside. **Dana** has been trying to reach him for days and is done being polite — and this time she is on `BrianSan333`, his own name, not the scene handle he used in episode 8:
 
-> **danaburke123:** i've been trying to get a hold of you … if you didn't want to speak with me you should have just said that the other day … sleeping with me isn't serious? i don't buy it … you are being TOTALLY unfair to me … this is such bullshit … we still have a lot to talk about. this isn't the end, brian … fine. **i'll come see you after your shift tonight.** we can talk then
+> **danaburke123:** i've been trying to get a hold of you … if you didn't want to speak with me you should have just said that the other day … sleeping with me isn't serious? i don't buy it … you are being TOTALLY unfair to me … this is such bullshit … this isn't the end, brian … we still have a lot to talk about … fine. **i'll come see you after your shift tonight.** we can talk then
 
 She is not asking. **Melissa** is looking for him too; he tells her he went out to grab a cup of coffee, which is a lie, and she offers to come to him — her professor pushed a deadline, she has the day off, she and Suzy could stop by and get a drink at the bar — and he refuses. He is managing two women's access to the same evening, and lying to both. **Todd** congratulates him on the move — Drosan is moving in with Melissa — asks when the big day is, then asks how Dana took it, adding that getting over him can't be too big a deal.
 
@@ -645,7 +645,7 @@ So Drosan does what the series has never shown him do before: he breaks into a c
 
 ![Episode 13 — a PuTTY window showing a Metasploit session returning a Windows command prompt on 63.247.91.187](stills/s01/e13-metasploit-shell.jpg)
 
-*Episode 13, 13:00. Drosan breaks into the server at teflon's employer to destroy the
+*Episode 13, 26:29. Drosan breaks into the server at teflon's employer to destroy the
 FTP log that would give him away. The shell comes back on `63.247.91.187` — and in the window at the
 left, teflon is asking how it is going.*
 
@@ -726,7 +726,7 @@ Then he produces the document:
 >
 > **&lt;slipknot&gt;** no. the e-mail address didn't belong to dro. **it belonged to teflon**
 
-That is the episode 6 Yahoo account coming back, eight episodes later, in someone else's hands. pyr0's answer is *you've been smoking the same weed as coda*, *this conspiracy shit is total shit*, *i don't like doing shit behind dro's back*, *he saved our asses* — which is loyalty, and which is wrong, and which is why nobody acts on any of it.
+That is the episode 6 Yahoo account coming back, eight episodes later, in someone else's hands. pyr0's answer is *you've been smoking the same weed as coda*, *this conspiracy shit is total shit*, *i don't like doig shot behind dro's back*, *he saved our asses* — which is loyalty, and which is wrong, and which is why nobody acts on any of it.
 
 ![Episode 14 — slipknot's mIRC query with pyr0 ending "the e-mail address didn't belong to dro" / "it belonged to teflon"](stills/s01/e14-belonged-to-teflon.jpg)
 
@@ -766,7 +766,7 @@ So the deal that destroys cOda is haggled out in two languages at once, in a win
 
 ![Episode 15 — an AIM conversation between c0dac0da and gryffin524 while the #dust channel discusses gryffin](stills/s01/e15-gryffin-deal.jpg)
 
-*Episode 15, 10:00. The whole season in one screen: in the channel behind, slipknot
+*Episode 15, 11:40. The whole season in one screen: in the channel behind, slipknot
 is working out that gryffin cannot be trusted; in the window in front, cOda is
 closing the deal with him.*
 
@@ -782,7 +782,7 @@ Still to cOda, he lays out two more angles at once: *trooper has a friend with a
 - So one of their own suppliers has been uploading to a topsite without permission. cOda: *that is insane.*
 - And the behavior fits, because slipknot knew which films to search for: someone told him to put them there, and bragged about it. **Timothy Brudiger told him himself.**
 
-His conclusion: Brudiger is either working for them or, more likely, has been compromised by them; TSR was never the common link between the people who got busted — Brudiger was; *cOda, timothy brudiger is gryffin*; and anyone who comes into contact with him goes down.
+His conclusion: Brudiger is either working for them or, more likely, has been compromised by them; TSR was never the common link between the people who got busted — Brudiger was; *codes, timothy brudiger is gryffin*; and anyone who comes into contact with him goes down.
 
 The structure of the episode is now almost cruel. In one window slipknot is proving that gryffin is a federal tripwire and that contact with him is fatal. In another, at the same time, cOda is telling gryffin to ship the box. The clean record that seemed to refute the theory is the strongest evidence for it, and episode 17 says why — the Bureau is protecting Brudiger, not prosecuting him, because his contacts are worth more than he is.
 
@@ -977,7 +977,7 @@ Time has passed, and DUST is gone. pyr0 complains gryffin won't leave him alone 
 
 slipknot appears, reconciled, and the reconciliation is more generous than it first looks. He opens by saying he's been in touch with cOda, who moved to Prague and is doing well — *he and i speak about you quite often*, he adds, *hah, indeed* — before getting to the point: *for the longest time i thought you were either compromised or just working for the feds* … *but what happened to coda put things in a different light* … *he did a number of very stupid things and nearly got arrested* … *he cut a deal with gryffin* … *but when you don't have a lot of money, it is easy to be persuaded* … *maybe you were very low on money, and so selling a movie or two didn't seem like such a sin* … *am i far off the mark?* — *not far at all.* slipknot warns a big bust is coming, possibly that day, that Drosan is a likely target, and that he'd wipe his drives; asked how he knows it's today, he says only *i would rather not say*.
 
-Drosan warns trooper, who has been radio silent since quitting the plant and is now sitting on an interview her sister got her for an assistant's job at one of the studios. *they better not let you near the product :0* — *thanks for checking up on me, you're too good to me ;)*. The last exchange between two members of the group is a joke about her not being trusted near the merchandise.
+Drosan warns trooper — *it might be going down today* — who has been radio silent since quitting the plant and is now sitting on an interview her sister got her for an assistant producer gig at one of the studios. *you're too good to me ;)* … *they better not let you near the product :O* … *lol* … *thanks for checking up on me*. The last exchange between two members of the group is a joke about her not being trusted near the merchandise.
 
 **Todd, and the tell.** In a window alongside all this, Todd catches up with him about ordinary things — a band they're seeing tomorrow, the joke that he and Brian are like two married couples now, an apology for a message Brian missed because his cell battery is dead. Todd says it's great that he and Melissa seem happy, and Brian returns the compliment about Todd and Suzy, who were all over each other recently; Todd says his judgment was impaired.
 
@@ -1132,7 +1132,7 @@ The license is printed on screen at the end of episode 1, which settles it: *Cop
 | [Internet Archive — Welcome to the Scene](https://archive.org/details/welcome-to-the-scene) | An alternate upload of the series under its original release name |
 | [The Movie Database](https://www.themoviedb.org/tv/91461-the-scene) | Episode metadata |
 
-A few of the cast names are worth having next to the handles, since the series itself only ever shows the handles: **Joe Testa** as Drosan, **Laura Minarich** as danaburke123, **Trice Able** as melissbliss04, **Noah Rothman** as slipknot, **Dinarte de Freitas** as cOda, and **Nick White** as pyr0. The on-screen credits add **Curt Rosloff** and **Joel Felber** as the guest stars of episode 5 — teflon and the man at his door — and Felber again in episodes 17 and 19.
+A few of the cast names are worth having next to the handles, since the series itself only ever shows the handles. Wikipedia's cast list gives **Joe Testa** as Drosan, **Laura Minarich** as danaburke123, **Trice Able** as melissbliss04, **Noah Rothman** as slipknot, **Dinarte de Freitas** as cOda, **Jill Howell** as trooper, **Curt Rosloff** as teflon, and **Nick White** as pyr0; all but Nick White also appear in the episodes' own opening credits. The on-screen credits add **Curt Rosloff** and **Joel Felber** as the guest stars of episode 5 — teflon and the man at his door — and Felber again in episodes 17 and 19.
 
 Two things in this synopsis are confirmed from outside the episodes rather than derived from them. Drosan's surname, which this reconstruction took from the To field of an email in episode 6, matches the credited character name "Drosan (Brian Sandro)." And Laura Minarich's credit identifies the woman on camera in episode 4 as danaburke123 — the link the episode itself never makes.
 
@@ -1159,7 +1159,7 @@ episode 13's FTP credentials appear to run for twenty minutes.
 | 3 | the vcdquality link | 1:33–2:03 |
 | 5 | teflon's apology to Joan, his boss | 1:24–1:51 |
 | 5 | driving directions | 9:09–9:30 |
-| 5 | the `burroughs485` window | 9:36–9:48 |
+| 5 | the `burroughs485` window | 8:14–9:50 |
 | 6 | the "access issue" mail from ed koenig | 2:57–14:18 |
 | 6 | the ginfo.doc Properties dialog: Author "United States DOJ / Intellectual Pr..." | 15:26–16:24 |
 | 6 | the forward to `brian.sandro@gmail.com` | 6:39–6:42 |
