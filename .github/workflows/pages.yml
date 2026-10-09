@@ -1,12 +1,13 @@
 # Builds the GitHub Pages edition: the synopses and the character index with
 # their frames linked from stills/ rather than embedded, so they load quickly on
-# a phone. The self-contained editions committed at the top of the repo are
-# served unchanged under offline/, for reading without a connection.
+# a phone. The self-contained editions, frames embedded, are built into
+# offline/, for reading without a connection.
 #
 # The build fails if the character index disagrees with the synopses or any
-# link inside the site is broken. Outside links are checked separately, on
-# every push and weekly, and never block a deploy: the Internet Archive being
-# slow for an afternoon is not a reason to hold back an edit.
+# link inside the site is broken. Outside links are checked on every push and
+# weekly; on a push a broken one is reported but never blocks the deploy: the
+# Internet Archive being slow for an afternoon is not a reason to hold back an
+# edit. The weekly run is the one that fails on them.
 name: Pages
 
 on:
@@ -41,24 +42,10 @@ jobs:
       - name: Check links inside the site
         run: python3 scripts/checklinks.py _site
       - name: Check links to outside sites
-        if: github.event_name == 'schedule'
+        continue-on-error: ${{ github.event_name != 'schedule' }}
         run: python3 scripts/checklinks.py _site --external
       - uses: actions/upload-pages-artifact@v3
         if: github.event_name != 'schedule'
-
-  outside-links:
-    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - run: pip install markdown-it-py
-      - name: Build
-        run: bash scripts/build-site.sh
-      - name: Check links to outside sites
-        run: python3 scripts/checklinks.py _site --external
 
   deploy:
     needs: build

@@ -11,3 +11,7 @@ __pycache__/
 
 # The Pages build (see .github/workflows/pages.yml).
 _site/
+
+# The self-contained editions; scripts/build-site.sh builds them into offline/.
+/The-Scene-*.html
+/Teh-Scene.html

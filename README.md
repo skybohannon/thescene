@@ -30,7 +30,7 @@ The rest of this page is about how it was made.
 | `scripts/` | The pipeline that recovered the text it was written from |
 | `LICENSE` | CC BY 4.0, covering the writing here — not the series |
 
-Each synopsis, the character index and the episode guide also ship as a single self-contained `.html` file with the frames embedded, so it can be read anywhere — including next to the episodes themselves. They are also published at **[skybohannon.github.io/thescene](https://skybohannon.github.io/thescene/)**, built by `.github/workflows/pages.yml` on every push: there the frames are linked rather than embedded so the pages load quickly, every handle links to its row in the character index, and every timing in *Where to look* opens the Internet Archive copy of the episode at that second. The self-contained files are served there too, under `offline/`.
+Each synopsis, the character index and the episode guide also build as a single self-contained `.html` file with the frames embedded (`python3 scripts/mkhtml.py <file>.md`), so it can be read anywhere — including next to the episodes themselves. Everything is published at **[skybohannon.github.io/thescene](https://skybohannon.github.io/thescene/)**, built by `.github/workflows/pages.yml` on every push: there the frames are linked rather than embedded so the pages load quickly, every handle links to its row in the character index, and every timing in *Where to look* opens the Internet Archive copy of the episode at that second. The self-contained files are built there too and served under `offline/`, which is the place to download them from.
 
 The recovered screen text and the audio transcripts themselves are **not** published here — see *A note on the material* below.
 
