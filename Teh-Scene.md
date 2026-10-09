@@ -173,7 +173,12 @@ Fitzgerald, narrating, has had a worse year. *After the abysmal failure of my in
 
 All nine episodes, the four specials, the trailer, the DVD and the group's music are collected on the Internet Archive as **[Teh Scene Collection](https://archive.org/details/Teh.Scene)**. Several episodes were also mirrored there individually at the time, which the episode 3 credits thank the Archive for. The series' own site, welcometotehscene.com, is long gone.
 
-A second, unrelated parody, *[Teh FuX0red Scene](https://archive.org/details/Teh_FuX0red_Scene_s01e01)*, got as far as a single episode.
+
+## The other parody
+
+*Teh Scene* wasn't the only one. In 2005 a group of friends were three weeks into filming their own parody of *The Scene* when *Teh Scene* showed up on VCDQuality's feed. Its upload notes call it *the most unlucky coincidence ever* — they had considered the same name — and they finished theirs anyway as **[Teh FuX0red Scene](https://archive.org/details/Teh_FuX0red_Scene_s01e01)**.
+
+It got as far as one episode, three and a half minutes long, and it parodies *The Scene*'s first: the package arrives. A narrator explains the attractions of the scene (*we get to call people noobs*), and promises the series is *extremely accurate to real scene operations*. Then a boy in bed under a hand-lettered *WAREZ* sign groans over another nuke — *those bastards* — until a masked courier arrives in a van with *WAREZ* plates and hands over a box marked *TREAT WITH CARE — ILLEGAL WAREZ INSIDE — STARWARS REVENGE OF THE SITH*. He leaps over a parked car with joy and puts the disc in his computer, and the episode ends there. The credits promise *Episode Two Coming Soon*, followed by an appeal to donate to their PayPal. No second episode appears to have been released.
 
 ## On the sources
 
