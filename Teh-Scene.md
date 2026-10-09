@@ -2,7 +2,7 @@
 
 *Teh Scene* — in full, *Welcome to Teh Scene* — is a fan-made parody of *The Scene*, released on the web a few months after the original began. Where *The Scene* is a fixed view of a computer desktop that the viewer reads, *Teh Scene* is shot as a live-action show, narrated by its characters in deadpan voice-over and cut with chat windows, fake commercials and title cards. Its targets are the original's earnestness, the idea of a release group as a disciplined organization, and the companies on both sides of the story: one sign-off reads *JUN IS TEH SUCK!*, a fake sponsor's message turns into a rap about hating Sony, and the password to the rival group's channel is *fuck-s0ny*.
 
-It is told as the work of **XPC**, a fictional release group that insists it is the best in the scene and keeps losing races to a rival, TMD. Over nine episodes the joke turns into a plot — an informant, an FBI agent, an MPAA agent with a grudge — and the season finale ends by folding itself into *The Scene*: XPC's leader joins the original's group, CPX, under the name **Drosan**.
+It is told as the work of **XPC**, a fictional release group that insists it is the best in the scene and keeps losing races to a rival, TMD. Over nine episodes the joke turns into a plot — an informant, an FBI agent, an MPAA agent with a grudge — and by the season finale it has written itself into *The Scene*'s own backstory.
 
 These synopses are written for someone who has watched it, or doesn't mind knowing how it ends.
 
@@ -182,7 +182,6 @@ Volume 4, the longest, covers the trip that made episodes 7 and 8. Lord Dusty dr
 ## Watch it
 
 All nine episodes, the four specials, the trailer, the DVD and the group's music are collected on the Internet Archive as **[Teh Scene Collection](https://archive.org/details/Teh.Scene)**. Several episodes were also mirrored there individually at the time, which the episode 3 credits thank the Archive for. The series' own site, welcometotehscene.com, is long gone.
-
 
 ## The other parody
 

@@ -19,7 +19,7 @@ HANDLES = {
         ('slipknot', ['slipknot', 'Slipknot']),
         ('coda', ['cOda', 'coda']),
         ('melissa', ['melissbliss04', 'Melissa']),
-        ('dana', ['danaburke123', 'danaburke55', 'Dana Burke', 'Dana']),
+        ('dana', ['danaburke123', 'danaburke55', 'Dana Burke', 'Dana', 'dana']),
         ('todd', ['Tremor2212', 'Todd']),
         ('suzy', ['suzyxiao', 'Suzy']),
         ('luckychi', ['LuckyChi2203', 'Lucky Chi', 'luckychi']),

@@ -2260,9 +2260,7 @@ in episode 11, or the Nmap output in episode 14.
 Everything nameable that appears on a screen in twenty episodes. Most of it is never
 spoken aloud; some of it answers questions the dialogue leaves open.
 
-A dagger (†) marks a string taken from OCR and not yet checked against the frame
-itself. Everything unmarked was read off the frame — one entry still carries the
-dagger.
+Every string here was read off the frame itself, not taken from the OCR.
 
 | What | Where |
 | --- | --- |
@@ -2272,13 +2270,13 @@ dagger.
 | `82.165.238.165` port 21, user `a`, remote `/home/a/yatb-rev159/` — the specifications drop | ep. 4 |
 | `C:\Documents and Settings\David\Desktop` — the local pane of that FTP client | ep. 4 |
 | `antiquefurniture.net/largeimage.asp?ID=705`, and `signin.ebay.com` — the laundering cover | ep. 4 |
-| † Marvell Gigabit Ethernet adapter, `192.168.1.155` — the interface she sniffs | ep. 7 |
+| Marvell Gigabit Ethernet adapter, `192.168.1.155` — the interface she sniffs | ep. 7 |
 | `irc.a0hell.net`, `#ALTERED-PORN`, and her own host `user-0cev611.cable.mindspring.com (24.239.152.53)` | ep. 8 |
 | `infinitematter@yahoo.com` — the account the anonymous complaint is sent from | ep. 9 |
 | `michaelrcunningham5@gmail.com`, subject *funds transfer*, Sep 3 2006 7:30 PM — *$74,507.89 (US) to router number 8890754*, into an account named **Applied Engineering Partnership LLP** | ep. 11 |
 | `nmap -sS -sV -A -f -v -v 199.46.198.87` &mdash; Nmap 4.11, 1,680 ports, 10:49 EDT on 2006-09-28 | ep. 14 |
 | `bludlines@yahoo.com` — the emergency account she and Murph set up | ep. 16 |
-| Confirmation #2668765, 2451 Warwick Avenue, Newark NJ 98721 → No. 46, Zhanlanguan Lu, Jishou, Hunan, China; received October 4 2006, 3:25pm, SIGNED BY [H. XIOU] | ep. 16 |
+| Confirmation #2668765, 2451 Warwick Avenue, Newark NJ 98721 → No. 46, Zhanlanguan Lu, Jishou, Hunan, China; received October 4 2006, 3:25pm, SIGNED BY [H. XIOU] — the brackets are on screen | ep. 16 |
 
 The distinction matters because these are exactly the strings OCR destroys, and it
 destroys them plausibly. It gave me `yatb-rov159` for `rev159`, `-sU` for `-sV`,
