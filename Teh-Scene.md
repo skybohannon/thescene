@@ -14,7 +14,7 @@ The characters, with the actors as the finale's closing credits name them:
 | --- | --- | --- |
 | **T3hsuppli3r** (Lee T.) | XPC's supplier and the main narrator; on paper, *Lee E. Thompson* | The-Who |
 | **Hydrosan** | XPC's leader | Kenshinx |
-| **Melissa** (Mel) | Lee's on-and-off girlfriend, secretly working for TMD | TheWho'sPimp |
+| **Melissa** (Mel) | Lee's on-and-off girlfriend, secretly TMD's **Stir Crazy** | TheWho'sPimp |
 | **Leetencoder1** | XPC's encoder | — |
 | **Leetencoder2** | XPC's other encoder, missing since his AOL trial expired | — |
 | **Venomous** | Leader of the rival group TMD | DJ Kdubb (Truantkid) |
@@ -168,6 +168,16 @@ A year later, and with most of the cast missing — the credits explain they *ei
 *Season 2, episode 1, 7:18. Fitzgerald's personnel file, dated 10/04/2006, a few weeks before the episode came out.*
 
 Fitzgerald, narrating, has had a worse year. *After the abysmal failure of my internet TV series*, he reported back to the MPAA's office in Denver after two weeks of not showing up, and was fired. He goes to church, then climbs a mountain in search of answers, and finds a DVD of *The Fast and the Furious*. At home his modded Xbox still carries an MPAA skin; the bought disc makes him sit through trailers. He decides that letting the pirates go isn't enough: *I had to become the bad guys in the shittier sequel. I had to become the next great XPC cammer.* The credits promise episode 2 for *the end of December or early January*. It never came.
+
+## Behind Teh Scenes
+
+The four specials are what the name says: outtakes, blooper reels, and Lee — The-Who, out of character — talking over scenes from the episodes, each one opening with a warning that it is *practically repeated bullshit from previous episodes*. They change how a few things in the series read.
+
+It began as a two-minute joke about someone ripping a file with an absurd name, aimed at *The Scene* because *it was trying to make the scene look like something it wasn't*. It grew once the first episode reached VCDQuality, NFO and sample and all, and *within minutes, it was all over the internet*. The episodes were improvised from a plot outline. The voice-over that carries the whole series was an accident: the wireless microphones kept failing, so the story got told *on a third-hand account* instead, and Hydrosan's voice went through reverb for *the Wizard of Oz effect*. The Mountain Dew plugs answer the Snickers running gag in *The Scene*'s sixth episode. Sony complained after episode 3, which is why the later credits say the show avoids company logos. And *Fingers of Fury*, the finger-skateboarding video from episode 2, was released for real after viewers asked for it, and turned up on VCDQuality's front page.
+
+The cams were staged. Episode 5's *Star Wars* was filmed in Lee's school auditorium at 6:30 in the morning, because theater security wouldn't let a camera in. The park fight in the same episode was meant as a raid by Jedi FBI agents, lightsabers to be drawn in later. Episode 4 switched to Melissa's point of view because viewers were tired of Lee waking up every morning, and the plan was to give every character a turn. And the last volume says plainly what the episodes only hint at: Melissa is **Stir Crazy**, the TMD member Hydrosan names in episode 2.
+
+Volume 4, the longest, covers the trip that made episodes 7 and 8. Lord Dusty drove out from Colorado and filmed for six days with Lee and DJ Kdubb around San Francisco. His arrival at the airport was staged and shot without anyone asking. Police found them on top of the freight trains, watched the tape, and let them go with a warning — *they do their own stunts*. They filmed outside Hurricane Electric a week or two after the real busts. It ends with a parody of *MTV Cribs* at Hydrosan's place in Chicago.
 
 ## Watch it
 
